@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "replace-locality-slug",
+  "published": false,
+  "isDemo": false,
+  "name": "Replace with locality name",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "East Bengaluru",
+  "tagline": "Replace with locality tagline",
+  "description": "Replace with the locality overview.",
+  "tags": [
+    "Replace with locality tag"
+  ],
+  "searchKeywords": [
+    "Replace with alternate locality name"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/bengaluru-skyline.jpg",
+      "alt": "Replace with a description of your locality photograph",
+      "caption": "Replace this placeholder image before publishing",
+      "kind": "locality",
+      "credit": ""
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": null,
+  "considerations": [
+    "Replace with a specific consideration for buyers"
+  ],
+  "highlights": [
+    {
+      "icon": "Compass",
+      "title": "Who it may suit",
+      "description": "Replace with the audience and reasons."
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Replace with metric name",
+      "value": "To be confirmed",
+      "unit": "",
+      "icon": "TrainFront",
+      "asOf": null,
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Replace with transport connection",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Replace with nearby school or hospital",
+      "category": "Education",
+      "icon": "School",
+      "description": "",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    }
+  ],
+  "infrastructure": [
+    {
+      "title": "Replace with verified infrastructure project",
+      "icon": "Building2",
+      "status": "proposed",
+      "description": "Replace with verified current status; do not describe proposed works as operational.",
+      "expectedCompletion": null,
+      "sourceUrl": null
+    }
+  ],
+  "market": {
+    "summary": "Replace with dated market context, or set market to null.",
+    "minPricePerSqFtInr": null,
+    "maxPricePerSqFtInr": null,
+    "rentalYieldPercent": null,
+    "asOf": null,
+    "sourceUrl": null
+  },
+  "faqs": [
+    {
+      "question": "Replace with locality-specific question",
+      "answer": "Replace with verified answer."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Replace with source name",
+      "url": null,
+      "checkedAt": null
+    }
+  ],
+  "updatedAt": null
+}

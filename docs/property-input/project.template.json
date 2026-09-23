@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "replace-project-slug",
+  "published": false,
+  "isDemo": false,
+  "name": "Replace with project name",
+  "localityId": "replace-locality-slug",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": null,
+  "phaseName": null,
+  "address": null,
+  "postalCode": null,
+  "description": "Replace with the verified project description.",
+  "possession": {
+    "label": "To be confirmed",
+    "date": null
+  },
+  "searchKeywords": [
+    "Replace with alternate project name"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/apartment-green.jpg",
+      "alt": "Replace with a description of your project photograph",
+      "caption": "Replace this placeholder image before publishing",
+      "kind": "exterior",
+      "credit": ""
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": null,
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "Replace with configuration name",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": null,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "",
+      "availability": "on-request",
+      "floorPlanImageId": null
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Replace with a project fact",
+      "value": "To be confirmed",
+      "unit": "",
+      "icon": "Building2"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "CheckCircle2",
+      "title": "Replace with verified highlight",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "TreePine",
+      "title": "Replace with verified amenity",
+      "description": ""
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Replace with nearby destination",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    }
+  ],
+  "documents": [
+    {
+      "label": "Project RERA ID",
+      "value": "To be supplied and verified",
+      "icon": "ShieldCheck",
+      "url": null
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "A little more room for life.",
+    "layoutsTitle": "Spaces & configurations",
+    "layoutsNote": "",
+    "amenitiesTitle": "Life beyond your front door.",
+    "amenitiesNote": "",
+    "locationTitle": "The neighbourhood matters.",
+    "locationDescription": "Look beyond the map pin. Test your everyday commute and explore the streets around your future home.",
+    "documentsTitle": "Details worth checking.",
+    "documentsDescription": "Before you book, ask for the RERA registration, approved plans, complete cost sheet and relevant project documents. We help coordinate access for your independent review.",
+    "faqsTitle": "Your questions, answered."
+  },
+  "faqs": [
+    {
+      "question": "Replace with project-specific question",
+      "answer": "Replace with verified answer."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Replace with source name",
+      "url": null,
+      "checkedAt": null
+    }
+  ],
+  "updatedAt": null
+}

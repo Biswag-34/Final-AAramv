@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "example-neighbourhood",
+  "published": false,
+  "isDemo": true,
+  "name": "Example Neighbourhood",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "East Bengaluru",
+  "tagline": "Fictional data-format demonstration",
+  "description": "This fictional neighbourhood demonstrates the optional fields. None of its names, distances, prices or dates describe a real place.",
+  "tags": [
+    "Fictional example"
+  ],
+  "searchKeywords": [
+    "sample district"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/bengaluru-skyline.jpg",
+      "alt": "Replace with a description of your locality photograph",
+      "caption": "Replace this placeholder image before publishing",
+      "kind": "locality",
+      "credit": ""
+    }
+  ],
+  "coordinates": {
+    "latitude": 12.97,
+    "longitude": 77.59
+  },
+  "mapUrl": null,
+  "considerations": [
+    "All values in this example are invented for testing the data format."
+  ],
+  "highlights": [
+    {
+      "icon": "Compass",
+      "title": "Who it may suit",
+      "description": "Example audience description."
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Example parks",
+      "value": 3,
+      "unit": "parks",
+      "icon": "TreePine",
+      "asOf": "2026-09-23",
+      "note": "Fictional example, not a measured locality statistic."
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Example Metro Station",
+      "category": "Metro",
+      "icon": "TrainFront",
+      "description": "Fictional transport connection.",
+      "distanceKm": 1.2,
+      "travelMinutes": 15,
+      "travelMode": "walk",
+      "mapUrl": null
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Example School",
+      "category": "Education",
+      "icon": "School",
+      "description": "Fictional school.",
+      "distanceKm": 2,
+      "travelMinutes": 10,
+      "travelMode": "drive",
+      "mapUrl": null
+    }
+  ],
+  "infrastructure": [
+    {
+      "title": "Example access road",
+      "icon": "Car",
+      "status": "proposed",
+      "description": "Fictional proposal, not operational infrastructure.",
+      "expectedCompletion": "2028-12-31",
+      "sourceUrl": null
+    }
+  ],
+  "market": {
+    "summary": "Invented values to illustrate the format, not market guidance.",
+    "minPricePerSqFtInr": 7000,
+    "maxPricePerSqFtInr": 10000,
+    "rentalYieldPercent": 3,
+    "asOf": "2026-09-23",
+    "sourceUrl": null
+  },
+  "faqs": [
+    {
+      "question": "Is this a real locality?",
+      "answer": "No. This is a fictional example for data entry and testing."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Synthetic test data; not a factual source",
+      "url": null,
+      "checkedAt": null
+    }
+  ],
+  "updatedAt": null
+}

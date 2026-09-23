@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 2,
+  "id": "the-canopy",
+  "published": true,
+  "isDemo": true,
+  "name": "The Canopy Residences",
+  "localityId": "whitefield",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": null,
+  "phaseName": null,
+  "address": null,
+  "postalCode": null,
+  "description": "A considered balance of open space and everyday connection. These light-filled residences bring generous balconies, a landscaped central court and thoughtfully planned shared spaces together.",
+  "possession": {
+    "label": "Dec 2028",
+    "date": null
+  },
+  "searchKeywords": [],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/apartment-green.jpg",
+      "alt": "apartment green: representative imagery",
+      "caption": "Illustrative photograph",
+      "kind": "exterior",
+      "credit": "See docs/ASSET_CREDITS.md"
+    },
+    {
+      "id": "interior",
+      "src": "/images/living-room.jpg",
+      "alt": "living room: representative imagery",
+      "caption": "Illustrative photograph",
+      "kind": "interior",
+      "credit": "See docs/ASSET_CREDITS.md"
+    },
+    {
+      "id": "additional",
+      "src": "/images/apartment-green.jpg",
+      "alt": "apartment green: representative imagery",
+      "caption": "Illustrative photograph",
+      "kind": "exterior",
+      "credit": "See docs/ASSET_CREDITS.md"
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": null,
+  "primaryConfigurationId": "type-a",
+  "configurations": [
+    {
+      "id": "type-a",
+      "label": "3 BHK · Type A",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1820,
+      "areaBasis": "unspecified",
+      "startingPriceInr": 16500000,
+      "priceNote": "Illustrative starting price; not a live offer.",
+      "availability": "on-request",
+      "floorPlanImageId": null
+    },
+    {
+      "id": "type-b",
+      "label": "3 BHK · Type B",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1970,
+      "areaBasis": "unspecified",
+      "startingPriceInr": 17700000,
+      "priceNote": "Illustrative starting price; not a live offer.",
+      "availability": "on-request",
+      "floorPlanImageId": null
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [],
+  "highlights": [
+    {
+      "icon": "CheckCircle2",
+      "title": "Thoughtfully planned spaces",
+      "description": ""
+    },
+    {
+      "icon": "CheckCircle2",
+      "title": "Neighbourhood-led selection",
+      "description": ""
+    },
+    {
+      "icon": "CheckCircle2",
+      "title": "Dedicated buying assistance",
+      "description": ""
+    },
+    {
+      "icon": "CheckCircle2",
+      "title": "Coordinated site visits",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": ""
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Fitness studio",
+      "description": ""
+    },
+    {
+      "icon": "TreePine",
+      "title": "Landscaped gardens",
+      "description": ""
+    },
+    {
+      "icon": "Users",
+      "title": "Community lounge",
+      "description": ""
+    },
+    {
+      "icon": "Car",
+      "title": "Resident parking",
+      "description": ""
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Gated entry",
+      "description": ""
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Work & commute",
+      "category": "Work",
+      "icon": "BriefcaseBusiness",
+      "description": "Check peak-hour travel",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    },
+    {
+      "name": "Schools & care",
+      "category": "Education",
+      "icon": "School",
+      "description": "Compare nearby options",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    },
+    {
+      "name": "Metro & road access",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Verify the last mile",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": null
+    }
+  ],
+  "documents": [
+    {
+      "label": "Project RERA ID",
+      "value": "To be supplied and verified",
+      "icon": "FileText",
+      "url": null
+    },
+    {
+      "label": "Developer & land title",
+      "value": "To be supplied and reviewed",
+      "icon": "FileText",
+      "url": null
+    },
+    {
+      "label": "Approvals & legal documents",
+      "value": "Independent legal review",
+      "icon": "FileText",
+      "url": null
+    },
+    {
+      "label": "Price & payment schedule",
+      "value": "Written developer confirmation",
+      "icon": "FileText",
+      "url": null
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "A little more room for life.",
+    "layoutsTitle": "Spaces & configurations",
+    "layoutsNote": "Sample areas and prices. Area basis has not been verified. Floor plans are not supplied for this concept.",
+    "amenitiesTitle": "Life beyond your front door.",
+    "amenitiesNote": "Illustrative amenities; verify against the project specifications.",
+    "locationTitle": "The neighbourhood matters.",
+    "locationDescription": "Look beyond the map pin. Test your everyday commute and explore the streets around your future home.",
+    "documentsTitle": "Details worth checking.",
+    "documentsDescription": "Before you book, ask for the RERA registration, approved plans, complete cost sheet and relevant project documents. We help coordinate access for your independent review.",
+    "faqsTitle": "Your questions, answered."
+  },
+  "faqs": [
+    {
+      "question": "Can I visit The Canopy Residences?",
+      "answer": "Use the site-visit enquiry to try the preview journey. This demo does not book or send a visit request."
+    },
+    {
+      "question": "What does the starting price include?",
+      "answer": "A published listing should explain base price, taxes, registration, parking, maintenance deposits and other applicable charges separately. The price in this preview is illustrative."
+    },
+    {
+      "question": "Can Aaramv help with a home loan?",
+      "answer": "The proposed service includes coordinating with lending partners. Rates, eligibility, documentation and sanction are determined by the lender."
+    },
+    {
+      "question": "How do I verify the property?",
+      "answer": "Have an independent qualified professional review the relevant documents and check the project registration and approvals with the appropriate authorities."
+    }
+  ],
+  "sources": [],
+  "updatedAt": null
+}

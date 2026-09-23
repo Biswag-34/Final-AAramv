@@ -1,0 +1,79 @@
+[
+  {
+    "file": "/workspace/scratch/aaramv-assets/apartment-green.jpg",
+    "image_url": "https://images.unsplash.com/photo-1775733924031-521cd86c69cc?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/modern-apartment-building-with-balconies-and-greenery-otrBpvmVmNk",
+    "photographer": "Aalo Lens",
+    "usage": "Illustrative property architecture; source gives no verified Bengaluru location.",
+    "width": 1800,
+    "height": 1800,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/apartment-balconies.jpg",
+    "image_url": "https://images.unsplash.com/photo-1767556246380-5dfe3a448222?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/modern-apartment-building-with-balconies-against-sky-6uUniqSXoPU",
+    "photographer": "George Pagan III",
+    "usage": "Illustrative apartment exterior; source gives no verified Bengaluru location.",
+    "width": 1800,
+    "height": 2696,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/villa.jpg",
+    "image_url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/modern-white-villa-with-swimming-pool-Id7u0EkTjBE",
+    "photographer": "John Fornander",
+    "usage": "Illustrative modern white villa with swimming pool.",
+    "width": 1800,
+    "height": 1201,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/living-room.jpg",
+    "image_url": "https://images.unsplash.com/photo-1687942691222-0876157ac76f?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-kitchen-B22qL4LX4_8",
+    "photographer": "ASR Design Studio",
+    "usage": "Illustrative airy living room and kitchen; photograph is in Escondido, California.",
+    "width": 1800,
+    "height": 1200,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/bengaluru-skyline.jpg",
+    "image_url": "https://images.unsplash.com/photo-1625019401404-421b2de1b0a8?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/aerial-view-of-city-under-cloudy-sky-during-daytime-4zOV4Qn2Jp0",
+    "photographer": "Umang S",
+    "usage": "Verified by source location: Bengaluru, Karnataka, India.",
+    "width": 1800,
+    "height": 1350,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/cubbon-park.jpg",
+    "image_url": "https://images.unsplash.com/photo-1675840848076-22a0cb16c186?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/a-park-filled-with-lots-of-trees-and-green-grass-PfV40sukkN8",
+    "photographer": "Mohnish Landge",
+    "usage": "Verified by source location: Cubbon Park, Kasturba Road, Bengaluru.",
+    "width": 1800,
+    "height": 2700,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/aaramv-assets/indiranagar.jpg",
+    "image_url": "https://images.unsplash.com/photo-1783072708526-855a93e096eb?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+    "source_url": "https://unsplash.com/photos/aerial-view-of-a-bustling-city-intersection-at-night-8L8FTArJk44",
+    "photographer": "Priyansh Patidar",
+    "usage": "Verified by source location: Indiranagar, Bengaluru.",
+    "width": 1800,
+    "height": 2400,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  }
+]

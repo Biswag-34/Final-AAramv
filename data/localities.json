@@ -1,0 +1,482 @@
+[
+  {
+    "schemaVersion": 2,
+    "id": "whitefield",
+    "published": true,
+    "isDemo": true,
+    "name": "Whitefield",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "East Bengaluru",
+    "tagline": "Connected to your everyday",
+    "description": "A well-established residential and employment destination. Whitefield brings offices, schools, shopping and a broad choice of apartments into one busy urban corridor.",
+    "tags": [
+      "Metro connectivity",
+      "Employment hubs"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/bengaluru-skyline.jpg",
+        "alt": "bengaluru skyline: representative imagery",
+        "caption": "Bengaluru cityscape · illustrative",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Apartment buyers balancing work, schools and daily convenience."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "Metro connectivity · Employment hubs"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Whitefield?",
+        "answer": "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  },
+  {
+    "schemaVersion": 2,
+    "id": "sarjapur-road",
+    "published": true,
+    "isDemo": true,
+    "name": "Sarjapur Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "East Bengaluru",
+    "tagline": "Room for a bigger life",
+    "description": "A long residential corridor with apartments, villa communities and access to employment clusters across southeast Bengaluru. The experience changes considerably along the road.",
+    "tags": [
+      "Villas & apartments",
+      "Family living"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/apartment-green.jpg",
+        "alt": "apartment green: representative imagery",
+        "caption": "Illustrative residential imagery",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Compare water arrangements, approach roads and school travel times project by project."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Families exploring a choice of larger apartments and villa communities."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "Villas & apartments · Family living"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Compare water arrangements, approach roads and school travel times project by project.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Sarjapur Road?",
+        "answer": "Compare water arrangements, approach roads and school travel times project by project."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  },
+  {
+    "schemaVersion": 2,
+    "id": "devanahalli",
+    "published": true,
+    "isDemo": true,
+    "name": "Devanahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "A different pace, a new perspective",
+    "description": "An airport-side destination with plotted developments, villas and emerging residential communities. Assess each location by what is available today, alongside future plans.",
+    "tags": [
+      "Airport corridor",
+      "Villas & plots"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/villa.jpg",
+        "alt": "villa: representative imagery",
+        "caption": "Illustrative residential imagery",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Visit the site, establish usable infrastructure and verify land records and approvals independently."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Buyers who value space and can accommodate a longer city commute."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "Airport corridor · Villas & plots"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Visit the site, establish usable infrastructure and verify land records and approvals independently.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Devanahalli?",
+        "answer": "Visit the site, establish usable infrastructure and verify land records and approvals independently."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  },
+  {
+    "schemaVersion": 2,
+    "id": "hebbal",
+    "published": true,
+    "isDemo": true,
+    "name": "Hebbal",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "Where the city comes together",
+    "description": "An important northern gateway, linking established city neighbourhoods with employment destinations and the airport corridor. It offers a broad mix of residential communities.",
+    "tags": [
+      "North Bengaluru",
+      "Urban apartments"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/bengaluru-skyline.jpg",
+        "alt": "bengaluru skyline: representative imagery",
+        "caption": "Bengaluru cityscape · illustrative",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Test peak-hour junction access, project entry routes and noise levels."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Homebuyers looking for a North Bengaluru base with urban amenities."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "North Bengaluru · Urban apartments"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Test peak-hour junction access, project entry routes and noise levels.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Hebbal?",
+        "answer": "Test peak-hour junction access, project entry routes and noise levels."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  },
+  {
+    "schemaVersion": 2,
+    "id": "kanakapura-road",
+    "published": true,
+    "isDemo": true,
+    "name": "Kanakapura Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "South Bengaluru",
+    "tagline": "A greener everyday",
+    "description": "A South Bengaluru residential corridor with apartment communities, access to established neighbourhoods and a mix of city conveniences and open surroundings.",
+    "tags": [
+      "South Bengaluru",
+      "Metro corridor"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/cubbon-park.jpg",
+        "alt": "cubbon park: representative imagery",
+        "caption": "Cubbon Park · Bengaluru mood imagery",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Verify the exact distance to metro access and check local infrastructure at the site."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Buyers who prefer South Bengaluru and established neighbourhood connections."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "South Bengaluru · Metro corridor"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Verify the exact distance to metro access and check local infrastructure at the site.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Kanakapura Road?",
+        "answer": "Verify the exact distance to metro access and check local infrastructure at the site."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  },
+  {
+    "schemaVersion": 2,
+    "id": "indiranagar",
+    "published": true,
+    "isDemo": true,
+    "name": "Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "East Bengaluru",
+    "tagline": "The city, right at your doorstep",
+    "description": "An established city neighbourhood known for its active streets, dining and everyday amenities. Boutique apartments and resale homes sit alongside commercial streets.",
+    "tags": [
+      "Established neighbourhood",
+      "City lifestyle"
+    ],
+    "searchKeywords": [],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "/images/indiranagar.jpg",
+        "alt": "indiranagar: representative imagery",
+        "caption": "Indiranagar, Bengaluru",
+        "kind": "locality",
+        "credit": "See docs/ASSET_CREDITS.md"
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": null,
+    "considerations": [
+      "Visit at different times to assess parking, traffic and street-level noise."
+    ],
+    "highlights": [
+      {
+        "icon": "Compass",
+        "title": "Who it may suit",
+        "description": "Buyers prioritising a walkable urban lifestyle and an established address."
+      },
+      {
+        "icon": "TrainFront",
+        "title": "Before you decide",
+        "description": "Try your commute on a normal weekday."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "What to verify",
+        "description": "Project approvals, services and the complete cost."
+      },
+      {
+        "icon": "House",
+        "title": "What to explore",
+        "description": "Established neighbourhood · City lifestyle"
+      }
+    ],
+    "metrics": [],
+    "connectivity": [
+      {
+        "name": "Everyday commute",
+        "category": "Commute",
+        "icon": "TrainFront",
+        "description": "Visit at different times to assess parking, traffic and street-level noise.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": null
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "What should I check before choosing a home in Indiranagar?",
+        "answer": "Visit at different times to assess parking, traffic and street-level noise."
+      }
+    ],
+    "sources": [],
+    "updatedAt": null
+  }
+]
