@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-export const iconNames = ['Building2', 'House', 'LandPlot', 'BedDouble', 'Maximize', 'ShieldCheck', 'Handshake', 'KeyRound', 'Compass', 'MapPin', 'TreePine', 'Dumbbell', 'Waves', 'Car', 'Users', 'TrainFront', 'BriefcaseBusiness', 'School', 'Clock', 'CheckCircle2', 'FileText', 'Hospital', 'ShoppingBag', 'Bath', 'Ruler'] as const;
+export const iconNames = ['Building2', 'House', 'LandPlot', 'BedDouble', 'Maximize', 'ShieldCheck', 'Handshake', 'KeyRound', 'Compass', 'MapPin', 'TreePine', 'Dumbbell', 'Waves', 'Car', 'Users', 'TrainFront', 'BriefcaseBusiness', 'School', 'Clock', 'CheckCircle2', 'FileText', 'Hospital', 'ShoppingBag', 'Bath', 'Ruler', 'Activity', 'CalendarDays', 'GraduationCap', 'IndianRupee', 'Trees', 'Baby', 'Bike', 'BookOpen', 'Clapperboard', 'Drama', 'Flower2', 'Footprints', 'Goal', 'HeartPulse', 'PawPrint', 'PersonStanding', 'Sparkles', 'Store', 'TentTree', 'Trophy', 'Volleyball', 'Armchair', 'ParkingCircle'] as const;
 const icon = z.enum(iconNames);
 const text = z.string().trim().min(1);
 const id = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Use a lowercase hyphenated ID');
@@ -9,11 +9,11 @@ const date = z.string().regex(/^\d{4}-\d{2}-\d{2}$/).refine(v => !Number.isNaN(D
 const amount = z.number().finite().positive();
 const coordinates = z.object({ latitude: z.number().min(-90).max(90), longitude: z.number().min(-180).max(180) }).strict().nullable();
 const source = z.object({ label: text, url: url.nullable(), checkedAt: date.nullable() }).strict();
-const media = z.object({ id, src: url, alt: text, caption: z.string(), kind: z.enum(['exterior', 'interior', 'amenity', 'floor-plan', 'map', 'locality']), credit: z.string() }).strict();
+const media = z.object({ id, src: url, alt: text, caption: z.string(), kind: z.enum(['exterior', 'interior', 'amenity', 'floor-plan', 'map', 'locality', 'master-plan', 'construction']), credit: z.string() }).strict();
 const faq = z.object({ question: text, answer: text }).strict();
 const fact = z.object({ label: text, value: z.union([text, z.number().finite()]), unit: z.string(), icon }).strict();
 const highlight = z.object({ icon, title: text, description: z.string() }).strict();
-const place = z.object({ name: text, category: text, icon, description: z.string(), distanceKm: z.number().finite().nonnegative().nullable(), travelMinutes: z.number().int().nonnegative().nullable(), travelMode: z.enum(['walk', 'drive', 'transit']).nullable(), mapUrl: url.nullable() }).strict();
+const place = z.object({ name: text, category: text, icon, description: z.string(), distanceKm: z.number().finite().nonnegative().nullable(), travelMinutes: z.number().int().nonnegative().nullable(), travelMode: z.enum(['walk', 'walking', 'drive', 'transit']).nullable(), mapUrl: url.nullable() }).strict();
 const configuration = z.object({
   id, label: text, bedrooms: z.number().int().min(0).max(30).nullable(), bathrooms: z.number().int().min(0).max(30).nullable(),
   areaSqFt: amount.nullable(), areaBasis: z.enum(['carpet', 'built-up', 'super-built-up', 'plot', 'unspecified']),
@@ -27,7 +27,7 @@ const common = {
 };
 
 export const propertySchema = z.object({
-  ...common, localityId: id, type: z.enum(['Apartment', 'Villa', 'Plot']), status: z.enum(['Ready to move', 'Under construction', 'New launch']),
+  ...common, localityId: id, type: z.enum(['Apartment', 'Villa', 'Plot', 'Row House', 'Apartment and Villa']), status: z.enum(['Ready to move', 'Under construction', 'New launch']),
   developerName: text.nullable(), phaseName: text.nullable(), address: text.nullable(), postalCode: z.string().regex(/^\d{6}$/).nullable(),
   description: text, possession: z.object({ label: text, date: date.nullable() }).strict(),
   primaryConfigurationId: id, configurations: z.array(configuration).min(1),

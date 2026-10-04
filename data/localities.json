@@ -1,70 +1,116 @@
 [
   {
     "schemaVersion": 2,
-    "id": "whitefield",
+    "id": "bagalur",
     "published": true,
-    "isDemo": true,
-    "name": "Whitefield",
+    "isDemo": false,
+    "name": "Bagalur",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "East Bengaluru",
-    "tagline": "Connected to your everyday",
-    "description": "A well-established residential and employment destination. Whitefield brings offices, schools, shopping and a broad choice of apartments into one busy urban corridor.",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Bagalur brings together apartment options across Prestige Finsbury Park. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
-      "Metro connectivity",
-      "Employment hubs"
+      "North Bengaluru",
+      "Apartment",
+      "Prestige Group"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "Bagalur",
+      "bagalur",
+      "North Bengaluru",
+      "Apartment",
+      "Kempegowda International Airport",
+      "Manyata Tech Park",
+      "KR Puram"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/bengaluru-skyline.jpg",
-        "alt": "bengaluru skyline: representative imagery",
-        "caption": "Bengaluru cityscape · illustrative",
+        "src": "https://www.homznspace.com/wp-content/uploads/2019/12/Main-Prestige-Finsbury-Park-Regent.jpg",
+        "alt": "Bagalur residential locality visual",
+        "caption": "Bagalur residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro."
+      "Bagalur offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Apartment buyers balancing work, schools and daily convenience."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Prestige Finsbury Park"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "Metro connectivity · Employment hubs"
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro.",
+        "name": "Kempegowda International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Kempegowda International Airport is a useful landmark for comparing homes around Bagalur.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+      },
+      {
+        "name": "Manyata Tech Park",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Manyata Tech Park is a useful landmark for comparing homes around Bagalur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+      },
+      {
+        "name": "KR Puram",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "KR Puram is a useful landmark for comparing homes around Bagalur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -72,79 +118,129 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Whitefield?",
-        "answer": "Check the commute from the exact project entrance, peak-hour traffic and the last-mile connection to the metro."
+        "question": "Which projects are listed in Bagalur?",
+        "answer": "Prestige Finsbury Park"
+      },
+      {
+        "question": "How should I compare homes in Bagalur?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
   },
   {
     "schemaVersion": 2,
-    "id": "sarjapur-road",
+    "id": "ivc-road-devanahalli",
     "published": true,
-    "isDemo": true,
-    "name": "Sarjapur Road",
+    "isDemo": false,
+    "name": "IVC Road, Devanahalli",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "East Bengaluru",
-    "tagline": "Room for a bigger life",
-    "description": "A long residential corridor with apartments, villa communities and access to employment clusters across southeast Bengaluru. The experience changes considerably along the road.",
+    "zone": "Airport Corridor",
+    "tagline": "1 residential option in Airport Corridor",
+    "description": "IVC Road, Devanahalli brings together plot options across Earthsong by Manyata. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
-      "Villas & apartments",
-      "Family living"
+      "Airport Corridor",
+      "Plot",
+      "Manyata Developers"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "IVC Road, Devanahalli",
+      "ivc-road-devanahalli",
+      "Airport Corridor",
+      "Plot",
+      "Stonehill International School",
+      "Padukone–Dravid Centre for Sports Excellence",
+      "Jogahalli Cross Bus Stop"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/apartment-green.jpg",
-        "alt": "apartment green: representative imagery",
-        "caption": "Illustrative residential imagery",
+        "src": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-C1-Manyata-Earthsong-Phase-5.jpg",
+        "alt": "IVC Road, Devanahalli residential locality visual",
+        "caption": "IVC Road, Devanahalli residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=IVC%20Road%2C%20Devanahalli%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Compare water arrangements, approach roads and school travel times project by project."
+      "IVC Road, Devanahalli offers access to residential communities, city conveniences and key movement corridors in Airport Corridor."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Families exploring a choice of larger apartments and villa communities."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Earthsong by Manyata"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "Villas & apartments · Family living"
+        "title": "Home types",
+        "description": "Plot"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "Airport Corridor"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Plot",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Compare water arrangements, approach roads and school travel times project by project.",
+        "name": "Stonehill International School",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Stonehill International School is a useful landmark for comparing homes around IVC Road, Devanahalli.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Stonehill%20International%20School%2C%20Bengaluru"
+      },
+      {
+        "name": "Padukone–Dravid Centre for Sports Excellence",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Padukone–Dravid Centre for Sports Excellence is a useful landmark for comparing homes around IVC Road, Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padukone%E2%80%93Dravid%20Centre%20for%20Sports%20Excellence%2C%20Bengaluru"
+      },
+      {
+        "name": "Jogahalli Cross Bus Stop",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Jogahalli Cross Bus Stop is a useful landmark for comparing homes around IVC Road, Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jogahalli%20Cross%20Bus%20Stop%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -152,79 +248,426 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Sarjapur Road?",
-        "answer": "Compare water arrangements, approach roads and school travel times project by project."
+        "question": "Which projects are listed in IVC Road, Devanahalli?",
+        "answer": "Earthsong by Manyata"
+      },
+      {
+        "question": "How should I compare homes in IVC Road, Devanahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "kiadb-aerospace-park",
+    "published": true,
+    "isDemo": false,
+    "name": "KIADB Aerospace Park",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "3 residential options in North Bengaluru",
+    "description": "KIADB Aerospace Park brings together apartment options across Brigade El Dorado, Jasper at Brigade El Dorado, Nikoo Homes 9. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Brigade Group"
+    ],
+    "searchKeywords": [
+      "KIADB Aerospace Park",
+      "kiadb-aerospace-park",
+      "North Bengaluru",
+      "Apartment",
+      "Shell Technology Centre, Bengaluru",
+      "New Airport rd",
+      "Budigere Main Rd",
+      "Bagalur"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://www.brigadeeldorado.com/assets/images/club-house-aerial.jpg",
+        "alt": "KIADB Aerospace Park residential locality visual",
+        "caption": "KIADB Aerospace Park residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=KIADB%20Aerospace%20Park%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "KIADB Aerospace Park offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "3 listed projects",
+        "description": "Brigade El Dorado | Jasper at Brigade El Dorado | Nikoo Homes 9"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Shell Technology Centre, Bengaluru",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Shell Technology Centre, Bengaluru is a useful landmark for comparing homes around KIADB Aerospace Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Bengaluru"
+      },
+      {
+        "name": "New Airport rd",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "New Airport rd is a useful landmark for comparing homes around KIADB Aerospace Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20rd%2C%20Bengaluru"
+      },
+      {
+        "name": "Budigere Main Rd",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Budigere Main Rd is a useful landmark for comparing homes around KIADB Aerospace Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Budigere%20Main%20Rd%2C%20Bengaluru"
+      },
+      {
+        "name": "Bagalur",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bagalur is a useful landmark for comparing homes around KIADB Aerospace Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in KIADB Aerospace Park?",
+        "answer": "Brigade El Dorado, Jasper at Brigade El Dorado, Nikoo Homes 9"
+      },
+      {
+        "question": "How should I compare homes in KIADB Aerospace Park?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "thanisandra",
+    "published": true,
+    "isDemo": false,
+    "name": "Thanisandra",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "3 residential options in North Bengaluru",
+    "description": "Thanisandra brings together apartment options across Purva Atmosphere, Nikoo Homes 5, Concorde NEO. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Puravankara Limited",
+      "Bhartiya Urban"
+    ],
+    "searchKeywords": [
+      "Thanisandra",
+      "thanisandra",
+      "North Bengaluru",
+      "Apartment",
+      "Manyata Tech Park",
+      "Rashtrotthana Vidya Kendra",
+      "Elements Mall",
+      "Aster CMI Hospital"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://www.puravankara.com/_next/image?url=%2Fuploads%2FPurva_Atmosphere_59c2f79612.jpg&w=2048&q=75",
+        "alt": "Thanisandra residential locality visual",
+        "caption": "Thanisandra residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Thanisandra offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "3 listed projects",
+        "description": "Purva Atmosphere | Nikoo Homes 5 | Concorde NEO"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Manyata Tech Park",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Manyata Tech Park is a useful landmark for comparing homes around Thanisandra.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+      },
+      {
+        "name": "Rashtrotthana Vidya Kendra",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Rashtrotthana Vidya Kendra is a useful landmark for comparing homes around Thanisandra.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rashtrotthana%20Vidya%20Kendra%2C%20Bengaluru"
+      },
+      {
+        "name": "Elements Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Elements Mall is a useful landmark for comparing homes around Thanisandra.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "Aster CMI Hospital",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Aster CMI Hospital is a useful landmark for comparing homes around Thanisandra.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aster%20CMI%20Hospital%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Thanisandra?",
+        "answer": "Purva Atmosphere, Nikoo Homes 5, Concorde NEO"
+      },
+      {
+        "question": "How should I compare homes in Thanisandra?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
   },
   {
     "schemaVersion": 2,
     "id": "devanahalli",
     "published": true,
-    "isDemo": true,
+    "isDemo": false,
     "name": "Devanahalli",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "A different pace, a new perspective",
-    "description": "An airport-side destination with plotted developments, villas and emerging residential communities. Assess each location by what is available today, alongside future plans.",
+    "zone": "Airport Corridor",
+    "tagline": "3 residential options in Airport Corridor",
+    "description": "Devanahalli brings together apartment, plot options across Sattva Park Cubix, Brigade Oasis, Century Seasons. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
-      "Airport corridor",
-      "Villas & plots"
+      "Airport Corridor",
+      "Apartment",
+      "Plot",
+      "Sattva Group",
+      "Brigade Group"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "Devanahalli",
+      "devanahalli",
+      "Airport Corridor",
+      "Apartment",
+      "Plot",
+      "The KOI Junction",
+      "D Mart",
+      "Devanahalli Station",
+      "NAFL-NPS School"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/villa.jpg",
-        "alt": "villa: representative imagery",
-        "caption": "Illustrative residential imagery",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741975299-545525930.webp",
+        "alt": "Devanahalli residential locality visual",
+        "caption": "Devanahalli residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Visit the site, establish usable infrastructure and verify land records and approvals independently."
+      "Devanahalli offers access to residential communities, city conveniences and key movement corridors in Airport Corridor."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Buyers who value space and can accommodate a longer city commute."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "3 listed projects",
+        "description": "Sattva Park Cubix | Brigade Oasis | Century Seasons"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "Airport corridor · Villas & plots"
+        "title": "Home types",
+        "description": "Apartment | Plot"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "Airport Corridor"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment, Plot",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Visit the site, establish usable infrastructure and verify land records and approvals independently.",
+        "name": "The KOI Junction",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "The KOI Junction is a useful landmark for comparing homes around Devanahalli.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20KOI%20Junction%2C%20Bengaluru"
+      },
+      {
+        "name": "D Mart",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "D Mart is a useful landmark for comparing homes around Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=D%20Mart%2C%20Bengaluru"
+      },
+      {
+        "name": "Devanahalli Station",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Devanahalli Station is a useful landmark for comparing homes around Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli%20Station%2C%20Bengaluru"
+      },
+      {
+        "name": "NAFL-NPS School",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "NAFL-NPS School is a useful landmark for comparing homes around Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAFL-NPS%20School%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -232,79 +675,129 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Devanahalli?",
-        "answer": "Visit the site, establish usable infrastructure and verify land records and approvals independently."
+        "question": "Which projects are listed in Devanahalli?",
+        "answer": "Sattva Park Cubix, Brigade Oasis, Century Seasons"
+      },
+      {
+        "question": "How should I compare homes in Devanahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
   },
   {
     "schemaVersion": 2,
-    "id": "hebbal",
+    "id": "chikkagubbi",
     "published": true,
-    "isDemo": true,
-    "name": "Hebbal",
+    "isDemo": false,
+    "name": "Chikkagubbi",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Where the city comes together",
-    "description": "An important northern gateway, linking established city neighbourhoods with employment destinations and the airport corridor. It offers a broad mix of residential communities.",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Chikkagubbi brings together row house options across Assetz Soul & Soil. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
       "North Bengaluru",
-      "Urban apartments"
+      "Row House",
+      "Assetz Property Group"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "Chikkagubbi",
+      "chikkagubbi",
+      "North Bengaluru",
+      "Row House",
+      "Manyata Tech Park",
+      "KR Puram",
+      "Kempegowda International Airport"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/bengaluru-skyline.jpg",
-        "alt": "bengaluru skyline: representative imagery",
-        "caption": "Bengaluru cityscape · illustrative",
+        "src": "https://www.homznspace.com/wp-content/uploads/2018/07/Assetz-Soul-Soil-Main-A.jpg",
+        "alt": "Chikkagubbi residential locality visual",
+        "caption": "Chikkagubbi residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chikkagubbi%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Test peak-hour junction access, project entry routes and noise levels."
+      "Chikkagubbi offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Homebuyers looking for a North Bengaluru base with urban amenities."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Assetz Soul & Soil"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "North Bengaluru · Urban apartments"
+        "title": "Home types",
+        "description": "Row House"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Row House",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Test peak-hour junction access, project entry routes and noise levels.",
+        "name": "Manyata Tech Park",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Manyata Tech Park is a useful landmark for comparing homes around Chikkagubbi.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+      },
+      {
+        "name": "KR Puram",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "KR Puram is a useful landmark for comparing homes around Chikkagubbi.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
+      },
+      {
+        "name": "Kempegowda International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Kempegowda International Airport is a useful landmark for comparing homes around Chikkagubbi.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -312,79 +805,118 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Hebbal?",
-        "answer": "Test peak-hour junction access, project entry routes and noise levels."
+        "question": "Which projects are listed in Chikkagubbi?",
+        "answer": "Assetz Soul & Soil"
+      },
+      {
+        "question": "How should I compare homes in Chikkagubbi?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
   },
   {
     "schemaVersion": 2,
-    "id": "kanakapura-road",
+    "id": "jakkur",
     "published": true,
-    "isDemo": true,
-    "name": "Kanakapura Road",
+    "isDemo": false,
+    "name": "Jakkur",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "South Bengaluru",
-    "tagline": "A greener everyday",
-    "description": "A South Bengaluru residential corridor with apartment communities, access to established neighbourhoods and a mix of city conveniences and open surroundings.",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Jakkur brings together apartment options across Mittal Palms. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
-      "South Bengaluru",
-      "Metro corridor"
+      "North Bengaluru",
+      "Apartment",
+      "Mittal Builders"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "Jakkur",
+      "jakkur",
+      "North Bengaluru",
+      "Apartment",
+      "HDFC School, Jakkur",
+      "Dasarahalli Bus Stop"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/cubbon-park.jpg",
-        "alt": "cubbon park: representative imagery",
-        "caption": "Cubbon Park · Bengaluru mood imagery",
+        "src": "https://housing-images.n7net.in/4f2250e8/51379d132d14d7a98b9bee66924a2375/v0/large/mittal_palms-jakkur-bengaluru-mittal_builders.jpeg",
+        "alt": "Jakkur residential locality visual",
+        "caption": "Jakkur residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jakkur%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Verify the exact distance to metro access and check local infrastructure at the site."
+      "Jakkur offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Buyers who prefer South Bengaluru and established neighbourhood connections."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Mittal Palms"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "South Bengaluru · Metro corridor"
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Verify the exact distance to metro access and check local infrastructure at the site.",
+        "name": "HDFC School, Jakkur",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "HDFC School, Jakkur is a useful landmark for comparing homes around Jakkur.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=HDFC%20School%2C%20Jakkur%2C%20Bengaluru"
+      },
+      {
+        "name": "Dasarahalli Bus Stop",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Dasarahalli Bus Stop is a useful landmark for comparing homes around Jakkur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dasarahalli%20Bus%20Stop%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -392,79 +924,141 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Kanakapura Road?",
-        "answer": "Verify the exact distance to metro access and check local infrastructure at the site."
+        "question": "Which projects are listed in Jakkur?",
+        "answer": "Mittal Palms"
+      },
+      {
+        "question": "How should I compare homes in Jakkur?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
   },
   {
     "schemaVersion": 2,
-    "id": "indiranagar",
+    "id": "hennur-road",
     "published": true,
-    "isDemo": true,
-    "name": "Indiranagar",
+    "isDemo": false,
+    "name": "Hennur Road",
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "East Bengaluru",
-    "tagline": "The city, right at your doorstep",
-    "description": "An established city neighbourhood known for its active streets, dining and everyday amenities. Boutique apartments and resale homes sit alongside commercial streets.",
+    "zone": "North Bengaluru",
+    "tagline": "3 residential options in North Bengaluru",
+    "description": "Hennur Road brings together apartment options across Disha Harmony Gardens, DNR Parklink, Concorde Sienna. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
     "tags": [
-      "Established neighbourhood",
-      "City lifestyle"
+      "North Bengaluru",
+      "Apartment",
+      "Disha Properties",
+      "DNR Group"
     ],
-    "searchKeywords": [],
+    "searchKeywords": [
+      "Hennur Road",
+      "hennur-road",
+      "North Bengaluru",
+      "Apartment",
+      "New Airport Road",
+      "Bileshivale Main Road",
+      "Decathlon",
+      "Bhartiya Mall of Bengaluru"
+    ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "/images/indiranagar.jpg",
-        "alt": "indiranagar: representative imagery",
-        "caption": "Indiranagar, Bengaluru",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200186101-849451883.webp",
+        "alt": "Hennur Road residential locality visual",
+        "caption": "Hennur Road residential locality",
         "kind": "locality",
-        "credit": "See docs/ASSET_CREDITS.md"
+        "credit": ""
       }
     ],
     "coordinates": null,
-    "mapUrl": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hennur%20Road%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
-      "Visit at different times to assess parking, traffic and street-level noise."
+      "Hennur Road offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
     ],
     "highlights": [
       {
-        "icon": "Compass",
-        "title": "Who it may suit",
-        "description": "Buyers prioritising a walkable urban lifestyle and an established address."
-      },
-      {
-        "icon": "TrainFront",
-        "title": "Before you decide",
-        "description": "Try your commute on a normal weekday."
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "What to verify",
-        "description": "Project approvals, services and the complete cost."
+        "icon": "Building2",
+        "title": "3 listed projects",
+        "description": "Disha Harmony Gardens | DNR Parklink | Concorde Sienna"
       },
       {
         "icon": "House",
-        "title": "What to explore",
-        "description": "Established neighbourhood · City lifestyle"
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
       }
     ],
-    "metrics": [],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
     "connectivity": [
       {
-        "name": "Everyday commute",
-        "category": "Commute",
-        "icon": "TrainFront",
-        "description": "Visit at different times to assess parking, traffic and street-level noise.",
+        "name": "New Airport Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "New Airport Road is a useful landmark for comparing homes around Hennur Road.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
-        "mapUrl": null
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20Road%2C%20Bengaluru"
+      },
+      {
+        "name": "Bileshivale Main Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bileshivale Main Road is a useful landmark for comparing homes around Hennur Road.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bileshivale%20Main%20Road%2C%20Bengaluru"
+      },
+      {
+        "name": "Decathlon",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Decathlon is a useful landmark for comparing homes around Hennur Road.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Decathlon%2C%20Bengaluru"
+      },
+      {
+        "name": "Bhartiya Mall of Bengaluru",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bhartiya Mall of Bengaluru is a useful landmark for comparing homes around Hennur Road.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20Mall%20of%20Bengaluru%2C%20Bengaluru"
       }
     ],
     "nearbyPlaces": [],
@@ -472,11 +1066,1186 @@
     "market": null,
     "faqs": [
       {
-        "question": "What should I check before choosing a home in Indiranagar?",
-        "answer": "Visit at different times to assess parking, traffic and street-level noise."
+        "question": "Which projects are listed in Hennur Road?",
+        "answer": "Disha Harmony Gardens, DNR Parklink, Concorde Sienna"
+      },
+      {
+        "question": "How should I compare homes in Hennur Road?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
       }
     ],
     "sources": [],
-    "updatedAt": null
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "rachenahalli",
+    "published": true,
+    "isDemo": false,
+    "name": "Rachenahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "3 residential options in North Bengaluru",
+    "description": "Rachenahalli brings together apartment options across Sumadhura Epitome I, SNN Estates Felicity, SB Urban Park. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Sumadhura Group",
+      "SNN Estates"
+    ],
+    "searchKeywords": [
+      "Rachenahalli",
+      "rachenahalli",
+      "North Bengaluru",
+      "Apartment",
+      "Thanisandra Main Road",
+      "Elements Mall",
+      "Reliance Digital",
+      "State Highway 104"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832306207-170185736.webp",
+        "alt": "Rachenahalli residential locality visual",
+        "caption": "Rachenahalli residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Rachenahalli offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "3 listed projects",
+        "description": "Sumadhura Epitome I | SNN Estates Felicity | SB Urban Park"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Thanisandra Main Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Thanisandra Main Road is a useful landmark for comparing homes around Rachenahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra%20Main%20Road%2C%20Bengaluru"
+      },
+      {
+        "name": "Elements Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Elements Mall is a useful landmark for comparing homes around Rachenahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "Reliance Digital",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Reliance Digital is a useful landmark for comparing homes around Rachenahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reliance%20Digital%2C%20Bengaluru"
+      },
+      {
+        "name": "State Highway 104",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "State Highway 104 is a useful landmark for comparing homes around Rachenahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=State%20Highway%20104%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Rachenahalli?",
+        "answer": "Sumadhura Epitome I, SNN Estates Felicity, SB Urban Park"
+      },
+      {
+        "question": "How should I compare homes in Rachenahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "vidyaranyapura",
+    "published": true,
+    "isDemo": false,
+    "name": "Vidyaranyapura",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Vidyaranyapura brings together apartment options across Concorde Antares. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Concorde Group"
+    ],
+    "searchKeywords": [
+      "Vidyaranyapura",
+      "vidyaranyapura",
+      "North Bengaluru",
+      "Apartment",
+      "Hesaraghatta Road",
+      "Yelahanka Road",
+      "D-Mart"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111849888-925504919.webp",
+        "alt": "Vidyaranyapura residential locality visual",
+        "caption": "Vidyaranyapura residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Vidyaranyapura%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Vidyaranyapura offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Concorde Antares"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Hesaraghatta Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Hesaraghatta Road is a useful landmark for comparing homes around Vidyaranyapura.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hesaraghatta%20Road%2C%20Bengaluru"
+      },
+      {
+        "name": "Yelahanka Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Yelahanka Road is a useful landmark for comparing homes around Vidyaranyapura.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Road%2C%20Bengaluru"
+      },
+      {
+        "name": "D-Mart",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "D-Mart is a useful landmark for comparing homes around Vidyaranyapura.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=D-Mart%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Vidyaranyapura?",
+        "answer": "Concorde Antares"
+      },
+      {
+        "question": "How should I compare homes in Vidyaranyapura?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "thanisandra-kannur",
+    "published": true,
+    "isDemo": false,
+    "name": "Thanisandra-Kannur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Thanisandra-Kannur brings together apartment options across Poulomi Florique. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Poulomi Estates"
+    ],
+    "searchKeywords": [
+      "Thanisandra-Kannur",
+      "thanisandra-kannur",
+      "North Bengaluru",
+      "Apartment",
+      "Delhi Public School",
+      "REVA University",
+      "Manyata Tech Park",
+      "Kempegowda International Airport"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://poulomiflorique.com/images/hero-image.png",
+        "alt": "Thanisandra-Kannur residential locality visual",
+        "caption": "Thanisandra-Kannur residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra-Kannur%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Thanisandra-Kannur offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Poulomi Florique"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Delhi Public School",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Delhi Public School is a useful landmark for comparing homes around Thanisandra-Kannur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Public%20School%2C%20Bengaluru"
+      },
+      {
+        "name": "REVA University",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "REVA University is a useful landmark for comparing homes around Thanisandra-Kannur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=REVA%20University%2C%20Bengaluru"
+      },
+      {
+        "name": "Manyata Tech Park",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Manyata Tech Park is a useful landmark for comparing homes around Thanisandra-Kannur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+      },
+      {
+        "name": "Kempegowda International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Kempegowda International Airport is a useful landmark for comparing homes around Thanisandra-Kannur.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Thanisandra-Kannur?",
+        "answer": "Poulomi Florique"
+      },
+      {
+        "question": "How should I compare homes in Thanisandra-Kannur?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "sadahalli",
+    "published": true,
+    "isDemo": false,
+    "name": "Sadahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "Airport Corridor",
+    "tagline": "1 residential option in Airport Corridor",
+    "description": "Sadahalli brings together apartment and villa options across Bhartiya Garden Estate. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "Airport Corridor",
+      "Apartment and Villa",
+      "Bhartiya Urban"
+    ],
+    "searchKeywords": [
+      "Sadahalli",
+      "sadahalli",
+      "Airport Corridor",
+      "Apartment and Villa",
+      "Prestige Tech Cloud",
+      "Forum Mall",
+      "Kempagowda International Airport"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-garden-estate_1762426406200-850660050.webp",
+        "alt": "Sadahalli residential locality visual",
+        "caption": "Sadahalli residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sadahalli%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Sadahalli offers access to residential communities, city conveniences and key movement corridors in Airport Corridor."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Bhartiya Garden Estate"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment and Villa"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "Airport Corridor"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment and Villa",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Prestige Tech Cloud",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Prestige Tech Cloud is a useful landmark for comparing homes around Sadahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prestige%20Tech%20Cloud%2C%20Bengaluru"
+      },
+      {
+        "name": "Forum Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Forum Mall is a useful landmark for comparing homes around Sadahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "Kempagowda International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Kempagowda International Airport is a useful landmark for comparing homes around Sadahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempagowda%20International%20Airport%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Sadahalli?",
+        "answer": "Bhartiya Garden Estate"
+      },
+      {
+        "question": "How should I compare homes in Sadahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "kannamangala-devanahalli",
+    "published": true,
+    "isDemo": false,
+    "name": "Kannamangala, Devanahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "Airport Corridor",
+    "tagline": "1 residential option in Airport Corridor",
+    "description": "Kannamangala, Devanahalli brings together apartment options across Sattva Vasanta Skye. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "Airport Corridor",
+      "Apartment",
+      "Sattva Group"
+    ],
+    "searchKeywords": [
+      "Kannamangala, Devanahalli",
+      "kannamangala-devanahalli",
+      "Airport Corridor",
+      "Apartment",
+      "National Highway 44",
+      "Forum Mall",
+      "International Airport"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/sattva-vasanta-skye_1765447679320-53698305.webp",
+        "alt": "Kannamangala, Devanahalli residential locality visual",
+        "caption": "Kannamangala, Devanahalli residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kannamangala%2C%20Devanahalli%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Kannamangala, Devanahalli offers access to residential communities, city conveniences and key movement corridors in Airport Corridor."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Sattva Vasanta Skye"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "Airport Corridor"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "National Highway 44",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "National Highway 44 is a useful landmark for comparing homes around Kannamangala, Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Highway%2044%2C%20Bengaluru"
+      },
+      {
+        "name": "Forum Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Forum Mall is a useful landmark for comparing homes around Kannamangala, Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "International Airport is a useful landmark for comparing homes around Kannamangala, Devanahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=International%20Airport%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Kannamangala, Devanahalli?",
+        "answer": "Sattva Vasanta Skye"
+      },
+      {
+        "question": "How should I compare homes in Kannamangala, Devanahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "kogilu",
+    "published": true,
+    "isDemo": false,
+    "name": "Kogilu",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Kogilu brings together apartment options across Nikoo Homes 6. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Bhartiya Urban"
+    ],
+    "searchKeywords": [
+      "Kogilu",
+      "kogilu",
+      "North Bengaluru",
+      "Apartment",
+      "Yelahanka Station",
+      "Garuda Mall",
+      "Bagalur Main Road"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://nikoohomes.com/wp-content/uploads/2024/01/NH6_BLOCK-2-scaled.jpg",
+        "alt": "Kogilu residential locality visual",
+        "caption": "Kogilu residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kogilu%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Kogilu offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Nikoo Homes 6"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Yelahanka Station",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Yelahanka Station is a useful landmark for comparing homes around Kogilu.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Station%2C%20Bengaluru"
+      },
+      {
+        "name": "Garuda Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Garuda Mall is a useful landmark for comparing homes around Kogilu.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Garuda%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "Bagalur Main Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bagalur Main Road is a useful landmark for comparing homes around Kogilu.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%20Main%20Road%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Kogilu?",
+        "answer": "Nikoo Homes 6"
+      },
+      {
+        "question": "How should I compare homes in Kogilu?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "bellahalli",
+    "published": true,
+    "isDemo": false,
+    "name": "Bellahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Bellahalli brings together apartment options across Nikoo Homes 8. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Bhartiya Urban"
+    ],
+    "searchKeywords": [
+      "Bellahalli",
+      "bellahalli",
+      "North Bengaluru",
+      "Apartment",
+      "Bellahalli Cross",
+      "Bhartiya City",
+      "Reva University"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885247303-865920459.webp",
+        "alt": "Bellahalli residential locality visual",
+        "caption": "Bellahalli residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellahalli%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Bellahalli offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Nikoo Homes 8"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Bellahalli Cross",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bellahalli Cross is a useful landmark for comparing homes around Bellahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellahalli%20Cross%2C%20Bengaluru"
+      },
+      {
+        "name": "Bhartiya City",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Bhartiya City is a useful landmark for comparing homes around Bellahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20City%2C%20Bengaluru"
+      },
+      {
+        "name": "Reva University",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Reva University is a useful landmark for comparing homes around Bellahalli.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reva%20University%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Bellahalli?",
+        "answer": "Nikoo Homes 8"
+      },
+      {
+        "question": "How should I compare homes in Bellahalli?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "manyata-tech-park",
+    "published": true,
+    "isDemo": false,
+    "name": "Manyata Tech Park",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "North Bengaluru",
+    "tagline": "1 residential option in North Bengaluru",
+    "description": "Manyata Tech Park brings together apartment options across Lodha Mirabelle. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "North Bengaluru",
+      "Apartment",
+      "Lodha Group"
+    ],
+    "searchKeywords": [
+      "Manyata Tech Park",
+      "manyata-tech-park",
+      "North Bengaluru",
+      "Apartment",
+      "Elements Mall",
+      "Nagawara Metro Station",
+      "Rachenahalli Main Road"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Mirabelle_1903X800.jpg",
+        "alt": "Manyata Tech Park residential locality visual",
+        "caption": "Manyata Tech Park residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Manyata Tech Park offers access to residential communities, city conveniences and key movement corridors in North Bengaluru."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Lodha Mirabelle"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "North Bengaluru"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Elements Mall",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Elements Mall is a useful landmark for comparing homes around Manyata Tech Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+      },
+      {
+        "name": "Nagawara Metro Station",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Nagawara Metro Station is a useful landmark for comparing homes around Manyata Tech Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nagawara%20Metro%20Station%2C%20Bengaluru"
+      },
+      {
+        "name": "Rachenahalli Main Road",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Rachenahalli Main Road is a useful landmark for comparing homes around Manyata Tech Park.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%20Main%20Road%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Manyata Tech Park?",
+        "answer": "Lodha Mirabelle"
+      },
+      {
+        "question": "How should I compare homes in Manyata Tech Park?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "schemaVersion": 2,
+    "id": "devanahalli-boodihal",
+    "published": true,
+    "isDemo": false,
+    "name": "Devanahalli-Boodihal",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "zone": "Airport Corridor",
+    "tagline": "1 residential option in Airport Corridor",
+    "description": "Devanahalli-Boodihal brings together apartment options across Laurel & Maple at Brigade Orchards. The locality works well for buyers comparing North Bengaluru connectivity, community amenities and long-term residential convenience.",
+    "tags": [
+      "Airport Corridor",
+      "Apartment",
+      "Brigade Group"
+    ],
+    "searchKeywords": [
+      "Devanahalli-Boodihal",
+      "devanahalli-boodihal",
+      "Airport Corridor",
+      "Apartment",
+      "Kempegowda International Airport"
+    ],
+    "coverImageId": "cover",
+    "images": [
+      {
+        "id": "cover",
+        "src": "https://www.brigadeorchards.com/assets/images/laurel.webp",
+        "alt": "Devanahalli-Boodihal residential locality visual",
+        "caption": "Devanahalli-Boodihal residential locality",
+        "kind": "locality",
+        "credit": ""
+      }
+    ],
+    "coordinates": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli-Boodihal%2C%20Bengaluru%2C%20Karnataka",
+    "considerations": [
+      "Devanahalli-Boodihal offers access to residential communities, city conveniences and key movement corridors in Airport Corridor."
+    ],
+    "highlights": [
+      {
+        "icon": "Building2",
+        "title": "1 listed project",
+        "description": "Laurel & Maple at Brigade Orchards"
+      },
+      {
+        "icon": "House",
+        "title": "Home types",
+        "description": "Apartment"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Micro-market",
+        "description": "Airport Corridor"
+      },
+      {
+        "icon": "Compass",
+        "title": "AaramV shortlist",
+        "description": "Curated projects with layouts, prices, amenities and location context in one place."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Listed projects",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2",
+        "asOf": "2026-10-02",
+        "note": ""
+      },
+      {
+        "label": "Property types",
+        "value": "Apartment",
+        "unit": "",
+        "icon": "House",
+        "asOf": "2026-10-02",
+        "note": ""
+      }
+    ],
+    "connectivity": [
+      {
+        "name": "Kempegowda International Airport",
+        "category": "Nearby destination",
+        "icon": "MapPin",
+        "description": "Kempegowda International Airport is a useful landmark for comparing homes around Devanahalli-Boodihal.",
+        "distanceKm": null,
+        "travelMinutes": null,
+        "travelMode": null,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+      }
+    ],
+    "nearbyPlaces": [],
+    "infrastructure": [],
+    "market": null,
+    "faqs": [
+      {
+        "question": "Which projects are listed in Devanahalli-Boodihal?",
+        "answer": "Laurel & Maple at Brigade Orchards"
+      },
+      {
+        "question": "How should I compare homes in Devanahalli-Boodihal?",
+        "answer": "Compare configurations, starting prices, possession status, amenities, location context and developer profile across the project pages."
+      }
+    ],
+    "sources": [],
+    "updatedAt": "2026-10-02"
   }
 ]

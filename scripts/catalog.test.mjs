@@ -55,7 +55,7 @@ test('search covers keywords, developer, locality aliases and normalization', ()
   d.properties[0].developerName = 'Example Builder'; d.properties[0].searchKeywords = ['Canopée']; d.localities[0].searchKeywords = ['ITPL'];
   const ps = createCatalog(catalogSchema.parse(d)).properties;
   assert.equal(filterProperties(ps, { query: ' BUILDER canopee ITPL ' })[0].id, d.properties[0].id);
-  assert.ok(filterProperties(ps, { query: 'whitefield apartment' }).length);
+  assert.ok(filterProperties(ps, { query: 'bagalur apartment' }).length);
   assert.equal(filterProperties(ps, { query: 'no-such-project-anywhere' }).length, 0);
 });
 test('bedrooms and price must match the same configuration and cards use that unit', () => {
@@ -75,9 +75,10 @@ test('sold-out units do not match configuration filters', () => {
 });
 test('unknown prices are visible unfiltered, excluded by budget, sorted last', () => {
   const p = clone(catalog.properties[0]); p.id = 'unknown-price'; p.configurations.forEach(c => c.startingPriceInr = null);
+  const priced = catalog.properties.find(property => property.configurations.some(c => c.startingPriceInr !== null));
   assert.equal(filterProperties([p]).length, 1);
   assert.equal(filterProperties([p], { maxPriceInr: 50000000 }).length, 0);
-  for (const sort of ['Price: low to high', 'Price: high to low']) assert.equal(filterProperties([p, catalog.properties[1]], { sort }).at(-1).id, p.id);
+  for (const sort of ['Price: low to high', 'Price: high to low']) assert.equal(filterProperties([p, priced], { sort }).at(-1).id, p.id);
 });
 test('budget includes cheap and expensive inventory without fixed limits', () => {
   const p = clone(catalog.properties[0]); p.configurations[0].startingPriceInr = 90000000; p.configurations[1].startingPriceInr = 1000000;
@@ -92,9 +93,9 @@ test('exact locality ID, type, status, saved and studio filters work', () => {
   assert.equal(filterProperties([p], { savedIds: [] }).length, 0);
 });
 test('renaming a locality preserves relationships', () => {
-  const d = clone(input); d.localities[0].name = 'Renamed Whitefield';
+  const d = clone(input); d.localities[0].name = 'Renamed Locality';
   const ps = createCatalog(catalogSchema.parse(d)).properties;
-  assert.equal(ps[0].locality, 'Renamed Whitefield'); assert.equal(ps[0].localityId, d.localities[0].id);
+  assert.equal(ps[0].locality, 'Renamed Locality'); assert.equal(ps[0].localityId, d.localities[0].id);
 });
 test('display formatting distinguishes studios, plots and unknowns', () => {
   assert.equal(bedroomLabel(0, 'Apartment'), 'Studio'); assert.equal(bedroomLabel(null, 'Plot'), 'Plot');
