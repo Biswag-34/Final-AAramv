@@ -3,6 +3,8 @@
 import { useState } from 'react';
 import { Building2, House, LandPlot, BedDouble, Maximize, ShieldCheck, Handshake, KeyRound, Compass, MapPin, TreePine, Dumbbell, Waves, Car, Users, TrainFront, BriefcaseBusiness, School, Clock, CheckCircle2, FileText, Hospital, ShoppingBag, Bath, Ruler, Activity, CalendarDays, GraduationCap, IndianRupee, Trees, Baby, Bike, BookOpen, Clapperboard, Drama, Flower2, Footprints, Goal, HeartPulse, PawPrint, PersonStanding, Sparkles, Store, TentTree, Trophy, Volleyball, Armchair, ParkingCircle, ChevronLeft, ChevronRight, Images, ArrowUpRight } from 'lucide-react';
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from '@/components/ui/dialog';
+import {useResponsiveLayout} from '@/hooks/use-responsive-layout';
+import {ResponsiveGallery} from '@/components/responsive-gallery';
 import type { IconName, Place, LocalityRecord, PropertyRecord } from '@/lib/catalog-schema';
 
 const icons = { Building2, House, LandPlot, BedDouble, Maximize, ShieldCheck, Handshake, KeyRound, Compass, MapPin, TreePine, Dumbbell, Waves, Car, Users, TrainFront, BriefcaseBusiness, School, Clock, CheckCircle2, FileText, Hospital, ShoppingBag, Bath, Ruler, Activity, CalendarDays, GraduationCap, IndianRupee, Trees, Baby, Bike, BookOpen, Clapperboard, Drama, Flower2, Footprints, Goal, HeartPulse, PawPrint, PersonStanding, Sparkles, Store, TentTree, Trophy, Volleyball, Armchair, ParkingCircle };
@@ -55,10 +57,12 @@ export function MapLink({ record }: { record: Pick<PropertyRecord, 'mapUrl' | 'c
 }
 export function Places({ items }: { items: Place[] }) { return <div className="catalog-places">{items.map((place, index) => <div className="location-row" key={`${place.name}-${index}`}><div><div className="row"><DataIcon name={place.icon} size={18} label={`${place.category} ${place.name}`}/><strong>{place.name}</strong></div><small>{place.category}</small>{place.description && <p>{place.description}</p>}</div><div className="catalog-distance">{place.distanceKm !== null && <span>{place.distanceKm} km</span>}{place.travelMinutes !== null && <span>{place.travelMinutes} min{place.travelMode && ` (${place.travelMode})`}</span>}{place.mapUrl && <a href={place.mapUrl} target="_blank" rel="noopener noreferrer" className="text-link">Map <ArrowUpRight size={14}/></a>}</div></div>)}</div>; }
 export function Gallery({ name, images, selectedId, onClose }: { name: string; images: PropertyRecord['images']; selectedId: string | null; onClose: () => void }) {
+  const responsive = useResponsiveLayout();
   const initial = images.findIndex(image => image.id === selectedId);
   const [offset, setOffset] = useState(0);
   const index = (Math.max(0, initial) + offset + images.length) % images.length;
   const photo = images[index];
+  if (responsive) return <ResponsiveGallery key={selectedId} name={name} images={images} selectedId={selectedId} onClose={onClose}/>;
   return <Dialog open={selectedId !== null} onOpenChange={open => { if (!open) { setOffset(0); onClose(); } }}><DialogContent className="gallery-modal"><DialogTitle className="sr-only">{name} gallery</DialogTitle><DialogDescription className="sr-only">{photo.alt}</DialogDescription><img src={photo.src} alt={photo.alt}/><div className="gallery-bottom"><div><span>{photo.caption} · {index + 1} / {images.length}</span>{photo.credit && <small className="catalog-credit">{photo.credit}</small>}</div>{images.length > 1 && <div className="row"><button className="circle" aria-label="Previous gallery image" onClick={() => setOffset((offset + images.length - 1) % images.length)}><ChevronLeft size={18}/></button><button className="circle" aria-label="Next gallery image" onClick={() => setOffset((offset + 1) % images.length)}><ChevronRight size={18}/></button></div>}</div></DialogContent></Dialog>;
 }
 export function LocalityExtras({ locality: l }: { locality: LocalityRecord }) {

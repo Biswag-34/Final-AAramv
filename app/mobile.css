@@ -1,0 +1,74 @@
+/* Phone layout: deliberately isolated from tablets and desktops. */
+@media (max-width: 599px) {
+  :root { --r-gutter: 20px; }
+  .r-header { height: 64px; }
+  .r-brand > span { font-size: 23px; }
+  .r-header .r-enquire { min-height: 44px; padding: 10px 12px; font-size: 12px; }
+  .r-home h1, .r-page h1, .inner h1 { font-size: 36px !important; }
+  .r-home h2, .r-page h2, .inner h2 { font-size: 28px !important; }
+  .r-hero-copy { padding-block: 32px 20px; }
+  .r-hero-image { object-position: 58% center; }
+  .r-hero h1 + p { font-size: 15px; }
+  .r-search-hero { grid-template-columns: minmax(0, 1fr); gap: 4px; margin-top: 20px; }
+  .r-search-hero > .r-button { width: 100%; }
+  .r-hero .r-kicker { font-size: 9px; }
+  .r-section { padding: 36px 0; }
+  .r-section-head { align-items: start; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+  .r-section-head .r-inline-link { min-height: 36px; font-size: 12px; }
+  .r-chips { flex-wrap: wrap; overflow: visible; }
+  .r-chips button { min-width: 0; max-width: 100%; overflow-wrap: anywhere; white-space: normal; }
+  .r-property-grid, .r-neighbourhood-grid, .r-layout-grid { grid-template-columns: minmax(0, 1fr); }
+  .inner .property-grid { grid-template-columns: minmax(0, 1fr); }
+  .r-neighbourhood-section .r-neighbourhood { display: grid; grid-template-columns: 112px minmax(0, 1fr); }
+  .r-neighbourhood-section .r-neighbourhood-photo { aspect-ratio: auto; min-height: 140px; }
+  .r-neighbourhood-section .r-neighbourhood-photo span { inset-inline: 4px; bottom: 5px; padding: 3px 5px; font-size: 8px; }
+  .r-neighbourhood-section .r-neighbourhood-copy { padding: 16px 32px 16px 14px; }
+  .r-neighbourhood-section .r-neighbourhood-copy h3 { font-size: 19px; }
+  .r-neighbourhood-section .r-neighbourhood-copy > svg { right: 10px; }
+  .r-form-fields { grid-template-columns: minmax(0, 1fr); }
+  .r-intent { gap: 8px; }
+  .r-intent > label { flex: 1; font-size: 12px; padding: 8px 10px; }
+  .r-enquiry-layout { gap: 24px; }
+  .r-results-controls label { display: grid; gap: 3px; }
+  .r-results-controls select { max-width: 174px; font-size: 12px; }
+  .r-filter-sheet { width: 100% !important; }
+  .r-filter-fields { padding: 20px; }
+  .r-filter-apply { padding-inline: 20px; }
+  .r-results-controls .r-button { font-size: 13px; }
+  .r-project-summary { gap: 16px; }
+  .anchor-nav { top: 64px !important; }
+  .detail-banner { aspect-ratio: 4 / 3; }
+  .detail-main h1 { overflow-wrap: anywhere; }
+  .property-detail-page .detail-form { padding: 24px 20px !important; }
+  .highlights { grid-template-columns: minmax(0, 1fr); }
+  .r-visit-bar { padding-block: 10px calc(10px + env(safe-area-inset-bottom)); }
+  .r-visit-bar > span { display: none; }
+  .r-visit-bar .r-button { width: 100%; }
+  .locality-detail-hero { aspect-ratio: 4 / 3; }
+  .locality-detail-hero h1 { font-size: 32px !important; }
+  .locality-detail-hero p { font-size: 14px; }
+  .locality-highlights { grid-template-columns: minmax(0, 1fr); }
+  .catalog-gallery { grid-template-columns: minmax(0, 1fr); }
+  .catalog-metrics, .catalog-market { gap: 20px; }
+  .about-hero h1 br { display: none; }
+  .about-image { aspect-ratio: 4 / 3; }
+  .advisor-points { grid-template-columns: minmax(0, 1fr); }
+  .inner .section-head { flex-direction: column; align-items: start; }
+  .utility-page { grid-template-columns: minmax(0, 1fr); }
+  .utility-page .coming-visual { height: 260px; border-radius: 8px; }
+  .coming-form { min-width: 0; }
+  .coming-form input { min-width: 0; width: 100%; font-size: 16px; }
+  @media (max-width: 359px) {
+    :root { --r-gutter: 16px; }
+    .r-home h1, .r-page h1, .inner h1 { font-size: 32px !important; }
+    .r-home h2, .r-page h2, .inner h2 { font-size: 26px !important; }
+    .r-property-body { padding: 16px; }
+    .r-property-price { align-items: start; flex-direction: column; gap: 4px; }
+    .r-property-price .r-details { min-height: 44px; }
+    .r-search:not(.r-search-hero) { grid-template-columns: minmax(0, 1fr); }
+    .r-intent > label { flex-basis: 100%; }
+    .r-results-controls select { max-width: 158px; }
+    .r-neighbourhood-section .r-neighbourhood { grid-template-columns: 92px minmax(0, 1fr); }
+    .r-budget-inputs { grid-template-columns: minmax(0, 1fr); }
+  }
+}

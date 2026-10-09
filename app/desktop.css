@@ -497,19 +497,18 @@
   }
 }
 
-@media (min-width: 601px) {
+@media (min-width: 1200px) {
   .property-detail-page .detail-layout {
     align-items: start !important;
     padding-bottom: 96px !important;
   }
 
   .property-detail-page .detail-form {
-    position: sticky !important;
-    top: calc(var(--sticky-top, 96px) + 24px) !important;
-    align-self: start !important;
-    max-height: calc(100svh - var(--sticky-top, 96px) - 48px) !important;
-    overflow-y: auto !important;
-    overscroll-behavior: contain;
+    position: sticky;
+    top: var(--sidebar-top, 96px);
+    align-self: start;
+    max-height: none;
+    overflow: visible;
   }
 }
 
