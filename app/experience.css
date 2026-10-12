@@ -12,6 +12,28 @@
 .hero-actions .advisor-call:hover, .r-hero .advisor-call:hover { background: #d3eadf; }
 .r-advisor-action { margin-top: 20px; }
 .buyer-comparison { padding-block: 64px; background: linear-gradient(180deg, #f7faf9, #fff 40%, #f7faf9); }
+
+.brand-logo { display: inline-flex; flex: 0 0 auto; align-items: center; width: 180px; height: 58px; padding: 6px 8px; background: transparent; }
+.brand-logo img { width: 100%; height: 100%; object-fit: contain; }
+.footer .brand-logo, .r-footer .brand-logo { width: 210px; height: 68px; }
+.home-stats-section { background: #f7faf9; padding-block: 32px 48px; }
+.home-stats-section .stats { margin: 0; padding-block: 28px; border-block: 1px solid #dce5e0; text-align: center; }
+.home-stats-section .stat { min-width: 0; padding: 4px 24px; border-color: #dce5e0; }
+.home-stats-section .stat strong { font-size: 40px; font-weight: 600; line-height: 1.15; letter-spacing: 0; color: #193a32; }
+.home-stats-section .stat p { max-width: 180px; margin: 10px auto 0; font-size: 14px; font-weight: 400; line-height: 1.5; color: #52675f; }
+
+@media (max-width: 1199px) {
+  .r-brand.brand-logo { width: 148px; height: 48px; }
+  .r-footer .brand-logo { width: 190px; height: 62px; }
+}
+@media (max-width: 767px) {
+  .r-header .brand-logo { width: 132px; height: 44px; padding: 4px 6px; }
+  .r-header-nav { font-size: 12px; gap: 10px; }
+  .home-stats-section .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 24px; }
+  .home-stats-section .stat { padding-inline: 12px; }
+  .home-stats-section .stat:nth-child(3) { border-left: 0; }
+  .home-stats-section .stat strong { font-size: 32px; }
+}
 .buyer-comparison .experience-heading { margin-bottom: 28px; }
 .buyer-comparison .experience-heading p { font-size: 16px; line-height: 1.55; }
 .buyer-comparison h2 em { font-family: Georgia, serif; font-weight: 400; color: #226953; }
@@ -446,3 +468,68 @@
 @media (prefers-reduced-motion: reduce) { .album-wave path { animation: none; } }
 @media (min-width: 600px) and (max-width: 1199px) { #main-content .cta-copy h2 { font-size: 28px !important; } }
 @media (max-width: 359px) { #main-content .cta-copy h2 { font-size: 24px !important; } }
+
+/* Compact spacing is scoped to the two homepage layouts. */
+.home-page, .r-home { --home-section-space: 28px; }
+.home-page > .section, .home-page > .experience-section, .home-page > .cta-section,
+.r-home > .r-section, .r-home > .experience-section { padding-block: var(--home-section-space); }
+.home-page .section-head, .home-page .featured-head,
+.home-page .experience-heading, .r-home .r-section-head,
+.r-home .experience-heading { margin-bottom: 16px; gap: 12px; }
+.home-page .experience-heading p, .r-home .experience-heading p { margin-top: 10px; }
+.home-page .home-type-options { margin-bottom: 16px; }
+.r-home .r-chips { margin-bottom: 10px; padding-bottom: 4px; }
+.home-page .home-stats-section { padding-block: 8px 20px; }
+.home-page .home-stats-section .stats { padding-block: 18px; }
+.home-page .comparison-scene, .r-home .comparison-scene { --comparison-lift: 12px; padding-block: 14px; }
+.home-page .comparison-board, .r-home .comparison-board { grid-template-rows: minmax(70px, auto) repeat(5, minmax(54px, auto)); }
+.home-page .journey-path, .r-home .journey-path { padding-bottom: 18px; }
+.home-page .journey-detail, .r-home .journey-detail { padding-block: 20px; gap: 24px; }
+.home-page .journey-stage-art, .r-home .journey-stage-art { height: 120px; }
+.home-page .journey-guide, .r-home .journey-guide { margin-top: 10px; }
+.home-page .featured-track { padding-bottom: 10px; }
+.home-page .featured-dots { margin-top: 6px; }
+.home-page .featured-card, .home-page .featured-media { min-height: 340px; }
+.home-page .featured-copy { padding: 22px; }
+.home-page .featured-meta { margin-bottom: 12px; }
+.home-page .featured-copy p { margin-bottom: 14px; }
+.home-page .testimonial-weave { gap: 16px; }
+.home-page .testimonial-thread { min-height: 0; padding-top: 24px; padding-bottom: 22px; }
+.home-page .testimonial-thread:nth-child(3n) { transform: none; }
+.home-page .testimonial-thread p { margin-bottom: 14px; }
+.home-page .partner-heading { margin-top: 28px; margin-bottom: 14px; }
+.home-page .developer-controls, .r-home .developer-controls { margin-top: 10px; }
+.home-page .cta-block { padding: 28px; gap: 24px 40px; }
+.home-page .cta-copy p { margin-block: 14px 18px; }
+.r-home .r-enquiry-layout { gap: 18px; }
+.r-home .r-enquiry-layout > div > p:last-child { margin-top: 10px; }
+
+@media (min-width: 1200px) {
+  .home-page .hero { height: auto; min-height: 0; }
+  .home-page .hero-content { height: auto; padding-block: 120px 76px; }
+  .home-page .hero-content > p { margin-block: 16px 20px; }
+  .home-page .hero .search-bar { margin-top: 0; }
+}
+@media (min-width: 600px) and (max-width: 1199px) {
+  .r-home .r-hero { min-height: 0; }
+  .r-home .r-hero-copy { padding-block: 112px 28px; }
+  .r-home .r-search-hero { margin-top: 16px; }
+}
+@media (max-width: 599px) {
+  .home-page, .r-home { --home-section-space: 20px; }
+  .r-home .r-hero-copy { padding-block: 24px 20px; }
+  .r-home .r-hero h1 + p { margin-top: 12px; }
+  .r-home .r-search-hero { margin-top: 16px; }
+  .r-home .r-advisor-action { margin-top: 8px; }
+  .r-home .experience-heading .experience-link { margin-top: 6px; }
+  .r-home .comparison-topic-nav { margin-bottom: 8px; }
+  .r-home .comparison-viewport { padding-block: 8px 12px; }
+  .r-home .comparison-controls { margin-top: 8px; }
+  .r-home .comparison-slide h3 { min-height: 0; margin-bottom: 10px; }
+  .r-home .journey-path { grid-template-rows: repeat(2, 120px); row-gap: 12px; padding-bottom: 16px; }
+  .r-home .journey-route:before { height: 134px; }
+  .r-home .journey-route:after { top: 132px; }
+  .r-home .journey-detail { padding-block: 16px; gap: 14px; }
+  .r-home .journey-stage-art { height: auto; }
+  .r-home .r-home-carousel-controls { margin-top: 0; }
+}

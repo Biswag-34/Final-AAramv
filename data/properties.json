@@ -12,7 +12,7 @@
     "phaseName": "Hyde and Regent",
     "address": "KIADB Aerospace Park, Gummanahalli / Huvinayakanahalli, Bagalur, Bengaluru, Karnataka",
     "postalCode": "562149",
-    "description": "Prestige Finsbury Park is an apartment community in the KIADB Aerospace Park area near Bagalur. Hyde and Regent are separately registered components, with compact apartments and larger family layouts set around shared landscape and leisure amenities",
+    "description": "Compare apartment options at Prestige Finsbury Park near Bagalur. Review Hyde and Regent separately, and confirm the layout, transaction type, current asking price and documents for the unit you are considering.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -395,8 +395,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport (6.7 km).",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 6.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -404,9 +404,9 @@
       },
       {
         "name": "Manyata Tech Park",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Manyata Tech Park is a nearby employment (12.1 km).",
+        "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 12.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -414,9 +414,9 @@
       },
       {
         "name": "KR Puram",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "KR Puram is a nearby transport (15.9 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "KR Puram is a sport and recreation landmark to include in your route check.",
         "distanceKm": 15.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -439,21 +439,21 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Prestige Finsbury Park",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Prestige Finsbury Park is located in KIADB Aerospace Park, Gummanahalli / Huvinayakanahalli, Bagalur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Prestige Finsbury Park is recorded near KIADB Aerospace Park and Bagalur. Use the exact Hyde or Regent entrance, route basis and current documents when comparing distance, readiness and daily convenience.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
         "question": "What configurations are available?",
-        "answer": "1 BHK — 636 sq ft — Hyde, 1 BHK — 652 sq ft — Hyde, 2 BHK — 955 sq ft — Hyde, 2 BHK — 977 sq ft — Hyde, 2 BHK — 999 sq ft — Hyde, 3 BHK — 1224 sq ft — Regent"
+        "answer": "Project-wide layouts include Hyde and Regent options. The currently listed resale inventory and asking prices should be checked separately from the wider project configuration range."
       },
       {
         "question": "What is the project status?",
@@ -466,10 +466,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Prestige Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -481,12 +501,12 @@
     "type": "Plot",
     "status": "Under construction",
     "developerName": "Manyata Developers",
-    "phaseName": "Multiple phases; Phase 5 marketing and phase register",
+    "phaseName": "Phase-specific information on request",
     "address": "Ilathore / Uganavadi, off IVC Road, Devanahalli, Bengaluru, Karnataka",
     "postalCode": "562110",
-    "description": "Earthsong by Manyata is a phased plotted community near Ilathore and IVC Road in the Devanahalli corridor. The development combines residential plots with landscaped streets, recreation areas and clubhouse facilities. plot sizes and delivery schedules differ across phases",
+    "description": "Explore residential plots at Earthsong by Manyata near IVC Road, Devanahalli. Compare plot sizes within the relevant phase and request its current pricing, layout plan, services and handover details.",
     "possession": {
-      "label": "Under construction",
+      "label": "Handover information on request",
       "date": null
     },
     "searchKeywords": [
@@ -693,9 +713,9 @@
     "nearbyPlaces": [
       {
         "name": "Stonehill International School",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "Stonehill International School is a nearby education.",
+        "description": "Stonehill International School is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -703,9 +723,9 @@
       },
       {
         "name": "Padukone–Dravid Centre for Sports Excellence",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "Padukone–Dravid Centre for Sports Excellence is a nearby transport.",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "Padukone-Dravid Centre for Sports Excellence is a sport and recreation landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -714,8 +734,8 @@
       {
         "name": "Jogahalli Cross Bus Stop",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Jogahalli Cross Bus Stop is a nearby transport (2.5 km / 4 min).",
+        "icon": "TrainFront",
+        "description": "Jogahalli Cross Bus Stop is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.5,
         "travelMinutes": 4,
         "travelMode": null,
@@ -774,16 +794,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Earthsong by Manyata",
-      "layoutsTitle": "Plot Sizes",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Plot sizes and layout plan",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Earthsong by Manyata is located in Ilathore / Uganavadi, off IVC Road, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Earthsong by Manyata is recorded near Ilathore and Uganavadi, off IVC Road in the Devanahalli corridor. Compare access, services and route details for the selected plot and phase.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -801,10 +821,34 @@
       {
         "question": "Who is the developer?",
         "answer": "Manyata Developers"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "What should I check before booking a plot?",
+        "answer": "Review the selected plot’s dimensions, access, services, applicable permissions, building conditions and handover terms. Have a qualified legal professional review the relevant documents before you commit."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -819,9 +863,9 @@
     "phaseName": "Multiple registered blocks",
     "address": "KIADB Aerospace Park, Huvinayakanahalli / Gummanahalli, Bagalur, Bengaluru, Karnataka",
     "postalCode": "562149",
-    "description": "Brigade El Dorado is a large apartment township in the KIADB Aerospace Park corridor near Bagalur. Its separately named blocks include compact 1 and 1.5 bedroom homes as well as 2 and 3 bedroom apartments, with shared recreation and landscaped spaces. Completion and availability differ by block",
+    "description": "Compare apartments across the listed blocks at Brigade El Dorado near KIADB Aerospace Park. Layouts, availability, completion stage and possession information vary by block; review the details for the home you are considering.",
     "possession": {
-      "label": "Under construction",
+      "label": "Block-specific possession on request",
       "date": null
     },
     "searchKeywords": [
@@ -1114,9 +1158,9 @@
     "nearbyPlaces": [
       {
         "name": "Shell Technology Centre, Bengaluru",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Shell Technology Centre, Bengaluru is a nearby employment (3 km / 6 min).",
+        "description": "Shell Technology Centre, Bengaluru is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 3,
         "travelMinutes": 6,
         "travelMode": null,
@@ -1183,16 +1227,16 @@
       "jasper-at-brigade-el-dorado"
     ],
     "content": {
-      "overviewTitle": "About Brigade El Dorado",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Brigade El Dorado is located in KIADB Aerospace Park, Huvinayakanahalli / Gummanahalli, Bagalur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Brigade El Dorado is recorded near KIADB Aerospace Park. Compare the relevant block, route and phase information before arranging a visit.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -1210,10 +1254,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Brigade Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -1228,7 +1292,7 @@
     "phaseName": null,
     "address": "Thanisandra Main Road, R.K. Hegde Nagar, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road near Hegde Nagar. It combines 2, 3 and 4 BHK formats with landscaped open areas, elevated leisure spaces and a clubhouse. current developer marketing focuses on 3 BHK homes",
+    "description": "Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road near Hegde Nagar. It combines 2, 3 and 4 BHK formats with landscaped open areas, elevated leisure spaces and a clubhouse. current developer marketing focuses on 3 BHK homes.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -1451,9 +1515,9 @@
     "nearbyPlaces": [
       {
         "name": "Manyata Tech Park",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Manyata Tech Park is a nearby employment (7 min).",
+        "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": null,
         "travelMinutes": 7,
         "travelMode": null,
@@ -1461,9 +1525,9 @@
       },
       {
         "name": "Rashtrotthana Vidya Kendra",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "Rashtrotthana Vidya Kendra is a nearby transport (3 min).",
+        "category": "School",
+        "icon": "GraduationCap",
+        "description": "Rashtrotthana Vidya Kendra is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 3,
         "travelMode": null,
@@ -1473,7 +1537,7 @@
         "name": "Elements Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Elements Mall is a nearby shopping (10 min).",
+        "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 10,
         "travelMode": null,
@@ -1481,9 +1545,9 @@
       },
       {
         "name": "Aster CMI Hospital",
-        "category": "Healthcare",
+        "category": "Hospital",
         "icon": "Hospital",
-        "description": "Aster CMI Hospital is a nearby healthcare (12 min).",
+        "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 12,
         "travelMode": null,
@@ -1506,16 +1570,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Purva Atmosphere",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Purva Atmosphere is located in Thanisandra Main Road, R.K. Hegde Nagar, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Purva Atmosphere is recorded at Thanisandra Main Road, R.K. Hegde Nagar, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -1533,10 +1597,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Puravankara Limited"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -1551,7 +1635,7 @@
     "phaseName": "Phase I and Phase II",
     "address": "Opp. KRN Complex, Kasaba, Devanahalli, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Sattva Park Cubix is an apartment community in Devanahalli, planned around parks, sports areas and two clubhouses. Its completed first phase and ongoing second phase have different layouts, registration references and handover schedules",
+    "description": "Sattva Park Cubix is an apartment community in Devanahalli, planned around parks, sports areas and two clubhouses. Its completed first phase and ongoing second phase have different layouts, registration references and handover schedules.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -2081,9 +2165,9 @@
     "nearbyPlaces": [
       {
         "name": "The KOI Junction",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "The KOI Junction is a nearby transport (1 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "The KOI Junction is a sport and recreation landmark to include in your route check.",
         "distanceKm": 1,
         "travelMinutes": null,
         "travelMode": null,
@@ -2093,7 +2177,7 @@
         "name": "D Mart",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "D Mart is a nearby shopping (1.9 km).",
+        "description": "D Mart is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 1.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -2102,8 +2186,8 @@
       {
         "name": "Devanahalli Station",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Devanahalli Station is a nearby transport (1.9 km).",
+        "icon": "TrainFront",
+        "description": "Devanahalli Station is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -2156,16 +2240,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Sattva Park Cubix",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Sattva Park Cubix is located in Opp. KRN Complex, Kasaba, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Sattva Park Cubix is recorded at Opp. KRN Complex, Kasaba, Devanahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -2183,10 +2267,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Sattva Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -2201,7 +2305,7 @@
     "phaseName": null,
     "address": "Survey Nos. 43 and 45, Chikkagubbi, off Hennur–Bagalur Road, Bengaluru, Karnataka",
     "postalCode": "560077",
-    "description": "Assetz Soul & Soil is a low-rise row-house community in Chikkagubbi, off Hennur–Bagalur Road. The  offering includes 3 and 4 BHK homes arranged around green shared spaces and a residents’ clubhouse",
+    "description": "Assetz Soul & Soil is a low-rise row-house community in Chikkagubbi, off Hennur–Bagalur Road. The  offering includes 3 and 4 BHK homes arranged around green shared spaces and a residents’ clubhouse.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -2375,9 +2479,9 @@
     "nearbyPlaces": [
       {
         "name": "Manyata Tech Park",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Manyata Tech Park is a nearby employment (5.2 km).",
+        "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 5.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -2385,9 +2489,9 @@
       },
       {
         "name": "KR Puram",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "KR Puram is a nearby transport (8.7 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "KR Puram is a sport and recreation landmark to include in your route check.",
         "distanceKm": 8.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -2396,8 +2500,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport (14.2 km).",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 14.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -2414,16 +2518,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Assetz Soul & Soil",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Assetz Soul & Soil is located in Survey Nos. 43 and 45, Chikkagubbi, off Hennur–Bagalur Road, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Assetz Soul & Soil is recorded at Survey Nos. 43 and 45, Chikkagubbi, off Hennur–Bagalur Road, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -2441,10 +2545,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Assetz Property Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -2459,7 +2583,7 @@
     "phaseName": null,
     "address": "Next to HDFC School, Jakkur, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Mittal Palms is a completed apartment community in Jakkur near HDFC School. It offers 2 and 3 BHK homes with shared leisure amenities, landscaped spaces and access to the Jakkur–Thanisandra neighbourhood",
+    "description": "Mittal Palms is a completed apartment community in Jakkur near HDFC School. It offers 2 and 3 BHK homes with shared leisure amenities, landscaped spaces and access to the Jakkur–Thanisandra neighbourhood.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -2690,9 +2814,9 @@
     "nearbyPlaces": [
       {
         "name": "HDFC School, Jakkur",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "HDFC School, Jakkur is a nearby education.",
+        "description": "HDFC School, Jakkur is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -2701,8 +2825,8 @@
       {
         "name": "Dasarahalli Bus Stop",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Dasarahalli Bus Stop is a nearby transport (2.7 km / 5 min).",
+        "icon": "TrainFront",
+        "description": "Dasarahalli Bus Stop is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.7,
         "travelMinutes": 5,
         "travelMode": null,
@@ -2719,16 +2843,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Mittal Palms",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Mittal Palms is located in Next to HDFC School, Jakkur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Mittal Palms is recorded at Next to HDFC School, Jakkur, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -2746,10 +2870,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Mittal Builders"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -2764,7 +2908,7 @@
     "phaseName": "Jasper; registration shared with Iridium",
     "address": "KIADB Aerospace Park, Huvinayakanahalli / Gummanahalli, Bagalur, Bengaluru, Karnataka",
     "postalCode": "562149",
-    "description": "Jasper is a residential component of Brigade El Dorado in the Aerospace Park area near Bagalur. Its  2 and 3 BHK plans range from compact Urban layouts to larger Comfort and Grand homes, with access to township amenities",
+    "description": "Jasper is a residential component of Brigade El Dorado in the Aerospace Park area near Bagalur. Its  2 and 3 BHK plans range from compact Urban layouts to larger Comfort and Grand homes, with access to township amenities.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -2997,9 +3141,9 @@
     "nearbyPlaces": [
       {
         "name": "Shell Technology Centre, Bengaluru",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Shell Technology Centre, Bengaluru is a nearby employment (3 km / 6 min).",
+        "description": "Shell Technology Centre, Bengaluru is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 3,
         "travelMinutes": 6,
         "travelMode": null,
@@ -3018,16 +3162,16 @@
       "brigade-el-dorado"
     ],
     "content": {
-      "overviewTitle": "About Jasper at Brigade El Dorado",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Jasper at Brigade El Dorado is located in KIADB Aerospace Park, Huvinayakanahalli / Gummanahalli, Bagalur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Jasper at Brigade El Dorado is recorded at KIADB Aerospace Park, Huvinayakanahalli / Gummanahalli, Bagalur, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -3045,10 +3189,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Brigade Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -3063,7 +3227,7 @@
     "phaseName": "Phases I, II and III",
     "address": "Lakshmipura, NH-648 / Doddaballapur–Devanahalli Road, Devanahalli, Bengaluru, Karnataka",
     "postalCode": "562110",
-    "description": "Brigade Oasis is a phased residential plotted development in the Devanahalli corridor. It offers serviced plots, landscaped recreation areas and community amenities. the developer’s current marketing highlights larger garden plots",
+    "description": "Brigade Oasis is a phased residential plotted development in the Devanahalli corridor. It offers serviced plots, landscaped recreation areas and community amenities. the developer’s current marketing highlights larger garden plots.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -3258,9 +3422,9 @@
     "nearbyPlaces": [
       {
         "name": "NAFL-NPS School",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "NAFL-NPS School is a nearby education.",
+        "description": "NAFL-NPS School is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -3268,9 +3432,9 @@
       },
       {
         "name": "Akash International School",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "Akash International School is a nearby education.",
+        "description": "Akash International School is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -3278,9 +3442,9 @@
       },
       {
         "name": "Stonehill International School",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "Stonehill International School is a nearby education.",
+        "description": "Stonehill International School is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -3315,16 +3479,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Brigade Oasis",
-      "layoutsTitle": "Plot Sizes",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Plot sizes and layout plan",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Brigade Oasis is located in Lakshmipura, NH-648 / Doddaballapur–Devanahalli Road, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Brigade Oasis is recorded at Lakshmipura, NH-648 / Doddaballapur–Devanahalli Road, Devanahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -3342,10 +3506,34 @@
       {
         "question": "Who is the developer?",
         "answer": "Brigade Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "What should I check before booking a plot?",
+        "answer": "Review the selected plot’s dimensions, access, services, applicable permissions, building conditions and handover terms. Have a qualified legal professional review the relevant documents before you commit."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -3360,7 +3548,7 @@
     "phaseName": "Phases I and II",
     "address": "Survey No. 39/1, Lakshmipura Village, Devanahalli, Bengaluru, Karnataka",
     "postalCode": "562110",
-    "description": "Century Seasons is a plotted residential community at Lakshmipura near Devanahalli. The project provides residential plots with landscaped recreation areas, clubhouse facilities and infrastructure for individually built homes",
+    "description": "Century Seasons is a plotted residential community at Lakshmipura near Devanahalli. The project provides residential plots with landscaped recreation areas, clubhouse facilities and infrastructure for individually built homes.",
     "possession": {
       "label": "Ready to move",
       "date": null
@@ -3521,8 +3709,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport (8.3 km).",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 8.3,
         "travelMinutes": null,
         "travelMode": null,
@@ -3531,8 +3719,8 @@
       {
         "name": "Kempalingapura Bus Stop",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempalingapura Bus Stop is a nearby transport (8.9 km / 15 min).",
+        "icon": "TrainFront",
+        "description": "Kempalingapura Bus Stop is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 8.9,
         "travelMinutes": 15,
         "travelMode": null,
@@ -3555,16 +3743,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Century Seasons",
-      "layoutsTitle": "Plot Sizes",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Plot sizes and layout plan",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Century Seasons is located in Survey No. 39/1, Lakshmipura Village, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Century Seasons is recorded at Survey No. 39/1, Lakshmipura Village, Devanahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -3582,10 +3770,34 @@
       {
         "question": "Who is the developer?",
         "answer": "Century Real Estate"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "What should I check before booking a plot?",
+        "answer": "Review the selected plot’s dimensions, access, services, applicable permissions, building conditions and handover terms. Have a qualified legal professional review the relevant documents before you commit."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -3600,7 +3812,7 @@
     "phaseName": null,
     "address": "Off Hennur - Bagaur Rd,  Doddagubbi Main Rd, Kyalasanahalli, Hennur Road, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Disha Harmony Gardens is a 2 and 3 BHK apartment project on Doddagubbi Main Road near Kyalasanahalli, off the Hennur corridor. The development includes three residential towers, Club Harmony and outdoor recreation spaces",
+    "description": "Disha Harmony Gardens is a 2 and 3 BHK apartment project on Doddagubbi Main Road near Kyalasanahalli, off the Hennur corridor. The development includes three residential towers, Club Harmony and outdoor recreation spaces.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -3932,8 +4144,8 @@
       {
         "name": "New Airport Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "New Airport Road is a nearby transport (2.1 km).",
+        "icon": "TrainFront",
+        "description": "New Airport Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -3942,8 +4154,8 @@
       {
         "name": "Bileshivale Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Bileshivale Main Road is a nearby transport (1.7 km).",
+        "icon": "TrainFront",
+        "description": "Bileshivale Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -3953,7 +4165,7 @@
         "name": "Decathlon",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Decathlon is a nearby shopping (2.2 km).",
+        "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 2.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -3994,16 +4206,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Disha Harmony Gardens",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Disha Harmony Gardens is located in Off Hennur - Bagaur Rd,  Doddagubbi Main Rd, Kyalasanahalli, Hennur Road, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Disha Harmony Gardens is recorded at Off Hennur - Bagaur Rd,  Doddagubbi Main Rd, Kyalasanahalli, Hennur Road, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -4021,10 +4233,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Disha Properties"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -4039,7 +4271,7 @@
     "phaseName": "Epitome I",
     "address": "On Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Sumadhura Epitome I is a Mediterranean-inspired apartment development at Rachenahalli near Thanisandra. It offers 2, 3 and 4 BHK layouts across three towers, with corner-home planning, landscaped spaces and a residents’ clubhouse",
+    "description": "Sumadhura Epitome I is a Mediterranean-inspired apartment development at Rachenahalli near Thanisandra. It offers 2, 3 and 4 BHK layouts across three towers, with corner-home planning, landscaped spaces and a residents’ clubhouse.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -4449,8 +4681,8 @@
       {
         "name": "Thanisandra Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Thanisandra Main Road is a nearby transport (1.7 km).",
+        "icon": "TrainFront",
+        "description": "Thanisandra Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -4460,7 +4692,7 @@
         "name": "Elements Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Elements Mall is a nearby shopping (3.1 km).",
+        "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 3.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -4470,7 +4702,7 @@
         "name": "Reliance Digital",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Reliance Digital is a nearby shopping (3.2 km).",
+        "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 3.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -4511,16 +4743,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Sumadhura Epitome I",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Sumadhura Epitome I is located in On Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Sumadhura Epitome I is recorded at On Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -4538,10 +4770,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Sumadhura Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -4556,7 +4808,7 @@
     "phaseName": null,
     "address": "On Subhash Chandra Bose Road, Vidyaranyapura, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Concorde Antares is a residential apartment project near Vidyaranyapura and Chikkabettahalli. Its  inventory spans 2 and 3 BHK apartments, larger 4 BHK homes and penthouses. the   currently reports limited 2 BHK stock and sold-out larger configurations",
+    "description": "Concorde Antares is a residential apartment project near Vidyaranyapura and Chikkabettahalli. Its  inventory spans 2 and 3 BHK apartments, larger 4 BHK homes and penthouses. the   currently reports limited 2 BHK stock and sold-out larger configurations.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -5248,8 +5500,8 @@
       {
         "name": "Hesaraghatta Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Hesaraghatta Road is a nearby transport (1 km).",
+        "icon": "TrainFront",
+        "description": "Hesaraghatta Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1,
         "travelMinutes": null,
         "travelMode": null,
@@ -5258,8 +5510,8 @@
       {
         "name": "Yelahanka Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Yelahanka Road is a nearby transport (2.3 km).",
+        "icon": "TrainFront",
+        "description": "Yelahanka Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.3,
         "travelMinutes": null,
         "travelMode": null,
@@ -5269,7 +5521,7 @@
         "name": "D-Mart",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "D-Mart is a nearby shopping (4 km).",
+        "description": "D-Mart is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 4,
         "travelMinutes": null,
         "travelMode": null,
@@ -5310,16 +5562,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Concorde Antares",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Concorde Antares is located in On Subhash Chandra Bose Road, Vidyaranyapura, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Concorde Antares is recorded at On Subhash Chandra Bose Road, Vidyaranyapura, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -5337,10 +5589,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Concorde Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -5355,7 +5627,7 @@
     "phaseName": null,
     "address": "Survey No. 16, Kannur Village, Bidarahalli Hobli, Bengaluru, Karnataka",
     "postalCode": "560077",
-    "description": "Poulomi Florique is a four-tower apartment development at Kannur in the Thanisandra corridor. Its 3 BHK, maid-room and study-room formats are planned around extensive landscaped open areas, a clubhouse and sports facilities",
+    "description": "Poulomi Florique is a four-tower apartment development at Kannur in the Thanisandra corridor. Its 3 BHK, maid-room and study-room formats are planned around extensive landscaped open areas, a clubhouse and sports facilities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -5583,9 +5855,9 @@
     "nearbyPlaces": [
       {
         "name": "Delhi Public School",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "Delhi Public School is a nearby education (10 min).",
+        "description": "Delhi Public School is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 10,
         "travelMode": null,
@@ -5593,9 +5865,9 @@
       },
       {
         "name": "REVA University",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "REVA University is a nearby education (15 min).",
+        "description": "REVA University is a school or education landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 15,
         "travelMode": null,
@@ -5603,9 +5875,9 @@
       },
       {
         "name": "Manyata Tech Park",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Manyata Tech Park is a nearby employment (15 min).",
+        "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": null,
         "travelMinutes": 15,
         "travelMode": null,
@@ -5614,8 +5886,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport (30 min).",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": null,
         "travelMinutes": 30,
         "travelMode": null,
@@ -5632,16 +5904,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Poulomi Florique",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Poulomi Florique is located in Survey No. 16, Kannur Village, Bidarahalli Hobli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Poulomi Florique is recorded at Survey No. 16, Kannur Village, Bidarahalli Hobli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -5659,10 +5931,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Poulomi Estates"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -5677,7 +5969,7 @@
     "phaseName": null,
     "address": "On Railway Parallel Road, Mestri Palya, Jakkur, Bengaluru, Karnataka",
     "postalCode": "560064",
-    "description": "SNN Estates Felicity is an apartment community at Rachenahalli in the Jakkur–Thanisandra corridor. The project combines a range of compact and larger homes with landscaped gardens, sports amenities and shared leisure spaces",
+    "description": "SNN Estates Felicity is an apartment community at Rachenahalli in the Jakkur–Thanisandra corridor. The project combines a range of compact and larger homes with landscaped gardens, sports amenities and shared leisure spaces.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -6253,8 +6545,8 @@
       {
         "name": "State Highway 104",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "State Highway 104 is a nearby transport (1.7 km).",
+        "icon": "TrainFront",
+        "description": "State Highway 104 is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -6264,7 +6556,7 @@
         "name": "Reliance Digital",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Reliance Digital is a nearby shopping (3.6 km).",
+        "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 3.6,
         "travelMinutes": null,
         "travelMode": null,
@@ -6274,7 +6566,7 @@
         "name": "Decathlon",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Decathlon is a nearby shopping (3.8 km).",
+        "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 3.8,
         "travelMinutes": null,
         "travelMode": null,
@@ -6315,16 +6607,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About SNN Estates Felicity",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "SNN Estates Felicity is located in On Railway Parallel Road, Mestri Palya, Jakkur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "SNN Estates Felicity is recorded at On Railway Parallel Road, Mestri Palya, Jakkur, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -6342,10 +6634,30 @@
       {
         "question": "Who is the developer?",
         "answer": "SNN Estates"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -6360,7 +6672,7 @@
     "phaseName": "Phases 1, 2 and 3",
     "address": "On Navarathna Agrahara Rd, Navarathna Agrahara, Sadahalli, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Bhartiya Garden Estate is a mixed residential community at Navarathna Agrahara near Sadahalli and the airport corridor. Apartments and villa formats are  within a landscaped development, with club, pool, sports and community facilities",
+    "description": "Bhartiya Garden Estate is a mixed residential community at Navarathna Agrahara near Sadahalli and the airport corridor. Apartments and villa formats are  within a landscaped development, with club, pool, sports and community facilities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -6984,9 +7296,9 @@
     "nearbyPlaces": [
       {
         "name": "Prestige Tech Cloud",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Prestige Tech Cloud is a nearby employment (1 km).",
+        "description": "Prestige Tech Cloud is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 1,
         "travelMinutes": null,
         "travelMode": null,
@@ -6996,7 +7308,7 @@
         "name": "Forum Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Forum Mall is a nearby shopping (1.2 km).",
+        "description": "Forum Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 1.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -7005,8 +7317,8 @@
       {
         "name": "Kempagowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempagowda International Airport is a nearby transport (7.9 km).",
+        "icon": "TrainFront",
+        "description": "Kempagowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 7.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -7064,16 +7376,16 @@
       "nikoo-homes-9"
     ],
     "content": {
-      "overviewTitle": "About Bhartiya Garden Estate",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Bhartiya Garden Estate is located in On Navarathna Agrahara Rd, Navarathna Agrahara, Sadahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Bhartiya Garden Estate is recorded at On Navarathna Agrahara Rd, Navarathna Agrahara, Sadahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -7091,10 +7403,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Bhartiya Urban"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -7109,7 +7441,7 @@
     "phaseName": null,
     "address": "Near International Airport, Kannamangala, Devanahalli, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Sattva Vasanta Skye is a residential apartment development at Kannamangala in the Devanahalli airport corridor. The project advertises studio through 4 BHK formats, large landscaped open spaces and a dedicated clubhouse",
+    "description": "Sattva Vasanta Skye is a residential apartment development at Kannamangala in the Devanahalli airport corridor. The project advertises studio through 4 BHK formats, large landscaped open spaces and a dedicated clubhouse.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -7436,8 +7768,8 @@
       {
         "name": "National Highway 44",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "National Highway 44 is a nearby transport (2.3 km).",
+        "icon": "TrainFront",
+        "description": "National Highway 44 is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.3,
         "travelMinutes": null,
         "travelMode": null,
@@ -7447,7 +7779,7 @@
         "name": "Forum Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Forum Mall is a nearby shopping (3.5 km).",
+        "description": "Forum Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 3.5,
         "travelMinutes": null,
         "travelMode": null,
@@ -7456,8 +7788,8 @@
       {
         "name": "International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "International Airport is a nearby transport (6.4 km).",
+        "icon": "TrainFront",
+        "description": "International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 6.4,
         "travelMinutes": null,
         "travelMode": null,
@@ -7498,16 +7830,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Sattva Vasanta Skye",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Sattva Vasanta Skye is located in Near International Airport, Kannamangala, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Sattva Vasanta Skye is recorded at Near International Airport, Kannamangala, Devanahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -7525,10 +7857,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Sattva Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -7543,7 +7895,7 @@
     "phaseName": "Nikoo Homes VI — Phases 1 and 2",
     "address": "Near Kogilu Main Road, Yelahanka, Bengaluru, Karnataka",
     "postalCode": "560064",
-    "description": "Nikoo Homes 6 is Bhartiya Urban’s apartment development on Kogilu Main Road near Yelahanka. It combines family apartments, larger layouts and shared lifestyle facilities. The referenced  inventory is  sold out",
+    "description": "Nikoo Homes 6 is Bhartiya Urban’s apartment development on Kogilu Main Road near Yelahanka. It combines family apartments, larger layouts and shared lifestyle facilities. The referenced  inventory is  sold out.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -8103,8 +8455,8 @@
       {
         "name": "Yelahanka Station",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Yelahanka Station is a nearby transport (2.1 km).",
+        "icon": "TrainFront",
+        "description": "Yelahanka Station is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 2.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -8114,7 +8466,7 @@
         "name": "Garuda Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Garuda Mall is a nearby shopping (4 km).",
+        "description": "Garuda Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 4,
         "travelMinutes": null,
         "travelMode": null,
@@ -8123,8 +8475,8 @@
       {
         "name": "Bagalur Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Bagalur Main Road is a nearby transport (4.3 km).",
+        "icon": "TrainFront",
+        "description": "Bagalur Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 4.3,
         "travelMinutes": null,
         "travelMode": null,
@@ -8182,16 +8534,16 @@
       "bhartiya-garden-estate"
     ],
     "content": {
-      "overviewTitle": "About Nikoo Homes 6",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Nikoo Homes 6 is located in Near Kogilu Main Road, Yelahanka, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Nikoo Homes 6 is recorded at Near Kogilu Main Road, Yelahanka, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -8209,10 +8561,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Bhartiya Urban"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -8227,7 +8599,7 @@
     "phaseName": "Nikoo Homes V — Phases 1 and 2",
     "address": "Near Bhartiya City Back Road,  Thirumenahalli, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Nikoo Homes 5 is an apartment phase within Bhartiya City near Thanisandra and Thirumenahalli. The development offers a range of family layouts with access to community amenities and the wider Bhartiya City setting",
+    "description": "Nikoo Homes 5 is an apartment phase within Bhartiya City near Thanisandra and Thirumenahalli. The development offers a range of family layouts with access to community amenities and the wider Bhartiya City setting.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -8676,7 +9048,7 @@
         "name": "Bhartiya Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Bhartiya Mall is a nearby shopping (0.65 km).",
+        "description": "Bhartiya Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 0.65,
         "travelMinutes": null,
         "travelMode": null,
@@ -8685,8 +9057,8 @@
       {
         "name": "Thanisandra Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Thanisandra Main Road is a nearby transport (1.2 km).",
+        "icon": "TrainFront",
+        "description": "Thanisandra Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -8695,8 +9067,8 @@
       {
         "name": "Thanisandra Station",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Thanisandra Station is a nearby transport (3.9 km).",
+        "icon": "TrainFront",
+        "description": "Thanisandra Station is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 3.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -8748,16 +9120,16 @@
       "bhartiya-garden-estate"
     ],
     "content": {
-      "overviewTitle": "About Nikoo Homes 5",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Nikoo Homes 5 is located in Near Bhartiya City Back Road,  Thirumenahalli, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Nikoo Homes 5 is recorded at Near Bhartiya City Back Road,  Thirumenahalli, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -8775,10 +9147,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Bhartiya Urban"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -8793,7 +9185,7 @@
     "phaseName": "Bhartiya Garden Enclave — Nikoo Homes 8",
     "address": "On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Nikoo Homes 8 is Bhartiya Urban’s apartment development in the Bellahalli–Thanisandra corridor.  layouts range from studios to 4 BHK homes, with landscaped recreation areas, pools, sports spaces and a clubhouse",
+    "description": "Nikoo Homes 8 is Bhartiya Urban’s apartment development in the Bellahalli–Thanisandra corridor.  layouts range from studios to 4 BHK homes, with landscaped recreation areas, pools, sports spaces and a clubhouse.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -9141,8 +9533,8 @@
       {
         "name": "Bellahalli Cross",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Bellahalli Cross is a nearby transport (0.7 km).",
+        "icon": "TrainFront",
+        "description": "Bellahalli Cross is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 0.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -9150,9 +9542,9 @@
       },
       {
         "name": "Bhartiya City",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "Bhartiya City is a nearby transport (2.1 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "Bhartiya City is a sport and recreation landmark to include in your route check.",
         "distanceKm": 2.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -9160,9 +9552,9 @@
       },
       {
         "name": "Reva University",
-        "category": "Education",
+        "category": "School",
         "icon": "GraduationCap",
-        "description": "Reva University is a nearby education (2.8 km).",
+        "description": "Reva University is a school or education landmark to include in your route check.",
         "distanceKm": 2.8,
         "travelMinutes": null,
         "travelMode": null,
@@ -9214,16 +9606,16 @@
       "bhartiya-garden-estate"
     ],
     "content": {
-      "overviewTitle": "About Nikoo Homes 8",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Nikoo Homes 8 is located in On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Nikoo Homes 8 is recorded at On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -9241,10 +9633,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Bhartiya Urban"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -9259,7 +9671,7 @@
     "phaseName": "Alpine, Bhartiya Garden Hill — Phase 1",
     "address": "Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka",
     "postalCode": "562149",
-    "description": "Nikoo Homes 9 is a Bhartiya Urban residential project on KIADB Hardware Park Main Road near Huvinayakanahalli. The  mix includes studios, apartments with flexible rooms and larger loft formats in the Aerospace Park corridor",
+    "description": "Nikoo Homes 9 is a Bhartiya Urban residential project on KIADB Hardware Park Main Road near Huvinayakanahalli. The  mix includes studios, apartments with flexible rooms and larger loft formats in the Aerospace Park corridor.",
     "possession": {
       "label": "New launch",
       "date": null
@@ -9690,8 +10102,8 @@
       {
         "name": "New Airport rd",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "New Airport rd is a nearby transport (0.2 km).",
+        "icon": "TrainFront",
+        "description": "New Airport rd is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 0.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -9699,9 +10111,9 @@
       },
       {
         "name": "Budigere Main Rd",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "Budigere Main Rd is a nearby transport (3.9 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "Budigere Main Rd is a sport and recreation landmark to include in your route check.",
         "distanceKm": 3.9,
         "travelMinutes": null,
         "travelMode": null,
@@ -9709,9 +10121,9 @@
       },
       {
         "name": "Bagalur",
-        "category": "Transport",
-        "icon": "MapPin",
-        "description": "Bagalur is a nearby transport (4.2 km).",
+        "category": "Sports facility",
+        "icon": "Trophy",
+        "description": "Bagalur is a sport and recreation landmark to include in your route check.",
         "distanceKm": 4.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -9739,16 +10151,16 @@
       "bhartiya-garden-estate"
     ],
     "content": {
-      "overviewTitle": "About Nikoo Homes 9",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Nikoo Homes 9 is located in Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Nikoo Homes 9 is recorded at Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -9766,10 +10178,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Bhartiya Urban"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -9784,7 +10216,7 @@
     "phaseName": "Phases I and II",
     "address": "Near Hennur Bagalur Main Road, Hennur Road, Bengaluru, Karnataka",
     "postalCode": "560077",
-    "description": "DNR Parklink is an apartment development on Hennur–Bagalur Main Road at Chikkagubbi. The project advertises landscaped grounds, a large club and amenity zone, pools, sports courts and a range of apartment sizes",
+    "description": "DNR Parklink is an apartment development on Hennur–Bagalur Main Road at Chikkagubbi. The project advertises landscaped grounds, a large club and amenity zone, pools, sports courts and a range of apartment sizes.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -10175,7 +10607,7 @@
         "name": "Decathlon",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Decathlon is a nearby shopping (1.7 km).",
+        "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 1.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -10185,7 +10617,7 @@
         "name": "Bhartiya Mall of Bengaluru",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Bhartiya Mall of Bengaluru is a nearby shopping (1.7 km).",
+        "description": "Bhartiya Mall of Bengaluru is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 1.7,
         "travelMinutes": null,
         "travelMode": null,
@@ -10195,7 +10627,7 @@
         "name": "Reliance Digital",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Reliance Digital is a nearby shopping (2.2 km).",
+        "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 2.2,
         "travelMinutes": null,
         "travelMode": null,
@@ -10242,16 +10674,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About DNR Parklink",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "DNR Parklink is located in Near Hennur Bagalur Main Road, Hennur Road, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "DNR Parklink is recorded at Near Hennur Bagalur Main Road, Hennur Road, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -10269,10 +10701,30 @@
       {
         "question": "Who is the developer?",
         "answer": "DNR Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -10287,7 +10739,7 @@
     "phaseName": null,
     "address": "On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Concorde NEO is a 2 and 3 BHK apartment community in Bellahalli near Thanisandra. Its six towers are planned with landscaped shared spaces, an elevated Evolve clubhouse and indoor and outdoor recreation facilities",
+    "description": "Concorde NEO is a 2 and 3 BHK apartment community in Bellahalli near Thanisandra. Its six towers are planned with landscaped shared spaces, an elevated Evolve clubhouse and indoor and outdoor recreation facilities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -10665,8 +11117,8 @@
       {
         "name": "Kannuru Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kannuru Road is a nearby transport (0.85 km).",
+        "icon": "TrainFront",
+        "description": "Kannuru Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 0.85,
         "travelMinutes": null,
         "travelMode": null,
@@ -10675,8 +11127,8 @@
       {
         "name": "Kogilu Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kogilu Main Road is a nearby transport (1 km).",
+        "icon": "TrainFront",
+        "description": "Kogilu Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 1,
         "travelMinutes": null,
         "travelMode": null,
@@ -10686,7 +11138,7 @@
         "name": "Bhartiya Mall of Bengaluru",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Bhartiya Mall of Bengaluru is a nearby shopping (2.6 km).",
+        "description": "Bhartiya Mall of Bengaluru is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 2.6,
         "travelMinutes": null,
         "travelMode": null,
@@ -10727,16 +11179,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Concorde NEO",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Concorde NEO is located in On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Concorde NEO is recorded at On Thanisandra Main Road, Bellahalli, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -10754,10 +11206,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Concorde Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -10772,7 +11244,7 @@
     "phaseName": null,
     "address": "On Hennur - Bagalur Main Rd, Kannuru, Hennur, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Concorde Sienna is a single-tower 2 and 3 BHK apartment project at Kannuru on Hennur–Bagalur Main Road. The developer describes European-influenced architecture, landscaped spaces and indoor and outdoor leisure facilities",
+    "description": "Concorde Sienna is a single-tower 2 and 3 BHK apartment project at Kannuru on Hennur–Bagalur Main Road. The developer describes European-influenced architecture, landscaped spaces and indoor and outdoor leisure facilities.",
     "possession": {
       "label": "New launch",
       "date": null
@@ -11069,9 +11541,9 @@
     "nearbyPlaces": [
       {
         "name": "United International School",
-        "category": "Education",
-        "icon": "MapPin",
-        "description": "United International School is a nearby education (0.5 km).",
+        "category": "School",
+        "icon": "GraduationCap",
+        "description": "United International School is a school or education landmark to include in your route check.",
         "distanceKm": 0.5,
         "travelMinutes": null,
         "travelMode": null,
@@ -11079,9 +11551,9 @@
       },
       {
         "name": "Legacy School",
-        "category": "Education",
-        "icon": "MapPin",
-        "description": "Legacy School is a nearby education (3 km).",
+        "category": "School",
+        "icon": "GraduationCap",
+        "description": "Legacy School is a school or education landmark to include in your route check.",
         "distanceKm": 3,
         "travelMinutes": null,
         "travelMode": null,
@@ -11089,9 +11561,9 @@
       },
       {
         "name": "Manyata Tech Park",
-        "category": "Employment",
-        "icon": "MapPin",
-        "description": "Manyata Tech Park is a nearby employment (8 km).",
+        "category": "Workplace",
+        "icon": "BriefcaseBusiness",
+        "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 8,
         "travelMinutes": null,
         "travelMode": null,
@@ -11100,8 +11572,8 @@
       {
         "name": "Elements Mall",
         "category": "Shopping",
-        "icon": "MapPin",
-        "description": "Elements Mall is a nearby shopping (7 km).",
+        "icon": "ShoppingBag",
+        "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 7,
         "travelMinutes": null,
         "travelMode": null,
@@ -11109,9 +11581,9 @@
       },
       {
         "name": "Aster CMI Hospital",
-        "category": "Healthcare",
-        "icon": "MapPin",
-        "description": "Aster CMI Hospital is a nearby healthcare (12 km).",
+        "category": "Hospital",
+        "icon": "Hospital",
+        "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
         "distanceKm": 12,
         "travelMinutes": null,
         "travelMode": null,
@@ -11120,8 +11592,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport (21 km).",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 21,
         "travelMinutes": null,
         "travelMode": null,
@@ -11162,16 +11634,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Concorde Sienna",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Concorde Sienna is located in On Hennur - Bagalur Main Rd, Kannuru, Hennur, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Concorde Sienna is recorded at On Hennur - Bagalur Main Rd, Kannuru, Hennur, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -11189,10 +11661,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Concorde Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -11207,7 +11699,7 @@
     "phaseName": "Phases I and II",
     "address": "Embassy Manyata Tech Park, Nagavara, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "Lodha Mirabelle is a residential apartment development beside the Manyata employment district in North Bengaluru. Its  offering includes large apartments with study spaces and penthouses, supported by landscaped open areas, club facilities and sports amenities",
+    "description": "Lodha Mirabelle is a residential apartment development beside the Manyata employment district in North Bengaluru. Its  offering includes large apartments with study spaces and penthouses, supported by landscaped open areas, club facilities and sports amenities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -11495,7 +11987,7 @@
         "name": "Elements Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Elements Mall is a nearby shopping (0.65 km).",
+        "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": 0.65,
         "travelMinutes": null,
         "travelMode": null,
@@ -11504,8 +11996,8 @@
       {
         "name": "Nagawara Metro Station",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Nagawara Metro Station is a nearby transport (0.65 km).",
+        "icon": "TrainFront",
+        "description": "Nagawara Metro Station is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 0.65,
         "travelMinutes": null,
         "travelMode": null,
@@ -11514,8 +12006,8 @@
       {
         "name": "Rachenahalli Main Road",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Rachenahalli Main Road is a nearby transport (3.1 km).",
+        "icon": "TrainFront",
+        "description": "Rachenahalli Main Road is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": 3.1,
         "travelMinutes": null,
         "travelMode": null,
@@ -11562,16 +12054,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Lodha Mirabelle",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Lodha Mirabelle is located in Embassy Manyata Tech Park, Nagavara, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Lodha Mirabelle is recorded at Embassy Manyata Tech Park, Nagavara, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -11589,10 +12081,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Lodha Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -11607,7 +12119,7 @@
     "phaseName": "Laurel and Maple",
     "address": "Brigade Orchards, Boodihal, Devanahalli, Bengaluru, Karnataka",
     "postalCode": "562110",
-    "description": "Laurel & Maple is a multigenerational apartment development within Brigade Orchards at Devanahalli, with senior-oriented services operated by Primus. The 1, 2 and 3 bedroom homes are planned with accessible common areas, safety provisions and shared wellness and leisure facilities",
+    "description": "Laurel & Maple is a multigenerational apartment development within Brigade Orchards at Devanahalli, with senior-oriented services operated by Primus. The 1, 2 and 3 bedroom homes are planned with accessible common areas, safety provisions and shared wellness and leisure facilities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -11826,8 +12338,8 @@
       {
         "name": "Kempegowda International Airport",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Kempegowda International Airport is a nearby transport.",
+        "icon": "TrainFront",
+        "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": null,
         "travelMinutes": null,
         "travelMode": null,
@@ -11844,16 +12356,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About Laurel & Maple at Brigade Orchards",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "Laurel & Maple at Brigade Orchards is located in Brigade Orchards, Boodihal, Devanahalli, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "Laurel & Maple at Brigade Orchards is recorded at Brigade Orchards, Boodihal, Devanahalli, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -11871,10 +12383,30 @@
       {
         "question": "Who is the developer?",
         "answer": "Brigade Group"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   },
   {
     "schemaVersion": 2,
@@ -11889,7 +12421,7 @@
     "phaseName": null,
     "address": "Next to Rachenahalli Lake, behind Manyata Tech Park, Thanisandra, Bengaluru, Karnataka",
     "postalCode": null,
-    "description": "SB Urban Park is a lakeside apartment development at Rachenahalli near Manyata Business Park. It offers 3 BHK and 3 BHK duplex homes in a low-density community, with landscaped open spaces and leisure amenities",
+    "description": "SB Urban Park is a lakeside apartment development at Rachenahalli near Manyata Business Park. It offers 3 BHK and 3 BHK duplex homes in a low-density community, with landscaped open spaces and leisure amenities.",
     "possession": {
       "label": "Under construction",
       "date": null
@@ -12150,9 +12682,9 @@
     "nearbyPlaces": [
       {
         "name": "Manyata Business Park",
-        "category": "Employment",
+        "category": "Workplace",
         "icon": "BriefcaseBusiness",
-        "description": "Manyata Business Park is a nearby employment (0.85 km).",
+        "description": "Manyata Business Park is a workplace landmark to compare from the exact project entrance.",
         "distanceKm": 0.85,
         "travelMinutes": null,
         "travelMode": null,
@@ -12161,8 +12693,8 @@
       {
         "name": "Rachenahalli Bus Stop",
         "category": "Transport",
-        "icon": "MapPin",
-        "description": "Rachenahalli Bus Stop is a nearby transport (5 min).",
+        "icon": "TrainFront",
+        "description": "Rachenahalli Bus Stop is a transport or road landmark to compare with the route you expect to use.",
         "distanceKm": null,
         "travelMinutes": 5,
         "travelMode": "walking",
@@ -12172,7 +12704,7 @@
         "name": "Elements Mall",
         "category": "Shopping",
         "icon": "ShoppingBag",
-        "description": "Elements Mall is a nearby shopping (10 min).",
+        "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 10,
         "travelMode": null,
@@ -12180,9 +12712,9 @@
       },
       {
         "name": "Aster CMI Hospital",
-        "category": "Healthcare",
+        "category": "Hospital",
         "icon": "Hospital",
-        "description": "Aster CMI Hospital is a nearby healthcare (15 min).",
+        "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
         "distanceKm": null,
         "travelMinutes": 15,
         "travelMode": null,
@@ -12199,16 +12731,16 @@
     ],
     "relatedPropertyIds": [],
     "content": {
-      "overviewTitle": "About SB Urban Park",
-      "layoutsTitle": "Homes and Floor Plans",
+      "overviewTitle": "Project overview",
+      "layoutsTitle": "Available layouts and areas",
       "layoutsNote": "",
-      "amenitiesTitle": "Amenities",
+      "amenitiesTitle": "Amenities and their status",
       "amenitiesNote": "",
-      "locationTitle": "Location",
-      "locationDescription": "SB Urban Park is located in Next to Rachenahalli Lake, behind Manyata Tech Park, Thanisandra, Bengaluru, Karnataka, with access to nearby workplaces, schools, retail and daily conveniences.",
-      "documentsTitle": "Project Documents",
-      "documentsDescription": "",
-      "faqsTitle": "Questions"
+      "locationTitle": "Location and everyday routes",
+      "locationDescription": "SB Urban Park is recorded at Next to Rachenahalli Lake, behind Manyata Tech Park, Thanisandra, Bengaluru, Karnataka. Use the map and landmarks to compare routes from the exact project entrance before you decide.",
+      "documentsTitle": "Registration and documents",
+      "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+      "faqsTitle": "Questions before you book"
     },
     "faqs": [
       {
@@ -12226,9 +12758,29 @@
       {
         "question": "Who is the developer?",
         "answer": "SB Urbanscapes"
+      },
+      {
+        "question": "Are the displayed prices the complete purchase cost?",
+        "answer": "Check the price basis for the specific layout or unit. Additional charges can vary by transaction. Request an itemised cost sheet showing the applicable taxes, registration costs, maintenance or deposits and other charges before you decide."
+      },
+      {
+        "question": "How do I know which area figure is shown?",
+        "answer": "The page labels whether a figure is carpet area, built-up area, super built-up area or plot area where that basis is recorded. Compare homes using the same basis and ask for the relevant plan and transaction documents when the basis is unclear."
+      },
+      {
+        "question": "Can I visit a property before booking?",
+        "answer": "You can request a visit to the properties you are considering. Our team will confirm current access, availability and appointment details with the relevant developer or seller."
+      },
+      {
+        "question": "Does one project status apply to every home?",
+        "answer": "A development can contain separate phases or blocks with different completion and handover schedules. Check the information and documents for the exact phase and unit you intend to buy."
+      },
+      {
+        "question": "Does Aaramv guarantee legal clearance or loan approval?",
+        "answer": "Legal conclusions should come from an independent qualified legal professional. Loan eligibility and sanction are decided by the lender. Aaramv’s coordination support does not replace those decisions."
       }
     ],
     "sources": [],
-    "updatedAt": "2026-10-02"
+    "updatedAt": "2026-10-12"
   }
 ]

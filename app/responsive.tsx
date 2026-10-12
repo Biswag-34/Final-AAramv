@@ -3,6 +3,7 @@
 import {useEffect, useId, useState} from 'react';
 import useEmblaCarousel from 'embla-carousel-react';
 import Link from 'next/link';
+import {Brand} from '@/components/brand';
 import {usePathname, useRouter, useSearchParams} from 'next/navigation';
 import {ArrowRight, ArrowUpRight, Building2, Check, ChevronDown, ChevronLeft, ChevronRight, Compass, Heart, MapPin, Menu, Search, ShieldCheck, SlidersHorizontal, X, Images, Phone} from 'lucide-react';
 import {Sheet, SheetContent, SheetDescription, SheetTitle} from '@/components/ui/sheet';
@@ -19,7 +20,7 @@ import {PropertyPrice} from '@/components/property-summary';
 export type ResponsiveActions = {saved: string[]; toggle: (id: string) => void; enquire: (context: string, project?: string) => void};
 
 function ResponsiveBrand() {
-  return <Link href="/" className="r-brand" aria-label="Aaramv Realty home"><Building2 size={27} strokeWidth={1.5}/><span>aaramv<span className="r-brand-dot">.</span><small>REALTY</small></span></Link>;
+  return <Brand className="r-brand"/>;
 }
 export function ResponsiveHeader({saved, enquire}: ResponsiveActions) {
   const path = usePathname();
