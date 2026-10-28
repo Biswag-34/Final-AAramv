@@ -29,6 +29,7 @@ const common = {
 export const propertySchema = z.object({
   ...common, localityId: id, type: z.enum(['Apartment', 'Villa', 'Plot', 'Row House', 'Apartment and Villa']), status: z.enum(['Ready to move', 'Under construction', 'New launch']),
   developerName: text.nullable(), phaseName: text.nullable(), address: text.nullable(), postalCode: z.string().regex(/^\d{6}$/).nullable(),
+  totalUnits: z.number().int().positive().nullable().optional(),
   description: text, possession: z.object({ label: text, date: date.nullable() }).strict(),
   primaryConfigurationId: id, configurations: z.array(configuration).min(1),
   icons: z.object({ configuration: icon, area: icon, status: icon, possession: icon, location: icon }).strict(),

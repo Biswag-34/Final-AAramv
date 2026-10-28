@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { catalogSchema, propertySchema, localitySchema } from '../lib/catalog-schema.ts';
-import { createCatalog, filterProperties, budgetBounds, formatArea, formatInr, bedroomLabel, configurationSummary, propertyPriceSummary, mapEmbedUrl } from '../lib/catalog.ts';
+import { createCatalog, filterProperties, budgetBounds, formatArea, formatInr, bedroomLabel, configurationSummary, propertyPriceSummary, mapEmbedUrl, propertyHref, selectPropertyLayout, possessionDate, projectUnitCount, cardConfigurationSummary } from '../lib/catalog.ts';
 import { parseSavedHomes, serializeSavedHomes } from '../lib/saved-homes.ts';
 
 const read = async file => JSON.parse(await readFile(new URL(`../${file}`, import.meta.url), 'utf8'));
@@ -110,6 +110,32 @@ test('bedrooms and price must match the same configuration and cards use that un
   const match = filterProperties([p], { bedrooms: 2, maxPriceInr: 10000000 })[0];
   assert.equal(match.price, 0.8); assert.equal(match.area, 1100); assert.equal(match.bhk, 2);
 });
+
+test('unfiltered cards retain the canonical detail layout and filtered links preserve their selected offer', () => {
+  const p = clone(catalog.properties[0]);
+  p.configurations = [
+    {...p.primary, id:'canonical', bedrooms:3, areaSqFt:1800, startingPriceInr:20000000, availability:'available'},
+    {...p.primary, id:'smaller', bedrooms:2, areaSqFt:1100, startingPriceInr:8000000, availability:'available'},
+  ];
+  p.primary = p.configurations[0];
+  assert.equal(filterProperties([p])[0].primary.id, 'canonical');
+  const result = filterProperties([p], {bedrooms:2,maxPriceInr:10000000})[0];
+  const url = new URL(propertyHref(result), 'http://localhost');
+  const detail = selectPropertyLayout(p, url.searchParams.get('layout'));
+  assert.equal(detail.primary.id, result.primary.id);
+  assert.equal(detail.area, result.area);
+  assert.equal(detail.price, result.price);
+  assert.equal(selectPropertyLayout(p, 'missing-layout').primary.id, 'canonical');
+});
+
+test('possession tiles never substitute launch or construction labels for dates', () => {
+  for (const label of ['New launch','Under construction','Ready to move']) assert.equal(possessionDate({possession:{label,date:null}}), 'Date not confirmed');
+});
+
+test('Bhartiya City links resolve all matching developer records', () => {
+  const expected=catalog.properties.filter(p=>/bhartiya/i.test(p.developerName||'')).map(p=>p.id);
+  for (const query of ['Bhartiya City','Bhartiya Urban']) assert.deepEqual(filterProperties(catalog.properties,{query}).map(p=>p.id),expected);
+});
 test('sold-out units do not match configuration filters', () => {
   const p = clone(catalog.properties[0]); p.configurations.forEach(c => c.availability = 'sold-out');
   assert.equal(filterProperties([p], { bedrooms: 3 }).length, 0);
@@ -160,4 +186,21 @@ test('villa collection includes villas, row houses and mixed projects with legac
 });
 test('market minimum cannot exceed maximum', () => {
   assert.equal(mutate(d => d.localities[0].market = { summary: 'test', minPricePerSqFtInr: 9000, maxPricePerSqFtInr: 8000, rentalYieldPercent: null, asOf: null, sourceUrl: null }).success, false);
+});
+
+
+test('project unit totals prefer explicit data and never substitute phase counts or area values', () => {
+  const p = clone(catalog.properties.find(p => p.id === 'sumadhura-epitome-i'));
+  assert.equal(projectUnitCount(p), 262);
+  assert.equal(projectUnitCount({...p,totalUnits:300}),300);
+  assert.equal(projectUnitCount({...p,facts:[{label:'Phase II Homes',value:'798'},{label:'Land Area',value:'18'}]}),null);
+  assert.equal(projectUnitCount({...p,facts:[{label:'Total units',value:'1,250'}]}),1250);
+  assert.equal(propertySchema.safeParse({...input.properties[0],totalUnits:-1}).success,false);
+});
+
+test('card configurations include the full project offer and actual plot sizes', () => {
+  const p = catalog.properties.find(p => p.id === 'prestige-finsbury-park');
+  assert.equal(cardConfigurationSummary(p),'1, 2, 3 BHK');
+  const plot = catalog.properties.find(p => p.id === 'earthsong-by-manyata');
+  assert.match(cardConfigurationSummary(plot),/1,200.*1,500.*2,400.*4,300 sq ft plots/);
 });

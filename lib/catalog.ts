@@ -6,6 +6,15 @@ export const formatInr = (rupees: number | null) => formatPrice(rupees === null 
 export const bedroomLabel = (bedrooms: number | null, type: string) => type === 'Plot' ? 'Plot' : bedrooms === null ? 'On request' : bedrooms === 0 ? 'Studio' : `${bedrooms} BHK`;
 export const normalizeSearch = (value: string) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 export const propertyType = (type: string) => type === 'Row House' || type === 'Apartment and Villa' ? 'Villa' : type;
+export const areaBasisLabel = (basis: string) => basis === 'unspecified' ? 'Area basis not confirmed' : `${basis.replaceAll('-', ' ')} area`;
+export const configurationTransaction = (configuration: PropertyRecord['configurations'][number]) => /\bresale\b/i.test(configuration.label) ? 'Resale' : 'Transaction type to confirm';
+export const recordDate = (value: string | null) => value ? new Date(`${value}T00:00:00`).toLocaleDateString('en-IN', {day:'numeric', month:'short', year:'numeric'}) : 'Date not recorded';
+export const possessionDate = (p: Pick<PropertyRecord, 'possession'>) => p.possession.date ? recordDate(p.possession.date) : 'Date not confirmed';
+export const propertyHref = (p: Property) => `/properties/${p.id}?layout=${encodeURIComponent(p.primary.id)}`;
+export function selectPropertyLayout(p: Property, id: string | null) {
+  const primary = p.configurations.find(c => c.id === id) || p.primary;
+  return {...p, primary, area: primary.areaSqFt, bhk: primary.bedrooms, price: primary.startingPriceInr === null ? null : primary.startingPriceInr / 10000000};
+}
 
 export function createCatalog(records: { properties: PropertyRecord[]; localities: LocalityRecord[] }) {
   const localities = records.localities.filter(l => l.published).map(l => {
@@ -47,6 +56,18 @@ export function propertyPriceSummary(p: Pick<Property, 'configurations'>) {
   const partial = prices.length < configurations.length;
   return {label: min === max ? formatInr(min) : `${formatInr(min)} - ${formatInr(max)}`, note: partial ? 'Listed prices; other layouts on request' : 'Across listed layouts; availability on request', min, max};
 }
+export function projectUnitCount(p: Pick<Property, 'facts' | 'totalUnits'>): number | null {
+  if (p.totalUnits) return p.totalUnits;
+  const fact = p.facts.find(f => /^(?:total units|total homes|units|homes(?: by)?|apartments|row houses(?: by)?|plots(?: by)?)$/i.test(f.label.trim()));
+  const value = String(fact?.value ?? '').replaceAll(',', '').trim();
+  return /^\d+$/.test(value) && Number(value) > 0 ? Number(value) : null;
+}
+
+export function cardConfigurationSummary(p: Pick<Property, 'type' | 'configurations'>) {
+  if (p.type !== 'Plot') return configurationSummary(p);
+  const areas = [...new Set(p.configurations.filter(c => c.availability !== 'sold-out').flatMap(c => c.areaSqFt === null ? [] : [c.areaSqFt]))].sort((a,b) => a-b);
+  return areas.length ? `${areas.map(a => a.toLocaleString('en-IN')).join(', ')} sq ft plots` : 'Residential plots';
+}
 export function mapEmbedUrl(record: Pick<PropertyRecord, 'coordinates' | 'mapUrl'>) {
   let query = record.coordinates ? `${record.coordinates.latitude},${record.coordinates.longitude}` : null;
   if (!query && record.mapUrl) {
@@ -61,14 +82,15 @@ export type PropertyFilters = { query?: string; type?: string; status?: string; 
 
 export function filterProperties(properties: Property[], filters: PropertyFilters = {}) {
   const words = normalizeSearch(filters.query || '').split(' ').filter(Boolean);
+  const bhartiyaDeveloper = ['bhartiya city', 'bhartiya urban'].includes(words.join(' '));
   const budgetActive = filters.minPriceInr !== undefined || filters.maxPriceInr !== undefined;
   const configActive = budgetActive || filters.bedrooms !== undefined;
   const matchesConfiguration = (c: Property['primary']) => c.availability !== 'sold-out' && (filters.bedrooms === undefined || c.bedrooms === filters.bedrooms) && (!budgetActive || c.startingPriceInr !== null && c.startingPriceInr >= (filters.minPriceInr ?? 0) && c.startingPriceInr <= (filters.maxPriceInr ?? Infinity));
-  const results = properties.filter(p => words.every(word => p.searchText.includes(word)) && (!filters.type || p.type === propertyType(filters.type)) && (!filters.status || p.status === filters.status) && (!filters.localityId || p.localityId === filters.localityId) && (!filters.savedIds || filters.savedIds.includes(p.id)) && (!configActive || p.configurations.some(matchesConfiguration)));
+  const results = properties.filter(p => (bhartiyaDeveloper ? /bhartiya/i.test(p.developerName || '') : words.every(word => p.searchText.includes(word))) && (!filters.type || p.type === propertyType(filters.type)) && (!filters.status || p.status === filters.status) && (!filters.localityId || p.localityId === filters.localityId) && (!filters.savedIds || filters.savedIds.includes(p.id)) && (!configActive || p.configurations.some(matchesConfiguration)));
   // The matching configuration drives the result card and sort, not an unrelated base unit.
   const cards = results.map(p => {
     const configurations = p.configurations.filter(c => configActive ? matchesConfiguration(c) : c.availability !== 'sold-out');
-    const primary = configurations.toSorted((a, b) => (a.startingPriceInr ?? Infinity) - (b.startingPriceInr ?? Infinity))[0] ?? p.primary;
+    const primary = !configActive && p.primary.availability !== 'sold-out' ? p.primary : configurations.toSorted((a, b) => (a.startingPriceInr ?? Infinity) - (b.startingPriceInr ?? Infinity))[0] ?? p.primary;
     return { ...p, primary, bhk: primary.bedrooms, area: primary.areaSqFt, price: primary.startingPriceInr === null ? null : primary.startingPriceInr / 10000000 };
   });
   if (filters.sort?.startsWith('Price:')) cards.sort((a, b) => a.price === null ? b.price === null ? 0 : 1 : b.price === null ? -1 : filters.sort === 'Price: high to low' ? b.price - a.price : a.price - b.price);
