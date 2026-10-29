@@ -1,0 +1,44 @@
+[
+  {
+    "projectId": "prestige-finsbury-park",
+    "configurationId": "configuration-11",
+    "label": "1 BHK — 676 sq ft — Hyde resale listing",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "configurationId": "configuration-1",
+    "label": "1 BHK — Iridium",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "configurationId": "configuration-2",
+    "label": "1.5 BHK — Iridium",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "configurationId": "configuration-3",
+    "label": "1 BHK — Cobalt",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "configurationId": "configuration-4",
+    "label": "1 BHK — Beryl",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "dnr-parklink",
+    "configurationId": "configuration-8",
+    "label": "1 BHK — 700 sq ft — developer- format",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "sb-urban-park",
+    "configurationId": "configuration-1",
+    "label": "3 BHK · 1,605 sq ft current website reference",
+    "reason": "Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  }
+]

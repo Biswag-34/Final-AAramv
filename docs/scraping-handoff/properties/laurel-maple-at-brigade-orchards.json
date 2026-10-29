@@ -1,0 +1,992 @@
+{
+  "schemaVersion": 2,
+  "id": "laurel-maple-at-brigade-orchards",
+  "published": true,
+  "isDemo": false,
+  "name": "Laurel & Maple at Brigade Orchards",
+  "localityId": "devanahalli-boodihal",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Brigade Group",
+  "phaseName": "Laurel and Maple",
+  "address": "Brigade Orchards, NH 207, Boodigere Road, Brigade Orchards Spinal Road, Boodihal, Devanahalli, Bengaluru Rural, Karnataka",
+  "postalCode": "562110",
+  "description": "Laurel & Maple is a multigenerational apartment development within Brigade Orchards, combining independent homes with a service-led community proposition operated by Primus. Brigade describes 311 one-, two- and three-bedroom homes across 2.5 acres. Planned dining, housekeeping, concierge and healthcare-related services distinguish the offering from a conventional apartment development.",
+  "possession": {
+    "label": "March 2030, secondary registry reference",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-rural/laurel-maple-at-brigade-orchards/14376",
+    "sourceId": "SRC-127",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2030,
+    "month": 3
+  },
+  "searchKeywords": [
+    "Laurel & Maple at Brigade Orchards",
+    "Brigade Group",
+    "Devanahalli - Boodihal",
+    "Bangalore",
+    "Bengaluru",
+    "Brigade Laurel and Mapple",
+    "Brigade Laurel and Maple"
+  ],
+  "coverImageId": "developer-external-view",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/cover.webp",
+      "alt": "Laurel & Maple at Brigade Orchards — Laurel and Maple at Brigade Orchards",
+      "caption": "Laurel & Maple at Brigade Orchards · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeorchards.com/assets/images/laurel.webp",
+      "width": 310,
+      "height": 480,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "84893d420dacc2c03f49deda320d01d1944dd534412f93823db0a1800648e1b4",
+      "bytes": 20854
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/image-2.webp",
+      "alt": "Laurel & Maple at Brigade Orchards — Aug 2026 - Retaining wall, Footings, Columns Works in Progress",
+      "caption": "Laurel & Maple at Brigade Orchards Aug 2026 Retaining wall, Footings, Columns Works in Progress",
+      "kind": "construction",
+      "credit": "",
+      "sourceUrl": "https://cdn.brigadegroup.com/properties/statusgallery/17884124906a99024a2546c.jpg",
+      "width": 1440,
+      "height": 735,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "f37d02d677d6be361a30305058e793ef167af60444b5667945c96f8d078bd07b",
+      "bytes": 191240
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/image-3.webp",
+      "alt": "Laurel & Maple at Brigade Orchards — Aug 2026 - Upper Basement Shuttering Works In Progress",
+      "caption": "Laurel & Maple at Brigade Orchards Aug 2026 Upper Basement Shuttering Works In Progress",
+      "kind": "construction",
+      "credit": "",
+      "sourceUrl": "https://cdn.brigadegroup.com/properties/statusgallery/17884125086a99025c11e9a.jpg",
+      "width": 1440,
+      "height": 735,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "eee75c347fe791a02d53dbb62d99447453c28a7c7ffb8e36d9b768b39bd095b8",
+      "bytes": 223138
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-hero.webp",
+      "alt": "laurel-maple-at-brigade-orchards — developer project visual",
+      "caption": "Laurel & Maple at Brigade Orchards · Developer visual",
+      "kind": "exterior",
+      "credit": "Brigade Group published project visual",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/a3/f7/a3f7db4a-f17a-4ab0-afd5-41f974856fac/lm_1920x700.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 525,
+      "sourcePageUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+      "usage": "project-content",
+      "sha256": "ac61e53879997e2b5fba54b387e58ab7aefb7e60bf572ac5e3c5c35349400f14",
+      "bytes": 27178
+    },
+    {
+      "id": "developer-plan-p19",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p19.webp",
+      "alt": "Laurel: 1 BHK, 902 sq ft SBUA, developer brochure page 19",
+      "caption": "Laurel: 1 BHK, 902 sq ft SBUA, developer brochure page 19",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 19,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "b0a6f3f049763154a35a891cc3ab798597ffb45aa02c59e78af214822769e986",
+      "bytes": 98452
+    },
+    {
+      "id": "developer-plan-p20",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p20.webp",
+      "alt": "Laurel: 1 BHK, 1204 sq ft SBUA, developer brochure page 20",
+      "caption": "Laurel: 1 BHK, 1204 sq ft SBUA, developer brochure page 20",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 20,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "84d6e9510b8df38ee09dc0d710187c05bc01927df07cf54535aee74ef77793bc",
+      "bytes": 89932
+    },
+    {
+      "id": "developer-plan-p21",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p21.webp",
+      "alt": "Laurel: 2 BHK, 1397 sq ft SBUA, developer brochure page 21",
+      "caption": "Laurel: 2 BHK, 1397 sq ft SBUA, developer brochure page 21",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 21,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "c85a202d176756f8b7f31955cf8c9c501252cf9627f7f69de809c34ef736ed64",
+      "bytes": 96806
+    },
+    {
+      "id": "developer-plan-p22",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p22.webp",
+      "alt": "Laurel: 2 BHK, 1461 sq ft SBUA, developer brochure page 22",
+      "caption": "Laurel: 2 BHK, 1461 sq ft SBUA, developer brochure page 22",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 22,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "ddbf074529455254ba4f9b50202dda3cf87af1cb9b14dc30eb34c3f97802ee50",
+      "bytes": 102530
+    },
+    {
+      "id": "developer-plan-p24",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p24.webp",
+      "alt": "Maple: 1 BHK, 749 sq ft SBUA, developer brochure page 24",
+      "caption": "Maple: 1 BHK, 749 sq ft SBUA, developer brochure page 24",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 24,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "84799642091daf754d9b12e52e6e98a339e4418d599a6f0f3e46a747211abfe5",
+      "bytes": 86262
+    },
+    {
+      "id": "developer-plan-p25",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p25.webp",
+      "alt": "Maple: 1 BHK, 916 sq ft SBUA, developer brochure page 25",
+      "caption": "Maple: 1 BHK, 916 sq ft SBUA, developer brochure page 25",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 25,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "f305fee642a5dbd375bdcc8898a52a6fbc1b4fca05aef182b349861e570561c4",
+      "bytes": 84216
+    },
+    {
+      "id": "developer-plan-p26",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p26.webp",
+      "alt": "Maple: 2 BHK, 1196 sq ft SBUA, developer brochure page 26",
+      "caption": "Maple: 2 BHK, 1196 sq ft SBUA, developer brochure page 26",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 26,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "e0d37700801db14c5ad1cc55cfe2e158301371d1256ad5f6e16ff6e7a5a997e9",
+      "bytes": 94500
+    },
+    {
+      "id": "developer-plan-p27",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p27.webp",
+      "alt": "Maple: 2 BHK, 1224 sq ft SBUA, developer brochure page 27",
+      "caption": "Maple: 2 BHK, 1224 sq ft SBUA, developer brochure page 27",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 27,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "4d8b63e95a379c0fc9158c925c369f18816c81147fe36c6d87bd96d0a1147049",
+      "bytes": 97610
+    },
+    {
+      "id": "developer-plan-p28",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p28.webp",
+      "alt": "Maple: 3 BHK, 1550 sq ft SBUA, developer brochure page 28",
+      "caption": "Maple: 3 BHK, 1550 sq ft SBUA, developer brochure page 28",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 28,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "5b24f068facfbec017349f55fc15014904376cab6ac3292e7d71ffa39704eab6",
+      "bytes": 99318
+    },
+    {
+      "id": "developer-plan-p29",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-plan-p29.webp",
+      "alt": "Maple: 3 BHK, 1647 sq ft SBUA, developer brochure page 29",
+      "caption": "Maple: 3 BHK, 1647 sq ft SBUA, developer brochure page 29",
+      "kind": "floor-plan",
+      "credit": "Project material published by Brigade Group.",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 29,
+      "width": 1684,
+      "height": 1191,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "sourceDocumentUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "usage": "project-content",
+      "sha256": "5f1ce28f7ab61f07f1e241f4ccc39d7c766f50dd1e9266995db2efd919608c3b",
+      "bytes": 99662
+    },
+    {
+      "id": "developer-external-view",
+      "src": "/images/projects/laurel-maple-at-brigade-orchards/developer-external-view.webp",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/06/da/06da6b58-4caa-4da4-8bb9-85441ccbb229/1_1.webp",
+      "sourcePageUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+      "alt": "Laurel & Maple · developer exterior artist impression",
+      "caption": "Laurel & Maple · developer exterior artist impression",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1050,
+      "height": 550,
+      "bytes": 123568,
+      "sha256": "23cdc81ca898b525bd163091c9970a2d1ddab45d661a0a7cb4f854badcd3fee1"
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Laurel%20%26%20Maple%20at%20Brigade%20Orchards%2C%20Brigade%20Orchards%2C%20NH%20207%2C%20Boodigere%20Road%2C%20Brigade%20Orchards%20Spinal%20Road%2C%20Boodihal%2C%20Devanahalli%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+  "primaryConfigurationId": "configuration-2",
+  "configurations": [
+    {
+      "id": "configuration-2",
+      "label": "Laurel · 1 BHK · 902 sq ft",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 902,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p19",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "phaseName": "Laurel",
+      "carpetAreaSqFt": 510.86,
+      "sourcePageNumber": 19,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-laurel-1-bhk-1-204-sq-ft-1204",
+      "label": "Laurel · 1 BHK · 1,204 sq ft",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "areaSqFt": 1204,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p20",
+      "phaseName": "Laurel",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 695.57,
+      "sourcePageNumber": 20,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-laurel-2-bhk-1-397-sq-ft-1397",
+      "label": "Laurel · 2 BHK · 1,397 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1397,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p21",
+      "phaseName": "Laurel",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 822.8,
+      "sourcePageNumber": 21,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-laurel-2-bhk-1-461-sq-ft-1461",
+      "label": "Laurel · 2 BHK · 1,461 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1461,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p22",
+      "phaseName": "Laurel",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 850.79,
+      "sourcePageNumber": 22,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-1",
+      "label": "Maple · 1 BHK · 749 sq ft",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 749,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p24",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "phaseName": "Maple",
+      "carpetAreaSqFt": 448.54,
+      "sourcePageNumber": 24,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "Maple · 1 BHK · 916 sq ft",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 916,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p25",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "phaseName": "Maple",
+      "carpetAreaSqFt": 533.79,
+      "sourcePageNumber": 25,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-maple-2-bhk-1-196-sq-ft-1196",
+      "label": "Maple · 2 BHK · 1,196 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1196,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p26",
+      "phaseName": "Maple",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 722.59,
+      "sourcePageNumber": 26,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-maple-2-bhk-1-224-sq-ft-1224",
+      "label": "Maple · 2 BHK · 1,224 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1224,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p27",
+      "phaseName": "Maple",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 742.18,
+      "sourcePageNumber": 27,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-maple-3-bhk-1-550-sq-ft-1550",
+      "label": "Maple · 3 BHK · 1,550 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1550,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p28",
+      "phaseName": "Maple",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 972.1,
+      "sourcePageNumber": 28,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-maple-3-bhk-1-647-sq-ft-1647",
+      "label": "Maple · 3 BHK · 1,647 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1647,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p29",
+      "phaseName": "Maple",
+      "sourceIds": [
+        "SRC-126"
+      ],
+      "carpetAreaSqFt": 1051.21,
+      "sourcePageNumber": 29,
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 2.5,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 2,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Laurel and Maple: ground + 8 upper floors in developer unit plans",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 311,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "749–1647",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "2.5 acres with 311 homes",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "One two and three bedroom formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Primus operated multigenerational living proposition",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "749 to 1647 sq ft super built up range",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Users",
+      "title": "Banquet hall",
+      "description": "Banquet hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pre-function area",
+      "description": "Pre-function area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pool deck",
+      "description": "Pool deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pickleball court",
+      "description": "Pickleball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Central court",
+      "description": "Central court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Central lounge",
+      "description": "Central lounge within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Indoor games",
+      "description": "Indoor games within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Library",
+      "description": "Library within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Co-working and business centre",
+      "description": "Co-working and business centre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Salon and massage rooms",
+      "description": "Salon and massage rooms within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Nurse station facilities",
+      "description": "Nurse station facilities within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-123",
+        "SRC-124"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-2",
+      "title": "Developer brochure / plan document",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-126"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Laurel & Maple at Brigade Orchards",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Brigade Orchards, NH 207, Boodigere Road, Brigade Orchards Spinal Road, Boodihal, Devanahalli, Bengaluru Rural, Karnataka, 562110. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Laurel & Maple at Brigade Orchards"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Laurel & Maple at Brigade Orchards located?",
+      "answer": "Brigade Orchards, NH 207, Boodigere Road, Brigade Orchards Spinal Road, Boodihal, Devanahalli, Bengaluru Rural, Karnataka, 562110. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Laurel, Maple. Documented saleable/super built-up plan areas span 749–1647 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹99 L* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: March 2030, secondary registry reference. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Banquet hall, Pre-function area, Swimming pool, Pool deck, Pickleball court, Central court. Count facilities in the developer amenity schedule; services may cost extra. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "2.5 acres with 311 homes One two and three bedroom formats Primus operated multigenerational living proposition. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Laurel & Maple at Brigade Orchards",
+      "url": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Laurel & Maple at Brigade Orchards",
+      "url": "https://www.brigadegroup.com/residential-showcase-2026/index.html",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Laurel & Maple at Brigade Orchards",
+      "url": "https://www.brigadeorchards.com/residences/laurel-maple-at-brigade-orchards",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Laurel & Maple at Brigade Orchards",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Laurel & Maple at Brigade Orchards",
+      "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-rural/laurel-maple-at-brigade-orchards/14376",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Laurel & Maple at Brigade Orchards"
+  ],
+  "projectScale": {
+    "landAreaAcres": 2.5,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 2,
+    "floorArrangement": "Laurel and Maple: ground + 8 upper floors in developer unit plans",
+    "totalHomesOrPlots": 311,
+    "sourceIds": [
+      "SRC-123",
+      "SRC-124",
+      "SRC-125",
+      "SRC-126",
+      "SRC-127"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹99 L* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 9900000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 9900000,
+      "highestConfigurationStartInr": 9900000,
+      "displayText": "₹99 L* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1, 2 and 3 bed homes; corporate developer headline",
+        "areaSqFt": null,
+        "startingPriceInr": 9900000,
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+        "sourceId": "SRC-123",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Laurel",
+    "Maple"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 13,
+    "countType": "sourced-named-facility-count",
+    "label": "Count facilities in the developer amenity schedule; services may cost extra",
+    "namedAmenitiesCount": 13,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "13 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Laurel%20%26%20Maple%20at%20Brigade%20Orchards%2C%20Brigade%20Orchards%2C%20NH%20207%2C%20Boodigere%20Road%2C%20Brigade%20Orchards%20Spinal%20Road%2C%20Boodihal%2C%20Devanahalli%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+    "query": "Laurel & Maple at Brigade Orchards, Brigade Orchards, NH 207, Boodigere Road, Brigade Orchards Spinal Road, Boodihal, Devanahalli, Bengaluru Rural, Karnataka, 562110",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d36451.20119306031!2d77.72428!3d13.237063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1d6a607bee43%3A0x41105d60db4a0c74!2sBrigade%20Orchards!5e1!3m2!1sen!2sin!4v1741176096650!5m2!1sen!2sin",
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-123",
+    "SRC-124",
+    "SRC-125",
+    "SRC-126",
+    "SRC-127",
+    "SRC-128"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Current corporate developer starting price is 99 lakh; older project microsite says 97 lakh. Prefer the corporate page for the headline and preserve the discrepancy.",
+      "2.5 acres is the Laurel & Maple enclave; 135 acres is the parent Brigade Orchards township.",
+      "Primus care, food and other services may have subscriptions or additional charges; they are not automatically included in purchase price."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "developer-hero",
+    "developer-external-view"
+  ],
+  "overview": {
+    "title": "What defines Laurel & Maple at Brigade Orchards",
+    "summary": "Laurel & Maple is a multigenerational apartment development within Brigade Orchards, combining independent homes with a service-led community proposition operated by Primus. Brigade describes 311 one-, two- and three-bedroom homes across 2.5 acres. Planned dining, housekeeping, concierge and healthcare-related services distinguish the offering from a conventional apartment development.",
+    "highlights": [
+      "2.5 acres with 311 homes",
+      "One two and three bedroom formats",
+      "Primus operated multigenerational living proposition",
+      "749 to 1647 sq ft super built up range"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 2.5,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 2,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Laurel and Maple: ground + 8 upper floors in developer unit plans",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 311,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "749–1647",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹99 L* Onward",
+    "possessionDisplay": "March 2030, secondary registry reference",
+    "sourceIds": [
+      "SRC-123",
+      "SRC-124",
+      "SRC-125",
+      "SRC-126",
+      "SRC-127",
+      "SRC-128"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

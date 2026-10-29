@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "id": "hennur-road",
+  "published": true,
+  "isDemo": false,
+  "name": "Hennur Road",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North-East Bengaluru",
+  "tagline": "One road corridor. Several neighbourhood stories.",
+  "description": "Hennur Road is a broad residential and commercial corridor running through several localities in North Bengaluru. Hennur Cross, Byrathi, Kyalasanahalli and Chikkagubbi represent different points along that search area. Apartment projects marketed under Hennur Road can have very different last-mile approaches and surrounding services.",
+  "tags": [
+    "North-East Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Hennur Road",
+    "hennur-road",
+    "Bengaluru",
+    "Disha Harmony Gardens",
+    "DNR Parklink",
+    "Concorde Sienna"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/hennur-road/cover.webp",
+      "alt": "Indian Academy, Hennur Main Road · corridor landmark",
+      "caption": "Indian Academy, Hennur Main Road · corridor landmark",
+      "kind": "landmark-photograph",
+      "credit": "Challapalli Purnachandra Rao · CC BY-SA 4.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Indian_Academy_Group_of_Institutions%2C_Hennur_Main_Road%2C_Bangalore%2C_Karnataka%2C_India_%282000%29.jpg/1920px-Indian_Academy_Group_of_Institutions%2C_Hennur_Main_Road%2C_Bangalore%2C_Karnataka%2C_India_%282000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Indian_Academy_Group_of_Institutions,_Hennur_Main_Road,_Bangalore,_Karnataka,_India_(2000).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2000-08-30",
+      "width": 1440,
+      "height": 864,
+      "checkedAt": "2026-10-28",
+      "sha256": "4866df92a396f06c89ba03046a2d2ae1101207f89760cf1a92bef194c30def5b",
+      "bytes": 165612
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hennur%20Road%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Established Hennur Main Road corridor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Multiple residential sub-localities and approach roads",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Education and retail anchors along the wider spine",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "3"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "New Airport Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "New Airport Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Bileshivale Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bileshivale Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bileshivale%20Main%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Decathlon",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "Decathlon is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Decathlon%2C%20Bengaluru"
+    },
+    {
+      "name": "Bhartiya Mall of Bengaluru",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Bhartiya Mall of Bengaluru is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20Mall%20of%20Bengaluru%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Hennur Road its identity?",
+      "answer": "Established Hennur Main Road corridor; Multiple residential sub-localities and approach roads; Education and retail anchors along the wider spine."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Disha Harmony Gardens, DNR Parklink, Concorde Sienna. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would narrow Hennur Road to the stretch that fits your day before choosing projects. That makes the comparison more useful: the right approach road, the services you use and the home format you need. We would then explain the trade-offs between the shortlisted communities instead of treating the whole corridor as one location."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hennur Road",
+      "url": "https://websitemedia.anarock.com/media/Hennur_Road_Bengaluru_Micro_Market_Report_42e86f756d.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Hennur Road image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Indian_Academy_Group_of_Institutions,_Hennur_Main_Road,_Bangalore,_Karnataka,_India_(2000).jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would narrow Hennur Road to the stretch that fits your day before choosing projects. That makes the comparison more useful: the right approach road, the services you use and the home format you need. We would then explain the trade-offs between the shortlisted communities instead of treating the whole corridor as one location.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "disha-harmony-gardens",
+    "dnr-parklink",
+    "concorde-sienna"
+  ],
+  "usp": [
+    "Established Hennur Main Road corridor",
+    "Multiple residential sub-localities and approach roads",
+    "Education and retail anchors along the wider spine"
+  ],
+  "sourceIds": [
+    "SRC-147",
+    "SRC-148"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

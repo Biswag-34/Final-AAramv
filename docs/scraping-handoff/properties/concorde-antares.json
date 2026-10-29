@@ -1,0 +1,1570 @@
+{
+  "schemaVersion": 2,
+  "id": "concorde-antares",
+  "published": true,
+  "isDemo": false,
+  "name": "Concorde Antares",
+  "localityId": "vidyaranyapura",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Concorde Group",
+  "phaseName": null,
+  "address": "1 and 26/2, Chikkabettahalli Village, Yelahanka Hobli, Bengaluru, Karnataka",
+  "postalCode": "560097",
+  "description": "Concorde Antares is a high-rise apartment development at Chikkabettahalli, marketed within the Vidyaranyapura-Yelahanka area. Concorde describes 592 homes across seven acres, with a large open-space component and a dedicated clubhouse. The project includes apartment and duplex-penthouse formats, bringing a range of home sizes into a landscape-led community setting.",
+  "possession": {
+    "label": "December 2027",
+    "date": null,
+    "precision": "month",
+    "sourceUrl": "https://www.concorde.in/residential-projects/concorde-antares",
+    "sourceId": "SRC-061",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2027,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Concorde Antares",
+    "Concorde Group",
+    "Vidyaranyapura",
+    "Bangalore",
+    "Bengaluru",
+    "Concorde Anteres"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/concorde-antares/master-plan.webp",
+      "alt": "Concorde Antares — master plan",
+      "caption": "Concorde Antares master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111914339-756806488.webp",
+      "width": 1900,
+      "height": 1623,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bea322d98f8392e29f2609ca8ca6e42edf8b150ed9669acdff75d111a75d3a88",
+      "bytes": 281256
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/concorde-antares/plan-1.webp",
+      "alt": "Concorde Antares — 2 BHK, 988 sq ft built-up unit plan",
+      "caption": "Concorde Antares 2 BHK, 988 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_2_BHK_988_sqft_Unit_Plan--1714219587826-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "244864bbc72e087cd098a0eb503333f95f140a6d97b8b13b1b60abca49b04e03",
+      "bytes": 20072
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/concorde-antares/plan-2.webp",
+      "alt": "Concorde Antares — 2 BHK, 1022 sq ft built-up unit plan",
+      "caption": "Concorde Antares 2 BHK, 1022 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_2_BHK_1022_sqft_Unit_Plan--1714219587863-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "3826d60c3e36582d7531878a4da91408873ca542779dc51c1863a744d9e48db5",
+      "bytes": 18654
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/concorde-antares/plan-3.webp",
+      "alt": "Concorde Antares — 2 BHK, 1028 sq ft built-up unit plan",
+      "caption": "Concorde Antares 2 BHK, 1028 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_2_BHK_1028_sqft_Unit_Plan--1714219587899-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "382a1385368f142578775b76f99befa302f1f536b5b99fdc8cf85624095617d0",
+      "bytes": 19094
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/concorde-antares/plan-4.webp",
+      "alt": "Concorde Antares — 2 BHK, 1047 sq ft built-up unit plan",
+      "caption": "Concorde Antares 2 BHK, 1047 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_2_BHK_1047_sqft_Unit_Plan--1714219587938-img.webp",
+      "width": 708,
+      "height": 502,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "f30912198ffa418dc7bd1df19c9521dee921348bd6de97aac592875bc646d03d",
+      "bytes": 18238
+    },
+    {
+      "id": "plan-5",
+      "src": "/images/projects/concorde-antares/plan-5.webp",
+      "alt": "Concorde Antares — 2 BHK, 1066 sq ft built-up unit plan",
+      "caption": "Concorde Antares 2 BHK, 1066 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_2_BHK_1066_sqft_Unit_Plan--1714220036114-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "ef8d2af583e431142ea6589f415958b3fd6ef0a81e9c3fb42e9763a5e04878e3",
+      "bytes": 19580
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/concorde-antares/plan-6.webp",
+      "alt": "Concorde Antares — 3 BHK, 1306 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1306 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1306_sqft_Unit_Plan--1714220036150-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c74be3058426a83e56c4cb5ee2adbc978712340c9a6024bc62cae3bd9436c8d4",
+      "bytes": 16768
+    },
+    {
+      "id": "plan-7",
+      "src": "/images/projects/concorde-antares/plan-7.webp",
+      "alt": "Concorde Antares — 3 BHK, 1314 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1314 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1314_sqft_Unit_Plan--1714220036191-img.webp",
+      "width": 708,
+      "height": 502,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "f0c79e310e34b42c60f6c2aade6a829b433620a9325fc7de24be1400b378f53e",
+      "bytes": 18108
+    },
+    {
+      "id": "plan-8",
+      "src": "/images/projects/concorde-antares/plan-8.webp",
+      "alt": "Concorde Antares — 3 BHK, 1321 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1321 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1321_sqft_Unit_Plan--1714220036233-img.webp",
+      "width": 955,
+      "height": 635,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "2b454b8609592f37164cba1826dc1aab808fa318a1f55af386359170f5cc8fb6",
+      "bytes": 27324
+    },
+    {
+      "id": "plan-9",
+      "src": "/images/projects/concorde-antares/plan-9.webp",
+      "alt": "Concorde Antares — 3 BHK, 1342 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1342 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1342_sqft_Unit_Plan--1714220400009-img.webp",
+      "width": 708,
+      "height": 502,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a21b109a46ecd868c35ca172df6da4d7cd18e7c9a49b426564a144681cb580f0",
+      "bytes": 18232
+    },
+    {
+      "id": "plan-10",
+      "src": "/images/projects/concorde-antares/plan-10.webp",
+      "alt": "Concorde Antares — 3 BHK, 1355 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1355 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1355_sqft_Unit_Plan--1714220400045-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "38b7e16469aae25f7a234251f90160189235b729676eba03c0b3b67fb0715169",
+      "bytes": 18974
+    },
+    {
+      "id": "plan-11",
+      "src": "/images/projects/concorde-antares/plan-11.webp",
+      "alt": "Concorde Antares — 3 BHK, 1371 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1371 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1371_sqft_Unit_Plan--1714220400090-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "618310e88c69b95de1dae061e66aacf32ac7a7b70982c54f3806baf5fa5e2bfe",
+      "bytes": 19800
+    },
+    {
+      "id": "plan-12",
+      "src": "/images/projects/concorde-antares/plan-12.webp",
+      "alt": "Concorde Antares — 3 BHK, 1420 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1420 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1420_sqft_Unit_Plan--1714220400140-img.webp",
+      "width": 708,
+      "height": 501,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "673ed0ed44d954e31657b14af4ceebd6288e80d4b0761c32de3a8851c0107bd8",
+      "bytes": 16902
+    },
+    {
+      "id": "plan-13",
+      "src": "/images/projects/concorde-antares/plan-13.webp",
+      "alt": "Concorde Antares — 3 BHK, 1450 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1450 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1450_sqft_Unit_Plan--1714220786902-img.webp",
+      "width": 709,
+      "height": 502,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bb14b3b12f5f56aca263baa0f26b8de7f7b1b027c6051393c2d5537fc7426c2d",
+      "bytes": 18248
+    },
+    {
+      "id": "plan-14",
+      "src": "/images/projects/concorde-antares/plan-14.webp",
+      "alt": "Concorde Antares — 3 BHK, 1579 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1579 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1579_sqft_Unit_Plan--1714220786939-img.webp",
+      "width": 709,
+      "height": 502,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "e7af3fe39d1b9d63e3fbc7f7e0e48f1121acaad7c27b73a19d3b838dee84162d",
+      "bytes": 18384
+    },
+    {
+      "id": "plan-15",
+      "src": "/images/projects/concorde-antares/plan-15.webp",
+      "alt": "Concorde Antares — 3 BHK, 1674 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1674 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1674_sqft_Unit_Plan--1714220787000-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "e8ffd265e0c79e905b2bd98f20576d15195043f63ffe48f50b3a1b7932c4a3b8",
+      "bytes": 65012
+    },
+    {
+      "id": "plan-16",
+      "src": "/images/projects/concorde-antares/plan-16.webp",
+      "alt": "Concorde Antares — 3 BHK, 1875 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK, 1875 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1875_sqft_Unit_Plan--1714221313407-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c54403abae1414f82d94c48fc90486ab0f11512f89f276a644050af4164dacbf",
+      "bytes": 77544
+    },
+    {
+      "id": "plan-17",
+      "src": "/images/projects/concorde-antares/plan-17.webp",
+      "alt": "Concorde Antares — 3 BHK Penthouse, 1606 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK Penthouse, 1606 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1606_sqft_Unit_Plan--1714220786980-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "396cdc77ef754edd1ebd0cad2bc4e66b5bca67fc4b7e5b9ebe21eda2d2a36092",
+      "bytes": 81530
+    },
+    {
+      "id": "plan-18",
+      "src": "/images/projects/concorde-antares/plan-18.webp",
+      "alt": "Concorde Antares — 3 BHK Penthouse, 1744 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK Penthouse, 1744 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1746_sqft_Unit_Plan--1714221313387-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c32cc4794b4680ad3c0b02d4425e9ec451802c8d01b4da1fe5d0dea04c6eb19d",
+      "bytes": 80922
+    },
+    {
+      "id": "plan-19",
+      "src": "/images/projects/concorde-antares/plan-19.webp",
+      "alt": "Concorde Antares — 3 BHK Penthouse, 1891 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK Penthouse, 1891 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1891_sqft_Unit_Plan--1714221313428-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "07c8ff481cd7508a194cbcd6ea00ab0abb0c18ee8180c12b38f8908c6c0301fb",
+      "bytes": 75120
+    },
+    {
+      "id": "plan-20",
+      "src": "/images/projects/concorde-antares/plan-20.webp",
+      "alt": "Concorde Antares — 3 BHK Penthouse, 1950 sq ft built-up unit plan",
+      "caption": "Concorde Antares 3 BHK Penthouse, 1950 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_3_BHK_1950_sqft_Unit_Plan--1714221313446-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "4c00f8b3bbdd5b0789bd7767cfe9dad0045c88c25eb12f2aa998143fa7142d85",
+      "bytes": 66492
+    },
+    {
+      "id": "plan-21",
+      "src": "/images/projects/concorde-antares/plan-21.webp",
+      "alt": "Concorde Antares — 4 BHK, 2047 sq ft built-up unit plan",
+      "caption": "Concorde Antares 4 BHK, 2047 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_4_BHK_2047_sqft_Unit_Plan--1714221548824-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bfcbb578f0f7eea271602a4efcc0f4475f54ef7f2d6e81277164f5af786c5e4d",
+      "bytes": 91638
+    },
+    {
+      "id": "plan-22",
+      "src": "/images/projects/concorde-antares/plan-22.webp",
+      "alt": "Concorde Antares — 4 BHK, 2443 sq ft built-up unit plan",
+      "caption": "Concorde Antares 4 BHK, 2443 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Concorde_Antares_4_BHK_2443_sqft_Unit_Plan--1714221548839-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "fd89cb87a45fbfaa188792558014d5cab4ebe3846ee4f4ad8ec96f16c0e667c8",
+      "bytes": 94480
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/concorde-antares/developer-hero.webp",
+      "alt": "concorde-antares — developer project visual",
+      "caption": "Concorde Antares · Developer visual",
+      "kind": "exterior",
+      "credit": "Concorde Group published project visual",
+      "sourceUrl": "https://assets.concorde.in/projects/thumbnails/antares.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 804,
+      "height": 617,
+      "sourcePageUrl": "https://www.concorde.in/residential-projects/concorde-antares",
+      "usage": "project-content",
+      "sha256": "4b79735fe4a795f2675f8713364701c6ffaf632e0aa69b9e72cffd411cbb0f36",
+      "bytes": 99372
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/concorde-antares/cp-gallery-1.webp",
+      "alt": "Concorde Antares in Vidyaranyapura, North Bangalore",
+      "caption": "Concorde Antares · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Concorde-Antares-Vidyaranyapura.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 580,
+      "sourcePageUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+      "usage": "project-content",
+      "sha256": "4d1d7fcd33e6139a4612d485cfcc9b6e529bfdb7d42356abccdefe701a17a0c5",
+      "bytes": 99476
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/concorde-antares/cp-gallery-2.webp",
+      "alt": "Concorde Antares project visual",
+      "caption": "Concorde Antares · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Concorde-Antares-Vidyaranyapura-356x220.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 356,
+      "height": 220,
+      "sourcePageUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+      "usage": "project-content",
+      "sha256": "252efd12289e299b890c4edc536088210d93dd9e920224049f75be70bee9e8f0",
+      "bytes": 17904
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0954943,
+    "longitude": 77.542722
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Concorde%20Antares%2C%201%20and%2026/2%2C%20Chikkabettahalli%20Village%2C%20Yelahanka%20Hobli%2C%20Bengaluru%2C%20Karnataka%2C%20560097",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK — 988 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 988,
+      "areaBasis": "built-up",
+      "startingPriceInr": 11000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": [
+        "SRC-062"
+      ]
+    },
+    {
+      "id": "configuration-2",
+      "label": "2 BHK — 1022 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1022,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "2 BHK — 1028 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1028,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "2 BHK — 1047 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1047,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "2 BHK — 1066 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1066,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-5",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1306 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1306,
+      "areaBasis": "built-up",
+      "startingPriceInr": 12400000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": [
+        "SRC-062"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1314 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1314,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-7",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "3 BHK — 1321 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1321,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-8",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-9",
+      "label": "3 BHK — 1342 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1342,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-9",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-10",
+      "label": "3 BHK — 1355 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1355,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-10",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-11",
+      "label": "3 BHK — 1371 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1371,
+      "areaBasis": "built-up",
+      "startingPriceInr": 13000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-11",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": [
+        "SRC-062"
+      ]
+    },
+    {
+      "id": "configuration-12",
+      "label": "3 BHK — 1420 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1420,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-12",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-13",
+      "label": "3 BHK — 1450 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1450,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-13",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-14",
+      "label": "3 BHK — 1579 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1579,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-14",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-15",
+      "label": "3 BHK — 1674 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1674,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-15",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-16",
+      "label": "3 BHK — 1875 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1875,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-16",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-17",
+      "label": "3 BHK Penthouse — 1606 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1606,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-17",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-18",
+      "label": "3 BHK Penthouse — 1744 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1744,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-18",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-19",
+      "label": "3 BHK Penthouse — 1891 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1891,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-19",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-20",
+      "label": "3 BHK Penthouse — 1950 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1950,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-20",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-21",
+      "label": "4 BHK — 2047 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2047,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-21",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-22",
+      "label": "4 BHK — 2443 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2443,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-22",
+      "sourceIds": [
+        "SRC-064"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 7,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 5,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Ground + 16 upper floors; CP also records 2 basements",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 592,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "988–2443",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Seven acres with 592 homes",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "G plus 16 floor arrangement",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "81 percent open space reported by Concorde",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "19000 sq ft clubhouse",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multi Purpose Court",
+      "description": "Multi Purpose Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Golf Course",
+      "description": "Golf Course within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior Citizen Area",
+      "description": "Senior Citizen Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Net Cricket",
+      "description": "Net Cricket within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis Court",
+      "description": "Tennis Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pets Walking Area",
+      "description": "Pets Walking Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating Rink",
+      "description": "Skating Rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Zone",
+      "description": "Yoga Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Meditation Zone",
+      "description": "Meditation Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Rock Climbing",
+      "description": "Rock Climbing within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Hobby Area",
+      "description": "Hobby Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Pool Deck",
+      "description": "Pool Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cycling Track",
+      "description": "Cycling Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Chit Chat Corner",
+      "description": "Chit Chat Corner within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Bbq Lawn",
+      "description": "Bbq Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Festival Lawn",
+      "description": "Festival Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Open Air Cinema",
+      "description": "Open Air Cinema within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tot Lot Play Area",
+      "description": "Tot Lot Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-061",
+        "SRC-062"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Hesaraghatta Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Hesaraghatta Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hesaraghatta%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Yelahanka Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Yelahanka Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 2.3,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "D-Mart",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "D-Mart is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 4,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D-Mart%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-3",
+      "title": "Developer brochure / plan document",
+      "url": "https://assets.concorde.in/projects/brochures/antares-brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-063"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Concorde Antares",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "1 and 26/2, Chikkabettahalli Village, Yelahanka Hobli, Bengaluru, Karnataka, 560097. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Concorde Antares"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Concorde Antares located?",
+      "answer": "1 and 26/2, Chikkabettahalli Village, Yelahanka Hobli, Bengaluru, Karnataka, 560097. The listed locality is a search category; use the exact village and project entrance."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK, 3 BHK Penthouse, 4 BHK. Documented saleable/super built-up plan areas span 988–2443 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.15 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: December 2027. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Kids Play Area, Multi Purpose Court, Golf Course, Senior Citizen Area, Kids Pool. 50+ CP-marketed amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Seven acres with 592 homes G plus 16 floor arrangement 81 percent open space reported by Concorde. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Concorde Antares",
+      "url": "https://www.concorde.in/residential-projects/concorde-antares",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde Antares",
+      "url": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde Antares",
+      "url": "https://assets.concorde.in/projects/brochures/antares-brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/concorde-antares",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Concorde Antares"
+  ],
+  "projectScale": {
+    "landAreaAcres": 7,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 5,
+    "floorArrangement": "Ground + 16 upper floors; CP also records 2 basements",
+    "totalHomesOrPlots": 592,
+    "sourceIds": [
+      "SRC-061",
+      "SRC-062",
+      "SRC-063"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.15 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 11500000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 11000000,
+      "highestConfigurationStartInr": 13400000,
+      "displayText": "₹1.1 Cr–₹1.34 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Developer project starting reference",
+        "areaSqFt": null,
+        "startingPriceInr": 11500000,
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-antares",
+        "sourceId": "SRC-061",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK+2T",
+        "areaSqFt": 988,
+        "areaMaxSqFt": 1063,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 11000000,
+        "upperQuotedPriceInr": 11000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+        "sourceId": "SRC-062",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK+2T",
+        "areaSqFt": 1306,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 12400000,
+        "upperQuotedPriceInr": 12400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+        "sourceId": "SRC-062",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK+2T",
+        "areaSqFt": 1371,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 13000000,
+        "upperQuotedPriceInr": 13000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+        "sourceId": "SRC-062",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK+2T",
+        "areaSqFt": 1417,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 13400000,
+        "upperQuotedPriceInr": 13400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+        "sourceId": "SRC-062",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK",
+    "3 BHK Penthouse",
+    "4 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 50,
+    "countType": "advertised-lower-bound",
+    "label": "50+ CP-marketed amenities",
+    "namedAmenitiesCount": 24,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "50+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Concorde%20Antares%2C%201%20and%2026/2%2C%20Chikkabettahalli%20Village%2C%20Yelahanka%20Hobli%2C%20Bengaluru%2C%20Karnataka%2C%20560097",
+    "query": "Concorde Antares, 1 and 26/2, Chikkabettahalli Village, Yelahanka Hobli, Bengaluru, Karnataka, 560097",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.0582591336183!2d77.542722!3d13.095494299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae239398f16d33%3A0x841133f729ed7453!2sConcorde%20Antares%20-%20Apartments%20in%20Vidyaranyapura!5e0!3m2!1sen!2sin!4v1784792340363!5m2!1sen!2sin",
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-antares"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-061",
+    "SRC-062",
+    "SRC-063",
+    "SRC-064"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer completion December 2027 preferred over CP 2028. Corporate starting price 1.15 crore preferred over CP 1.10 crore.",
+      "CP 1 BHK 755 sq ft conflicts with current developer 2, 3, 4 BHK and duplex positioning; hold the 1 BHK offer."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Concorde Antares — project gallery 1",
+        "caption": "Concorde Antares · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111849888-925504919.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Concorde Antares — project gallery 2",
+        "caption": "Concorde Antares · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111854066-588621293.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Concorde Antares — project gallery 3",
+        "caption": "Concorde Antares · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111858466-128305477.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Concorde Antares — project gallery 4",
+        "caption": "Concorde Antares · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111862543-519877219.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-antares",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2"
+  ],
+  "overview": {
+    "title": "What defines Concorde Antares",
+    "summary": "Concorde Antares is a high-rise apartment development at Chikkabettahalli, marketed within the Vidyaranyapura-Yelahanka area. Concorde describes 592 homes across seven acres, with a large open-space component and a dedicated clubhouse. The project includes apartment and duplex-penthouse formats, bringing a range of home sizes into a landscape-led community setting.",
+    "highlights": [
+      "Seven acres with 592 homes",
+      "G plus 16 floor arrangement",
+      "81 percent open space reported by Concorde",
+      "19000 sq ft clubhouse"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 7,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 5,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Ground + 16 upper floors; CP also records 2 basements",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 592,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "988–2443",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.15 Cr* Onward",
+    "possessionDisplay": "December 2027",
+    "sourceIds": [
+      "SRC-061",
+      "SRC-062",
+      "SRC-063",
+      "SRC-064"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

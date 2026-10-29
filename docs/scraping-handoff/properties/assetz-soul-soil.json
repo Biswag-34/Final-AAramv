@@ -1,0 +1,845 @@
+{
+  "schemaVersion": 2,
+  "id": "assetz-soul-soil",
+  "published": true,
+  "isDemo": false,
+  "name": "Assetz Soul & Soil",
+  "localityId": "chikkagubbi",
+  "type": "Row House",
+  "status": "Ready to move",
+  "developerName": "Assetz Property Group",
+  "phaseName": null,
+  "address": "Survey Nos. 43 and 45, Chikkagubbi Village, off Hennur–Bagalur Road, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "Assetz Soul & Soil is a seven-acre residential community off Hennur-Bagalur Road. Its offering includes distinct row-house, villament and apartment formats. The documented row houses combine living spaces across multiple levels with backyard and terrace areas, while shared gardens and recreation facilities provide a community setting around the homes.",
+  "possession": {
+    "label": "Ready to move; CP historical target October 2021",
+    "date": null,
+    "precision": "historical-month",
+    "sourceUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+    "sourceId": "SRC-035",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2021,
+    "month": 10
+  },
+  "searchKeywords": [
+    "Assetz Soul & Soil",
+    "Assetz Property Group",
+    "Chikkagubbi",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/assetz-soul-soil/cover.webp",
+      "alt": "Assetz Soul & Soil — Assetz Soul Soil Main A",
+      "caption": "Assetz Soul & Soil · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2018/07/Assetz-Soul-Soil-Main-A.jpg",
+      "width": 1440,
+      "height": 810,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "5a71f7a5b8a4f4b990cb7db83032d642ef19870f0c6671b72aac1f57b38fe7f7",
+      "bytes": 111878
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/assetz-soul-soil/image-2.webp",
+      "alt": "Assetz Soul & Soil — Master Plan – Assetz Soul & Soil",
+      "caption": "Assetz Soul & Soil Master Plan – Assetz Soul & Soil",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2018/07/Master-Plan-Assetz-Soul-Soil.jpg",
+      "width": 1200,
+      "height": 656,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "f0dafa46a6e9e4f954c3f757097ce24a0e058ed27651ffde33dc4a9184567a21",
+      "bytes": 194660
+    },
+    {
+      "id": "developer-3bhk-ground",
+      "src": "/images/projects/assetz-soul-soil/developer-3bhk-ground.webp",
+      "alt": "3BHK Ground Floor",
+      "caption": "3BHK Ground Floor",
+      "kind": "floor-plan",
+      "credit": "Assetz Property Group published project visual",
+      "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/3bhk_ground.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1504,
+      "height": 605,
+      "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+      "usage": "project-content",
+      "sha256": "335ba6ffdeb36879cd5896037c99c6cee5a83d27f71df27f201f98c84b75ada0",
+      "bytes": 53050
+    },
+    {
+      "id": "developer-4bhk-ground",
+      "src": "/images/projects/assetz-soul-soil/developer-4bhk-ground.webp",
+      "alt": "4BHK Ground Floor",
+      "caption": "4BHK Ground Floor",
+      "kind": "floor-plan",
+      "credit": "Assetz Property Group published project visual",
+      "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/4bhk_ground.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1504,
+      "height": 634,
+      "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+      "usage": "project-content",
+      "sha256": "dec51c736fcf553d94972d3a85d7f74ab5ec98eee356bc067d3cface1d513225",
+      "bytes": 52646
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/assetz-soul-soil/cp-gallery-1.webp",
+      "alt": "Assetz Soul & Soil project visual",
+      "caption": "Assetz Soul & Soil · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation-assetz-city-of-palms-devanahalli-741x486.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 741,
+      "height": 486,
+      "sourcePageUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+      "usage": "project-content",
+      "sha256": "78da557c1d8bbaa2b00a90a54e661c298520bd1c09795711e029fe443f259bb8",
+      "bytes": 32734
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/assetz-soul-soil/cp-gallery-2.webp",
+      "alt": "Assetz Soul & Soil project visual",
+      "caption": "Assetz Soul & Soil · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation-assetz-niwa-and-neo-kiadb-741x486.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 741,
+      "height": 486,
+      "sourcePageUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+      "usage": "project-content",
+      "sha256": "5e90e111a4312fd3882aeb9e70d95783567c112d51def9f9d18d1cda49d9b5a8",
+      "bytes": 30802
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/assetz-soul-soil/cp-gallery-3.webp",
+      "alt": "Assetz Soul & Soil in Hennur Road, Bangalore",
+      "caption": "Assetz Soul & Soil · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2018/07/Assetz-Soul-Soil-Main-A-1600x900.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 810,
+      "sourcePageUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+      "usage": "project-content",
+      "sha256": "95edb22d4cc166810d2734329c45d36b684370bf9040c2254522edfbdedc57df",
+      "bytes": 112110
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0779225,
+    "longitude": 77.6609503
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Assetz%20Soul%20%26%20Soil%2C%20Survey%20Nos.%2043%20and%2045%2C%20Chikkagubbi%20Village%2C%20off%20Hennur%E2%80%93Bagalur%20Road%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "3 BHK row house · 2,182 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2182,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 20000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-3bhk-ground",
+      "sourceIds": [
+        "SRC-029"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1801,
+      "floorPlanImageIds": [
+        "developer-3bhk-ground",
+        "developer-3bhk-1floor",
+        "developer-3bhk-2floor"
+      ],
+      "priceSourceIds": [
+        "SRC-035"
+      ]
+    },
+    {
+      "id": "layout-4-bhk-row-house-2-460-sq-ft-2460",
+      "label": "4 BHK row house · 2,460 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2460,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-4bhk-ground",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-029"
+      ],
+      "carpetAreaSqFt": 2105,
+      "floorPlanImageIds": [
+        "developer-4bhk-ground",
+        "developer-4bhk-1floor",
+        "developer-4bhk-2floor"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 7,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Floors",
+      "value": "Row houses: ground + 2 upper levels",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 94,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "2182–2460",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Seven acre residential community",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Separate row house villament and apartment formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Three and four bedroom row houses",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Backyard and terrace spaces in documented row house plans",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Clubhouse",
+      "description": "Clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Games room",
+      "description": "Games room within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Retail space",
+      "description": "Retail space within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor sports courts",
+      "description": "Outdoor sports courts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Table tennis",
+      "description": "Table tennis within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Spa and sauna",
+      "description": "Spa and sauna within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party area",
+      "description": "Party area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-029",
+        "SRC-030"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 5.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "KR Puram",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "KR Puram is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 8.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 14.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://www.assetzproperty.com/63east/assets/brochure/63%CB%9AEast%20-%20Brochure%20-%20Tower%20F.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-031"
+    },
+    {
+      "id": "brochure-3",
+      "title": "Developer brochure / plan document",
+      "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul&Soil-Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-032"
+    },
+    {
+      "id": "brochure-4",
+      "title": "Developer brochure / plan document",
+      "url": "https://www.assetzproperty.com/soulandsoil/assets/brochure/Soul-&-Soil-Villaments-E-Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-033"
+    },
+    {
+      "id": "brochure-5",
+      "title": "Developer brochure / plan document",
+      "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul-Soil-Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-034"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Assetz Soul & Soil",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey Nos. 43 and 45, Chikkagubbi Village, off Hennur–Bagalur Road, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Assetz Soul & Soil"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Assetz Soul & Soil located?",
+      "answer": "Survey Nos. 43 and 45, Chikkagubbi Village, off Hennur–Bagalur Road, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "3 BHK row house, 4 BHK row house. Documented saleable/super built-up plan areas span 2182–2460 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹2 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Ready to move. Published timeline: Ready to move; CP historical target October 2021. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Gymnasium, Clubhouse, Swimming pool, Games room, Retail space, Jogging track. Count refers to the sourced named list, not a developer-promised total. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Seven acre residential community Separate row house villament and apartment formats Three and four bedroom row houses. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/soulandsoil/project.php",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/soulandsoil/contact-us.php",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/63east/assets/brochure/63%CB%9AEast%20-%20Brochure%20-%20Tower%20F.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul&Soil-Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/soulandsoil/assets/brochure/Soul-&-Soil-Villaments-E-Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul-Soil-Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Assetz Soul & Soil",
+      "url": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Assetz Soul & Soil",
+    "Assetz Soul and Soil"
+  ],
+  "projectScale": {
+    "landAreaAcres": 7,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": null,
+    "floorArrangement": "Row houses: ground + 2 upper levels",
+    "totalHomesOrPlots": 94,
+    "sourceIds": [
+      "SRC-029",
+      "SRC-030",
+      "SRC-031",
+      "SRC-032",
+      "SRC-033",
+      "SRC-034",
+      "SRC-035"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "otherProductFamilies": [
+    {
+      "type": "Apartment",
+      "configuration": "1 BHK",
+      "superBuiltUpAreaSqFt": 696,
+      "reraCarpetAreaSqFt": 450.93
+    },
+    {
+      "type": "Villament",
+      "configuration": "3 BHK Type A",
+      "superBuiltUpAreaSqFt": 2391,
+      "reraCarpetAreaSqFt": 1596
+    },
+    {
+      "type": "Villament",
+      "configuration": "3 BHK Type B",
+      "superBuiltUpAreaSqFt": 2608,
+      "reraCarpetAreaSqFt": 1780
+    },
+    {
+      "type": "Villament",
+      "configuration": "4 BHK",
+      "superBuiltUpAreaSqFt": 3037,
+      "reraCarpetAreaSqFt": 2330
+    }
+  ],
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹2 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 20000000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 20000000,
+      "highestConfigurationStartInr": 23000000,
+      "displayText": "₹2 Cr–₹2.3 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "3 BHK Row House",
+        "areaSqFt": 2182,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 20000000,
+        "upperQuotedPriceInr": 20000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+        "sourceId": "SRC-035",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK Row House",
+        "areaSqFt": 2532,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 23000000,
+        "upperQuotedPriceInr": 23000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+        "sourceId": "SRC-035",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "applicability": "HOLD: CP size differs from developer 2460 sq ft row house",
+        "canAttachToConfiguration": false,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "3 BHK row house",
+    "4 BHK row house"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 12,
+    "countType": "sourced-named-facility-count",
+    "label": "Count refers to the sourced named list, not a developer-promised total",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "12 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Assetz%20Soul%20%26%20Soil%2C%20Survey%20Nos.%2043%20and%2045%2C%20Chikkagubbi%20Village%2C%20off%20Hennur%E2%80%93Bagalur%20Road%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "Assetz Soul & Soil, Survey Nos. 43 and 45, Chikkagubbi Village, off Hennur–Bagalur Road, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-029",
+    "SRC-030",
+    "SRC-031",
+    "SRC-032",
+    "SRC-033",
+    "SRC-034",
+    "SRC-035",
+    "SRC-036"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Use developer row-house SBUA 2,182 and 2,460 sq ft; CP 2,532 sq ft figure conflicts.",
+      "Row houses, one-bedroom apartments and villaments are different products. This Row House catalogue record contains the two row-house families; other products are listed separately in research.",
+      "CP 4 BHK price refers to 2,532 sq ft and cannot be assigned automatically to the developer 2,460 sq ft plan."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "image-3",
+        "alt": "Assetz Soul & Soil — 3 BHK ground-floor layout",
+        "caption": "Assetz Soul & Soil 3 BHK ground floor layout",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2018/07/3-BHK-2182-Ground-Floor-Assetz-Soul-Soil-768x309.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-4",
+        "alt": "Assetz Soul & Soil — 4 BHK ground-floor layout",
+        "caption": "Assetz Soul & Soil 4 BHK ground floor layout",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2018/07/4-BHK-2460-Ground-Floor-Assetz-Soul-Soil-768x324.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-1floor",
+        "alt": "3BHK First Floor",
+        "caption": "3BHK First Floor",
+        "kind": "floor-plan",
+        "credit": "Assetz Property Group published project visual",
+        "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/3bhk_1floor.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-2floor",
+        "alt": "3BHK Second Floor",
+        "caption": "3BHK Second Floor",
+        "kind": "floor-plan",
+        "credit": "Assetz Property Group published project visual",
+        "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/3bhk_2floor.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-4bhk-1floor",
+        "alt": "4BHK First Floor",
+        "caption": "4BHK First Floor",
+        "kind": "floor-plan",
+        "credit": "Assetz Property Group published project visual",
+        "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/4bhk_1floor.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-4bhk-2floor",
+        "alt": "4BHK Second Floor",
+        "caption": "4BHK Second Floor",
+        "kind": "floor-plan",
+        "credit": "Assetz Property Group published project visual",
+        "sourceUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/project/4bhk_2floor.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://www.assetzproperty.com/soulandsoil/project.php",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Assetz Soul & Soil",
+    "summary": "Assetz Soul & Soil is a seven-acre residential community off Hennur-Bagalur Road. Its offering includes distinct row-house, villament and apartment formats. The documented row houses combine living spaces across multiple levels with backyard and terrace areas, while shared gardens and recreation facilities provide a community setting around the homes.",
+    "highlights": [
+      "Seven acre residential community",
+      "Separate row house villament and apartment formats",
+      "Three and four bedroom row houses",
+      "Backyard and terrace spaces in documented row house plans"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 7,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Floors",
+        "value": "Row houses: ground + 2 upper levels",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 94,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "2182–2460",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹2 Cr* Onward",
+    "possessionDisplay": "Ready to move; CP historical target October 2021",
+    "sourceIds": [
+      "SRC-029",
+      "SRC-030",
+      "SRC-031",
+      "SRC-032",
+      "SRC-033",
+      "SRC-034",
+      "SRC-035",
+      "SRC-036"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

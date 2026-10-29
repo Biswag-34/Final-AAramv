@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 2,
+  "id": "jasper-at-brigade-el-dorado",
+  "published": true,
+  "isDemo": false,
+  "name": "Jasper at Brigade El Dorado",
+  "localityId": "kiadb-aerospace-park",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Brigade Group",
+  "phaseName": "Jasper; registration shared with Iridium",
+  "address": "Jasper at Brigade El Dorado, KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka",
+  "postalCode": "562149",
+  "description": "Jasper is a residential component of Brigade El Dorado in the Aerospace Park area. Its documented two- and three-bedroom plans cover a range of sizes, allowing buyers to compare different space requirements within the same township setting. Jasper's home specifications and El Dorado's shared facilities should remain clearly identified throughout the page.",
+  "possession": {
+    "label": "Secondary registered completion September 2025; confirm unit handover",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://mypropertypoint.com/projects/jasper-and-iridium-at-brigade-el-dorado-thanisandra",
+    "sourceId": "SRC-043",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2025,
+    "month": 9
+  },
+  "searchKeywords": [
+    "Jasper at Brigade El Dorado",
+    "Brigade Group",
+    "KIADB Aerospace Park",
+    "Bangalore",
+    "Bengaluru",
+    "Japer at Brigade El Dorado",
+    "Brigade Jasper"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/cover.webp",
+      "alt": "Jasper at Brigade El Dorado — gallium-bg",
+      "caption": "Jasper at Brigade El Dorado · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/project-top-image_jasper.jpg",
+      "width": 1440,
+      "height": 670,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "1092f2288995ebb417d32d54396842de3395e5394cc36ded0ca2bdc5f518e0b7",
+      "bytes": 208376
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-2.webp",
+      "alt": "Jasper at Brigade El Dorado — 2 BHK Urban — 740 sq ft",
+      "caption": "Jasper at Brigade El Dorado 2 BHK Urban 740 sq ft",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/j-2-bedroom-type-b.jpg",
+      "width": 1600,
+      "height": 1024,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "08cf48b0dca5a67e72fd10164412613028ec30e950d487bd12da49b7922c2489",
+      "bytes": 142564
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-3.webp",
+      "alt": "Jasper at Brigade El Dorado — 2 BHK Grand — 938 sq ft",
+      "caption": "Jasper at Brigade El Dorado 2 BHK Grand 938 sq ft",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/j-2-bedroom-type-b2.jpg",
+      "width": 1600,
+      "height": 1024,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c501ba9120e4c82c82f08b21c1f083052d32eded42830006be153aa1a3d3b3e6",
+      "bytes": 120584
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-4.webp",
+      "alt": "Jasper at Brigade El Dorado — 3 BHK Urban — 971 sq ft",
+      "caption": "Jasper at Brigade El Dorado 3 BHK Urban 971 sq ft",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/j-3-bedroom-type-a4.jpg",
+      "width": 1600,
+      "height": 1024,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "24eecdae0ba334e508bb16636d5347c4cff09086cb102c06f075a9c3d33e27dd",
+      "bytes": 130662
+    },
+    {
+      "id": "image-5",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-5.webp",
+      "alt": "Jasper at Brigade El Dorado — 3 BHK Comfort — 1401 sq ft",
+      "caption": "Jasper at Brigade El Dorado 3 BHK Comfort 1401 sq ft",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/j-3-bedroom-type-a3.jpg",
+      "width": 1600,
+      "height": 1024,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "8fae9200644327bf918f1bcd4dd182694050517410684906340c23af604e792f",
+      "bytes": 120592
+    },
+    {
+      "id": "image-6",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-6.webp",
+      "alt": "Jasper at Brigade El Dorado — 3 BHK Grand — 1561 sq ft",
+      "caption": "Jasper at Brigade El Dorado 3 BHK Grand 1561 sq ft",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/j-3-bedroom-type-c.jpg",
+      "width": 1600,
+      "height": 1024,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "ef2130369017a0a226836ebeea108b8044cf1017b5f3779d7cea05be2e994a26",
+      "bytes": 118094
+    },
+    {
+      "id": "image-7",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/image-7.webp",
+      "alt": "Jasper at Brigade El Dorado — Master-Plan-of-Jasper-at-Brigade-El-Dorado",
+      "caption": "Jasper at Brigade El Dorado Master Plan of Jasper at Brigade El Dorado",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/Jasper_Masterplan_23rd-June-2020.png",
+      "width": 1900,
+      "height": 806,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "4856232ee6dfa34d3ea0ff11e118c637112537f58180f3011e3166395c956182",
+      "bytes": 305304
+    },
+    {
+      "id": "township-gallery-sitting-area",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/township-gallery-sitting-area.webp",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/sitting-area.jpg",
+      "sourcePageUrl": "https://www.brigadeeldorado.com/jasper",
+      "alt": "Brigade El Dorado shared township facility · sitting area · confirm Jasper access",
+      "caption": "Brigade El Dorado shared township facility · sitting area · confirm Jasper access",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1086,
+      "height": 527,
+      "bytes": 146256,
+      "sha256": "5e28d9c7bcb0f318b8c583c54171fcdee4e95ebc20bdcfa675a4972b01182c37"
+    },
+    {
+      "id": "township-gallery-amphitheater",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/township-gallery-amphitheater.webp",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/amphitheater.jpg",
+      "sourcePageUrl": "https://www.brigadeeldorado.com/jasper",
+      "alt": "Brigade El Dorado shared township facility · amphitheater · confirm Jasper access",
+      "caption": "Brigade El Dorado shared township facility · amphitheater · confirm Jasper access",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1086,
+      "height": 527,
+      "bytes": 176550,
+      "sha256": "506ef8dc36db126a1d8469d580758f9c20657f4d8d7b23414f6869120f425f7a"
+    },
+    {
+      "id": "township-gallery-club-house-night",
+      "src": "/images/projects/jasper-at-brigade-el-dorado/township-gallery-club-house-night.webp",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/club-house-night.jpg",
+      "sourcePageUrl": "https://www.brigadeeldorado.com/jasper",
+      "alt": "Brigade El Dorado shared township facility · club house night · confirm Jasper access",
+      "caption": "Brigade El Dorado shared township facility · club house night · confirm Jasper access",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1086,
+      "height": 527,
+      "bytes": 151076,
+      "sha256": "5106b41547bffa99f9f96b4dbb8356a945fdb05325af47b33e26b208874f7361"
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jasper%20at%20Brigade%20El%20Dorado%2C%20Jasper%20at%20Brigade%20El%20Dorado%2C%20KIADB%20Aerospace%20Park%2C%20Huvinayakanahalli%2C%20Jala%20Hobli%2C%20Bagalur%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK Urban — 740 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 740,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No current safely matched starting price published for this exact plan.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-2",
+      "sourceIds": [
+        "SRC-045"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "2 BHK Grand — 938 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 938,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 9400000,
+      "priceNote": "Secondary asking-price reference for a 938 sq ft Jasper/Iridium listing; verify the exact tower, seller and availability.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-3",
+      "sourceIds": [
+        "SRC-045"
+      ],
+      "priceSourceIds": [
+        "SRC-168"
+      ]
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK Urban — 971 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 971,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No current safely matched starting price published for this exact plan.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-4",
+      "sourceIds": [
+        "SRC-045"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK Comfort — 1401 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1401,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No current safely matched starting price published for this exact plan.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-5",
+      "sourceIds": [
+        "SRC-045"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK Grand — 1561 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1561,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No current safely matched starting price published for this exact plan.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-6",
+      "sourceIds": [
+        "SRC-045"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 50,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Floors",
+      "value": "Jasper blocks within the parent township; basement + ground + 21 upper floors reference",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "740–1561",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Two and three bedroom homes",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "740 to 1561 sq ft super built up range",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "466 to 996 sq ft carpet range",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Part of the wider Brigade El Dorado township",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Clubhouse",
+      "description": "Clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis court",
+      "description": "Tennis court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini cricket field",
+      "description": "Mini cricket field within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini-golf green",
+      "description": "Mini-golf green within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating rink",
+      "description": "Skating rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor sports courts",
+      "description": "Outdoor sports courts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multiplex",
+      "description": "Multiplex within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-042",
+        "SRC-043"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Shell Technology Centre, Bengaluru",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Shell Technology Centre, Bengaluru is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 3,
+      "travelMinutes": 6,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "brigade-el-dorado",
+    "nikoo-homes-9"
+  ],
+  "content": {
+    "overviewTitle": "What defines Jasper at Brigade El Dorado",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Jasper at Brigade El Dorado, KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Jasper at Brigade El Dorado"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Jasper at Brigade El Dorado located?",
+      "answer": "Jasper at Brigade El Dorado, KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK Urban, 2 BHK Grand, 3 BHK Urban, 3 BHK Comfort, 3 BHK Grand. Documented saleable/super built-up plan areas span 740–1561 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "A publicly listed 2 BHK resale home of 938 sq ft is advertised at ₹94 lakh. The listing uses the combined Jasper and Iridium name; confirm the exact tower and continuing availability. The developer’s 35/40 lakh microsite figures are historical and are not used as current prices."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Secondary registered completion September 2025; confirm unit handover. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming pool, Gymnasium, Clubhouse, Tennis court, Mini cricket field, Mini-golf green. Parent township claim; confirm Jasper access and completion. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Two and three bedroom homes 740 to 1561 sq ft super built up range 466 to 996 sq ft carpet range. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Jasper at Brigade El Dorado",
+      "url": "https://www.brigadeeldorado.com/jasper",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Jasper at Brigade El Dorado",
+      "url": "https://mypropertypoint.com/projects/jasper-and-iridium-at-brigade-el-dorado-thanisandra",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Jasper at Brigade El Dorado",
+      "url": "https://www.brigadeeldorado.com/jasper-plans",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Jasper/Iridium 938 sq ft resale asking price",
+      "url": "https://housing.com/in/buy/resale/page/21217116-2-bhk-apartment-in-gummanahalli-for-rs-9400000",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Jasper at Brigade El Dorado"
+  ],
+  "projectScale": {
+    "landAreaAcres": 50,
+    "landAreaScope": "Parent township; not the Jasper phase area",
+    "towerCount": null,
+    "floorArrangement": "Jasper blocks within the parent township; basement + ground + 21 upper floors reference",
+    "totalHomesOrPlots": null,
+    "sourceIds": [
+      "SRC-042",
+      "SRC-043",
+      "SRC-044"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹94 L* Onward · resale reference",
+    "displayMode": "single-listing-reference",
+    "minStartingPriceInr": 9400000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 9400000,
+      "highestConfigurationStartInr": 9400000,
+      "displayText": "₹94 L* Onward · resale reference",
+      "coverage": "One publicly listed resale unit; 3 BHK start not established."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "2 BHK, 938 sq ft resale listing",
+        "areaSqFt": 938,
+        "areaBasis": "listing-built-up",
+        "startingPriceInr": 9400000,
+        "basis": "single-listing-asking-price",
+        "sourceUrl": "https://housing.com/in/buy/resale/page/21217116-2-bhk-apartment-in-gummanahalli-for-rs-9400000",
+        "sourceId": "SRC-168",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": "2026-09-30",
+        "scope": "Listing is named Jasper and Iridium; exact tower and continuing availability need seller confirmation",
+        "exactTowerConfirmed": false
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "One 938 sq ft resale listing. This does not establish the starting price of every Jasper configuration.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-only-as-labelled-resale-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK Urban",
+    "2 BHK Grand",
+    "3 BHK Urban",
+    "3 BHK Comfort",
+    "3 BHK Grand"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 80,
+    "countType": "advertised-total",
+    "label": "Parent township claim; confirm Jasper access and completion",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": true,
+    "displayText": "80 advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Jasper%20at%20Brigade%20El%20Dorado%2C%20Jasper%20at%20Brigade%20El%20Dorado%2C%20KIADB%20Aerospace%20Park%2C%20Huvinayakanahalli%2C%20Jala%20Hobli%2C%20Bagalur%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+    "query": "Jasper at Brigade El Dorado, Jasper at Brigade El Dorado, KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-042",
+    "SRC-043",
+    "SRC-044",
+    "SRC-168",
+    "SRC-045"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer microsite prices of 35/40 lakh are undated legacy prices. They are not current quotes; do not publish them as live starting prices.",
+      "Jasper and Iridium are sometimes merged in portal records. Do not silently import Iridium layouts into Jasper."
+    ],
+    "historicalPriceReferences": [
+      {
+        "label": "2 BHK Urban, historical microsite",
+        "areaSqFt": 740,
+        "startingPriceInr": 3500000,
+        "upperQuotedPriceInr": 3500000,
+        "basis": "developer-published-reference",
+        "sourceUrl": "https://www.brigadeeldorado.com/jasper-plans",
+        "sourceId": "SRC-044",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed",
+        "historical": true,
+        "canPublishAsCurrent": false
+      },
+      {
+        "label": "2 BHK Grand, historical microsite",
+        "areaSqFt": 938,
+        "startingPriceInr": 4000000,
+        "upperQuotedPriceInr": 4000000,
+        "basis": "developer-published-reference",
+        "sourceUrl": "https://www.brigadeeldorado.com/jasper-plans",
+        "sourceId": "SRC-044",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed",
+        "historical": true,
+        "canPublishAsCurrent": false
+      }
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "township-gallery-sitting-area",
+    "township-gallery-amphitheater",
+    "township-gallery-club-house-night"
+  ],
+  "overview": {
+    "title": "What defines Jasper at Brigade El Dorado",
+    "summary": "Jasper is a residential component of Brigade El Dorado in the Aerospace Park area. Its documented two- and three-bedroom plans cover a range of sizes, allowing buyers to compare different space requirements within the same township setting. Jasper's home specifications and El Dorado's shared facilities should remain clearly identified throughout the page.",
+    "highlights": [
+      "Two and three bedroom homes",
+      "740 to 1561 sq ft super built up range",
+      "466 to 996 sq ft carpet range",
+      "Part of the wider Brigade El Dorado township"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 50,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Floors",
+        "value": "Jasper blocks within the parent township; basement + ground + 21 upper floors reference",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "740–1561",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹94 L* Onward · resale reference",
+    "possessionDisplay": "Secondary registered completion September 2025; confirm unit handover",
+    "sourceIds": [
+      "SRC-042",
+      "SRC-043",
+      "SRC-044",
+      "SRC-168",
+      "SRC-045"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

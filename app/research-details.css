@@ -1,0 +1,23 @@
+.research-price-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:22px}
+.detail-facts.catalog-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.detail-facts.catalog-facts p{font-size:12px;line-height:1.5;letter-spacing:.04em;overflow-wrap:normal;word-break:normal}
+.detail-facts.catalog-facts strong{font-size:15px;line-height:1.6}
+.research-price-grid article{padding:22px;border:1px solid #dce3e2;border-radius:14px;background:#f7f9f7;min-width:0}
+.research-price-grid article>span:first-child{display:block;font-size:14px;line-height:1.5;color:#45585c}
+.research-price-grid strong{display:block;font-size:25px;color:#153b42;margin-top:10px}
+.research-price-grid strong small{font-size:12px;font-weight:400}
+.research-price-grid article p{font-size:13px;margin:8px 0 0;line-height:1.6}
+.research-price-type{display:inline-block;font-size:11px;text-transform:capitalize;margin-top:14px;color:#536b67}
+.research-documents{display:grid;gap:10px;margin-top:20px}
+.research-documents a{display:flex;align-items:center;gap:12px;padding:18px;border:1px solid #dce3e2;border-radius:12px}
+.research-documents a span{flex:1;min-width:0;overflow-wrap:anywhere}
+.locality-perspective{border-radius:18px;background:#edf3eb;padding:28px;margin:28px 0}
+.locality-perspective h2{margin-top:0}.locality-perspective ul{display:flex;flex-wrap:wrap;gap:10px;list-style:none;padding:0;margin:22px 0 0}
+.locality-perspective li{border:1px solid #cbd9c8;padding:10px 14px;border-radius:20px;font-size:13px}
+.research-plan-zoom{display:flex;gap:10px;align-items:center;justify-content:center;margin:10px 0}
+.gallery-modal .research-image-viewport{overflow:auto;max-height:65vh;width:100%;background:#f7f8f5}
+.gallery-modal .research-image-viewport img{object-fit:contain;max-width:none;height:auto;max-height:none;display:block;margin:auto}
+.gallery-modal>[data-slot="dialog-close"]{background:#092f3b;color:white;border-radius:50%;padding:9px;opacity:1;z-index:2}
+.gallery-modal .research-plan-zoom .text-link{color:#e0ed98}
+.property-price-copy strong,.catalogue-card-price strong{overflow-wrap:anywhere}
+@media(max-width:600px){.research-price-grid{grid-template-columns:1fr}.research-price-grid article{padding:18px}.locality-perspective{padding:22px}.research-documents a{padding:15px}.gallery-modal .research-image-viewport{max-height:58vh}}

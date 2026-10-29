@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "id": "bagalur",
+  "published": true,
+  "isDemo": false,
+  "name": "Bagalur",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru",
+  "tagline": "An aerospace address. A home chosen around your life.",
+  "description": "Bagalur’s residential corridor sits alongside the KIADB Aerospace and Hardware Park, with employment anchors such as Shell Technology Centre and Boeing’s Bengaluru campus. Apartment communities are spread across nearby villages, so the exact project address and approach road matter as much as the Bagalur name.",
+  "tags": [
+    "North Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Bagalur",
+    "bagalur",
+    "Bengaluru",
+    "Prestige Finsbury Park"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/bagalur/cover.webp",
+      "alt": "Shell Technology Centre, KIADB park area · employment landmark",
+      "caption": "Shell Technology Centre, KIADB park area · employment landmark",
+      "kind": "landmark-photograph",
+      "credit": "Freedom of Design · Shell Technology Centre landscape",
+      "sourceUrl": "https://static.wixstatic.com/media/c06fe4_eca6c332762f45b985171639161024e7~mv2_d_2016_1512_s_2.jpg",
+      "sourcePageUrl": "https://www.freedomofdesign.co/home",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 1440,
+      "height": 1080,
+      "checkedAt": "2026-10-28",
+      "sha256": "2f7200aa93275a6ad2757761969ec1320025700ac51aa147f568019caf5171e7",
+      "bytes": 336906
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "KIADB Aerospace and Hardware Park corridor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Shell Technology Centre employment anchor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Apartment communities across the Bagalur–Gummanahalli belt",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    },
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "KR Puram",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "KR Puram is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Bagalur its identity?",
+      "answer": "KIADB Aerospace and Hardware Park corridor; Shell Technology Centre employment anchor; Apartment communities across the Bagalur–Gummanahalli belt."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Prestige Finsbury Park. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "For a buyer working around the aerospace park, Bagalur can bring the home search closer to that employment district. We would shortlist by the actual village, entry road and household routes, then compare the home itself. A broad airport-corridor label should never substitute for seeing the approach and the neighbourhood around the gate."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bagalur",
+      "url": "https://find.shell.com/in/fuel/13031028-shell-technology-center-bnglre/en_IN",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Bagalur",
+      "url": "https://www.shell.in/about-us/what-we-do/capability-centres.html",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Bagalur image source",
+      "url": "https://www.freedomofdesign.co/home",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "For a buyer working around the aerospace park, Bagalur can bring the home search closer to that employment district. We would shortlist by the actual village, entry road and household routes, then compare the home itself. A broad airport-corridor label should never substitute for seeing the approach and the neighbourhood around the gate.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "prestige-finsbury-park"
+  ],
+  "usp": [
+    "KIADB Aerospace and Hardware Park corridor",
+    "Shell Technology Centre employment anchor",
+    "Apartment communities across the Bagalur–Gummanahalli belt"
+  ],
+  "sourceIds": [
+    "SRC-133",
+    "SRC-134",
+    "SRC-135"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

@@ -12,7 +12,8 @@ export const recordDate = (value: string | null) => value ? new Date(`${value}T0
 export const possessionDate = (p: Pick<PropertyRecord, 'possession'>) => p.possession.date ? recordDate(p.possession.date) : 'Date not confirmed';
 export const propertyHref = (p: Property) => `/properties/${p.id}?layout=${encodeURIComponent(p.primary.id)}`;
 export function selectPropertyLayout(p: Property, id: string | null) {
-  const primary = p.configurations.find(c => c.id === id) || p.primary;
+  const resolved = id ? p.configurationIdAliases?.[id] || id : null;
+  const primary = p.configurations.find(c => c.id === resolved) || p.primary;
   return {...p, primary, area: primary.areaSqFt, bhk: primary.bedrooms, price: primary.startingPriceInr === null ? null : primary.startingPriceInr / 10000000};
 }
 
@@ -26,13 +27,26 @@ export function createCatalog(records: { properties: PropertyRecord[]; localitie
     const primary = p.configurations.find(c => c.id === p.primaryConfigurationId)!;
     const cover = p.images.find(image => image.id === p.coverImageId)!;
     const type = propertyType(p.type) as 'Apartment' | 'Villa' | 'Plot';
-    const searchText = normalizeSearch([p.name, p.developerName, p.phaseName, p.address, p.postalCode, p.type, type, p.status, ...p.searchKeywords, ...p.configurations.map(c => bedroomLabel(c.bedrooms, type)), locality.name, locality.zone, locality.city, ...locality.tags, ...locality.searchKeywords].filter(Boolean).join(' '));
+    const searchText = normalizeSearch([p.name, ...(p.aliases || []), p.developerName, p.phaseName, p.address, p.postalCode, p.type, type, p.status, ...p.searchKeywords, ...p.configurations.map(c => bedroomLabel(c.bedrooms, type)), locality.name, locality.zone, locality.city, ...locality.tags, ...locality.searchKeywords].filter(Boolean).join(' '));
     return { ...p, type, primary, cover, locality: locality.name, zone: locality.zone, city: locality.city, image: cover.src, bhk: primary.bedrooms, area: primary.areaSqFt, price: primary.startingPriceInr === null ? null : primary.startingPriceInr / 10000000, searchText };
   });
   return { properties, localities };
 }
 export type Property = ReturnType<typeof createCatalog>['properties'][number];
 export type Locality = ReturnType<typeof createCatalog>['localities'][number];
+// Keep source FAQ evidence intact in JSON; present its structured project facts.
+export function propertyFaqs(p: Property) {
+  return p.faqs.map(faq => {
+    let answer = faq.answer;
+    if (/^Where exactly/.test(faq.question)) answer = [p.address,p.postalCode].filter(Boolean).join(', ')+'.';
+    else if (/^What configurations/.test(faq.question)) answer = `${p.configurationSummary?.join(', ')||configurationSummary(p)}. ${p.facts.filter(f=>/layout range/i.test(f.label)).map(f=>`${f.value} ${f.unit}`).join('. ')}`;
+    else if (/^What is the published starting price/.test(faq.question)) answer = p.pricing?.displayText||propertyPriceSummary(p).label;
+    else if (/^What is the status and possession/.test(faq.question)) answer = p.possession.label;
+    else if (/^What are the main amenities/.test(faq.question)) answer = p.amenities.map(a=>a.title).join(', ')+'.';
+    else if (/^What makes this project/.test(faq.question)&&p.overview) answer = p.overview.highlights.join('. ')+'.';
+    return {...faq,answer};
+  });
+}
 export function configurationLabel(c: PropertyRecord['configurations'][number], type: string) {
   if (type === 'Plot') return 'Plots';
   if (c.bedrooms === null) return c.label.split(/\s+[\u2014\u2013-]\s+/)[0];
@@ -48,7 +62,8 @@ export function configurationSummary(p: Pick<Property, 'type' | 'configurations'
   const other = [...new Set(layouts.filter(c => c.bedrooms === null).map(c => configurationLabel(c, p.type)))];
   return [layouts.some(c => c.bedrooms === 0) ? 'Studio' : '', values.length ? `${values.join(', ')} BHK` : '', ...other].filter(Boolean).join(' / ') || 'Configuration on request';
 }
-export function propertyPriceSummary(p: Pick<Property, 'configurations'>) {
+export function propertyPriceSummary(p: Pick<Property, 'configurations'> & Partial<Pick<Property, 'pricing'>>) {
+  if (p.pricing) return {label: p.pricing.displayText, note: '', min: p.pricing.minStartingPriceInr, max: p.pricing.maxStartingPriceInr};
   const configurations = p.configurations.filter(c => c.availability !== 'sold-out');
   const prices = configurations.flatMap(c => c.startingPriceInr === null ? [] : [c.startingPriceInr]);
   if (!prices.length) return {label: 'Price on request', note: 'Contact us for the current cost sheet', min: null, max: null};
@@ -56,7 +71,8 @@ export function propertyPriceSummary(p: Pick<Property, 'configurations'>) {
   const partial = prices.length < configurations.length;
   return {label: min === max ? formatInr(min) : `${formatInr(min)} - ${formatInr(max)}`, note: partial ? 'Listed prices; other layouts on request' : 'Across listed layouts; availability on request', min, max};
 }
-export function projectUnitCount(p: Pick<Property, 'facts' | 'totalUnits'>): number | null {
+export function projectUnitCount(p: Pick<Property, 'facts' | 'totalUnits'> & Partial<Pick<Property, 'projectScale'>>): number | null {
+  if (p.projectScale?.totalHomesOrPlots) return p.projectScale.totalHomesOrPlots;
   if (p.totalUnits) return p.totalUnits;
   const fact = p.facts.find(f => /^(?:total units|total homes|units|homes(?: by)?|apartments|row houses(?: by)?|plots(?: by)?)$/i.test(f.label.trim()));
   const value = String(fact?.value ?? '').replaceAll(',', '').trim();

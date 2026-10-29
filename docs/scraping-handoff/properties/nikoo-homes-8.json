@@ -1,0 +1,1192 @@
+{
+  "schemaVersion": 2,
+  "id": "nikoo-homes-8",
+  "published": true,
+  "isDemo": false,
+  "name": "Nikoo Homes 8",
+  "localityId": "bellahalli",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Bhartiya Urban",
+  "phaseName": "Bhartiya Garden Enclave — Nikoo Homes 8",
+  "address": "Thanisandra Main Road, Bellahalli, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "Nikoo Homes 8, branded Bhartiya Garden Enclave, is planned around a network of gardens and shared social spaces. The masterplan includes areas for quiet walks, community gardening, sensory experiences and recreation around the Black Swan Club and pool. Documented home formats range from studios to larger family apartments, including options with an additional study.",
+  "possession": {
+    "label": "2031 onwards, Phase 1 CP reference",
+    "date": null,
+    "precision": "year",
+    "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+    "sourceId": "SRC-099",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Nikoo Homes 8",
+    "Bhartiya Urban",
+    "Bellahalli",
+    "Bangalore",
+    "Bengaluru",
+    "Nikoo8",
+    "Nikoo VIII"
+  ],
+  "coverImageId": "developer-hero",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/nikoo-homes-8/master-plan.webp",
+      "alt": "Nikoo Homes 8 — master plan",
+      "caption": "Nikoo Homes 8 master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885257867-536825494.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "3924b5fb1ba2e150bf8adccc1787395d1367b4ab4529c4bf28d8cee306b7cc92",
+      "bytes": 461714
+    },
+    {
+      "id": "developer-plan-a1a",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-a1a.webp",
+      "alt": "nikoo-homes-8 — Studio, type A1A, 501 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Studio, type A1A, 501 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Studio.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1006,
+      "height": 1666,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "74110dbe52be1586ddf1f2ea431df07a98ff5ef70f88c69f971d237484bf07d6",
+      "bytes": 66792
+    },
+    {
+      "id": "developer-plan-b3",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-b3.webp",
+      "alt": "nikoo-homes-8 — One Bed, type B3, 786 sq ft developer plan",
+      "caption": "nikoo-homes-8 — One Bed, type B3, 786 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/One-Bed.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1279,
+      "height": 1666,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "044c64452f589ccbcac035c4861e221de250c1e6d7aaf8edd7559ab7596d52ef",
+      "bytes": 73826
+    },
+    {
+      "id": "developer-plan-c1a",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-c1a.webp",
+      "alt": "nikoo-homes-8 — One Bed with Study, type C1A, 1088 sq ft developer plan",
+      "caption": "nikoo-homes-8 — One Bed with Study, type C1A, 1088 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/One-Bed-Study.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1517,
+      "height": 1666,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "2e56062fcb8d0f3727ea6d30aa4fbfe77aa6aa005582dc7bb81fcb1dec07f3b9",
+      "bytes": 95888
+    },
+    {
+      "id": "developer-plan-d1b",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-d1b.webp",
+      "alt": "nikoo-homes-8 — Two Bed, type D1B, 1165 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Two Bed, type D1B, 1165 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Two-Bed.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1723,
+      "height": 1666,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "e6203738c950329d6ac1aded2060714f7358e5575a7285e9a8b8ed1fca107e62",
+      "bytes": 111402
+    },
+    {
+      "id": "developer-plan-f1a",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-f1a.webp",
+      "alt": "nikoo-homes-8 — Two Bed with Study, type F1A, 1371 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Two Bed with Study, type F1A, 1371 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Two-Bed-Study.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1558,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "20e846730418c245806a0c42a58f94ab3a093a69df8e8cbe02e74a672eea3e89",
+      "bytes": 118360
+    },
+    {
+      "id": "developer-plan-g3",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-g3.webp",
+      "alt": "nikoo-homes-8 — Three Bed, type G3, 1730 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Three Bed, type G3, 1730 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Three-Bed.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1528,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "f1d40d4856b22f0002c0b142f58d370c2f0e146e729ab53d48eaf2c7584bd05c",
+      "bytes": 127922
+    },
+    {
+      "id": "developer-plan-h1b",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-h1b.webp",
+      "alt": "nikoo-homes-8 — Three Bed with Study, type H1B, 2006 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Three Bed with Study, type H1B, 2006 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Three-Bed-Study.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1344,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "6fcb4d0a3c0344a39dce67a9183718553684f21755ccbfd64a886d2081f9595c",
+      "bytes": 121848
+    },
+    {
+      "id": "developer-plan-j1a",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-j1a.webp",
+      "alt": "nikoo-homes-8 — Four Bed with Staff, type J1A, 2506 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Four Bed with Staff, type J1A, 2506 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Four-Bed.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1580,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "b33b6990304753637d863bc3ef845a70353f66b5ca5adbca9218410f42343b75",
+      "bytes": 145994
+    },
+    {
+      "id": "developer-plan-l1b",
+      "src": "/images/projects/nikoo-homes-8/developer-plan-l1b.webp",
+      "alt": "nikoo-homes-8 — Loft, type L1B, 2132 sq ft developer plan",
+      "caption": "nikoo-homes-8 — Loft, type L1B, 2132 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/Loft.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1508,
+      "height": 1666,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "4bf91a6fb1efeff6ca1bf4e8ca9071c376b78f154da22f74ca0666e40142a00f",
+      "bytes": 133068
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/nikoo-homes-8/developer-hero.webp",
+      "alt": "nikoo-homes-8 — developer project visual",
+      "caption": "Nikoo Homes 8 · Developer visual",
+      "kind": "exterior",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/05/home_garden.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1000,
+      "height": 723,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-8/",
+      "usage": "project-content",
+      "sha256": "e981393980668386d3c342c2e05cb7ceb8e4e612c181ee199306a211bb362b78",
+      "bytes": 288092
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/nikoo-homes-8/cp-gallery-1.webp",
+      "alt": "Nikoo Homes 8 in Thanisandra, North Bangalore",
+      "caption": "Nikoo Homes 8 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/05/main-elevation-ph-nikoo-homes-8.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1280,
+      "height": 718,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+      "usage": "project-content",
+      "sha256": "ac97034fa514f61eeed15db52a00bd19ee5a33e02e65d33ce83172a70fdf2a61",
+      "bytes": 68424
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/nikoo-homes-8/cp-gallery-2.webp",
+      "alt": "Nikoo Homes 8 project visual",
+      "caption": "Nikoo Homes 8 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/05/main-elevation-ph-nikoo-homes-8-356x220.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 356,
+      "height": 220,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+      "usage": "project-content",
+      "sha256": "3dfdddeb8133ccbe74db8b13ebd70b9ce5354185c7764e642500bcbdbf6570b7",
+      "bytes": 9064
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0988812,
+    "longitude": 77.6359066
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%208%2C%20Thanisandra%20Main%20Road%2C%20Bellahalli%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "Studio · Type A1A · 501 sq ft",
+      "bedrooms": 0,
+      "bathrooms": null,
+      "areaSqFt": 501,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-a1a",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 345,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "One Bed · Type B3 · 786 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 786,
+      "areaBasis": "saleable",
+      "startingPriceInr": 9300000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-b3",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 462,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-3",
+      "label": "One Bed with Study · Type C1A · 1,088 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 1088,
+      "areaBasis": "saleable",
+      "startingPriceInr": 13100000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-c1a",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 661,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-4",
+      "label": "Two Bed · Type D1B · 1,165 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1165,
+      "areaBasis": "saleable",
+      "startingPriceInr": 14000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-d1b",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 725,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-5",
+      "label": "Two Bed with Study · Type F1A · 1,371 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1371,
+      "areaBasis": "saleable",
+      "startingPriceInr": 15900000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-f1a",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 876,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-6",
+      "label": "Three Bed · Type G3 · 1,730 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1730,
+      "areaBasis": "saleable",
+      "startingPriceInr": 20400000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-g3",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1115,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-8",
+      "label": "Three Bed with Study · Type H1B · 2,006 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2006,
+      "areaBasis": "saleable",
+      "startingPriceInr": 23300000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-h1b",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1308,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-9",
+      "label": "Four Bed with Staff · Type J1A · 2,506 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2506,
+      "areaBasis": "saleable",
+      "startingPriceInr": 29400000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-j1a",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1634,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "Loft · Type L1B · 2,132 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2132,
+      "areaBasis": "saleable",
+      "startingPriceInr": 25900000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-l1b",
+      "sourceIds": [
+        "SRC-098"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1279,
+      "priceSourceIds": [
+        "SRC-099"
+      ]
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 12,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 6,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + 16 or 24 upper floors, depending on tower",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 1010,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "501–2506",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Trees",
+      "title": "Bhartiya Garden Enclave branding",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Community sensory aromatic and woodland landscape areas",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Black Swan Club and pool in the plan",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Studio study room and larger family home formats",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Black Swan Club",
+      "description": "Black Swan Club within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Central park",
+      "description": "Central park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Indoor games",
+      "description": "Indoor games within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor sports courts",
+      "description": "Outdoor sports courts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Community garden",
+      "description": "Community garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Walking trails",
+      "description": "Walking trails within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Social gathering spaces",
+      "description": "Social gathering spaces within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-098",
+        "SRC-099"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Bellahalli Cross",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bellahalli Cross is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 0.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellahalli%20Cross%2C%20Bengaluru"
+    },
+    {
+      "name": "Bhartiya City",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "Bhartiya City is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 2.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20City%2C%20Bengaluru"
+    },
+    {
+      "name": "Reva University",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Reva University is a school or education landmark to include in your route check.",
+      "distanceKm": 2.8,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reva%20University%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Nikoo Homes 8",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Thanisandra Main Road, Bellahalli, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Nikoo Homes 8"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Nikoo Homes 8 located?",
+      "answer": "Thanisandra Main Road, Bellahalli, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Studio, One Bed, One Bed with Study, Two Bed, Two Bed with Study, Three Bed, Three Bed with Study, Four Bed with Staff, Loft. Documented saleable/super built-up plan areas span 501–2506 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹93 L–₹2.94 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: 2031 onwards, Phase 1 CP reference. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Black Swan Club, Swimming pool, Central park, Gymnasium, Children’s play area, Indoor games. 30+ CP-marketed amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Bhartiya Garden Enclave branding Community sensory aromatic and woodland landscape areas Black Swan Club and pool in the plan. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nikoo Homes 8",
+      "url": "https://nikoohomes.com/nikoo-homes-8/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 8",
+      "url": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Nikoo Homes 8",
+    "Bhartiya Garden Enclave",
+    "Nikoo8"
+  ],
+  "projectScale": {
+    "landAreaAcres": 12,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 6,
+    "floorArrangement": "2 basements + ground + 16 or 24 upper floors, depending on tower",
+    "totalHomesOrPlots": 1010,
+    "sourceIds": [
+      "SRC-098",
+      "SRC-099"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹93 L–₹2.94 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 9300000,
+    "maxStartingPriceInr": 29400000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 9300000,
+      "highestConfigurationStartInr": 29400000,
+      "displayText": "₹93 L–₹2.94 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1 Bed",
+        "areaSqFt": 786,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 9300000,
+        "upperQuotedPriceInr": 9300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "1 Bed + Study",
+        "areaSqFt": 1088,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 13100000,
+        "upperQuotedPriceInr": 13100000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 Bed",
+        "areaSqFt": 1165,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 14000000,
+        "upperQuotedPriceInr": 14000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 Bed + Study",
+        "areaSqFt": 1371,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 15900000,
+        "upperQuotedPriceInr": 15900000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 Bed",
+        "areaSqFt": 1730,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 20400000,
+        "upperQuotedPriceInr": 20400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 Bed + Study",
+        "areaSqFt": 2006,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 23300000,
+        "upperQuotedPriceInr": 23300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "Loft (3 BHK Duplex)",
+        "areaSqFt": 2132,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 25900000,
+        "upperQuotedPriceInr": 25900000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 Bed",
+        "areaSqFt": 2506,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 29400000,
+        "upperQuotedPriceInr": 29400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+        "sourceId": "SRC-099",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Studio",
+    "One Bed",
+    "One Bed with Study",
+    "Two Bed",
+    "Two Bed with Study",
+    "Three Bed",
+    "Three Bed with Study",
+    "Four Bed with Staff",
+    "Loft"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 30,
+    "countType": "advertised-lower-bound",
+    "label": "30+ CP-marketed amenities",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "30+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%208%2C%20Thanisandra%20Main%20Road%2C%20Bellahalli%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "Nikoo Homes 8, Thanisandra Main Road, Bellahalli, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-098",
+    "SRC-099",
+    "SRC-100"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer modal plan names use study and staff rooms; do not turn these into fractional bedrooms without explanation.",
+      "Studio 501 sq ft is a documented format but has no current priced CP row in the selected source."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Nikoo Homes 8 — project gallery 1",
+        "caption": "Nikoo Homes 8 · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885247303-865920459.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Nikoo Homes 8 — project gallery 2",
+        "caption": "Nikoo Homes 8 · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885251953-887598586.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Nikoo Homes 8 — project gallery 3",
+        "caption": "Nikoo Homes 8 · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885254112-97868699.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Nikoo Homes 8 — project gallery 4",
+        "caption": "Nikoo Homes 8 · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1784466980785-420301686.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-1",
+        "alt": "Nikoo Homes 8 — Studio, 501 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 Studio, 501 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764583040-145402284.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-2",
+        "alt": "Nikoo Homes 8 — 1 BHK, 786 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 1 BHK, 786 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1779179608052-485124063.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-3",
+        "alt": "Nikoo Homes 8 — 1.5 BHK (with additional flexible room), 1088 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 1.5 BHK (with additional flexible room), 1088 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764579337-21154911.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-4",
+        "alt": "Nikoo Homes 8 — 2 BHK, 1165 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 2 BHK, 1165 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764579805-447443768.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-5",
+        "alt": "Nikoo Homes 8 — 2.5 BHK (with additional flexible room), 1371 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 2.5 BHK (with additional flexible room), 1371 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764580297-590640650.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-6",
+        "alt": "Nikoo Homes 8 — 3 BHK, 1730 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 3 BHK, 1730 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764580803-38802019.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-7",
+        "alt": "Nikoo Homes 8 — 3 BHK, 2132 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 3 BHK, 2132 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764581771-549145534.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-8",
+        "alt": "Nikoo Homes 8 — 3.5 BHK (with additional flexible room), 2006 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 3.5 BHK (with additional flexible room), 2006 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764581295-104848327.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-9",
+        "alt": "Nikoo Homes 8 — 4 BHK, 2506 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 8 4 BHK, 2506 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1778764582585-418887614.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2"
+  ],
+  "overview": {
+    "title": "What defines Nikoo Homes 8",
+    "summary": "Nikoo Homes 8, branded Bhartiya Garden Enclave, is planned around a network of gardens and shared social spaces. The masterplan includes areas for quiet walks, community gardening, sensory experiences and recreation around the Black Swan Club and pool. Documented home formats range from studios to larger family apartments, including options with an additional study.",
+    "highlights": [
+      "Bhartiya Garden Enclave branding",
+      "Community sensory aromatic and woodland landscape areas",
+      "Black Swan Club and pool in the plan",
+      "Studio study room and larger family home formats"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 12,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 6,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + 16 or 24 upper floors, depending on tower",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 1010,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "501–2506",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹93 L–₹2.94 Cr* Onward",
+    "possessionDisplay": "2031 onwards, Phase 1 CP reference",
+    "sourceIds": [
+      "SRC-098",
+      "SRC-099",
+      "SRC-100"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

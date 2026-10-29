@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 2,
+  "id": "sadahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "Sadahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Airport corridor",
+  "tagline": "An airport-side search with a village address of its own.",
+  "description": "Sadahalli is part of North Bengaluru’s airport-side property search area, with Sadahalli Gate and the NH 44 connection acting as familiar route anchors. Nearby Navarathna Agrahara is a separate village address used by Bhartiya Garden Estate. The quarry temple is a distinctive landmark associated with Sadahalli.",
+  "tags": [
+    "North Bengaluru · Airport corridor",
+    "Apartment and Villa"
+  ],
+  "searchKeywords": [
+    "Sadahalli",
+    "sadahalli",
+    "Bengaluru",
+    "Bhartiya Garden Estate"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/sadahalli/cover.webp",
+      "alt": "Sadahalli Quarry Temple · local landmark",
+      "caption": "Sadahalli Quarry Temple · local landmark",
+      "kind": "landmark-photograph",
+      "credit": "Karnataka Explore · Sadahalli Quarry Temple",
+      "sourceUrl": "https://karnatakaexplore.com/wp-content/uploads/2025/05/Sadahalli-Quarry-Temple.webp",
+      "sourcePageUrl": "https://karnatakaexplore.com/district/bengaluru-rural/sadahalli-quarry-temple/",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 1024,
+      "height": 614,
+      "checkedAt": "2026-10-28",
+      "sha256": "f3a0f691ad9bcfbd88930edfcd64a86db85923ef58e2b38052399983c8ecb14d",
+      "bytes": 96948
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sadahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "NH 44 and Sadahalli Gate route context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Navarathna Agrahara village addresses nearby",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Sadahalli Quarry Temple as a distinctive local landmark",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment and Villa",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Prestige Tech Cloud",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Prestige Tech Cloud is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prestige%20Tech%20Cloud%2C%20Bengaluru"
+    },
+    {
+      "name": "Forum Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Forum Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempagowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempagowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempagowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Sadahalli its identity?",
+      "answer": "NH 44 and Sadahalli Gate route context; Navarathna Agrahara village addresses nearby; Sadahalli Quarry Temple as a distinctive local landmark."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Bhartiya Garden Estate. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would begin with the actual village and the route to the highway, rather than relying only on Sadahalli or airport branding. For a township search, we would then compare apartment types, registered phases and delivery schedules. Your day-to-day needs should determine the shortlist before the scale or launch story of a development does."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sadahalli",
+      "url": "https://karnatakaexplore.com/district/bengaluru-rural/sadahalli-quarry-temple/",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would begin with the actual village and the route to the highway, rather than relying only on Sadahalli or airport branding. For a township search, we would then compare apartment types, registered phases and delivery schedules. Your day-to-day needs should determine the shortlist before the scale or launch story of a development does.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "bhartiya-garden-estate"
+  ],
+  "usp": [
+    "NH 44 and Sadahalli Gate route context",
+    "Navarathna Agrahara village addresses nearby",
+    "Sadahalli Quarry Temple as a distinctive local landmark"
+  ],
+  "sourceIds": [
+    "SRC-155",
+    "SRC-155"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

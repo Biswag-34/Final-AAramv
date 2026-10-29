@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "id": "chikkagubbi",
+  "published": true,
+  "isDemo": false,
+  "name": "Chikkagubbi",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North-East Bengaluru",
+  "tagline": "More home formats off the Hennur–Bagalur spine.",
+  "description": "Chikkagubbi lies off the Hennur–Bagalur corridor, with residential layouts and larger community developments around its approach roads. The wider Byrathi–Hennur setting includes education landmarks such as Legacy School. The housing search here can include row houses and other formats, each with different floor arrangements and maintenance expectations.",
+  "tags": [
+    "North-East Bengaluru",
+    "Row House"
+  ],
+  "searchKeywords": [
+    "Chikkagubbi",
+    "chikkagubbi",
+    "Bengaluru",
+    "Assetz Soul & Soil"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/chikkagubbi/cover.webp",
+      "alt": "Chikkagubbi and its road connections · OpenStreetMap location map",
+      "caption": "Chikkagubbi and its road connections · OpenStreetMap location map",
+      "kind": "location-map",
+      "credit": "© OpenStreetMap contributors",
+      "sourceUrl": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+      "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+      "license": "ODbL 1.0",
+      "licenseUrl": "https://www.openstreetmap.org/copyright",
+      "rightsStatus": "Retain visible OpenStreetMap attribution.",
+      "capturedAt": "2026-10-28",
+      "width": 1280,
+      "height": 768,
+      "checkedAt": "2026-10-28",
+      "sha256": "fcfb5dbd56bb99d8eb8e81dbe123e1f40bd07f1119b40e9365e559210b95edfd",
+      "bytes": 232662
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0822582,
+    "longitude": 77.6616026
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chikkagubbi%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Hennur–Bagalur corridor location",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Row-house and other community-home formats",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Byrathi education and service context",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Row House",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "KR Puram",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "KR Puram is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Chikkagubbi its identity?",
+      "answer": "Hennur–Bagalur corridor location; Row-house and other community-home formats; Byrathi education and service context."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Assetz Soul & Soil. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "For a buyer looking beyond a conventional apartment, we would explore Chikkagubbi through the actual home format. A row house, villament and apartment can have very different stairs, outdoor space and upkeep. We would match those practical differences to your household before comparing price, approach roads and the surrounding services."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Chikkagubbi",
+      "url": "https://lsb.edu.in/connect/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Chikkagubbi image source",
+      "url": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "For a buyer looking beyond a conventional apartment, we would explore Chikkagubbi through the actual home format. A row house, villament and apartment can have very different stairs, outdoor space and upkeep. We would match those practical differences to your household before comparing price, approach roads and the surrounding services.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "assetz-soul-soil"
+  ],
+  "usp": [
+    "Hennur–Bagalur corridor location",
+    "Row-house and other community-home formats",
+    "Byrathi education and service context"
+  ],
+  "sourceIds": [
+    "SRC-143",
+    "SRC-144"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Map",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

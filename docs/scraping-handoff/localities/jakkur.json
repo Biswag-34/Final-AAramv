@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 2,
+  "id": "jakkur",
+  "published": true,
+  "isDemo": false,
+  "name": "Jakkur",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru",
+  "tagline": "A northern neighbourhood with a lake at its heart.",
+  "description": "Jakkur’s identity includes Jakkur Lake, the surrounding residential neighbourhoods and links towards Yelahanka and the northern road network. The Shivanahalli side includes homes around The HDFC School. Lake access, outlook and local road conditions vary by address and should not be inferred from the Jakkur label alone.",
+  "tags": [
+    "North Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Jakkur",
+    "jakkur",
+    "Bengaluru",
+    "Mittal Palms"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/jakkur/cover.webp",
+      "alt": "Jakkur Lake · neighbourhood landmark",
+      "caption": "Jakkur Lake · neighbourhood landmark",
+      "kind": "landmark-photograph",
+      "credit": "Gpkp · CC BY-SA 4.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jakkur_lake%2C_Bangalore_%282025%29_01.jpg/1920px-Jakkur_lake%2C_Bangalore_%282025%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jakkur_lake,_Bangalore_(2025)_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2025-05-28 15:50:01",
+      "width": 1440,
+      "height": 1085,
+      "checkedAt": "2026-10-28",
+      "sha256": "381ea8478d1e2e00e8f3a5a61d06fe26bb1989846ba3a6ded339e5430a518e39",
+      "bytes": 387992
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jakkur%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Jakkur Lake as a recognised local landmark",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Jakkur–Shivanahalli residential setting",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Yelahanka-side road connections",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "HDFC School, Jakkur",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "HDFC School, Jakkur is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HDFC%20School%2C%20Jakkur%2C%20Bengaluru"
+    },
+    {
+      "name": "Dasarahalli Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Dasarahalli Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dasarahalli%20Bus%20Stop%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Jakkur its identity?",
+      "answer": "Jakkur Lake as a recognised local landmark; Jakkur–Shivanahalli residential setting; Yelahanka-side road connections."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Mittal Palms. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would compare Jakkur through the streets your family will use: the school run, daily shopping and the route to work. Where a home is sold on a lake outlook, we would ask to see that view from the actual unit. A neighbourhood landmark is valuable context; it is not a promise attached to every apartment."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Jakkur",
+      "url": "https://site.bbmp.gov.in/departmentwebsites/Lakes/jakkuru.html",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Jakkur image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Jakkur_lake,_Bangalore_(2025)_01.jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would compare Jakkur through the streets your family will use: the school run, daily shopping and the route to work. Where a home is sold on a lake outlook, we would ask to see that view from the actual unit. A neighbourhood landmark is valuable context; it is not a promise attached to every apartment.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "mittal-palms"
+  ],
+  "usp": [
+    "Jakkur Lake as a recognised local landmark",
+    "Jakkur–Shivanahalli residential setting",
+    "Yelahanka-side road connections"
+  ],
+  "sourceIds": [
+    "SRC-145",
+    "SRC-146"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 2,
+  "id": "thanisandra-kannur",
+  "published": true,
+  "isDemo": false,
+  "name": "Thanisandra-Kannur",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North-East Bengaluru",
+  "tagline": "The Kannur address behind the Thanisandra headline.",
+  "description": "This guide covers the Kannur side of the wider Thanisandra–Hennur residential corridor. Kannuru Main Road and connections towards Bellahalli and Chikkagubbi define the local approach. Project marketing may use Thanisandra, while the registered site address identifies Kannur Village and Bidarahalli Hobli.",
+  "tags": [
+    "North-East Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Thanisandra-Kannur",
+    "thanisandra-kannur",
+    "Bengaluru",
+    "Poulomi Florique"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/thanisandra-kannur/cover.webp",
+      "alt": "Kannuru and its road connections · OpenStreetMap location map",
+      "caption": "Kannuru and its road connections · OpenStreetMap location map",
+      "kind": "location-map",
+      "credit": "© OpenStreetMap contributors",
+      "sourceUrl": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+      "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+      "license": "ODbL 1.0",
+      "licenseUrl": "https://www.openstreetmap.org/copyright",
+      "rightsStatus": "Retain visible OpenStreetMap attribution.",
+      "capturedAt": "2026-10-28",
+      "width": 1280,
+      "height": 768,
+      "checkedAt": "2026-10-28",
+      "sha256": "f62fdf489e578f359c0ac46cb9dc629bcd8732a06dd151d2ce514366f911c437",
+      "bytes": 205756
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0967426,
+    "longitude": 77.6535003
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra-Kannur%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Kannuru Main Road and connecting neighbourhood roads",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Between the wider Thanisandra and Hennur search corridors",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Project-level village and tower identity is especially important",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Delhi Public School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Delhi Public School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Public%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "REVA University",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "REVA University is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=REVA%20University%2C%20Bengaluru"
+    },
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Thanisandra-Kannur its identity?",
+      "answer": "Kannuru Main Road and connecting neighbourhood roads; Between the wider Thanisandra and Hennur search corridors; Project-level village and tower identity is especially important."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Poulomi Florique. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would use the exact Kannur address to make this search more precise. The larger corridor name is only the starting point; tower plans, approach roads and your daily destinations determine fit. We would also separate current tower offerings from coming-soon blocks so a buyer knows what the quoted price and delivery information actually cover."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Thanisandra-Kannur",
+      "url": "https://www.openstreetmap.org/relation/17421370",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Thanisandra-Kannur image source",
+      "url": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would use the exact Kannur address to make this search more precise. The larger corridor name is only the starting point; tower plans, approach roads and your daily destinations determine fit. We would also separate current tower offerings from coming-soon blocks so a buyer knows what the quoted price and delivery information actually cover.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "poulomi-florique"
+  ],
+  "usp": [
+    "Kannuru Main Road and connecting neighbourhood roads",
+    "Between the wider Thanisandra and Hennur search corridors",
+    "Project-level village and tower identity is especially important"
+  ],
+  "sourceIds": [
+    "SRC-153",
+    "SRC-154"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Map",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

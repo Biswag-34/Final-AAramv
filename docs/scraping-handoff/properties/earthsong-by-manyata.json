@@ -1,0 +1,755 @@
+{
+  "schemaVersion": 2,
+  "id": "earthsong-by-manyata",
+  "published": true,
+  "isDemo": false,
+  "name": "Earthsong by Manyata",
+  "localityId": "ivc-road-devanahalli",
+  "type": "Plot",
+  "status": "Under construction",
+  "developerName": "Manyata Developers",
+  "phaseName": "Phase-specific information on request",
+  "address": "Ilathore and Uganavadi villages, off IVC Road, Devanahalli Taluk, Bengaluru Rural, Karnataka",
+  "postalCode": "562110",
+  "description": "Earthsong by Manyata is a plotted community near IVC Road, with a development approach centred on landscape and resource conservation. Manyata describes a master development of approximately 120 acres, with residential plot options and infrastructure measures including rainwater harvesting, recharge wells and wastewater treatment. Its appeal lies in combining an individually planned home with a larger community setting.",
+  "possession": {
+    "label": "Phase-specific; Phase 5 CP reference December 2025",
+    "date": null,
+    "precision": "historical-month",
+    "sourceUrl": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+    "sourceId": "SRC-011",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2025,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Earthsong by Manyata",
+    "Manyata Developers",
+    "IVC Road - Devanahalli",
+    "Bangalore",
+    "Bengaluru",
+    "Manyata Earthsong"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/earthsong-by-manyata/cover.webp",
+      "alt": "Earthsong by Manyata — Layout View C1 Manyata Earthsong Phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-C1-Manyata-Earthsong-Phase-5.jpg",
+      "width": 1100,
+      "height": 596,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "f948870884b463333c385764524bbf34110a470d66e108db7efae5d5816dc389",
+      "bytes": 147650
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/earthsong-by-manyata/image-2.webp",
+      "alt": "Earthsong by Manyata — layout view manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-Manyata-Earthsong-Phase-5-768x512.jpg",
+      "width": 768,
+      "height": 512,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "0c7db1ef2da5743d2a91e2ea9375ad97aa434f0587771c1e0d7fca7dc82123e0",
+      "bytes": 47740
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/earthsong-by-manyata/image-3.webp",
+      "alt": "Earthsong by Manyata — layout view d manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-D-Manyata-Earthsong-Phase-5.jpg",
+      "width": 675,
+      "height": 900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "c74b684dda455e1fb9fb834cdea6327e7f53b7bd2e6cae16a6751f29871250fd",
+      "bytes": 72116
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/earthsong-by-manyata/image-4.webp",
+      "alt": "Earthsong by Manyata — entrance manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Entrance-Manyata-Earthsong-Phase-5-768x576.jpg",
+      "width": 768,
+      "height": 576,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "34c4bfed3049e84268947caffc3f3fbb16e4c3f0ae3e598a77e55bd1d583adf7",
+      "bytes": 75178
+    },
+    {
+      "id": "image-5",
+      "src": "/images/projects/earthsong-by-manyata/image-5.webp",
+      "alt": "Earthsong by Manyata — master plan manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata master plan manyata earthsong phase 5",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Master-Plan-Manyata-Earthsong-Phase-5.jpg",
+      "width": 1067,
+      "height": 804,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "7d15a9affffbd688dddfdec606e03dcc51656d8a68c26ed1cf57bf47fa39acfb",
+      "bytes": 148650
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/earthsong-by-manyata/cp-gallery-1.webp",
+      "alt": "Manyata Earthsong Phase 5 in Devanahalli, Bangalore",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-C1-Manyata-Earthsong-Phase-5.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 596,
+      "sourcePageUrl": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+      "usage": "project-content",
+      "sha256": "f948870884b463333c385764524bbf34110a470d66e108db7efae5d5816dc389",
+      "bytes": 147650
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/earthsong-by-manyata/cp-gallery-2.webp",
+      "alt": "layout view manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-Manyata-Earthsong-Phase-5-768x512.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 512,
+      "sourcePageUrl": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+      "usage": "project-content",
+      "sha256": "104c16436d1d4e233b5c4e14ae43564512e1d9c906a45dfc5a3487ff4425958c",
+      "bytes": 47682
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/earthsong-by-manyata/cp-gallery-3.webp",
+      "alt": "layout view d manyata earthsong phase 5",
+      "caption": "Earthsong by Manyata · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-D-Manyata-Earthsong-Phase-5.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 675,
+      "height": 900,
+      "sourcePageUrl": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+      "usage": "project-content",
+      "sha256": "c74b684dda455e1fb9fb834cdea6327e7f53b7bd2e6cae16a6751f29871250fd",
+      "bytes": 72116
+    },
+    {
+      "id": "developer-master-plan",
+      "src": "/images/projects/earthsong-by-manyata/developer-master-plan.webp",
+      "alt": "Earthsong by Manyata developer master plan",
+      "caption": "Earthsong by Manyata developer master plan",
+      "kind": "master-plan",
+      "sourceUrl": "https://manyata.co.in/wp-content/uploads/2026/05/earth-song-new-plan.png",
+      "sourcePageUrl": "https://manyata.co.in/earthsong-by-manyata/",
+      "credit": "Manyata Developers published project material",
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Confirm Aaramv’s permission to republish with the rights holder.",
+      "width": 1900,
+      "height": 1427,
+      "sha256": "4a5e2d5c6d5fbcb6b72fef2fff3105a781359811e2079482e472329c5d5b58ca",
+      "bytes": 549192
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Earthsong%20by%20Manyata%2C%20Ilathore%20and%20Uganavadi%20villages%2C%20off%20IVC%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "30 × 40 ft plot — 1200 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 1200,
+      "areaBasis": "plot",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-master-plan",
+      "sourceIds": [
+        "SRC-013"
+      ],
+      "priceSourceIds": [],
+      "planScope": "Project/phase master layout, not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-2",
+      "label": "30 × 50 ft plot — 1500 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 1500,
+      "areaBasis": "plot",
+      "startingPriceInr": 16500000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-master-plan",
+      "sourceIds": [
+        "SRC-013"
+      ],
+      "priceSourceIds": [
+        "SRC-012"
+      ],
+      "planScope": "Project/phase master layout, not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-3",
+      "label": "40 × 60 ft plot — 2400 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 2400,
+      "areaBasis": "plot",
+      "startingPriceInr": 26400000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-master-plan",
+      "sourceIds": [
+        "SRC-013"
+      ],
+      "priceSourceIds": [
+        "SRC-012"
+      ],
+      "planScope": "Project/phase master layout, not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-4",
+      "label": "Large plot — 4300 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 4300,
+      "areaBasis": "plot",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-master-plan",
+      "sourceIds": [
+        "SRC-013"
+      ],
+      "priceSourceIds": [],
+      "planScope": "Project/phase master layout, not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 120,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Plot area range",
+      "value": "1200–4300",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Approximately 120 acres marketed by Manyata",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Residential plots in a phased development",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscape and tree planting form a central part of the plan",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Developer described water conservation infrastructure",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Poolside restaurant",
+      "description": "Poolside restaurant within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Coffee shop",
+      "description": "Coffee shop within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cascading pool",
+      "description": "Cascading pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jacuzzi",
+      "description": "Jacuzzi within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pool deck",
+      "description": "Pool deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Residents’ private pool",
+      "description": "Residents’ private pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cycling tours",
+      "description": "Cycling tours within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor library",
+      "description": "Outdoor library within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Archery",
+      "description": "Archery within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and meditation",
+      "description": "Yoga and meditation within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Event venues",
+      "description": "Event venues within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Business centre",
+      "description": "Business centre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor hobby club",
+      "description": "Outdoor hobby club within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Sports arena",
+      "description": "Sports arena within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-008",
+        "SRC-009"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Stonehill International School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Stonehill International School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Stonehill%20International%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Padukone–Dravid Centre for Sports Excellence",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "Padukone-Dravid Centre for Sports Excellence is a sport and recreation landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padukone%E2%80%93Dravid%20Centre%20for%20Sports%20Excellence%2C%20Bengaluru"
+    },
+    {
+      "name": "Jogahalli Cross Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Jogahalli Cross Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 2.5,
+      "travelMinutes": 4,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jogahalli%20Cross%20Bus%20Stop%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Earthsong by Manyata",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Ilathore and Uganavadi villages, off IVC Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Earthsong by Manyata"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Earthsong by Manyata located?",
+      "answer": "Ilathore and Uganavadi villages, off IVC Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "30 × 40 ft plot, 30 × 50 ft plot, 40 × 60 ft plot, Large plot. Documented plot areas span 1200–4300 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.65 Cr–₹2.64 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Phase-specific; Phase 5 CP reference December 2025. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Poolside restaurant, Coffee shop, Cascading pool, Jacuzzi, Pool deck, Residents’ private pool. Sourced features only; master development and phase access differ. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Approximately 120 acres marketed by Manyata Residential plots in a phased development Landscape and tree planting form a central part of the plan. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Earthsong by Manyata",
+      "url": "https://manyata.co.in/earthsong-by-manyata/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Earthsong by Manyata",
+      "url": "https://earthsongbymanyata.com/infrastructure/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Earthsong by Manyata",
+      "url": "https://earthsongbymanyata.com/construction-update/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Earthsong by Manyata",
+      "url": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Earthsong by Manyata",
+      "url": "https://www.squareyards.com/bangalore-residential-property/earthsong-by-manyata/146842/project",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Earthsong by Manyata"
+  ],
+  "projectScale": {
+    "landAreaAcres": 120,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": null,
+    "floorArrangement": "Plotted development; no apartment towers",
+    "totalHomesOrPlots": null,
+    "sourceIds": [
+      "SRC-008",
+      "SRC-009",
+      "SRC-010",
+      "SRC-011",
+      "SRC-012"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.65 Cr–₹2.64 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 16500000,
+    "maxStartingPriceInr": 26400000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 16500000,
+      "highestConfigurationStartInr": 26400000,
+      "displayText": "₹1.65 Cr–₹2.64 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1,500 sq ft plot",
+        "areaSqFt": 1500,
+        "startingPriceInr": 16500000,
+        "upperQuotedPriceInr": 16500000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/earthsong-by-manyata/146842/project",
+        "sourceId": "SRC-012",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2,400 sq ft plot",
+        "areaSqFt": 2400,
+        "startingPriceInr": 26400000,
+        "upperQuotedPriceInr": 26400000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/earthsong-by-manyata/146842/project",
+        "sourceId": "SRC-012",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "30 × 40 ft plot",
+    "30 × 50 ft plot",
+    "40 × 60 ft plot",
+    "Large plot"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 14,
+    "countType": "sourced-named-facility-count",
+    "label": "Sourced features only; master development and phase access differ",
+    "namedAmenitiesCount": 14,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "14 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Earthsong%20by%20Manyata%2C%20Ilathore%20and%20Uganavadi%20villages%2C%20off%20IVC%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+    "query": "Earthsong by Manyata, Ilathore and Uganavadi villages, off IVC Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-008",
+    "SRC-009",
+    "SRC-010",
+    "SRC-011",
+    "SRC-012",
+    "SRC-013"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer 120-acre master claim preferred over CP 121 acres. Phase 5 is not the whole township.",
+      "The developer plots page markets a 1,200–4,750 sq ft range; not every intermediate plot dimension has a published plan.",
+      "CP marks Phase 5 sold out. Portal prices are indicative secondary-market references; no live stock confirmation."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "image-4",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "plotSizeSchedule": {
+    "publishedRangeSqFt": {
+      "min": 1200,
+      "max": 4750
+    },
+    "sourceId": "SRC-167",
+    "note": "Published township size range, not a current plot-by-plot availability schedule."
+  },
+  "overview": {
+    "title": "What defines Earthsong by Manyata",
+    "summary": "Earthsong by Manyata is a plotted community near IVC Road, with a development approach centred on landscape and resource conservation. Manyata describes a master development of approximately 120 acres, with residential plot options and infrastructure measures including rainwater harvesting, recharge wells and wastewater treatment. Its appeal lies in combining an individually planned home with a larger community setting.",
+    "highlights": [
+      "Approximately 120 acres marketed by Manyata",
+      "Residential plots in a phased development",
+      "Landscape and tree planting form a central part of the plan",
+      "Developer described water conservation infrastructure"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 120,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Plot area range",
+        "value": "1200–4300",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.65 Cr–₹2.64 Cr* Onward",
+    "possessionDisplay": "Phase-specific; Phase 5 CP reference December 2025",
+    "sourceIds": [
+      "SRC-008",
+      "SRC-009",
+      "SRC-010",
+      "SRC-011",
+      "SRC-012",
+      "SRC-013"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

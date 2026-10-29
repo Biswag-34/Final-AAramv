@@ -9,31 +9,38 @@
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Compare residential properties around Bagalur.",
-    "description": "Explore the listed projects around Bagalur and compare the specific phase, layout and complete cost of each option. On your visit, assess the approach roads, everyday services and the routes you expect to use.",
+    "tagline": "An aerospace address. A home chosen around your life.",
+    "description": "Bagalur’s residential corridor sits alongside the KIADB Aerospace and Hardware Park, with employment anchors such as Shell Technology Centre and Boeing’s Bengaluru campus. Apartment communities are spread across nearby villages, so the exact project address and approach road matter as much as the Bagalur name.",
     "tags": [
       "North Bengaluru",
-      "Apartment",
-      "Prestige Group"
+      "Apartment"
     ],
     "searchKeywords": [
       "Bagalur",
       "bagalur",
-      "North Bengaluru",
-      "Apartment",
-      "Kempegowda International Airport",
-      "Manyata Tech Park",
-      "KR Puram"
+      "Bengaluru",
+      "Prestige Finsbury Park"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.homznspace.com/wp-content/uploads/2019/12/Main-Prestige-Finsbury-Park-Regent.jpg",
-        "alt": "Bagalur residential locality visual",
-        "caption": "Bagalur residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/bagalur/cover.webp",
+        "alt": "Shell Technology Centre, KIADB park area · employment landmark",
+        "caption": "Shell Technology Centre, KIADB park area · employment landmark",
+        "kind": "landmark-photograph",
+        "credit": "Freedom of Design · Shell Technology Centre landscape",
+        "sourceUrl": "https://static.wixstatic.com/media/c06fe4_eca6c332762f45b985171639161024e7~mv2_d_2016_1512_s_2.jpg",
+        "sourcePageUrl": "https://www.freedomofdesign.co/home",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 1440,
+        "height": 1080,
+        "checkedAt": "2026-10-28",
+        "sha256": "2f7200aa93275a6ad2757761969ec1320025700ac51aa147f568019caf5171e7",
+        "bytes": 336906
       }
     ],
     "coordinates": null,
@@ -43,41 +50,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Prestige Finsbury Park"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "KIADB Aerospace and Hardware Park corridor",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Shell Technology Centre employment anchor",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Apartment communities across the Bagalur–Gummanahalli belt",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -118,20 +125,58 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Bagalur?",
-        "answer": "Prestige Finsbury Park"
+        "question": "What gives Bagalur its identity?",
+        "answer": "KIADB Aerospace and Hardware Park corridor; Shell Technology Centre employment anchor; Apartment communities across the Bagalur–Gummanahalli belt."
       },
       {
-        "question": "How should I compare properties in Bagalur?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Prestige Finsbury Park. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Bagalur?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "For a buyer working around the aerospace park, Bagalur can bring the home search closer to that employment district. We would shortlist by the actual village, entry road and household routes, then compare the home itself. A broad airport-corridor label should never substitute for seeing the approach and the neighbourhood around the gate."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Bagalur",
+        "url": "https://find.shell.com/in/fuel/13031028-shell-technology-center-bnglre/en_IN",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Bagalur",
+        "url": "https://www.shell.in/about-us/what-we-do/capability-centres.html",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Bagalur image source",
+        "url": "https://www.freedomofdesign.co/home",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "For a buyer working around the aerospace park, Bagalur can bring the home search closer to that employment district. We would shortlist by the actual village, entry road and household routes, then compare the home itself. A broad airport-corridor label should never substitute for seeing the approach and the neighbourhood around the gate.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "prestige-finsbury-park"
+    ],
+    "usp": [
+      "KIADB Aerospace and Hardware Park corridor",
+      "Shell Technology Centre employment anchor",
+      "Apartment communities across the Bagalur–Gummanahalli belt"
+    ],
+    "sourceIds": [
+      "SRC-133",
+      "SRC-134",
+      "SRC-135"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -142,32 +187,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "Airport Corridor",
-    "tagline": "Explore plot options near IVC Road, Devanahalli.",
-    "description": "Start with the selected plot and phase. Compare dimensions, access, development services and handover information, then review the documents relevant to your building plans with a qualified professional.",
+    "zone": "North Bengaluru · Airport corridor",
+    "tagline": "Space to build, along a changing northern corridor.",
+    "description": "IVC Road is a plotted-development corridor in the wider Devanahalli–Yelahanka setting. The surrounding area includes village settlements, larger land parcels and institutions such as Stonehill International School at Tarahunise. A plot here needs to be understood through its phase, dimensions and development services, not just its distance from the airport.",
     "tags": [
-      "Airport Corridor",
-      "Plot",
-      "Manyata Developers"
+      "North Bengaluru · Airport corridor",
+      "Plot"
     ],
     "searchKeywords": [
       "IVC Road, Devanahalli",
       "ivc-road-devanahalli",
-      "Airport Corridor",
-      "Plot",
-      "Stonehill International School",
-      "Padukone–Dravid Centre for Sports Excellence",
-      "Jogahalli Cross Bus Stop"
+      "Bengaluru",
+      "Earthsong by Manyata"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.homznspace.com/wp-content/uploads/2023/12/Layout-View-C1-Manyata-Earthsong-Phase-5.jpg",
-        "alt": "IVC Road, Devanahalli residential locality visual",
-        "caption": "IVC Road, Devanahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/ivc-road-devanahalli/cover.webp",
+        "alt": "Stonehill International School, Tarahunise · wider IVC Road education landmark",
+        "caption": "Stonehill International School, Tarahunise · wider IVC Road education landmark",
+        "kind": "landmark-photograph",
+        "credit": "Stonehill International School · campus building",
+        "sourceUrl": "https://resources.finalsite.net/images/f_auto%2Cq_auto/v1783587316/stonehillinternationalschoolorg/djfu4ly7x2gxuv224mhm/17.png",
+        "sourcePageUrl": "https://www.stonehill.in/about/about-stonehill",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 1440,
+        "height": 495,
+        "checkedAt": "2026-10-28",
+        "sha256": "b53f05957abfe19b15dc48fb4844cb5ce6b128e92fa14951800ced09dc3bfd66",
+        "bytes": 68248
       }
     ],
     "coordinates": null,
@@ -177,41 +229,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Earthsong by Manyata"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Plot"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "Airport Corridor"
+        "title": "Plotted-community search corridor",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Stonehill at Tarahunise is a regional education anchor",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Connections to the wider airport-road network",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Plot",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -252,20 +304,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in IVC Road, Devanahalli?",
-        "answer": "Earthsong by Manyata"
+        "question": "What gives IVC Road, Devanahalli its identity?",
+        "answer": "Plotted-community search corridor; Stonehill at Tarahunise is a regional education anchor; Connections to the wider airport-road network."
       },
       {
-        "question": "How should I compare properties in IVC Road, Devanahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Earthsong by Manyata. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to IVC Road, Devanahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We see IVC Road as a search for the home you intend to build. Start with your construction plans, budget and daily routes. Then compare the plot’s dimensions, road access, services and applicable phase documents. A larger plot is useful only when its location and development conditions work for the life you plan around it."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "IVC Road, Devanahalli",
+        "url": "https://www.stonehill.in/",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "IVC Road, Devanahalli image source",
+        "url": "https://www.stonehill.in/about/about-stonehill",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We see IVC Road as a search for the home you intend to build. Start with your construction plans, budget and daily routes. Then compare the plot’s dimensions, road access, services and applicable phase documents. A larger plot is useful only when its location and development conditions work for the life you plan around it.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "earthsong-by-manyata"
+    ],
+    "usp": [
+      "Plotted-community search corridor",
+      "Stonehill at Tarahunise is a regional education anchor",
+      "Connections to the wider airport-road network"
+    ],
+    "sourceIds": [
+      "SRC-136",
+      "SRC-137"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -276,33 +360,41 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare homes around KIADB Aerospace Park.",
-    "description": "Use each project’s exact location to compare workplace routes and daily essentials. Review block-specific completion information and the facilities available to the home you are considering.",
+    "zone": "North Bengaluru · Aerospace corridor",
+    "tagline": "An employment district with several ways to live nearby.",
+    "description": "The KIADB Aerospace and Hardware Park is an industrial and technology district in North Bengaluru. Boeing’s engineering campus and Shell Technology Centre are established employment landmarks in the wider park area. Residential developments have their own locations, phases and access arrangements; the park label does not mean every home is inside the same enclave.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Brigade Group"
+      "North Bengaluru · Aerospace corridor",
+      "Apartment"
     ],
     "searchKeywords": [
       "KIADB Aerospace Park",
       "kiadb-aerospace-park",
-      "North Bengaluru",
-      "Apartment",
-      "Shell Technology Centre, Bengaluru",
-      "New Airport rd",
-      "Budigere Main Rd",
-      "Bagalur"
+      "Bengaluru",
+      "Brigade El Dorado",
+      "Jasper at Brigade El Dorado",
+      "Nikoo Homes 9"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.brigadeeldorado.com/assets/images/club-house-aerial.jpg",
-        "alt": "KIADB Aerospace Park residential locality visual",
-        "caption": "KIADB Aerospace Park residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/kiadb-aerospace-park/cover.webp",
+        "alt": "Boeing’s Bengaluru engineering campus · aerospace employment landmark",
+        "caption": "Boeing’s Bengaluru engineering campus · aerospace employment landmark",
+        "kind": "landmark-photograph",
+        "credit": "Boeing India · Bengaluru campus",
+        "sourceUrl": "https://www.boeing.co.in/content/dam/boeing/v2/india/images/in-bengaluru.jpg",
+        "sourcePageUrl": "https://www.boeing.co.in/content/theboeingcompany/in/en.html",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 960,
+        "height": 640,
+        "checkedAt": "2026-10-28",
+        "sha256": "d87846362b6549cbdaf1cd1c631af992d519401ec8d5a0160df2ed2542b7d375",
+        "bytes": 78846
       }
     ],
     "coordinates": null,
@@ -312,41 +404,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "3 listed projects",
-        "description": "Brigade El Dorado | Jasper at Brigade El Dorado | Nikoo Homes 9"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Boeing engineering and technology campus",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Shell research and technology presence",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Block-based apartment and township choices in the surrounding corridor",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "3"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 3,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Jasper is related to the parent El Dorado township; these are catalogue records, not independent township counts."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -397,20 +489,55 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in KIADB Aerospace Park?",
-        "answer": "Brigade El Dorado, Jasper at Brigade El Dorado, Nikoo Homes 9"
+        "question": "What gives KIADB Aerospace Park its identity?",
+        "answer": "Boeing engineering and technology campus; Shell research and technology presence; Block-based apartment and township choices in the surrounding corridor."
       },
       {
-        "question": "How should I compare properties in KIADB Aerospace Park?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Brigade El Dorado, Jasper at Brigade El Dorado, Nikoo Homes 9. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to KIADB Aerospace Park?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "Our starting point is the workplace or destination you actually need to reach. We then separate the residential project from the industrial park and compare its registered block, road approach and home layout. For El Dorado and Jasper, we also make the parent–component relationship clear so the same township is not presented as two unrelated choices."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Bagalur",
+        "url": "https://find.shell.com/in/fuel/13031028-shell-technology-center-bnglre/en_IN",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "KIADB Aerospace Park",
+        "url": "https://www.boeing.co.in/content/theboeingcompany/in/en.html",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "Our starting point is the workplace or destination you actually need to reach. We then separate the residential project from the industrial park and compare its registered block, road approach and home layout. For El Dorado and Jasper, we also make the parent–component relationship clear so the same township is not presented as two unrelated choices.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "brigade-el-dorado",
+      "jasper-at-brigade-el-dorado",
+      "nikoo-homes-9"
+    ],
+    "usp": [
+      "Boeing engineering and technology campus",
+      "Shell research and technology presence",
+      "Block-based apartment and township choices in the surrounding corridor"
+    ],
+    "sourceIds": [
+      "SRC-138",
+      "SRC-133",
+      "SRC-138"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -422,33 +549,40 @@
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Homes in Thanisandra, Bengaluru",
-    "description": "Compare Aaramv’s listed apartment projects in Thanisandra and review the routes and everyday essentials that matter to your household. Begin with your actual destination and the route from each project entrance.",
+    "tagline": "A main-road address. Many different daily routines.",
+    "description": "Thanisandra Main Road links the Nagavara side of the Outer Ring Road with the Hegde Nagar and northern residential belt. The corridor includes larger apartment communities, local retail and routes towards the Manyata employment area. Projects marketed under Thanisandra may actually sit at Hegde Nagar, Thirumenahalli or Bellahalli.",
     "tags": [
       "North Bengaluru",
-      "Apartment",
-      "Puravankara Limited",
-      "Bhartiya Urban"
+      "Apartment"
     ],
     "searchKeywords": [
       "Thanisandra",
       "thanisandra",
-      "North Bengaluru",
-      "Apartment",
-      "Manyata Tech Park",
-      "Rashtrotthana Vidya Kendra",
-      "Elements Mall",
-      "Aster CMI Hospital"
+      "Bengaluru",
+      "Purva Atmosphere",
+      "Nikoo Homes 5",
+      "Concorde NEO"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.puravankara.com/_next/image?url=%2Fuploads%2FPurva_Atmosphere_59c2f79612.jpg&w=2048&q=75",
-        "alt": "Thanisandra residential locality visual",
-        "caption": "Thanisandra residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/thanisandra/cover.webp",
+        "alt": "Thanisandra Main Road · source photograph published in 2020",
+        "caption": "Thanisandra Main Road · source photograph published in 2020",
+        "kind": "landmark-photograph",
+        "credit": "Anand Swamy / Magicbricks · Thanisandra Main Road, 2020 source photograph",
+        "sourceUrl": "https://img.staticmb.com/mbphoto/locality/cropped_images/2020/Oct/29/Photo_h470_w1080/105564_IMG_20200623_145156554_BURST001---Anand-Swamy_470_1080.jpg",
+        "sourcePageUrl": "https://www.magicbricks.com/Thanisandra-Main-Road-in-Bangalore-Overview",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 626,
+        "height": 470,
+        "checkedAt": "2026-10-28",
+        "sha256": "14193b0e99832fa6cf3825817b47b3977f8c700b7043dfb92288fffced9bce55",
+        "bytes": 36682
       }
     ],
     "coordinates": null,
@@ -459,41 +593,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "3 listed projects",
-        "description": "Purva Atmosphere | Nikoo Homes 5 | Concorde NEO"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Thanisandra Main Road as the corridor spine",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Manyata and Nagavara employment context",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "A range of gated apartment formats along the wider belt",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "3"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 3,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -544,20 +678,54 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Thanisandra?",
-        "answer": "Purva Atmosphere, Nikoo Homes 5, Concorde NEO"
+        "question": "What gives Thanisandra its identity?",
+        "answer": "Thanisandra Main Road as the corridor spine; Manyata and Nagavara employment context; A range of gated apartment formats along the wider belt."
       },
       {
-        "question": "How should I compare properties in Thanisandra?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Purva Atmosphere, Nikoo Homes 5, Concorde NEO. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Thanisandra?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "Thanisandra is useful to compare when you want apartment choice around the northern employment belt. We would first identify the part of the corridor that works for your commute, then compare layout, full purchase cost and completion stage. Two projects using the same Thanisandra label can lead to very different everyday journeys."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Thanisandra",
+        "url": "https://housing.com/thanisandra-bengaluru-overview-P4hd4a6xdrnnmtn5w",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Thanisandra image source",
+        "url": "https://www.magicbricks.com/Thanisandra-Main-Road-in-Bangalore-Overview",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "Thanisandra is useful to compare when you want apartment choice around the northern employment belt. We would first identify the part of the corridor that works for your commute, then compare layout, full purchase cost and completion stage. Two projects using the same Thanisandra label can lead to very different everyday journeys.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "purva-atmosphere",
+      "nikoo-homes-5",
+      "concorde-neo"
+    ],
+    "usp": [
+      "Thanisandra Main Road as the corridor spine",
+      "Manyata and Nagavara employment context",
+      "A range of gated apartment formats along the wider belt"
+    ],
+    "sourceIds": [
+      "SRC-139",
+      "SRC-140"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -568,36 +736,42 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "Airport Corridor",
-    "tagline": "Compare properties around Devanahalli.",
-    "description": "Explore Aaramv’s listed apartment and plot options around Devanahalli. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North Bengaluru · Airport corridor",
+    "tagline": "A town, a fort and a wider world of home choices.",
+    "description": "Devanahalli combines an established town and historic fort with a much wider airport-corridor property market. Apartment communities and plotted developments sit at different points across the taluk and its connecting roads. A Devanahalli address should therefore identify the village and project entrance as well as the familiar town name.",
     "tags": [
-      "Airport Corridor",
+      "North Bengaluru · Airport corridor",
       "Apartment",
-      "Plot",
-      "Sattva Group",
-      "Brigade Group"
+      "Plot"
     ],
     "searchKeywords": [
       "Devanahalli",
       "devanahalli",
-      "Airport Corridor",
-      "Apartment",
-      "Plot",
-      "The KOI Junction",
-      "D Mart",
-      "Devanahalli Station",
-      "NAFL-NPS School"
+      "Bengaluru",
+      "Sattva Park Cubix",
+      "Brigade Oasis",
+      "Century Seasons"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741975299-545525930.webp",
-        "alt": "Devanahalli residential locality visual",
-        "caption": "Devanahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/devanahalli/cover.webp",
+        "alt": "Devanahalli Fort · historic town landmark",
+        "caption": "Devanahalli Fort · historic town landmark",
+        "kind": "landmark-photograph",
+        "credit": "Hitha Nanjappa · CC BY-SA 3.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Devanahalli_Fort_entrance%2C_Devanahalli%2C_Bengaluru%2C_Karnataka%2C_India_%282006%29.jpg/1920px-Devanahalli_Fort_entrance%2C_Devanahalli%2C_Bengaluru%2C_Karnataka%2C_India_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Devanahalli_Fort_entrance,_Devanahalli,_Bengaluru,_Karnataka,_India_(2006).jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "Taken on 4 March 2006, 12:56:28",
+        "width": 1440,
+        "height": 1082,
+        "checkedAt": "2026-10-28",
+        "sha256": "18cc4d2ad208447c3c0eda9a13036eb4212a79634d042de29970dd889c4ae59b",
+        "bytes": 181216
       }
     ],
     "coordinates": null,
@@ -607,41 +781,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "3 listed projects",
-        "description": "Sattva Park Cubix | Brigade Oasis | Century Seasons"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment | Plot"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "Airport Corridor"
+        "title": "Historic Devanahalli Fort and town setting",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Kempegowda International Airport in the wider taluk",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Apartment and plotted-development options across distinct locations",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "3"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 3,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment, Plot",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -692,20 +866,54 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Devanahalli?",
-        "answer": "Sattva Park Cubix, Brigade Oasis, Century Seasons"
+        "question": "What gives Devanahalli its identity?",
+        "answer": "Historic Devanahalli Fort and town setting; Kempegowda International Airport in the wider taluk; Apartment and plotted-development options across distinct locations."
       },
       {
-        "question": "How should I compare properties in Devanahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Sattva Park Cubix, Brigade Oasis, Century Seasons. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Devanahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would separate a town-based apartment search from a larger-plot search on the surrounding roads. Your work route, school plans and intended move-in date determine which location deserves attention. The airport is a useful regional anchor, but it should not hide differences in road access, services or distance from the town."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Devanahalli",
+        "url": "https://bangalorerural.nic.in/en/tourist-place/kempegowda-international-airport/",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Devanahalli image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Devanahalli_Fort_entrance,_Devanahalli,_Bengaluru,_Karnataka,_India_(2006).jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would separate a town-based apartment search from a larger-plot search on the surrounding roads. Your work route, school plans and intended move-in date determine which location deserves attention. The airport is a useful regional anchor, but it should not hide differences in road access, services or distance from the town.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "sattva-park-cubix",
+      "brigade-oasis",
+      "century-seasons"
+    ],
+    "usp": [
+      "Historic Devanahalli Fort and town setting",
+      "Kempegowda International Airport in the wider taluk",
+      "Apartment and plotted-development options across distinct locations"
+    ],
+    "sourceIds": [
+      "SRC-141",
+      "SRC-142"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -716,76 +924,86 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Chikkagubbi.",
-    "description": "Explore Aaramv’s listed row house options around Chikkagubbi. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North-East Bengaluru",
+    "tagline": "More home formats off the Hennur–Bagalur spine.",
+    "description": "Chikkagubbi lies off the Hennur–Bagalur corridor, with residential layouts and larger community developments around its approach roads. The wider Byrathi–Hennur setting includes education landmarks such as Legacy School. The housing search here can include row houses and other formats, each with different floor arrangements and maintenance expectations.",
     "tags": [
-      "North Bengaluru",
-      "Row House",
-      "Assetz Property Group"
+      "North-East Bengaluru",
+      "Row House"
     ],
     "searchKeywords": [
       "Chikkagubbi",
       "chikkagubbi",
-      "North Bengaluru",
-      "Row House",
-      "Manyata Tech Park",
-      "KR Puram",
-      "Kempegowda International Airport"
+      "Bengaluru",
+      "Assetz Soul & Soil"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.homznspace.com/wp-content/uploads/2018/07/Assetz-Soul-Soil-Main-A.jpg",
-        "alt": "Chikkagubbi residential locality visual",
-        "caption": "Chikkagubbi residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/chikkagubbi/cover.webp",
+        "alt": "Chikkagubbi and its road connections · OpenStreetMap location map",
+        "caption": "Chikkagubbi and its road connections · OpenStreetMap location map",
+        "kind": "location-map",
+        "credit": "© OpenStreetMap contributors",
+        "sourceUrl": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+        "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "rightsStatus": "Retain visible OpenStreetMap attribution.",
+        "capturedAt": "2026-10-28",
+        "width": 1280,
+        "height": 768,
+        "checkedAt": "2026-10-28",
+        "sha256": "fcfb5dbd56bb99d8eb8e81dbe123e1f40bd07f1119b40e9365e559210b95edfd",
+        "bytes": 232662
       }
     ],
-    "coordinates": null,
+    "coordinates": {
+      "latitude": 13.0822582,
+      "longitude": 77.6616026
+    },
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chikkagubbi%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
       "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Assetz Soul & Soil"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Row House"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Hennur–Bagalur corridor location",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Row-house and other community-home formats",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Byrathi education and service context",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Row House",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -826,20 +1044,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Chikkagubbi?",
-        "answer": "Assetz Soul & Soil"
+        "question": "What gives Chikkagubbi its identity?",
+        "answer": "Hennur–Bagalur corridor location; Row-house and other community-home formats; Byrathi education and service context."
       },
       {
-        "question": "How should I compare properties in Chikkagubbi?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Assetz Soul & Soil. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Chikkagubbi?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "For a buyer looking beyond a conventional apartment, we would explore Chikkagubbi through the actual home format. A row house, villament and apartment can have very different stairs, outdoor space and upkeep. We would match those practical differences to your household before comparing price, approach roads and the surrounding services."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Chikkagubbi",
+        "url": "https://lsb.edu.in/connect/",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Chikkagubbi image source",
+        "url": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "For a buyer looking beyond a conventional apartment, we would explore Chikkagubbi through the actual home format. A row house, villament and apartment can have very different stairs, outdoor space and upkeep. We would match those practical differences to your household before comparing price, approach roads and the surrounding services.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "assetz-soul-soil"
+    ],
+    "usp": [
+      "Hennur–Bagalur corridor location",
+      "Row-house and other community-home formats",
+      "Byrathi education and service context"
+    ],
+    "sourceIds": [
+      "SRC-143",
+      "SRC-144"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Map",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -851,30 +1101,38 @@
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Compare properties around Jakkur.",
-    "description": "Explore Aaramv’s listed apartment options around Jakkur. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "tagline": "A northern neighbourhood with a lake at its heart.",
+    "description": "Jakkur’s identity includes Jakkur Lake, the surrounding residential neighbourhoods and links towards Yelahanka and the northern road network. The Shivanahalli side includes homes around The HDFC School. Lake access, outlook and local road conditions vary by address and should not be inferred from the Jakkur label alone.",
     "tags": [
       "North Bengaluru",
-      "Apartment",
-      "Mittal Builders"
+      "Apartment"
     ],
     "searchKeywords": [
       "Jakkur",
       "jakkur",
-      "North Bengaluru",
-      "Apartment",
-      "HDFC School, Jakkur",
-      "Dasarahalli Bus Stop"
+      "Bengaluru",
+      "Mittal Palms"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://housing-images.n7net.in/4f2250e8/51379d132d14d7a98b9bee66924a2375/v0/large/mittal_palms-jakkur-bengaluru-mittal_builders.jpeg",
-        "alt": "Jakkur residential locality visual",
-        "caption": "Jakkur residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/jakkur/cover.webp",
+        "alt": "Jakkur Lake · neighbourhood landmark",
+        "caption": "Jakkur Lake · neighbourhood landmark",
+        "kind": "landmark-photograph",
+        "credit": "Gpkp · CC BY-SA 4.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jakkur_lake%2C_Bangalore_%282025%29_01.jpg/1920px-Jakkur_lake%2C_Bangalore_%282025%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jakkur_lake,_Bangalore_(2025)_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2025-05-28 15:50:01",
+        "width": 1440,
+        "height": 1085,
+        "checkedAt": "2026-10-28",
+        "sha256": "381ea8478d1e2e00e8f3a5a61d06fe26bb1989846ba3a6ded339e5430a518e39",
+        "bytes": 387992
       }
     ],
     "coordinates": null,
@@ -884,41 +1142,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Mittal Palms"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Jakkur Lake as a recognised local landmark",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Jakkur–Shivanahalli residential setting",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Yelahanka-side road connections",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -949,20 +1207,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Jakkur?",
-        "answer": "Mittal Palms"
+        "question": "What gives Jakkur its identity?",
+        "answer": "Jakkur Lake as a recognised local landmark; Jakkur–Shivanahalli residential setting; Yelahanka-side road connections."
       },
       {
-        "question": "How should I compare properties in Jakkur?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Mittal Palms. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Jakkur?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would compare Jakkur through the streets your family will use: the school run, daily shopping and the route to work. Where a home is sold on a lake outlook, we would ask to see that view from the actual unit. A neighbourhood landmark is valuable context; it is not a promise attached to every apartment."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Jakkur",
+        "url": "https://site.bbmp.gov.in/departmentwebsites/Lakes/jakkuru.html",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Jakkur image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Jakkur_lake,_Bangalore_(2025)_01.jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would compare Jakkur through the streets your family will use: the school run, daily shopping and the route to work. Where a home is sold on a lake outlook, we would ask to see that view from the actual unit. A neighbourhood landmark is valuable context; it is not a promise attached to every apartment.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "mittal-palms"
+    ],
+    "usp": [
+      "Jakkur Lake as a recognised local landmark",
+      "Jakkur–Shivanahalli residential setting",
+      "Yelahanka-side road connections"
+    ],
+    "sourceIds": [
+      "SRC-145",
+      "SRC-146"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -973,34 +1263,41 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Hennur Road.",
-    "description": "Explore Aaramv’s listed apartment options around Hennur Road. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North-East Bengaluru",
+    "tagline": "One road corridor. Several neighbourhood stories.",
+    "description": "Hennur Road is a broad residential and commercial corridor running through several localities in North Bengaluru. Hennur Cross, Byrathi, Kyalasanahalli and Chikkagubbi represent different points along that search area. Apartment projects marketed under Hennur Road can have very different last-mile approaches and surrounding services.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Disha Properties",
-      "DNR Group"
+      "North-East Bengaluru",
+      "Apartment"
     ],
     "searchKeywords": [
       "Hennur Road",
       "hennur-road",
-      "North Bengaluru",
-      "Apartment",
-      "New Airport Road",
-      "Bileshivale Main Road",
-      "Decathlon",
-      "Bhartiya Mall of Bengaluru"
+      "Bengaluru",
+      "Disha Harmony Gardens",
+      "DNR Parklink",
+      "Concorde Sienna"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200186101-849451883.webp",
-        "alt": "Hennur Road residential locality visual",
-        "caption": "Hennur Road residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/hennur-road/cover.webp",
+        "alt": "Indian Academy, Hennur Main Road · corridor landmark",
+        "caption": "Indian Academy, Hennur Main Road · corridor landmark",
+        "kind": "landmark-photograph",
+        "credit": "Challapalli Purnachandra Rao · CC BY-SA 4.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Indian_Academy_Group_of_Institutions%2C_Hennur_Main_Road%2C_Bangalore%2C_Karnataka%2C_India_%282000%29.jpg/1920px-Indian_Academy_Group_of_Institutions%2C_Hennur_Main_Road%2C_Bangalore%2C_Karnataka%2C_India_%282000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Indian_Academy_Group_of_Institutions,_Hennur_Main_Road,_Bangalore,_Karnataka,_India_(2000).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2000-08-30",
+        "width": 1440,
+        "height": 864,
+        "checkedAt": "2026-10-28",
+        "sha256": "4866df92a396f06c89ba03046a2d2ae1101207f89760cf1a92bef194c30def5b",
+        "bytes": 165612
       }
     ],
     "coordinates": null,
@@ -1010,41 +1307,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "3 listed projects",
-        "description": "Disha Harmony Gardens | DNR Parklink | Concorde Sienna"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Established Hennur Main Road corridor",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Multiple residential sub-localities and approach roads",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Education and retail anchors along the wider spine",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "3"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 3,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1095,20 +1392,54 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Hennur Road?",
-        "answer": "Disha Harmony Gardens, DNR Parklink, Concorde Sienna"
+        "question": "What gives Hennur Road its identity?",
+        "answer": "Established Hennur Main Road corridor; Multiple residential sub-localities and approach roads; Education and retail anchors along the wider spine."
       },
       {
-        "question": "How should I compare properties in Hennur Road?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Disha Harmony Gardens, DNR Parklink, Concorde Sienna. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Hennur Road?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would narrow Hennur Road to the stretch that fits your day before choosing projects. That makes the comparison more useful: the right approach road, the services you use and the home format you need. We would then explain the trade-offs between the shortlisted communities instead of treating the whole corridor as one location."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Hennur Road",
+        "url": "https://websitemedia.anarock.com/media/Hennur_Road_Bengaluru_Micro_Market_Report_42e86f756d.pdf",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Hennur Road image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Indian_Academy_Group_of_Institutions,_Hennur_Main_Road,_Bangalore,_Karnataka,_India_(2000).jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would narrow Hennur Road to the stretch that fits your day before choosing projects. That makes the comparison more useful: the right approach road, the services you use and the home format you need. We would then explain the trade-offs between the shortlisted communities instead of treating the whole corridor as one location.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "disha-harmony-gardens",
+      "dnr-parklink",
+      "concorde-sienna"
+    ],
+    "usp": [
+      "Established Hennur Main Road corridor",
+      "Multiple residential sub-localities and approach roads",
+      "Education and retail anchors along the wider spine"
+    ],
+    "sourceIds": [
+      "SRC-147",
+      "SRC-148"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1120,33 +1451,40 @@
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Compare properties around Rachenahalli.",
-    "description": "Explore Aaramv’s listed apartment options around Rachenahalli. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "tagline": "A lake neighbourhood beside a major work district.",
+    "description": "Rachenahalli combines a recognised lake landscape with residential communities in the northern employment belt. Its relationship with Manyata Business Park makes the exact workplace gate an important route-check destination. The lake, railway-side roads and individual project approaches create different local experiences within the same search area.",
     "tags": [
       "North Bengaluru",
-      "Apartment",
-      "Sumadhura Group",
-      "SNN Estates"
+      "Apartment"
     ],
     "searchKeywords": [
       "Rachenahalli",
       "rachenahalli",
-      "North Bengaluru",
-      "Apartment",
-      "Thanisandra Main Road",
-      "Elements Mall",
-      "Reliance Digital",
-      "State Highway 104"
+      "Bengaluru",
+      "Sumadhura Epitome",
+      "SNN Estates Felicity",
+      "SB Urban Park"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832306207-170185736.webp",
-        "alt": "Rachenahalli residential locality visual",
-        "caption": "Rachenahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/rachenahalli/cover.webp",
+        "alt": "Rachenahalli Lake · neighbourhood landmark",
+        "caption": "Rachenahalli Lake · neighbourhood landmark",
+        "kind": "landmark-photograph",
+        "credit": "Gpkp · CC BY-SA 4.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rachenahalli_lake_%282024%29_19.jpg/1920px-Rachenahalli_lake_%282024%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Rachenahalli_lake_(2024)_19.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2024-11-27 16:12:55",
+        "width": 1440,
+        "height": 1085,
+        "checkedAt": "2026-10-28",
+        "sha256": "1a5bb2dffd4928134ec341730a818017a0bc15e7eed74eba41b6ae85299e0e58",
+        "bytes": 59428
       }
     ],
     "coordinates": null,
@@ -1156,41 +1494,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "3 listed projects",
-        "description": "Sumadhura Epitome I | SNN Estates Felicity | SB Urban Park"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Rachenahalli Lake is a documented civic landmark",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Manyata Business Park employment context",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Apartment communities across distinct local approaches",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "3"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 3,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1241,20 +1579,54 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Rachenahalli?",
-        "answer": "Sumadhura Epitome I, SNN Estates Felicity, SB Urban Park"
+        "question": "What gives Rachenahalli its identity?",
+        "answer": "Rachenahalli Lake is a documented civic landmark; Manyata Business Park employment context; Apartment communities across distinct local approaches."
       },
       {
-        "question": "How should I compare properties in Rachenahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Sumadhura Epitome, SNN Estates Felicity, SB Urban Park. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Rachenahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "Rachenahalli can be a practical search area when your day centres on the Manyata side of Bengaluru. We would compare the exact office gate and project entrance, then look at layout, surroundings and completion stage. A short distance on a map does not tell you everything about the road journey or the outlook from a home."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Rachenahalli",
+        "url": "https://lms.bbmpgov.in/projectdetails/111",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Rachenahalli image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Rachenahalli_lake_(2024)_19.jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "Rachenahalli can be a practical search area when your day centres on the Manyata side of Bengaluru. We would compare the exact office gate and project entrance, then look at layout, surroundings and completion stage. A short distance on a map does not tell you everything about the road journey or the outlook from a home.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "sumadhura-epitome-i",
+      "snn-estates-felicity",
+      "sb-urban-park"
+    ],
+    "usp": [
+      "Rachenahalli Lake is a documented civic landmark",
+      "Manyata Business Park employment context",
+      "Apartment communities across distinct local approaches"
+    ],
+    "sourceIds": [
+      "SRC-149",
+      "SRC-150"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1265,32 +1637,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Vidyaranyapura.",
-    "description": "Explore Aaramv’s listed apartment options around Vidyaranyapura. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North-West Bengaluru",
+    "tagline": "An established neighbourhood; an address worth reading closely.",
+    "description": "Vidyaranyapura is an established residential search area in northern Bengaluru, with local streets, schools and the Sri Kalika Durga Parameshwari Temple as a recognised landmark. Some new projects marketed under Vidyaranyapura lie in Chikkabettahalli towards Yelahanka. Keep that actual village address visible when comparing a home.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Concorde Group"
+      "North-West Bengaluru",
+      "Apartment"
     ],
     "searchKeywords": [
       "Vidyaranyapura",
       "vidyaranyapura",
-      "North Bengaluru",
-      "Apartment",
-      "Hesaraghatta Road",
-      "Yelahanka Road",
-      "D-Mart"
+      "Bengaluru",
+      "Concorde Antares"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/concorde-antares_1768111849888-925504919.webp",
-        "alt": "Vidyaranyapura residential locality visual",
-        "caption": "Vidyaranyapura residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/vidyaranyapura/cover.webp",
+        "alt": "Vidyaranyapura temple gopuram · neighbourhood landmark",
+        "caption": "Vidyaranyapura temple gopuram · neighbourhood landmark",
+        "kind": "landmark-photograph",
+        "credit": "Shiva321 · CC BY-SA 3.0",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vidyaranyapura_Temple-Gopuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Vidyaranyapura_Temple-Gopuram.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2013-01-01",
+        "width": 825,
+        "height": 1100,
+        "checkedAt": "2026-10-28",
+        "sha256": "610066f03b9a7a36482f259f33bffebddfde1bce2ce56dae11fa2716204ca597",
+        "bytes": 251630
       }
     ],
     "coordinates": null,
@@ -1300,41 +1679,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Concorde Antares"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Established residential-neighbourhood context",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Sri Kalika Durga Parameshwari Temple landmark",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Chikkabettahalli and Yelahanka-side new-home options",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1375,20 +1754,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Vidyaranyapura?",
-        "answer": "Concorde Antares"
+        "question": "What gives Vidyaranyapura its identity?",
+        "answer": "Established residential-neighbourhood context; Sri Kalika Durga Parameshwari Temple landmark; Chikkabettahalli and Yelahanka-side new-home options."
       },
       {
-        "question": "How should I compare properties in Vidyaranyapura?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Concorde Antares. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Vidyaranyapura?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would distinguish living within the established Vidyaranyapura neighbourhood from buying in a nearby new development marketed under its name. Both can be worth comparing, but they solve different everyday needs. We would use your school, work and move-in requirements to decide which addresses belong on your shortlist."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Vidyaranyapura",
+        "url": "https://itms.kar.nic.in/hrcehome/index_temple.php?tid=9",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Vidyaranyapura image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Vidyaranyapura_Temple-Gopuram.jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would distinguish living within the established Vidyaranyapura neighbourhood from buying in a nearby new development marketed under its name. Both can be worth comparing, but they solve different everyday needs. We would use your school, work and move-in requirements to decide which addresses belong on your shortlist.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "concorde-antares"
+    ],
+    "usp": [
+      "Established residential-neighbourhood context",
+      "Sri Kalika Durga Parameshwari Temple landmark",
+      "Chikkabettahalli and Yelahanka-side new-home options"
+    ],
+    "sourceIds": [
+      "SRC-151",
+      "SRC-152"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1399,77 +1810,86 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Thanisandra-Kannur.",
-    "description": "Explore Aaramv’s listed apartment options around Thanisandra-Kannur. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North-East Bengaluru",
+    "tagline": "The Kannur address behind the Thanisandra headline.",
+    "description": "This guide covers the Kannur side of the wider Thanisandra–Hennur residential corridor. Kannuru Main Road and connections towards Bellahalli and Chikkagubbi define the local approach. Project marketing may use Thanisandra, while the registered site address identifies Kannur Village and Bidarahalli Hobli.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Poulomi Estates"
+      "North-East Bengaluru",
+      "Apartment"
     ],
     "searchKeywords": [
       "Thanisandra-Kannur",
       "thanisandra-kannur",
-      "North Bengaluru",
-      "Apartment",
-      "Delhi Public School",
-      "REVA University",
-      "Manyata Tech Park",
-      "Kempegowda International Airport"
+      "Bengaluru",
+      "Poulomi Florique"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://poulomiflorique.com/images/hero-image.png",
-        "alt": "Thanisandra-Kannur residential locality visual",
-        "caption": "Thanisandra-Kannur residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/thanisandra-kannur/cover.webp",
+        "alt": "Kannuru and its road connections · OpenStreetMap location map",
+        "caption": "Kannuru and its road connections · OpenStreetMap location map",
+        "kind": "location-map",
+        "credit": "© OpenStreetMap contributors",
+        "sourceUrl": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+        "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "rightsStatus": "Retain visible OpenStreetMap attribution.",
+        "capturedAt": "2026-10-28",
+        "width": 1280,
+        "height": 768,
+        "checkedAt": "2026-10-28",
+        "sha256": "f62fdf489e578f359c0ac46cb9dc629bcd8732a06dd151d2ce514366f911c437",
+        "bytes": 205756
       }
     ],
-    "coordinates": null,
+    "coordinates": {
+      "latitude": 13.0967426,
+      "longitude": 77.6535003
+    },
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra-Kannur%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
       "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Poulomi Florique"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Kannuru Main Road and connecting neighbourhood roads",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Between the wider Thanisandra and Hennur search corridors",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Project-level village and tower identity is especially important",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1520,20 +1940,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Thanisandra-Kannur?",
-        "answer": "Poulomi Florique"
+        "question": "What gives Thanisandra-Kannur its identity?",
+        "answer": "Kannuru Main Road and connecting neighbourhood roads; Between the wider Thanisandra and Hennur search corridors; Project-level village and tower identity is especially important."
       },
       {
-        "question": "How should I compare properties in Thanisandra-Kannur?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Poulomi Florique. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Thanisandra-Kannur?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would use the exact Kannur address to make this search more precise. The larger corridor name is only the starting point; tower plans, approach roads and your daily destinations determine fit. We would also separate current tower offerings from coming-soon blocks so a buyer knows what the quoted price and delivery information actually cover."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Thanisandra-Kannur",
+        "url": "https://www.openstreetmap.org/relation/17421370",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Thanisandra-Kannur image source",
+        "url": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would use the exact Kannur address to make this search more precise. The larger corridor name is only the starting point; tower plans, approach roads and your daily destinations determine fit. We would also separate current tower offerings from coming-soon blocks so a buyer knows what the quoted price and delivery information actually cover.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "poulomi-florique"
+    ],
+    "usp": [
+      "Kannuru Main Road and connecting neighbourhood roads",
+      "Between the wider Thanisandra and Hennur search corridors",
+      "Project-level village and tower identity is especially important"
+    ],
+    "sourceIds": [
+      "SRC-153",
+      "SRC-154"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Map",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1544,32 +1996,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "Airport Corridor",
-    "tagline": "Compare properties around Sadahalli.",
-    "description": "Explore Aaramv’s listed apartment and villa options around Sadahalli. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North Bengaluru · Airport corridor",
+    "tagline": "An airport-side search with a village address of its own.",
+    "description": "Sadahalli is part of North Bengaluru’s airport-side property search area, with Sadahalli Gate and the NH 44 connection acting as familiar route anchors. Nearby Navarathna Agrahara is a separate village address used by Bhartiya Garden Estate. The quarry temple is a distinctive landmark associated with Sadahalli.",
     "tags": [
-      "Airport Corridor",
-      "Apartment and Villa",
-      "Bhartiya Urban"
+      "North Bengaluru · Airport corridor",
+      "Apartment and Villa"
     ],
     "searchKeywords": [
       "Sadahalli",
       "sadahalli",
-      "Airport Corridor",
-      "Apartment and Villa",
-      "Prestige Tech Cloud",
-      "Forum Mall",
-      "Kempagowda International Airport"
+      "Bengaluru",
+      "Bhartiya Garden Estate"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-garden-estate_1762426406200-850660050.webp",
-        "alt": "Sadahalli residential locality visual",
-        "caption": "Sadahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/sadahalli/cover.webp",
+        "alt": "Sadahalli Quarry Temple · local landmark",
+        "caption": "Sadahalli Quarry Temple · local landmark",
+        "kind": "landmark-photograph",
+        "credit": "Karnataka Explore · Sadahalli Quarry Temple",
+        "sourceUrl": "https://karnatakaexplore.com/wp-content/uploads/2025/05/Sadahalli-Quarry-Temple.webp",
+        "sourcePageUrl": "https://karnatakaexplore.com/district/bengaluru-rural/sadahalli-quarry-temple/",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 1024,
+        "height": 614,
+        "checkedAt": "2026-10-28",
+        "sha256": "f3a0f691ad9bcfbd88930edfcd64a86db85923ef58e2b38052399983c8ecb14d",
+        "bytes": 96948
       }
     ],
     "coordinates": null,
@@ -1579,41 +2038,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Bhartiya Garden Estate"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment and Villa"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "Airport Corridor"
+        "title": "NH 44 and Sadahalli Gate route context",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Navarathna Agrahara village addresses nearby",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Sadahalli Quarry Temple as a distinctive local landmark",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment and Villa",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1654,20 +2113,47 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Sadahalli?",
-        "answer": "Bhartiya Garden Estate"
+        "question": "What gives Sadahalli its identity?",
+        "answer": "NH 44 and Sadahalli Gate route context; Navarathna Agrahara village addresses nearby; Sadahalli Quarry Temple as a distinctive local landmark."
       },
       {
-        "question": "How should I compare properties in Sadahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Bhartiya Garden Estate. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Sadahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would begin with the actual village and the route to the highway, rather than relying only on Sadahalli or airport branding. For a township search, we would then compare apartment types, registered phases and delivery schedules. Your day-to-day needs should determine the shortlist before the scale or launch story of a development does."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Sadahalli",
+        "url": "https://karnatakaexplore.com/district/bengaluru-rural/sadahalli-quarry-temple/",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would begin with the actual village and the route to the highway, rather than relying only on Sadahalli or airport branding. For a township search, we would then compare apartment types, registered phases and delivery schedules. Your day-to-day needs should determine the shortlist before the scale or launch story of a development does.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "bhartiya-garden-estate"
+    ],
+    "usp": [
+      "NH 44 and Sadahalli Gate route context",
+      "Navarathna Agrahara village addresses nearby",
+      "Sadahalli Quarry Temple as a distinctive local landmark"
+    ],
+    "sourceIds": [
+      "SRC-155",
+      "SRC-155"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1678,76 +2164,86 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "Airport Corridor",
-    "tagline": "Compare properties around Kannamangala, Devanahalli.",
-    "description": "Explore Aaramv’s listed apartment options around Kannamangala, Devanahalli. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North Bengaluru · Airport corridor",
+    "tagline": "Kannamangala, on the Devanahalli side of Bengaluru.",
+    "description": "This is Kannamangala in Devanahalli taluk, near the northern airport corridor—not the Kannamangala near Whitefield. The location sits within the wider NH 44 and Kempegowda International Airport setting. Use the full village and taluk name whenever opening a map or comparing projects here.",
     "tags": [
-      "Airport Corridor",
-      "Apartment",
-      "Sattva Group"
+      "North Bengaluru · Airport corridor",
+      "Apartment"
     ],
     "searchKeywords": [
       "Kannamangala, Devanahalli",
       "kannamangala-devanahalli",
-      "Airport Corridor",
-      "Apartment",
-      "National Highway 44",
-      "Forum Mall",
-      "International Airport"
+      "Bengaluru",
+      "Sattva Vasanta Skye"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/sattva-vasanta-skye_1765447679320-53698305.webp",
-        "alt": "Kannamangala, Devanahalli residential locality visual",
-        "caption": "Kannamangala, Devanahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/kannamangala-devanahalli/cover.webp",
+        "alt": "Kannamangala, Devanahalli taluk · OpenStreetMap location map",
+        "caption": "Kannamangala, Devanahalli taluk · OpenStreetMap location map",
+        "kind": "location-map",
+        "credit": "© OpenStreetMap contributors",
+        "sourceUrl": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+        "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "rightsStatus": "Retain visible OpenStreetMap attribution.",
+        "capturedAt": "2026-10-28",
+        "width": 1280,
+        "height": 768,
+        "checkedAt": "2026-10-28",
+        "sha256": "a6eda533f11ed84d7d54f4606d9208c40af467fb842f37c605a6771021c48e6e",
+        "bytes": 174326
       }
     ],
-    "coordinates": null,
+    "coordinates": {
+      "latitude": 13.2151923,
+      "longitude": 77.6667197
+    },
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kannamangala%2C%20Devanahalli%2C%20Bengaluru%2C%20Karnataka",
     "considerations": [
       "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Sattva Vasanta Skye"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "Airport Corridor"
+        "title": "Devanahalli-taluka village identity",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "NH 44 and airport-corridor context",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Apartment choices in the Sattva Vasanta Skye search area",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1788,20 +2284,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Kannamangala, Devanahalli?",
-        "answer": "Sattva Vasanta Skye"
+        "question": "What gives Kannamangala, Devanahalli its identity?",
+        "answer": "Devanahalli-taluka village identity; NH 44 and airport-corridor context; Apartment choices in the Sattva Vasanta Skye search area."
       },
       {
-        "question": "How should I compare properties in Kannamangala, Devanahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Sattva Vasanta Skye. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Kannamangala, Devanahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "Getting the location right is the first step here. We would identify Kannamangala in Devanahalli, then test the routes relevant to your household and compare the exact apartment type. We would treat ready infrastructure, home construction status and possession dates as separate facts, so a convenient location claim never implies a home is ready to occupy."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Kannamangala, Devanahalli",
+        "url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/831297",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Kannamangala, Devanahalli image source",
+        "url": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "Getting the location right is the first step here. We would identify Kannamangala in Devanahalli, then test the routes relevant to your household and compare the exact apartment type. We would treat ready infrastructure, home construction status and possession dates as separate facts, so a convenient location claim never implies a home is ready to occupy.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "sattva-vasanta-skye"
+    ],
+    "usp": [
+      "Devanahalli-taluka village identity",
+      "NH 44 and airport-corridor context",
+      "Apartment choices in the Sattva Vasanta Skye search area"
+    ],
+    "sourceIds": [
+      "SRC-156",
+      "SRC-157"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Map",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1813,31 +2341,38 @@
     "state": "Karnataka",
     "country": "India",
     "zone": "North Bengaluru",
-    "tagline": "Compare properties around Kogilu.",
-    "description": "Explore Aaramv’s listed apartment options around Kogilu. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "tagline": "A lake-side identity within the Yelahanka network.",
+    "description": "Kogilu sits within the wider Yelahanka–Jakkur residential setting, with Kogilu Main Road and Kogilu Lake providing local reference points. Apartment communities have different approaches towards Bellary Road and Thanisandra Main Road. A home’s tower, access road and layout are more useful comparison points than the broad northern-city label.",
     "tags": [
       "North Bengaluru",
-      "Apartment",
-      "Bhartiya Urban"
+      "Apartment"
     ],
     "searchKeywords": [
       "Kogilu",
       "kogilu",
-      "North Bengaluru",
-      "Apartment",
-      "Yelahanka Station",
-      "Garuda Mall",
-      "Bagalur Main Road"
+      "Bengaluru",
+      "Nikoo Homes 6"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://nikoohomes.com/wp-content/uploads/2024/01/NH6_BLOCK-2-scaled.jpg",
-        "alt": "Kogilu residential locality visual",
-        "caption": "Kogilu residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/kogilu/cover.webp",
+        "alt": "Kogilu Lake · neighbourhood landmark",
+        "caption": "Kogilu Lake · neighbourhood landmark",
+        "kind": "landmark-photograph",
+        "credit": "Mike Prince from Bangalore, India · CC BY 2.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Kogilu_Kere_%2830631866706%29.jpg/1920px-Kogilu_Kere_%2830631866706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kogilu_Kere_(30631866706).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2016-10-29 07:50",
+        "width": 1440,
+        "height": 810,
+        "checkedAt": "2026-10-28",
+        "sha256": "cdb6dfaf94303ae7d4269d862ccbdac84f1faa7e7f51e86a30133b61c12419ae",
+        "bytes": 233180
       }
     ],
     "coordinates": null,
@@ -1847,41 +2382,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Nikoo Homes 6"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Kogilu Lake as a recognised local landmark",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Yelahanka–Jakkur neighbourhood context",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Road connections towards Bellary Road and Thanisandra",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -1922,20 +2457,58 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Kogilu?",
-        "answer": "Nikoo Homes 6"
+        "question": "What gives Kogilu its identity?",
+        "answer": "Kogilu Lake as a recognised local landmark; Yelahanka–Jakkur neighbourhood context; Road connections towards Bellary Road and Thanisandra."
       },
       {
-        "question": "How should I compare properties in Kogilu?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Nikoo Homes 6. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Kogilu?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would compare Kogilu around your actual travel pattern and the kind of home your family needs. Study rooms, lofts and larger apartments can offer different ways to use space, but their plans and costs should be matched exactly. We would also keep phase-specific delivery schedules visible rather than assigning one date to the whole community."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Kogilu",
+        "url": "https://lms.bbmpgov.in/projectdetails/105",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Kogilu",
+        "url": "https://pms.bbmpgov.in/view-park/264",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Kogilu image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Kogilu_Kere_(30631866706).jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would compare Kogilu around your actual travel pattern and the kind of home your family needs. Study rooms, lofts and larger apartments can offer different ways to use space, but their plans and costs should be matched exactly. We would also keep phase-specific delivery schedules visible rather than assigning one date to the whole community.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "nikoo-homes-6"
+    ],
+    "usp": [
+      "Kogilu Lake as a recognised local landmark",
+      "Yelahanka–Jakkur neighbourhood context",
+      "Road connections towards Bellary Road and Thanisandra"
+    ],
+    "sourceIds": [
+      "SRC-158",
+      "SRC-159",
+      "SRC-160"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -1946,32 +2519,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Bellahalli.",
-    "description": "Explore Aaramv’s listed apartment options around Bellahalli. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North-East Bengaluru",
+    "tagline": "Where northern neighbourhood roads meet new home choices.",
+    "description": "Bellahalli sits within the wider Thanisandra–Kogilu–Kannur residential belt. Its local road connections and the regional education anchor of REVA University at Kattigenahalli help place it in the northern-city context. Projects may use Thanisandra in marketing while naming Bellahalli in the actual address.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Bhartiya Urban"
+      "North-East Bengaluru",
+      "Apartment"
     ],
     "searchKeywords": [
       "Bellahalli",
       "bellahalli",
-      "North Bengaluru",
-      "Apartment",
-      "Bellahalli Cross",
-      "Bhartiya City",
-      "Reva University"
+      "Bengaluru",
+      "Nikoo Homes 8"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://resources.housiey.com/admin/uploads/project_images/bhartiya-nikoo-homes-8_1782885247303-865920459.webp",
-        "alt": "Bellahalli residential locality visual",
-        "caption": "Bellahalli residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/bellahalli/cover.webp",
+        "alt": "REVA University, Kattigenahalli · nearby education landmark",
+        "caption": "REVA University, Kattigenahalli · nearby education landmark",
+        "kind": "landmark-photograph",
+        "credit": "RITM, Bangalore · CC BY-SA 3.0",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Reva_Main_Block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Reva_Main_Block.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "2013-08-24 09:52:14",
+        "width": 720,
+        "height": 540,
+        "checkedAt": "2026-10-28",
+        "sha256": "521391cb8bbcc5ef4674e3e2bc82819b91230af5b4f5eb31c4d24b507693c5d2",
+        "bytes": 104862
       }
     ],
     "coordinates": null,
@@ -1981,41 +2561,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Nikoo Homes 8"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Connections within the Thanisandra–Kogilu–Kannur belt",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "REVA University is a nearby regional education anchor",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Apartment developments with different phase and layout choices",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -2056,20 +2636,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Bellahalli?",
-        "answer": "Nikoo Homes 8"
+        "question": "What gives Bellahalli its identity?",
+        "answer": "Connections within the Thanisandra–Kogilu–Kannur belt; REVA University is a nearby regional education anchor; Apartment developments with different phase and layout choices."
       },
       {
-        "question": "How should I compare properties in Bellahalli?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Nikoo Homes 8. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Bellahalli?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would place the exact Bellahalli address on your daily-route map first. Then we would compare the home formats that suit your household, including study and loft options where documented. A familiar Thanisandra label should make the search easier, without concealing the project’s real location or its construction and delivery stage."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Bellahalli",
+        "url": "https://www.reva.edu.in/how-to-reach-us",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Bellahalli image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Reva_Main_Block.jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would place the exact Bellahalli address on your daily-route map first. Then we would compare the home formats that suit your household, including study and loft options where documented. A familiar Thanisandra label should make the search easier, without concealing the project’s real location or its construction and delivery stage.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "nikoo-homes-8"
+    ],
+    "usp": [
+      "Connections within the Thanisandra–Kogilu–Kannur belt",
+      "REVA University is a nearby regional education anchor",
+      "Apartment developments with different phase and layout choices"
+    ],
+    "sourceIds": [
+      "SRC-161",
+      "SRC-162"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -2080,32 +2692,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "North Bengaluru",
-    "tagline": "Compare properties around Manyata Tech Park.",
-    "description": "Explore Aaramv’s listed apartment options around Manyata Tech Park. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North Bengaluru · Manyata work district",
+    "tagline": "Put your work gate on the home-search map.",
+    "description": "Manyata Business Park is a major office district at Nagavara in North Bengaluru. This locality page is an employment-area search guide for homes around the park, not a claim that every listed home sits inside an office campus. The relevant park gate and residential project entrance are essential to a useful comparison.",
     "tags": [
-      "North Bengaluru",
-      "Apartment",
-      "Lodha Group"
+      "North Bengaluru · Manyata work district",
+      "Apartment"
     ],
     "searchKeywords": [
       "Manyata Tech Park",
       "manyata-tech-park",
-      "North Bengaluru",
-      "Apartment",
-      "Elements Mall",
-      "Nagawara Metro Station",
-      "Rachenahalli Main Road"
+      "Bengaluru",
+      "Lodha Mirabelle"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Mirabelle_1903X800.jpg",
-        "alt": "Manyata Tech Park residential locality visual",
-        "caption": "Manyata Tech Park residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/manyata-tech-park/cover.webp",
+        "alt": "Manyata Embassy Business Park · employment-area aerial photograph",
+        "caption": "Manyata Embassy Business Park · employment-area aerial photograph",
+        "kind": "landmark-photograph",
+        "credit": "KshitizBathwal / Skyscape Photography · CC BY-SA 4.0",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manyata_Embassy_Business_Park.jpg/1920px-Manyata_Embassy_Business_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Manyata_Embassy_Business_Park.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+        "capturedAt": "23 June 2019 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "width": 1440,
+        "height": 1078,
+        "checkedAt": "2026-10-28",
+        "sha256": "9719c0e53034226293707733e798abf89e0a62966bf2b091c6d87730b6c4edef",
+        "bytes": 220396
       }
     ],
     "coordinates": null,
@@ -2115,41 +2734,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Lodha Mirabelle"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "North Bengaluru"
+        "title": "Major Nagavara office and employment anchor",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Outer Ring Road and northern-city road context",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Residential search focused on the actual workplace gate",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -2190,20 +2809,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Manyata Tech Park?",
-        "answer": "Lodha Mirabelle"
+        "question": "What gives Manyata Tech Park its identity?",
+        "answer": "Major Nagavara office and employment anchor; Outer Ring Road and northern-city road context; Residential search focused on the actual workplace gate."
       },
       {
-        "question": "How should I compare properties in Manyata Tech Park?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Lodha Mirabelle. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Manyata Tech Park?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would start with the Manyata gate you use and the hours you travel. From there, we would compare the residential address, home layout and full purchase cost. For a phased development, we would also check the exact tower and schedule, because a workplace-oriented location does not make every phase equally suitable for your move-in plans."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Manyata Tech Park",
+        "url": "https://www.embassyofficeparks.com/AnnualReport-FY21/pdf/valuation-report.pdf",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Manyata Tech Park image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Manyata_Embassy_Business_Park.jpg",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would start with the Manyata gate you use and the hours you travel. From there, we would compare the residential address, home layout and full purchase cost. For a phased development, we would also check the exact tower and schedule, because a workplace-oriented location does not make every phase equally suitable for your move-in plans.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "lodha-mirabelle"
+    ],
+    "usp": [
+      "Major Nagavara office and employment anchor",
+      "Outer Ring Road and northern-city road context",
+      "Residential search focused on the actual workplace gate"
+    ],
+    "sourceIds": [
+      "SRC-163",
+      "SRC-164"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   },
   {
     "schemaVersion": 2,
@@ -2214,30 +2865,39 @@
     "city": "Bengaluru",
     "state": "Karnataka",
     "country": "India",
-    "zone": "Airport Corridor",
-    "tagline": "Compare properties around Devanahalli-Boodihal.",
-    "description": "Explore Aaramv’s listed apartment options around Devanahalli-Boodihal. Compare the exact project location, available layouts, complete cost and current stage before you plan a visit.",
+    "zone": "North Bengaluru · Airport corridor",
+    "tagline": "A township setting with a multigenerational home choice.",
+    "description": "This guide covers the Boodihal–Brigade Orchards side of the Devanahalli search area. Brigade Orchards is a township setting with Signature Club Resort as a recognisable landmark. Laurel & Maple brings different apartment formats and a Primus-operated service proposition within a distinct enclave of the larger development.",
     "tags": [
-      "Airport Corridor",
-      "Apartment",
-      "Brigade Group"
+      "North Bengaluru · Airport corridor",
+      "Apartment"
     ],
     "searchKeywords": [
       "Devanahalli-Boodihal",
       "devanahalli-boodihal",
-      "Airport Corridor",
-      "Apartment",
-      "Kempegowda International Airport"
+      "Bengaluru",
+      "Laurel & Maple at Brigade Orchards"
     ],
     "coverImageId": "cover",
     "images": [
       {
         "id": "cover",
-        "src": "https://www.brigadeorchards.com/assets/images/laurel.webp",
-        "alt": "Devanahalli-Boodihal residential locality visual",
-        "caption": "Devanahalli-Boodihal residential locality",
-        "kind": "locality",
-        "credit": ""
+        "src": "/images/localities/devanahalli-boodihal/cover.webp",
+        "alt": "Signature Club Resort at Brigade Orchards · township-area landmark",
+        "caption": "Signature Club Resort at Brigade Orchards · township-area landmark",
+        "kind": "landmark-photograph",
+        "credit": "Brigade Orchards · Signature Club Resort",
+        "sourceUrl": "https://www.brigadeorchards.com/assets/images/signature-club-resort-bigThumb.png",
+        "sourcePageUrl": "https://www.brigadeorchards.com/signature-club-resort",
+        "license": null,
+        "licenseUrl": null,
+        "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+        "capturedAt": null,
+        "width": 590,
+        "height": 497,
+        "checkedAt": "2026-10-28",
+        "sha256": "94f332c29c94e08dc82b11a571f6984a26356a5eddad95784ac73774d1a3113b",
+        "bytes": 86336
       }
     ],
     "coordinates": null,
@@ -2247,41 +2907,41 @@
     ],
     "highlights": [
       {
-        "icon": "Building2",
-        "title": "1 listed project",
-        "description": "Laurel & Maple at Brigade Orchards"
-      },
-      {
-        "icon": "House",
-        "title": "Home types",
-        "description": "Apartment"
-      },
-      {
         "icon": "MapPin",
-        "title": "Micro-market",
-        "description": "Airport Corridor"
+        "title": "Brigade Orchards township setting",
+        "description": ""
       },
       {
         "icon": "Compass",
-        "title": "Aaramv shortlist",
-        "description": "Current Aaramv listings with layouts, prices, amenities and location context in one place."
+        "title": "Signature Club Resort local landmark",
+        "description": ""
+      },
+      {
+        "icon": "Compass",
+        "title": "Laurel & Maple multigenerational apartment proposition",
+        "description": ""
+      },
+      {
+        "icon": "Building2",
+        "title": "Aaramv catalogue entries",
+        "description": "1"
       }
     ],
     "metrics": [
       {
-        "label": "Listed projects",
+        "label": "Aaramv catalogue entries",
         "value": 1,
         "unit": "",
         "icon": "Building2",
-        "asOf": "2026-10-02",
-        "note": ""
+        "asOf": "2026-10-28",
+        "note": "Catalogue coverage only; not total market inventory."
       },
       {
-        "label": "Property types",
+        "label": "Home types",
         "value": "Apartment",
         "unit": "",
         "icon": "House",
-        "asOf": "2026-10-02",
+        "asOf": "2026-10-28",
         "note": ""
       }
     ],
@@ -2302,19 +2962,52 @@
     "market": null,
     "faqs": [
       {
-        "question": "Which projects are listed in Devanahalli-Boodihal?",
-        "answer": "Laurel & Maple at Brigade Orchards"
+        "question": "What gives Devanahalli-Boodihal its identity?",
+        "answer": "Brigade Orchards township setting; Signature Club Resort local landmark; Laurel & Maple multigenerational apartment proposition."
       },
       {
-        "question": "How should I compare properties in Devanahalli-Boodihal?",
-        "answer": "Start with the routes and daily essentials you will use most often, then compare the listed projects by layout, complete cost, current availability and phase-specific possession information."
+        "question": "Which Aaramv projects are linked to this area?",
+        "answer": "Laurel & Maple at Brigade Orchards. Counts reflect the current Aaramv catalogue."
       },
       {
-        "question": "What should I check on a visit to Devanahalli-Boodihal?",
-        "answer": "Check access roads, surroundings, utilities, nearby services and any ongoing construction from the exact project entrance. Keep planned infrastructure distinct from what is operating today."
+        "question": "How would Aaramv compare homes here?",
+        "answer": "We would compare this area through your household’s needs across generations. The apartment, the wider township and the optional care or hospitality services are separate parts of the decision. We would explain the layout, access and service charges together, and keep the enclave’s delivery schedule distinct from completed parts of Brigade Orchards."
       }
     ],
-    "sources": [],
-    "updatedAt": "2026-10-12"
+    "sources": [
+      {
+        "label": "Devanahalli-Boodihal",
+        "url": "https://www.brigadeorchards.com/location",
+        "checkedAt": "2026-10-28"
+      },
+      {
+        "label": "Devanahalli-Boodihal",
+        "url": "https://www.brigadeorchards.com/signature-club-resort",
+        "checkedAt": "2026-10-28"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "aaramvPerspective": "We would compare this area through your household’s needs across generations. The apartment, the wider township and the optional care or hospitality services are separate parts of the decision. We would explain the layout, access and service charges together, and keep the enclave’s delivery schedule distinct from completed parts of Brigade Orchards.",
+    "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+    "linkedPropertyIds": [
+      "laurel-maple-at-brigade-orchards"
+    ],
+    "usp": [
+      "Brigade Orchards township setting",
+      "Signature Club Resort local landmark",
+      "Laurel & Maple multigenerational apartment proposition"
+    ],
+    "sourceIds": [
+      "SRC-165",
+      "SRC-166",
+      "SRC-166"
+    ],
+    "research": {
+      "checkedAt": "2026-10-28",
+      "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+      "boundaryCertified": false,
+      "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+      "currentTransitOperatingStatusClaimed": false
+    }
   }
 ]

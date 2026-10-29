@@ -1,0 +1,862 @@
+{
+  "schemaVersion": 2,
+  "id": "lodha-mirabelle",
+  "published": true,
+  "isDemo": false,
+  "name": "Lodha Mirabelle",
+  "localityId": "manyata-tech-park",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Lodha Group",
+  "phaseName": "Phases I and II",
+  "address": "Manyata Business Park residential enclave, off Outer Ring Road, Nagavara, Bengaluru, Karnataka",
+  "postalCode": "560045",
+  "description": "Lodha Mirabelle is an apartment development in the Manyata Business Park setting, marketed around an approximately 19-acre residential ecosystem. Its proposition combines larger homes, landscaped outdoor areas and Club Luxuria's fitness and recreation facilities. Developer material presents three-bedroom homes with a study and four-bedroom formats, making the additional living space an important part of its positioning.",
+  "possession": {
+    "label": "Developer campaign reference by 2028; CP Phase 1 December 2026 — verify selected phase",
+    "date": null,
+    "precision": "phase-specific",
+    "sourceUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+    "sourceId": "SRC-120",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Lodha Mirabelle",
+    "Lodha Group",
+    "Manyata Tech Park",
+    "Bangalore",
+    "Bengaluru",
+    "Lodha Mirable"
+  ],
+  "coverImageId": "developer-hero",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/lodha-mirabelle/cover.webp",
+      "alt": "Lodha Mirabelle — developer amenity interior visual",
+      "caption": "Lodha Mirabelle developer amenity interior visual",
+      "kind": "interior",
+      "credit": "",
+      "sourceUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Mirabelle_1903X800.jpg",
+      "width": 1440,
+      "height": 605,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "ea8f05c83121bcc78627815a22cd2f07f9e6a4a8b8ee458c0a45cf6d54af7a44",
+      "bytes": 196788
+    },
+    {
+      "id": "master-plan",
+      "src": "/images/projects/lodha-mirabelle/master-plan.webp",
+      "alt": "Lodha Mirabelle — master plan",
+      "caption": "Lodha Mirabelle master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/lodha-mirabelle_1766829069343-597508351.webp",
+      "width": 1900,
+      "height": 1055,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "91cac734764d7d62c8ee0949aee32ade6c20bbec7eca536a099084dfa77cc69e",
+      "bytes": 162660
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/lodha-mirabelle/developer-hero.webp",
+      "alt": "lodha-mirabelle — developer project visual",
+      "caption": "Lodha Mirabelle · Developer visual",
+      "kind": "exterior",
+      "credit": "Lodha Group published project visual",
+      "sourceUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Mirabelle_1903X800.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 605,
+      "sourcePageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+      "usage": "project-content",
+      "sha256": "ea8f05c83121bcc78627815a22cd2f07f9e6a4a8b8ee458c0a45cf6d54af7a44",
+      "bytes": 196788
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/lodha-mirabelle/cp-gallery-1.webp",
+      "alt": "Lodha Mirabelle project visual",
+      "caption": "Lodha Mirabelle · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation-lodha-whitefield-hope-farm-741x486.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 741,
+      "height": 486,
+      "sourcePageUrl": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+      "usage": "project-content",
+      "sha256": "098efe267f77c7e2dfc8eba777348b478421fac66a396cd566e1942114e8a81d",
+      "bytes": 48820
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/lodha-mirabelle/cp-gallery-2.webp",
+      "alt": "Lodha Mirabelle Phase 1 at Manyata Tech Park in Thanisandra, Bangalore",
+      "caption": "Lodha Mirabelle · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/11/Lodha-Mirabelle-Phase-1.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1000,
+      "height": 561,
+      "sourcePageUrl": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+      "usage": "project-content",
+      "sha256": "37c7485d757528ad3679548746177efaa38fe311f0b395e37fb095a8bc991d9e",
+      "bytes": 69050
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/lodha-mirabelle/cp-gallery-3.webp",
+      "alt": "Lodha Mirabelle project visual",
+      "caption": "Lodha Mirabelle · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/11/Lodha-Mirabelle-Phase-1-356x220.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 356,
+      "height": 220,
+      "sourcePageUrl": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+      "usage": "project-content",
+      "sha256": "074763700037b26c6580c4b35048715276c3fc3442d628b21ab0ea114503c18b",
+      "bytes": 12448
+    },
+    {
+      "id": "developer-plan-1",
+      "src": "/images/projects/lodha-mirabelle/developer-plan-1.webp",
+      "alt": "Lodha Mirabelle - 3 Bed Residence with Study Unit Plan in Bangalore",
+      "caption": "Lodha Mirabelle - 3 Bed Residence with Study Unit Plan in Bangalore",
+      "kind": "floor-plan",
+      "sourceUrl": "https://www.lodhagroup.com/sites/default/files/2025-07/3-bed-with-study_Lodha-Mirabelle.jpg",
+      "sourcePageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle/plans",
+      "credit": "Lodha Group published project material",
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Confirm Aaramv’s permission to republish with the rights holder.",
+      "width": 1900,
+      "height": 1055,
+      "sha256": "b698c84de4e0ec1e234466315815bb8d55e430919aa355b84fe3743c427cac46",
+      "bytes": 89196
+    },
+    {
+      "id": "developer-plan-2",
+      "src": "/images/projects/lodha-mirabelle/developer-plan-2.webp",
+      "alt": "Lodha Mirabelle -  4 Bed Residence Unit Plan in Bangalore",
+      "caption": "Lodha Mirabelle -  4 Bed Residence Unit Plan in Bangalore",
+      "kind": "floor-plan",
+      "sourceUrl": "https://www.lodhagroup.com/sites/default/files/2025-07/4_bed_%28Tower_4%29_Lodha_Mirabelle.jpg",
+      "sourcePageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle/plans",
+      "credit": "Lodha Group published project material",
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Confirm Aaramv’s permission to republish with the rights holder.",
+      "width": 1900,
+      "height": 1055,
+      "sha256": "168fa39693058b8ed7db6efc3d096609c42678ee410b809750ff7045c77e1609",
+      "bytes": 106000
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0507394,
+    "longitude": 77.6239301
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Lodha%20Mirabelle%2C%20Manyata%20Business%20Park%20residential%20enclave%2C%20off%20Outer%20Ring%20Road%2C%20Nagavara%2C%20Bengaluru%2C%20Karnataka%2C%20560045",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "3 BHK with study · Tower 3 · CP carpet range 1450–1550 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1450,
+      "areaMaxSqFt": 1550,
+      "areaIsRangeMinimum": true,
+      "areaBasis": "carpet",
+      "startingPriceInr": 29900000,
+      "priceNote": "CP agreement-price reference for this configuration family; the official plan does not print this area total. Confirm the exact unit cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-1",
+      "floorPlanMatch": "Official configuration-family plan; CP carpet range is a separate source, not a certified area match.",
+      "phaseName": "Phase 1 CP pricing; developer plans identify Tower 3 / Tower 4",
+      "sourceIds": [
+        "SRC-169"
+      ],
+      "priceSourceIds": [
+        "SRC-121"
+      ]
+    },
+    {
+      "id": "configuration-2",
+      "label": "4 BHK with staff room · Tower 4 · CP carpet range 1850–1950 sq ft",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "areaSqFt": 1850,
+      "areaMaxSqFt": 1950,
+      "areaIsRangeMinimum": true,
+      "areaBasis": "carpet",
+      "startingPriceInr": 34900000,
+      "priceNote": "CP agreement-price reference for this configuration family; the official plan does not print this area total. Confirm the exact unit cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-2",
+      "floorPlanMatch": "Official configuration-family plan; CP carpet range is a separate source, not a certified area match.",
+      "phaseName": "Phase 1 CP pricing; developer plans identify Tower 3 / Tower 4",
+      "sourceIds": [
+        "SRC-169"
+      ],
+      "priceSourceIds": [
+        "SRC-121"
+      ]
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Marketed ecosystem",
+      "value": 19,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "CP Phase 1 carpet range",
+      "value": "1450–1950",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    },
+    {
+      "label": "Tower programme",
+      "value": "Phase 1 CP: 7 towers, 2 basements + ground + 28; later-phase references differ",
+      "unit": "",
+      "icon": "Building2"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Approximately 19 acre marketed ecosystem",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Manyata Business Park setting",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Three bedroom with study and four bedroom formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "45000 sq ft fitness and recreation complex at Club Luxuria",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Club House",
+      "description": "Club House within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multi Purpose Court",
+      "description": "Multi Purpose Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior Citizen Area",
+      "description": "Senior Citizen Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Football Court",
+      "description": "Football Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis Court",
+      "description": "Tennis Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Box Cricket",
+      "description": "Box Cricket within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball Court",
+      "description": "Basketball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheater",
+      "description": "Amphitheater within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Pool Deck",
+      "description": "Pool Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet Park",
+      "description": "Pet Park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Walking Track",
+      "description": "Walking Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini Theatre",
+      "description": "Mini Theatre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-120",
+        "SRC-121"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 0.65,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Nagawara Metro Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Nagawara Metro Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 0.65,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nagawara%20Metro%20Station%2C%20Bengaluru"
+    },
+    {
+      "name": "Rachenahalli Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Rachenahalli Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 3.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%20Main%20Road%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Lodha Mirabelle",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Manyata Business Park residential enclave, off Outer Ring Road, Nagavara, Bengaluru, Karnataka, 560045. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Lodha Mirabelle"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Lodha Mirabelle located?",
+      "answer": "Manyata Business Park residential enclave, off Outer Ring Road, Nagavara, Bengaluru, Karnataka, 560045. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "The current developer site shows 3-bedroom-with-study and 4-bedroom plans. The selected Phase 1 CP price table gives carpet ranges of 1,450–1,550 and 1,850–1,950 sq ft respectively. Confirm the exact offered unit because developer plans, saleable areas and later phases differ."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹2.99 Cr–₹3.49 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Developer campaign reference by 2028; CP Phase 1 December 2026 — verify selected phase. The date differs by phase and must be matched to the offered home."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Club House, Kids Play Area, Multi Purpose Court, Senior Citizen Area, Kids Pool. 35+ developer-marketed indoor and outdoor amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Approximately 19 acre marketed ecosystem Manyata Business Park setting Three bedroom with study and four bedroom formats. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Lodha Mirabelle",
+      "url": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Lodha Mirabelle",
+      "url": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Lodha official plans",
+      "url": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle/plans",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Lodha Mirabelle"
+  ],
+  "projectScale": {
+    "landAreaAcres": 19,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": null,
+    "floorArrangement": "Phase 1 CP: 7 towers, 2 basements + ground + 28; later-phase references differ",
+    "totalHomesOrPlots": null,
+    "sourceIds": [
+      "SRC-120",
+      "SRC-121"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Status is scoped to the selected phase; completed and ongoing portions may coexist.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹2.99 Cr–₹3.49 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 29900000,
+    "maxStartingPriceInr": 34900000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 29900000,
+      "highestConfigurationStartInr": 34900000,
+      "displayText": "₹2.99 Cr–₹3.49 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "3.5 BHK with Study",
+        "areaSqFt": 1450,
+        "areaMaxSqFt": 1550,
+        "areaBasis": "carpet",
+        "startingPriceInr": 29900000,
+        "upperQuotedPriceInr": 29900000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+        "sourceId": "SRC-121",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK + Maid's Room",
+        "areaSqFt": 1850,
+        "areaMaxSqFt": 1950,
+        "areaBasis": "carpet",
+        "startingPriceInr": 34900000,
+        "upperQuotedPriceInr": 34900000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+        "sourceId": "SRC-121",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "3 BHK with study",
+    "4 BHK with staff room"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 35,
+    "countType": "advertised-lower-bound",
+    "label": "35+ developer-marketed indoor and outdoor amenities",
+    "namedAmenitiesCount": 15,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "35+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Lodha%20Mirabelle%2C%20Manyata%20Business%20Park%20residential%20enclave%2C%20off%20Outer%20Ring%20Road%2C%20Nagavara%2C%20Bengaluru%2C%20Karnataka%2C%20560045",
+    "query": "Lodha Mirabelle, Manyata Business Park residential enclave, off Outer Ring Road, Nagavara, Bengaluru, Karnataka, 560045",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-120",
+    "SRC-121",
+    "SRC-122",
+    "SRC-169"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Phase 1 and Phase 2 tower heights, plan sizes and dates differ. Preserve separate phase scope; do not collapse to one assumed G+39 programme.",
+      "CP Phase 1 prices are for carpet areas. Existing 2,340/2,952/5,904/7,800 sq ft records need approved phase-specific plans before use.",
+      "The 5 BHK and penthouse records from the old catalogue are retained in research.legacyConfigurations, not promoted as currently documented offerings. The official plan page has older hidden 1.6–2.5 crore metadata; it is not used as a fresh customer-facing quote."
+    ],
+    "legacyConfigurations": [
+      {
+        "id": "configuration-1",
+        "label": "3.5 BHK (with additional flexible room) — 2340 sq ft",
+        "bedrooms": 3,
+        "bathrooms": null,
+        "areaSqFt": 2340,
+        "areaBasis": "built-up",
+        "startingPriceInr": null,
+        "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+        "availability": "on-request",
+        "floorPlanImageId": "plan-1",
+        "sourceIds": [
+          "SRC-122"
+        ],
+        "priceSourceIds": []
+      },
+      {
+        "id": "configuration-2",
+        "label": "4 BHK — 2952 sq ft",
+        "bedrooms": 4,
+        "bathrooms": null,
+        "areaSqFt": 2952,
+        "areaBasis": "built-up",
+        "startingPriceInr": null,
+        "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+        "availability": "on-request",
+        "floorPlanImageId": "plan-2",
+        "sourceIds": [
+          "SRC-122"
+        ],
+        "priceSourceIds": []
+      },
+      {
+        "id": "configuration-3",
+        "label": "4 BHK Penthouse — 5904 sq ft",
+        "bedrooms": 4,
+        "bathrooms": null,
+        "areaSqFt": 5904,
+        "areaBasis": "built-up",
+        "startingPriceInr": null,
+        "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+        "availability": "on-request",
+        "floorPlanImageId": "plan-3",
+        "sourceIds": [
+          "SRC-122"
+        ],
+        "priceSourceIds": []
+      },
+      {
+        "id": "configuration-4",
+        "label": "5 BHK Penthouse — 7800 sq ft",
+        "bedrooms": 5,
+        "bathrooms": null,
+        "areaSqFt": 7800,
+        "areaBasis": "built-up",
+        "startingPriceInr": null,
+        "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+        "availability": "on-request",
+        "floorPlanImageId": "plan-4",
+        "sourceIds": [
+          "SRC-122"
+        ],
+        "priceSourceIds": []
+      }
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "image-2",
+        "alt": "Lodha Mirabelle — project gallery 2",
+        "caption": "Lodha Mirabelle · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/lodha-mirabelle_1766829022235-664279624.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Lodha Mirabelle — project gallery 3",
+        "caption": "Lodha Mirabelle · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/lodha-mirabelle_1766829023764-480167969.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Lodha Mirabelle — project gallery 4",
+        "caption": "Lodha Mirabelle · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/lodha-mirabelle_1766829025040-945175663.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-1",
+        "alt": "Lodha Mirabelle — 3.5 BHK (with additional flexible room), 2340 sq ft built-up unit plan",
+        "caption": "Lodha Mirabelle 3.5 BHK (with additional flexible room), 2340 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1777443564419-351394877.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-2",
+        "alt": "Lodha Mirabelle — 4 BHK, 2952 sq ft built-up unit plan",
+        "caption": "Lodha Mirabelle 4 BHK, 2952 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1766829945489-409495569.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-3",
+        "alt": "Lodha Mirabelle — 4 BHK Penthouse, 5904 sq ft built-up unit plan",
+        "caption": "Lodha Mirabelle 4 BHK Penthouse, 5904 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1777443567841-850246808.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-4",
+        "alt": "Lodha Mirabelle — 5 BHK Penthouse, 7800 sq ft built-up unit plan",
+        "caption": "Lodha Mirabelle 5 BHK Penthouse, 7800 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1777443571173-62880702.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Lodha Mirabelle",
+    "summary": "Lodha Mirabelle is an apartment development in the Manyata Business Park setting, marketed around an approximately 19-acre residential ecosystem. Its proposition combines larger homes, landscaped outdoor areas and Club Luxuria's fitness and recreation facilities. Developer material presents three-bedroom homes with a study and four-bedroom formats, making the additional living space an important part of its positioning.",
+    "highlights": [
+      "Approximately 19 acre marketed ecosystem",
+      "Manyata Business Park setting",
+      "Three bedroom with study and four bedroom formats",
+      "45000 sq ft fitness and recreation complex at Club Luxuria"
+    ],
+    "projectFacts": [
+      {
+        "label": "Marketed ecosystem",
+        "value": 19,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "CP Phase 1 carpet range",
+        "value": "1450–1950",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      },
+      {
+        "label": "Tower programme",
+        "value": "Phase 1 CP: 7 towers, 2 basements + ground + 28; later-phase references differ",
+        "unit": "",
+        "icon": "Building2"
+      }
+    ],
+    "priceDisplay": "₹2.99 Cr–₹3.49 Cr* Onward",
+    "possessionDisplay": "Developer campaign reference by 2028; CP Phase 1 December 2026 — verify selected phase",
+    "sourceIds": [
+      "SRC-120",
+      "SRC-121",
+      "SRC-122",
+      "SRC-169"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 2,
+  "id": "brigade-oasis",
+  "published": true,
+  "isDemo": false,
+  "name": "Brigade Oasis",
+  "localityId": "devanahalli",
+  "type": "Plot",
+  "status": "Under construction",
+  "developerName": "Brigade Group",
+  "phaseName": "Phases I, II and III",
+  "address": "Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka",
+  "postalCode": "562110",
+  "description": "Brigade Oasis is a phased plotted development in the Devanahalli corridor. Brigade describes a 70-acre master development with residential plots, landscaped recreation areas and shared community facilities. The corporate page emphasises larger garden plots, making the selected plot dimensions, phase and development services useful comparison points alongside the overall project setting.",
+  "possession": {
+    "label": "Phase-specific; portal reference June 2026; developer marks sold out",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/brigade-oasis/198753/project",
+    "sourceId": "SRC-049",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2026,
+    "month": 6
+  },
+  "searchKeywords": [
+    "Brigade Oasis",
+    "Brigade Group",
+    "Devanahalli",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/brigade-oasis/cover.webp",
+      "alt": "Brigade Oasis — Entry",
+      "caption": "Brigade Oasis · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/0f/e7/0fe7a6cc-7832-4a27-bc79-7ec65650f055/entry_portal-oasis.png",
+      "width": 1026,
+      "height": 867,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-oasis",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "3f38d484cf224a214f8a3398fdf68f4c58ba815ca4887a318fbcb2714266ffd5",
+      "bytes": 90026
+    },
+    {
+      "id": "master-plan-oasis",
+      "src": "/images/projects/brigade-oasis/master-plan-oasis.webp",
+      "alt": "Brigade Oasis — Oasis",
+      "caption": "Brigade Oasis Oasis",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/93/01/9301c77a-d503-4002-ada1-5ebdb46284c0/master-plan-oasis907_1.webp",
+      "width": 907,
+      "height": 640,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-oasis",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "ca0488ff75c6115ecaefb530df8b4a06e3e92d15c10d7980e02bb03e9f8852b2",
+      "bytes": 47682
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/brigade-oasis/image-2.webp",
+      "alt": "Brigade Oasis — brigadeoasisphaseiii_page 0006",
+      "caption": "Brigade Oasis · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/93/78/93781bda-4089-4d55-860e-db4619ff3673/brigadeoasisphaseiii_page-0006.webp",
+      "width": 1440,
+      "height": 1019,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-oasis",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "a3dd3ce57f1236b4c89d92f5d7bb7233b7c4e0bb09b9d8e56b1d5232bf430026",
+      "bytes": 120882
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/brigade-oasis/image-4.webp",
+      "alt": "Brigade Oasis — Civic Amenities -1",
+      "caption": "Brigade Oasis · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/3b/97/3b9767b7-ca65-47ee-b00f-a50563773c1a/12oasis.png",
+      "width": 1302,
+      "height": 1100,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-oasis",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "77a975705d944f393a55d172a8ece9fc85322c7182af0ed8af36ec9a6cb4d6fc",
+      "bytes": 328462
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brigade%20Oasis%2C%20Lakshmipura%20Village%2C%20NH%20648%2C%20Doddaballapur%E2%80%93Devanahalli%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "Garden plot — 2,550 sq ft onwards",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 2550,
+      "areaBasis": "plot",
+      "startingPriceInr": 13000000,
+      "priceNote": "developer-garden-plot-reference; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "master-plan-oasis",
+      "sourceIds": [
+        "SRC-050"
+      ],
+      "priceSourceIds": [
+        "SRC-046"
+      ],
+      "planScope": "Developer master layout; exact offered plot shape and dimensions need the numbered plot schedule",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-2",
+      "label": "30 × 40 ft plot",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 1200,
+      "areaBasis": "plot",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "master-plan-oasis",
+      "sourceIds": [
+        "SRC-050"
+      ],
+      "priceSourceIds": [],
+      "planScope": "Developer master layout; exact offered plot shape and dimensions need the numbered plot schedule",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-3",
+      "label": "30 × 50 ft plot",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 1500,
+      "areaBasis": "plot",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "master-plan-oasis",
+      "sourceIds": [
+        "SRC-050"
+      ],
+      "priceSourceIds": [],
+      "planScope": "Developer master layout; exact offered plot shape and dimensions need the numbered plot schedule",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-4",
+      "label": "40 × 60 ft plot",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 2400,
+      "areaBasis": "plot",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "master-plan-oasis",
+      "sourceIds": [
+        "SRC-050"
+      ],
+      "priceSourceIds": [],
+      "planScope": "Developer master layout; exact offered plot shape and dimensions need the numbered plot schedule",
+      "planActionLabel": "View site layout"
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 70,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Plots",
+      "value": 987,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Plot area range",
+      "value": "1200–2550",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "70 acre master development",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Residential plots across multiple phases",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "20 plus amenities marketed by Brigade",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Larger garden plots highlighted in corporate material",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Fitness centre",
+      "description": "Fitness centre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and aerobics space",
+      "description": "Yoga and aerobics space within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Squash court",
+      "description": "Squash court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Table tennis",
+      "description": "Table tennis within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party and event rooms",
+      "description": "Party and event rooms within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Library and reading room",
+      "description": "Library and reading room within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose lawn",
+      "description": "Multipurpose lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Reflexology garden",
+      "description": "Reflexology garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior citizens’ park",
+      "description": "Senior citizens’ park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Meditation pavilions",
+      "description": "Meditation pavilions within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-046",
+        "SRC-047"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "NAFL-NPS School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "NAFL-NPS School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAFL-NPS%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Akash International School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Akash International School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Akash%20International%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Stonehill International School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Stonehill International School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Stonehill%20International%20School%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/70/03/7003cc4e-bb6e-4ad1-b356-f9f84d0bd425/oasis_iii_poster_e-brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-048"
+    }
+  ],
+  "relatedPropertyIds": [
+    "sattva-park-cubix",
+    "century-seasons"
+  ],
+  "content": {
+    "overviewTitle": "What defines Brigade Oasis",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Brigade Oasis"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Brigade Oasis located?",
+      "answer": "Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Garden plot, 30 × 40 ft plot, 30 × 50 ft plot, 40 × 60 ft plot. Documented plot areas span 1200–2550 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.09 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Phase-specific; portal reference June 2026; developer marks sold out. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Fitness centre, Swimming pool, Yoga and aerobics space, Squash court, Table tennis, Party and event rooms. 20+ developer-marketed amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "70 acre master development Residential plots across multiple phases 20 plus amenities marketed by Brigade. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Brigade Oasis",
+      "url": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Brigade Oasis",
+      "url": "https://www.brigadegroup.com/residential-projects/index.php",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Brigade Oasis",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/70/03/7003cc4e-bb6e-4ad1-b356-f9f84d0bd425/oasis_iii_poster_e-brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Brigade Oasis",
+      "url": "https://www.squareyards.com/bangalore-residential-property/brigade-oasis/198753/project",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/brigade-oasis",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Brigade Oasis"
+  ],
+  "projectScale": {
+    "landAreaAcres": 70,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": null,
+    "floorArrangement": "Residential plots across Phases I, II and III",
+    "totalHomesOrPlots": 987,
+    "sourceIds": [
+      "SRC-046",
+      "SRC-047",
+      "SRC-048",
+      "SRC-049"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.09 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 10900000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 10900000,
+      "highestConfigurationStartInr": 13000000,
+      "displayText": "₹1.09 Cr–₹1.3 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Project Price section; plot size unspecified",
+        "areaSqFt": null,
+        "startingPriceInr": 10900000,
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis",
+        "sourceId": "SRC-046",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "Garden plot marketing reference",
+        "areaSqFt": 2550,
+        "startingPriceInr": 13000000,
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis",
+        "sourceId": "SRC-046",
+        "basis": "developer-garden-plot-reference",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Garden plot",
+    "30 × 40 ft plot",
+    "30 × 50 ft plot",
+    "40 × 60 ft plot"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 20,
+    "countType": "advertised-lower-bound",
+    "label": "20+ developer-marketed amenities",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "20+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Brigade%20Oasis%2C%20Lakshmipura%20Village%2C%20NH%20648%2C%20Doddaballapur%E2%80%93Devanahalli%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+    "query": "Brigade Oasis, Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d62133.03850196794!2d77.667815!3d13.268251!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb1e38495852f95%3A0xf0e076d49566ecd7!2sBrigade%20Oasis!5e0!3m2!1sen!2sin!4v1704951610349!5m2!1sen!2sin",
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-046",
+    "SRC-047",
+    "SRC-048",
+    "SRC-049",
+    "SRC-050"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Same developer page displays sold out, INR 1.09 crore in Price, and INR 1.30 crore for 2,550+ sq ft garden plots. Keep these as separate references; no safe full-range calculation is possible from this page.",
+      "Master layout is the relevant plan for land; do not fabricate an apartment-style floor plan or rectangular dimensions for irregular plots."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-4"
+  ],
+  "overview": {
+    "title": "What defines Brigade Oasis",
+    "summary": "Brigade Oasis is a phased plotted development in the Devanahalli corridor. Brigade describes a 70-acre master development with residential plots, landscaped recreation areas and shared community facilities. The corporate page emphasises larger garden plots, making the selected plot dimensions, phase and development services useful comparison points alongside the overall project setting.",
+    "highlights": [
+      "70 acre master development",
+      "Residential plots across multiple phases",
+      "20 plus amenities marketed by Brigade",
+      "Larger garden plots highlighted in corporate material"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 70,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Plots",
+        "value": 987,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Plot area range",
+        "value": "1200–2550",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.09 Cr* Onward",
+    "possessionDisplay": "Phase-specific; portal reference June 2026; developer marks sold out",
+    "sourceIds": [
+      "SRC-046",
+      "SRC-047",
+      "SRC-048",
+      "SRC-049",
+      "SRC-050"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

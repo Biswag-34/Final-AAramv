@@ -48,8 +48,8 @@ export function AaramvDifference({onEnquire}:{onEnquire?:()=>void}) {
       <div className={styles.body}>
         <svg className={styles.mintShape} viewBox="0 0 900 320" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M180 0C104 0 94 40 86 94C74 181 47 238 0 260C78 284 89 320 188 320H900V0Z" fill="#e7f3eb"/></svg>
         <svg className={styles.connector} viewBox="0 0 1280 254" preserveAspectRatio="none" fill="none" aria-hidden="true" focusable="false"><path d="M-35 174C5 174 0 128 45 128H450C520 128 526 192 587 172S653 143 691 143H745" stroke="#0a8774" strokeWidth="2" vectorEffect="non-scaling-stroke"/></svg>
-        <div className={styles.research}><div className={styles.researchText}><h3 className={styles.featureTitle}>A shortlist built around you.</h3><p className={styles.featureBody}>Your needs guide our research and property recommendations.</p></div><Documents/></div>
-        <div className={styles.support}><div className={styles.supportText}><h3 className={styles.featureTitle}><span>Booking is a milestone.</span>{' '}<span>Not our finish line.</span></h3><p className={styles.featureBody}>We stay alongside you from your first search to move-in.</p></div><Journey/></div>
+        <div className={styles.research}><div className={styles.researchText}><h3 className={styles.featureTitle}>A shortlist built around you.</h3><p className={styles.featureBody}>Your budget, daily routes and must-haves guide our research and recommendations.</p></div><Documents/></div>
+        <div className={styles.support}><div className={styles.supportText}><h3 className={styles.featureTitle}><span>Booking is a milestone.</span>{' '}<span>Not our finish line.</span></h3><p className={styles.featureBody}>From EOI and booking to possession and move-in, we help you track the next step and coordinate with the project team.</p></div><Journey/></div>
       </div>
       {onEnquire?<button type="button" className={styles.cta} onClick={onEnquire}>{actionContents}</button>:<Link href="/contact" className={styles.cta}>{actionContents}</Link>}
     </div>

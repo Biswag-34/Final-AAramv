@@ -1,0 +1,934 @@
+{
+  "schemaVersion": 2,
+  "id": "sb-urban-park",
+  "published": true,
+  "isDemo": false,
+  "name": "SB Urban Park",
+  "localityId": "rachenahalli",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "SB Urbanscapes",
+  "phaseName": null,
+  "address": "Survey No. 78/1, Rachenahalli, Thanisandra, Bengaluru, Karnataka",
+  "postalCode": "560045",
+  "description": "SB Urban Park is a residential development in the Thanisandra-Rachenahalli area, marketed with three-bedroom and duplex homes. Its developer highlights no-common-wall planning, a three-level clubhouse and a substantial open-space component. These features give the project a clear privacy and recreation proposition, while the offered home's layout and outlook remain important unit-level considerations.",
+  "possession": {
+    "label": "November 2026",
+    "date": null,
+    "precision": "month",
+    "sourceUrl": "https://sburbanpark.in/",
+    "sourceId": "SRC-130",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2026,
+    "month": 11
+  },
+  "searchKeywords": [
+    "SB Urban Park",
+    "SB Urbanscapes",
+    "Rachenahalli",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/sb-urban-park/cover.webp",
+      "alt": "SB Urban Park — landingpagebanner",
+      "caption": "SB Urban Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/landingpagebanner.webp",
+      "width": 1000,
+      "height": 600,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "5ff1fe675f2eda8832d1228bc24dc7efeef377fba7625761e005bc795df4b50b",
+      "bytes": 88490
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/sb-urban-park/image-2.webp",
+      "alt": "SB Urban Park — SB Urban Park — Exterior 1",
+      "caption": "SB Urban Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/exterior-01.webp",
+      "width": 1000,
+      "height": 600,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "36fa71992cad90832c74ea2489bbfbd4e7ba7c69620a3b796d57aa6f02f7f503",
+      "bytes": 155878
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/sb-urban-park/image-3.webp",
+      "alt": "SB Urban Park — SB Urban Park — Exterior 2",
+      "caption": "SB Urban Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/exterior-02.webp",
+      "width": 1000,
+      "height": 600,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "6a8c1338083a809f6e4d4586ad8ac914c45883efefe2437836def13fc6315bd1",
+      "bytes": 115246
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/sb-urban-park/image-4.webp",
+      "alt": "SB Urban Park — SB Urban Park — Exterior 3",
+      "caption": "SB Urban Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/exterior-03.webp",
+      "width": 1000,
+      "height": 600,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "e9e38c5e1537318c236c06e0e07756c79d922aca3ad2af183d91eb150e987b9f",
+      "bytes": 107088
+    },
+    {
+      "id": "image-5",
+      "src": "/images/projects/sb-urban-park/image-5.webp",
+      "alt": "SB Urban Park — SB Urban Park — Master Plan 1",
+      "caption": "SB Urban Park SB Urban Park Master Plan 1",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/master-plan-01.webp",
+      "width": 1000,
+      "height": 600,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "67689370350ad87cf911436914110bd8bfe79f5c120944b3ed3d804f836b70f9",
+      "bytes": 111210
+    },
+    {
+      "id": "developer-plan-p25",
+      "src": "/images/projects/sb-urban-park/developer-plan-p25.webp",
+      "alt": "SB Urban Park developer plan schedule, brochure page 25",
+      "caption": "SB Urban Park developer plan schedule, brochure page 25",
+      "kind": "floor-plan",
+      "credit": "Project material published by SB Urbanscapes.",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 25,
+      "width": 1900,
+      "height": 1381,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "sourceDocumentUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "usage": "project-content",
+      "sha256": "5ceb315512afb073f2c798c60adeb22b38abc78add02a01e34371899fb84f50b",
+      "bytes": 117896
+    },
+    {
+      "id": "developer-plan-p26",
+      "src": "/images/projects/sb-urban-park/developer-plan-p26.webp",
+      "alt": "SB Urban Park developer plan schedule, brochure page 26",
+      "caption": "SB Urban Park developer plan schedule, brochure page 26",
+      "kind": "floor-plan",
+      "credit": "Project material published by SB Urbanscapes.",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 26,
+      "width": 1900,
+      "height": 1381,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "sourceDocumentUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "usage": "project-content",
+      "sha256": "04295623a239e727785a4ae7f857ef2915a67ad3423017c5c5078e859ce492cb",
+      "bytes": 151272
+    },
+    {
+      "id": "developer-plan-p27",
+      "src": "/images/projects/sb-urban-park/developer-plan-p27.webp",
+      "alt": "SB Urban Park developer plan schedule, brochure page 27",
+      "caption": "SB Urban Park developer plan schedule, brochure page 27",
+      "kind": "floor-plan",
+      "credit": "Project material published by SB Urbanscapes.",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 27,
+      "width": 1900,
+      "height": 1381,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "sourceDocumentUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "usage": "project-content",
+      "sha256": "7e5bf51caca7bb4f954e0ec74f929587fe16b9f07d484a3521f00ab8379ab7ac",
+      "bytes": 140496
+    },
+    {
+      "id": "developer-plan-p28",
+      "src": "/images/projects/sb-urban-park/developer-plan-p28.webp",
+      "alt": "SB Urban Park developer plan schedule, brochure page 28",
+      "caption": "SB Urban Park developer plan schedule, brochure page 28",
+      "kind": "floor-plan",
+      "credit": "Project material published by SB Urbanscapes.",
+      "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 28,
+      "width": 1900,
+      "height": 1381,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "sourceDocumentUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "usage": "project-content",
+      "sha256": "8f166b512785d4a8b4bf482fcc906f655494a6a0188f90065b554a12986cf781",
+      "bytes": 168426
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=SB%20Urban%20Park%2C%20Survey%20No.%2078/1%2C%20Rachenahalli%2C%20Thanisandra%2C%20Bengaluru%2C%20Karnataka%2C%20560045",
+  "primaryConfigurationId": "layout-2-bhk-1-535-sq-ft-brochure-saleable-area-1535",
+  "configurations": [
+    {
+      "id": "layout-2-bhk-1-535-sq-ft-brochure-saleable-area-1535",
+      "label": "2 BHK · 1,535 sq ft brochure saleable area",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1535,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p28",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 28,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-620-sq-ft-brochure-saleable-area-1620",
+      "label": "3 BHK · 1,620 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1620,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p27",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 27,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-685-sq-ft-brochure-saleable-area-1685",
+      "label": "3 BHK · 1,685 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1685,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p26",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 26,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-690-sq-ft-brochure-saleable-area-1690",
+      "label": "3 BHK · 1,690 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1690,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p27",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 27,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-895-sq-ft-brochure-saleable-area-1895",
+      "label": "3 BHK · 1,895 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1895,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p26",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 26,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-955-sq-ft-brochure-saleable-area-1955",
+      "label": "3 BHK · 1,955 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1955,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p26",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "sourcePageNumber": 26,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "3 BHK · 2,055 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 2055,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p26",
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "phaseName": null,
+      "sourcePageNumber": 26,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK duplex · 3,050 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "areaSqFt": 3050,
+      "areaBasis": "saleable",
+      "startingPriceInr": 38300000,
+      "priceNote": "developer-published-reference; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p25",
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "phaseName": null,
+      "sourcePageNumber": 25,
+      "priceSourceIds": [
+        "SRC-129"
+      ]
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK duplex · 3,070 sq ft brochure saleable area",
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "areaSqFt": 3070,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p25",
+      "sourceIds": [
+        "SRC-131"
+      ],
+      "phaseName": null,
+      "sourcePageNumber": 25,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-1",
+      "label": "3 BHK · 1,605 sq ft current website reference",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1605,
+      "areaBasis": "unspecified",
+      "startingPriceInr": 20500000,
+      "priceNote": "developer-published-reference; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-130"
+      ],
+      "phaseName": null,
+      "priceSourceIds": [
+        "SRC-129"
+      ]
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 2.5,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Ground + 7 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 160,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1535–3070",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Three bedroom and duplex formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "No common walls reported by the developer",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Three level clubhouse",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "60 percent open space reported by the developer",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Infinity Swimming Pool",
+      "description": "Infinity Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Clubhouse",
+      "description": "Clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s Play Area",
+      "description": "Children’s Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging Track",
+      "description": "Jogging Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Healing Garden",
+      "description": "Healing Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and Meditation Lawn",
+      "description": "Yoga and Meditation Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose Court",
+      "description": "Multipurpose Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket Practice Area",
+      "description": "Cricket Practice Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pet Area",
+      "description": "Pet Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini Amphitheatre",
+      "description": "Mini Amphitheatre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-129",
+        "SRC-130"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Manyata Business Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Business Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 0.85,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Business%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Rachenahalli Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Rachenahalli Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": 5,
+      "travelMode": "walking",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%20Bus%20Stop%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 10,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Aster CMI Hospital",
+      "category": "Hospital",
+      "icon": "Hospital",
+      "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 15,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aster%20CMI%20Hospital%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-131"
+    }
+  ],
+  "relatedPropertyIds": [
+    "sumadhura-epitome-i",
+    "snn-estates-felicity"
+  ],
+  "content": {
+    "overviewTitle": "What defines SB Urban Park",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey No. 78/1, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560045. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about SB Urban Park"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is SB Urban Park located?",
+      "answer": "Survey No. 78/1, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560045. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK, 3 BHK duplex. Documented saleable/super built-up plan areas span 1535–3070 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹2.05 Cr–₹3.83 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: November 2026. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Infinity Swimming Pool, Clubhouse, Children’s Play Area, Jogging Track, Healing Garden, Outdoor Gym. Count sourced named facilities; project descriptions disagree on clubhouse levels. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Three bedroom and duplex formats No common walls reported by the developer Three level clubhouse. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "SB Urban Park",
+      "url": "https://sburbanscapes.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "SB Urban Park",
+      "url": "https://sburbanpark.in/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "SB Urban Park",
+      "url": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/sb-urban-park",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "SB Urban Park"
+  ],
+  "projectScale": {
+    "landAreaAcres": 2.5,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 1,
+    "floorArrangement": "Ground + 7 upper floors",
+    "totalHomesOrPlots": 160,
+    "sourceIds": [
+      "SRC-129",
+      "SRC-130",
+      "SRC-131"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "researchFormatNote": "The linked brochure includes a 2 BHK 1535 sq ft legacy schedule, while current marketing advertises 3 BHK and duplex. Confirm the applicable approved revision.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹2.05 Cr–₹3.83 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 20500000,
+    "maxStartingPriceInr": 38300000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 20500000,
+      "highestConfigurationStartInr": 38300000,
+      "displayText": "₹2.05 Cr–₹3.83 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "3 BHK",
+        "areaSqFt": 1605,
+        "startingPriceInr": 20500000,
+        "upperQuotedPriceInr": 20500000,
+        "basis": "developer-published-reference",
+        "sourceUrl": "https://sburbanscapes.com/",
+        "sourceId": "SRC-129",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK duplex",
+        "areaSqFt": 3050,
+        "startingPriceInr": 38300000,
+        "upperQuotedPriceInr": 38300000,
+        "basis": "developer-published-reference",
+        "sourceUrl": "https://sburbanscapes.com/",
+        "sourceId": "SRC-129",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK",
+    "3 BHK duplex"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 12,
+    "countType": "sourced-named-facility-count",
+    "label": "Count sourced named facilities; project descriptions disagree on clubhouse levels",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "12 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=SB%20Urban%20Park%2C%20Survey%20No.%2078/1%2C%20Rachenahalli%2C%20Thanisandra%2C%20Bengaluru%2C%20Karnataka%2C%20560045",
+    "query": "SB Urban Park, Survey No. 78/1, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560045",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-129",
+    "SRC-130",
+    "SRC-131",
+    "SRC-132"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Use corporate SB Urbanscapes prices: 3 BHK 2.05 crore and duplex 3.83 crore.",
+      "Corporate site says 3-level clubhouse; project microsite says 5-level. Retain clubhouse without a public level-count claim.",
+      "Project microsite PIN 560045 conflicts with some portal 560024 references; physical address and developer map remain primary."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "partial — exact plans missing for some records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "image-6",
+        "alt": "SB Urban Park — SB Urban Park — Floor Plan 1",
+        "caption": "SB Urban Park SB Urban Park Floor Plan 1",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/floor-plan-01.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-7",
+        "alt": "SB Urban Park — SB Urban Park — Floor Plan 2",
+        "caption": "SB Urban Park SB Urban Park Floor Plan 2",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/floor-plan-02.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-8",
+        "alt": "SB Urban Park — SB Urban Park — Floor Plan 3",
+        "caption": "SB Urban Park SB Urban Park Floor Plan 3",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/floor-plan-03.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-9",
+        "alt": "SB Urban Park — SB Urban Park — Floor Plan 4",
+        "caption": "SB Urban Park SB Urban Park Floor Plan 4",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://sburbanpark.in/wp-content/themes/sb-urban/public/gallery/floor-plan-04.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sb-urban-park",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "image-4"
+  ],
+  "overview": {
+    "title": "What defines SB Urban Park",
+    "summary": "SB Urban Park is a residential development in the Thanisandra-Rachenahalli area, marketed with three-bedroom and duplex homes. Its developer highlights no-common-wall planning, a three-level clubhouse and a substantial open-space component. These features give the project a clear privacy and recreation proposition, while the offered home's layout and outlook remain important unit-level considerations.",
+    "highlights": [
+      "Three bedroom and duplex formats",
+      "No common walls reported by the developer",
+      "Three level clubhouse",
+      "60 percent open space reported by the developer"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 2.5,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Ground + 7 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 160,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1535–3070",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹2.05 Cr–₹3.83 Cr* Onward",
+    "possessionDisplay": "November 2026",
+    "sourceIds": [
+      "SRC-129",
+      "SRC-130",
+      "SRC-131",
+      "SRC-132"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

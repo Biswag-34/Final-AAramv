@@ -1,0 +1,1042 @@
+{
+  "schemaVersion": 2,
+  "id": "sumadhura-epitome-i",
+  "published": true,
+  "isDemo": false,
+  "name": "Sumadhura Epitome",
+  "localityId": "rachenahalli",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Sumadhura Group",
+  "phaseName": "Epitome I",
+  "address": "Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "Sumadhura Epitome is a three-tower apartment community in Rachenahalli, shaped by Mediterranean-inspired architecture and all-corner home planning. The developer describes 262 residences across 3.75 acres, with landscaped outdoor areas and a clubhouse anchoring the recreation offering. Arched architectural details, courtyard-inspired spaces and homes described as having no shared walls give the project a recognisable character.",
+  "possession": {
+    "label": "December 2027",
+    "date": null,
+    "precision": "month",
+    "sourceUrl": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome",
+    "sourceId": "SRC-058",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2027,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Sumadhura Epitome I",
+    "Sumadhura Group",
+    "Rachenahalli",
+    "Bangalore",
+    "Bengaluru",
+    "Samadhura Epitome 1",
+    "Sumadhura Epitome"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/sumadhura-epitome-i/master-plan.webp",
+      "alt": "Sumadhura Epitome I — master plan",
+      "caption": "Sumadhura Epitome I master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832333980-45974343.webp",
+      "width": 818,
+      "height": 719,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "646eaaa775cba1e483b33b283788caec8060753d1a6c0d0f83d09483e377bdd8",
+      "bytes": 110530
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/sumadhura-epitome-i/plan-1.webp",
+      "alt": "Sumadhura Epitome I — 2 BHK, 1290 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 2 BHK, 1290 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_2_BHK_1270_Sqft_Unit_Plan--1727512017033-img.webp",
+      "width": 1344,
+      "height": 759,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "986810198ea22d814cf82a303619ff3fe6ace502b65614c598254fb260d8611b",
+      "bytes": 75086
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/sumadhura-epitome-i/plan-2.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1580 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1580 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_2--1719668207304-img.webp",
+      "width": 353,
+      "height": 554,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "242efab89105ab62c4fac4997095112402ca78ec236a7c763bff7a842c38ec83",
+      "bytes": 7794
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/sumadhura-epitome-i/plan-3.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1635 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1635 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3_BHK_1830_Sqft_Unit_Plan--1727512017120-img.webp",
+      "width": 1348,
+      "height": 754,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "e74e329674a23a7bbb5d81b2677e3fe2627254fdd99993eb1d5bd94592d51571",
+      "bytes": 82414
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/sumadhura-epitome-i/plan-4.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1710 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1710 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3--1727512017208-img.webp",
+      "width": 1345,
+      "height": 759,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "623d27b57636fc8571d9095fd18008672638e600322400e153f8b859fcb883f0",
+      "bytes": 81090
+    },
+    {
+      "id": "plan-5",
+      "src": "/images/projects/sumadhura-epitome-i/plan-5.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1785 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1785 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3_BHK_1785_Sqft_Unit_Plan--1728729808453-img.webp",
+      "width": 1900,
+      "height": 1069,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "cfb28950aee26e3b522c6b377162c1d102ba978aca077c56ef12b42a9ffd960c",
+      "bytes": 123186
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/sumadhura-epitome-i/plan-6.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1805 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1805 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3_BHK_1805_Sqft_Unit_Plan--1728729808477-img.webp",
+      "width": 1900,
+      "height": 1069,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a6b09a11f4d9f84b179346f14992d2f600f0035c27d324f9ba92601339d69bd2",
+      "bytes": 128902
+    },
+    {
+      "id": "plan-7",
+      "src": "/images/projects/sumadhura-epitome-i/plan-7.webp",
+      "alt": "Sumadhura Epitome I — 3 BHK, 1865 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 3 BHK, 1865 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3_BHK_1865_Sqft_Unit_Plan--1728729808514-img.webp",
+      "width": 1900,
+      "height": 1070,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "be9c8304b43aeee335cb9aef5c4097ce181d904ffbe66c7f8e0c2a018b65a0d6",
+      "bytes": 137232
+    },
+    {
+      "id": "plan-8",
+      "src": "/images/projects/sumadhura-epitome-i/plan-8.webp",
+      "alt": "Sumadhura Epitome I — 4 BHK, 2120 sq ft built-up unit plan",
+      "caption": "Sumadhura Epitome I 4 BHK, 2120 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Sumadhura_Epitome_3--1728729808545-img.webp",
+      "width": 1900,
+      "height": 1069,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "1dfb58d1f34afd0fe3fa9bb19bd4c00313232d6a584b72b40e4f71fe05e85c34",
+      "bytes": 123488
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/sumadhura-epitome-i/developer-hero.webp",
+      "alt": "sumadhura-epitome-i — developer project visual",
+      "caption": "Sumadhura Epitome · Developer visual",
+      "kind": "exterior",
+      "credit": "Sumadhura Group published project visual",
+      "sourceUrl": "https://corporatecms.sumadhuragroup.com/uploads/Road_Side_View_02_hires_1_2_cb6c6e8532.png",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 504,
+      "height": 285,
+      "sourcePageUrl": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome",
+      "usage": "project-content",
+      "sha256": "47f99f974ff3f59f15a098c2f96c43e55246d1f1c04fd41f1df60f021578c9b4",
+      "bytes": 41990
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/sumadhura-epitome-i/cp-gallery-1.webp",
+      "alt": "Sumadhura Epitome in Rachenahalli, Bangalore",
+      "caption": "Sumadhura Epitome · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/10/Main-Elevation-Sumadhura-Epitome.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 591,
+      "sourcePageUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+      "usage": "project-content",
+      "sha256": "ef3fb6ab4e3269429260c6e1118b437d931e768a5d957e352878336382444d4b",
+      "bytes": 180162
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/sumadhura-epitome-i/cp-gallery-2.webp",
+      "alt": "Classic 2BHK - Sumadhura Epitome",
+      "caption": "Sumadhura Epitome · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/10/Classic-2BHK-Sumadhura-Epitome-768x464.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 464,
+      "sourcePageUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+      "usage": "project-content",
+      "sha256": "dd1da89b31a855e0ba9f1c0694bb87fde64594b4c98f274e4c4aa71da0224e9f",
+      "bytes": 44176
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/sumadhura-epitome-i/cp-gallery-3.webp",
+      "alt": "Smart 3BHK - Sumadhura Epitome",
+      "caption": "Sumadhura Epitome · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/10/Smart-3BHK-Sumadhura-Epitome-768x437.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 437,
+      "sourcePageUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+      "usage": "project-content",
+      "sha256": "302991060648cc92b2755369be62c7cff3922ebf8974d4fd5f4b8f5ea5a2aabe",
+      "bytes": 46434
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0653146,
+    "longitude": 77.625822
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sumadhura%20Epitome%2C%20Railway%20Parallel%20Road%2C%20Rachenahalli%2C%20Thanisandra%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK — 1290 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1290,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 16700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": [
+        "SRC-059"
+      ]
+    },
+    {
+      "id": "configuration-2",
+      "label": "3 BHK — 1580 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1580,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK — 1635 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1635,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK — 1710 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1710,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK — 1785 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1785,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-5",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1805 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1805,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 23000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": [
+        "SRC-059"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1865 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1865,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-7",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "4 BHK — 2120 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2120,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-8",
+      "sourceIds": [
+        "SRC-060"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 3.75,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + 14 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 262,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1290–2120",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "3.75 acres with 262 residences and three towers",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "All corner home planning described by the developer",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "No shared walls described by the developer",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "19800 sq ft clubhouse and Mediterranean inspired landscape",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging Track",
+      "description": "Jogging Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Garden",
+      "description": "Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multi Purpose Court",
+      "description": "Multi Purpose Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior Citizen Area",
+      "description": "Senior Citizen Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Net Cricket",
+      "description": "Net Cricket within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating Rink",
+      "description": "Skating Rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball Court",
+      "description": "Basketball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheater",
+      "description": "Amphitheater within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Zone",
+      "description": "Yoga Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Meditation Zone",
+      "description": "Meditation Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Toddlers Play Area",
+      "description": "Toddlers Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Seating Area",
+      "description": "Seating Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Barbeque Deck",
+      "description": "Barbeque Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Aroma Garden",
+      "description": "Aroma Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Hammock Garden",
+      "description": "Hammock Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet Park",
+      "description": "Pet Park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Volleyball Court",
+      "description": "Volleyball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-058",
+        "SRC-059"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Thanisandra Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Thanisandra Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra%20Main%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 3.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Reliance Digital",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 3.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reliance%20Digital%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "snn-estates-felicity",
+    "sb-urban-park"
+  ],
+  "content": {
+    "overviewTitle": "What defines Sumadhura Epitome",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Sumadhura Epitome"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Sumadhura Epitome located?",
+      "answer": "Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK, 4 BHK. Documented saleable/super built-up plan areas span 1290–2120 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.67 Cr–₹2.3 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: December 2027. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Kids Play Area, Jogging Track, Garden, Multi Purpose Court, Senior Citizen Area. 50 amenities in current developer copy. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "3.75 acres with 262 residences and three towers All corner home planning described by the developer No shared walls described by the developer. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sumadhura Epitome",
+      "url": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Sumadhura Epitome",
+      "url": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Sumadhura Epitome I",
+    "Sumadhura Epitome"
+  ],
+  "projectScale": {
+    "landAreaAcres": 3.75,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 3,
+    "floorArrangement": "2 basements + ground + 14 upper floors",
+    "totalHomesOrPlots": 262,
+    "sourceIds": [
+      "SRC-058",
+      "SRC-059"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.67 Cr–₹2.3 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 16700000,
+    "maxStartingPriceInr": 23000000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 16700000,
+      "highestConfigurationStartInr": 23000000,
+      "displayText": "₹1.67 Cr–₹2.3 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "2 BHK",
+        "areaSqFt": 1290,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 16700000,
+        "upperQuotedPriceInr": 16700000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+        "sourceId": "SRC-059",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK Classic",
+        "areaSqFt": 1620,
+        "areaMaxSqFt": 1635,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 22000000,
+        "upperQuotedPriceInr": 22000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+        "sourceId": "SRC-059",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK Grand",
+        "areaSqFt": 1805,
+        "areaMaxSqFt": 1855,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 23000000,
+        "upperQuotedPriceInr": 23000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+        "sourceId": "SRC-059",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 50,
+    "countType": "advertised-total",
+    "label": "50 amenities in current developer copy",
+    "namedAmenitiesCount": 21,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": true,
+    "displayText": "50 advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sumadhura%20Epitome%2C%20Railway%20Parallel%20Road%2C%20Rachenahalli%2C%20Thanisandra%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "Sumadhura Epitome, Railway Parallel Road, Rachenahalli, Thanisandra, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.533884334898!2d77.625822!3d13.065314599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1903dda2eab9%3A0x858f19dfa02376b5!2sSumadhura%20Epitome!5e0!3m2!1sen!2sin!4v1782890015249!5m2!1sen!2sin",
+        "sourceUrl": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-058",
+    "SRC-059",
+    "SRC-060"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer page now describes 2, 3 and 4 BHK, with maximum 2,120 sq ft; CP has an older 2,110 sq ft 4 BHK. Use the plan-specific area.",
+      "Retain existing route epitome-i while customer-facing project name follows Sumadhura Epitome."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Sumadhura Epitome I — project gallery 1",
+        "caption": "Sumadhura Epitome · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832306207-170185736.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Sumadhura Epitome I — project gallery 2",
+        "caption": "Sumadhura Epitome · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832307319-96176032.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Sumadhura Epitome I — project gallery 3",
+        "caption": "Sumadhura Epitome · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832308903-815625024.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Sumadhura Epitome I — project gallery 4",
+        "caption": "Sumadhura Epitome · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sumadhura-epitome_1766832310271-18748498.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Sumadhura Epitome",
+    "summary": "Sumadhura Epitome is a three-tower apartment community in Rachenahalli, shaped by Mediterranean-inspired architecture and all-corner home planning. The developer describes 262 residences across 3.75 acres, with landscaped outdoor areas and a clubhouse anchoring the recreation offering. Arched architectural details, courtyard-inspired spaces and homes described as having no shared walls give the project a recognisable character.",
+    "highlights": [
+      "3.75 acres with 262 residences and three towers",
+      "All corner home planning described by the developer",
+      "No shared walls described by the developer",
+      "19800 sq ft clubhouse and Mediterranean inspired landscape"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 3.75,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + 14 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 262,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1290–2120",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.67 Cr–₹2.3 Cr* Onward",
+    "possessionDisplay": "December 2027",
+    "sourceIds": [
+      "SRC-058",
+      "SRC-059",
+      "SRC-060"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

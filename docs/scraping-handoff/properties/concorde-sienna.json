@@ -1,0 +1,1129 @@
+{
+  "schemaVersion": 2,
+  "id": "concorde-sienna",
+  "published": true,
+  "isDemo": false,
+  "name": "Concorde Sienna",
+  "localityId": "hennur-road",
+  "type": "Apartment",
+  "status": "New launch",
+  "developerName": "Concorde Group",
+  "phaseName": null,
+  "address": "Hennur–Bagalur Main Road, Kannuru, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "Concorde Sienna is a two- and three-bedroom apartment development on Hennur Main Road, with architecture influenced by European design. Concorde describes 260 apartments across three acres, combining a high-rise residential format with a substantial open-space component. Club Evolve, landscaped recreation and privacy-focused planning form the main lifestyle proposition.",
+  "possession": {
+    "label": "July 2031 onwards, CP reference",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+    "sourceId": "SRC-117",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2031,
+    "month": 7
+  },
+  "searchKeywords": [
+    "Concorde Sienna",
+    "Concorde Group",
+    "Hennur Road",
+    "Bangalore",
+    "Bengaluru",
+    "Concord Sianna"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/concorde-sienna/cover.webp",
+      "alt": "Concorde Sienna — developer gallery 1",
+      "caption": "Concorde Sienna · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/sienna/01.webp",
+      "width": 1440,
+      "height": 945,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "f4a63be1ccc5356763fa195290d3ddfc069868996d64955fc916429ed1bea039",
+      "bytes": 322712
+    },
+    {
+      "id": "developer-gallery-2",
+      "src": "/images/projects/concorde-sienna/developer-gallery-2.webp",
+      "alt": "Concorde Sienna — developer gallery 2",
+      "caption": "Concorde Sienna · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/sienna/02.webp",
+      "width": 1440,
+      "height": 945,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "79c756d89f9ae0005e75b53851c40e951854bf2d35b596bb9d52ccadd41a77e4",
+      "bytes": 235798
+    },
+    {
+      "id": "developer-gallery-3",
+      "src": "/images/projects/concorde-sienna/developer-gallery-3.webp",
+      "alt": "Concorde Sienna — developer gallery 3",
+      "caption": "Concorde Sienna · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/sienna/03.webp",
+      "width": 1440,
+      "height": 945,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "cc0c97bf59ea3dd72c876b08a6f53886b7f66a463a1c9afe523e1b8d3d5197c6",
+      "bytes": 148314
+    },
+    {
+      "id": "developer-gallery-4",
+      "src": "/images/projects/concorde-sienna/developer-gallery-4.webp",
+      "alt": "Concorde Sienna — developer gallery 4",
+      "caption": "Concorde Sienna · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/sienna/04.webp",
+      "width": 1440,
+      "height": 945,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "fa52934bb0b934cfed1a54193118cd08da377602b3ae33f77f8cb691d2681a94",
+      "bytes": 224050
+    },
+    {
+      "id": "master-plan",
+      "src": "/images/projects/concorde-sienna/master-plan.webp",
+      "alt": "Concorde Sienna — master plan",
+      "caption": "Concorde Sienna master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-sienna_1783165272231-144750035.webp",
+      "width": 1900,
+      "height": 1069,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "b6f62c1c624e2adc8ea222f7020d9ba1521a0ebb189af3ed40d68c6cb9338877",
+      "bytes": 84480
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/concorde-sienna/cp-gallery-1.webp",
+      "alt": "Concorde Sienna on Hennur Road, North Bangalore",
+      "caption": "Concorde Sienna · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/09/main-elevation-concorde-sienna-hennur.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1200,
+      "height": 678,
+      "sourcePageUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+      "usage": "project-content",
+      "sha256": "4fbfaf51bdb8b863e25c2e00b77eeff46b1e2f83ec9d39b2c9344fc209305b60",
+      "bytes": 88270
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/concorde-sienna/cp-gallery-2.webp",
+      "alt": "aerial concorde sienna hennur",
+      "caption": "Concorde Sienna · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/09/aerial-concorde-sienna-hennur-768x505.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 505,
+      "sourcePageUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+      "usage": "project-content",
+      "sha256": "5edc9ce2979ddc4e4c2f37b92d0e9f21e19e5b9e53bea7720800758d5a14c846",
+      "bytes": 83890
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/concorde-sienna/cp-gallery-3.webp",
+      "alt": "clubhouse view concorde sienna hennur",
+      "caption": "Concorde Sienna · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/09/clubhouse-view-concorde-sienna-hennur-768x505.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 505,
+      "sourcePageUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+      "usage": "project-content",
+      "sha256": "ea538e04c0e02e90a7d633555c17f72a21ad367208aea599f0bc213cd7c08198",
+      "bytes": 70254
+    },
+    {
+      "id": "developer-plan-p12",
+      "src": "/images/projects/concorde-sienna/developer-plan-p12.webp",
+      "alt": "Concorde Sienna developer layout sheet, page 12",
+      "caption": "Concorde Sienna developer layout sheet, page 12",
+      "kind": "floor-plan",
+      "credit": "Project material published by Concorde Group.",
+      "sourceUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 12,
+      "width": 1191,
+      "height": 1684,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "sourceDocumentUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "usage": "project-content",
+      "sha256": "9246924f63025660aa9644a34fb739724270c7d85654f23fb606806a09c3b3be",
+      "bytes": 76464
+    },
+    {
+      "id": "developer-plan-p13",
+      "src": "/images/projects/concorde-sienna/developer-plan-p13.webp",
+      "alt": "Concorde Sienna developer layout sheet, page 13",
+      "caption": "Concorde Sienna developer layout sheet, page 13",
+      "kind": "floor-plan",
+      "credit": "Project material published by Concorde Group.",
+      "sourceUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 13,
+      "width": 1191,
+      "height": 1684,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "sourceDocumentUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "usage": "project-content",
+      "sha256": "c0ede657a20bf6d73709a099e60966ea612e0a3951d9bc0feaee97e7940573b2",
+      "bytes": 76434
+    },
+    {
+      "id": "developer-plan-p14",
+      "src": "/images/projects/concorde-sienna/developer-plan-p14.webp",
+      "alt": "Concorde Sienna developer layout sheet, page 14",
+      "caption": "Concorde Sienna developer layout sheet, page 14",
+      "kind": "floor-plan",
+      "credit": "Project material published by Concorde Group.",
+      "sourceUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 14,
+      "width": 1191,
+      "height": 1684,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "sourceDocumentUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "usage": "project-content",
+      "sha256": "62d1896bd224da4283e2d4ecff79a5f16b4573b53a5ed1e1db4d5ddce17be5a7",
+      "bytes": 92114
+    },
+    {
+      "id": "developer-plan-p15",
+      "src": "/images/projects/concorde-sienna/developer-plan-p15.webp",
+      "alt": "Concorde Sienna developer layout sheet, page 15",
+      "caption": "Concorde Sienna developer layout sheet, page 15",
+      "kind": "floor-plan",
+      "credit": "Project material published by Concorde Group.",
+      "sourceUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 15,
+      "width": 1191,
+      "height": 1684,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "sourceDocumentUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "usage": "project-content",
+      "sha256": "2fee7143ace52a184c0350226a90c3683811202fc7b6ae933516274243229ebe",
+      "bytes": 103984
+    },
+    {
+      "id": "developer-plan-p16",
+      "src": "/images/projects/concorde-sienna/developer-plan-p16.webp",
+      "alt": "Concorde Sienna developer layout sheet, page 16",
+      "caption": "Concorde Sienna developer layout sheet, page 16",
+      "kind": "floor-plan",
+      "credit": "Project material published by Concorde Group.",
+      "sourceUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 16,
+      "width": 1191,
+      "height": 1684,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "sourceDocumentUrl": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "usage": "project-content",
+      "sha256": "fac7d5c07f2cace1e011dc22900ab3a98e42d708025e442189cac6324850c186",
+      "bytes": 77264
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0963283,
+    "longitude": 77.6545331
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Concorde%20Sienna%2C%20Hennur%E2%80%93Bagalur%20Main%20Road%2C%20Kannuru%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "verified-configuration-1",
+  "configurations": [
+    {
+      "id": "verified-configuration-1",
+      "label": "2 BHK · 2 baths · 1,200 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1200,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 12600000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p15",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 787,
+      "balconyAreaSqFt": 53,
+      "priceSourceIds": [
+        "SRC-117"
+      ]
+    },
+    {
+      "id": "layout-2-bhk-2-baths-1-201-sq-ft-1201",
+      "label": "2 BHK · 2 baths · 1,201 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1201,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p15",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "carpetAreaSqFt": 787,
+      "balconyAreaSqFt": 53,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-2-baths-1-552-sq-ft-1552",
+      "label": "3 BHK · 2 baths · 1,552 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1552,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 16300000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p14",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "carpetAreaSqFt": 1020,
+      "balconyAreaSqFt": 72,
+      "priceSourceIds": [
+        "SRC-117"
+      ]
+    },
+    {
+      "id": "verified-configuration-2",
+      "label": "3 BHK · 2 baths · 1,553 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1553,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p14",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1020,
+      "balconyAreaSqFt": 72,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-3",
+      "label": "3 BHK · 3 baths · 1,680 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1680,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 17600000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p16",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1079,
+      "balconyAreaSqFt": 97,
+      "priceSourceIds": [
+        "SRC-117"
+      ]
+    },
+    {
+      "id": "verified-configuration-4",
+      "label": "3 BHK · 3 baths · 1,687 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1687,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 17700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p13",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1077,
+      "balconyAreaSqFt": 103,
+      "priceSourceIds": [
+        "SRC-117"
+      ]
+    },
+    {
+      "id": "verified-configuration-5",
+      "label": "3 BHK · 3 baths · 1,694 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1694,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p13",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1077,
+      "balconyAreaSqFt": 103,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-6",
+      "label": "3 BHK · 3 baths · 1,870 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1870,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 19600000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p12",
+      "sourceIds": [
+        "SRC-118"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1185,
+      "balconyAreaSqFt": 131,
+      "priceSourceIds": [
+        "SRC-117"
+      ]
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 3,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Ground + 28 upper floors; corporate developer specification",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 260,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1200–1870",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Three acres with 260 apartments",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "G plus 28 floor arrangement",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "75 percent open space reported by Concorde",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "10000 sq ft Club Evolve",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Club Evolve",
+      "description": "Club Evolve within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s pool",
+      "description": "Children’s pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pickleball court",
+      "description": "Pickleball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose games court",
+      "description": "Multipurpose games court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket practice net",
+      "description": "Cricket practice net within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor gym",
+      "description": "Outdoor gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Reflexology walkway",
+      "description": "Reflexology walkway within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pet park",
+      "description": "Pet park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party lawn",
+      "description": "Party lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-115",
+        "SRC-116"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "United International School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "United International School is a school or education landmark to include in your route check.",
+      "distanceKm": 0.5,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=United%20International%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Legacy School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Legacy School is a school or education landmark to include in your route check.",
+      "distanceKm": 3,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Legacy%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 8,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Aster CMI Hospital",
+      "category": "Hospital",
+      "icon": "Hospital",
+      "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
+      "distanceKm": 12,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aster%20CMI%20Hospital%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 21,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-5",
+      "title": "Developer brochure / plan document",
+      "url": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-118"
+    }
+  ],
+  "relatedPropertyIds": [
+    "disha-harmony-gardens",
+    "dnr-parklink"
+  ],
+  "content": {
+    "overviewTitle": "What defines Concorde Sienna",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Hennur–Bagalur Main Road, Kannuru, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Concorde Sienna"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Concorde Sienna located?",
+      "answer": "Hennur–Bagalur Main Road, Kannuru, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 1200–1870 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.25 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "New launch. Published timeline: July 2031 onwards, CP reference. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Club Evolve, Swimming pool, Children’s pool, Gymnasium, Pickleball court, Multipurpose games court. Count sourced named facilities, not an invented developer total. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Three acres with 260 apartments G plus 28 floor arrangement 75 percent open space reported by Concorde. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Concorde Sienna",
+      "url": "https://www.concorde.in/residential-projects/concorde-sienna",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde Sienna",
+      "url": "https://sienna.concorde.in/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde Sienna",
+      "url": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde Sienna",
+      "url": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/concorde-sienna",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Concorde Sienna"
+  ],
+  "projectScale": {
+    "landAreaAcres": 3,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 1,
+    "floorArrangement": "Ground + 28 upper floors; corporate developer specification",
+    "totalHomesOrPlots": 260,
+    "sourceIds": [
+      "SRC-115",
+      "SRC-116",
+      "SRC-117",
+      "SRC-118"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.25 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 12500000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 12500000,
+      "highestConfigurationStartInr": 19600000,
+      "displayText": "₹1.25 Cr–₹1.96 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Developer project starting reference",
+        "areaSqFt": null,
+        "startingPriceInr": 12500000,
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-sienna",
+        "sourceId": "SRC-115",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK 2T",
+        "areaSqFt": 1200,
+        "areaMaxSqFt": 1201,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 12600000,
+        "upperQuotedPriceInr": 12600000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+        "sourceId": "SRC-117",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK 2T",
+        "areaSqFt": 1552,
+        "areaMaxSqFt": 1553,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 16300000,
+        "upperQuotedPriceInr": 16300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+        "sourceId": "SRC-117",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK 3T",
+        "areaSqFt": 1680,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 17600000,
+        "upperQuotedPriceInr": 17600000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+        "sourceId": "SRC-117",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK 3T",
+        "areaSqFt": 1687,
+        "areaMaxSqFt": 1694,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 17700000,
+        "upperQuotedPriceInr": 17800000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+        "sourceId": "SRC-117",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK 3T",
+        "areaSqFt": 1870,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 19600000,
+        "upperQuotedPriceInr": 19600000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+        "sourceId": "SRC-117",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 13,
+    "countType": "sourced-named-facility-count",
+    "label": "Count sourced named facilities, not an invented developer total",
+    "namedAmenitiesCount": 13,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "13 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Concorde%20Sienna%2C%20Hennur%E2%80%93Bagalur%20Main%20Road%2C%20Kannuru%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "Concorde Sienna, Hennur–Bagalur Main Road, Kannuru, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.0451001736374!2d77.6545331!3d13.0963283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b8d785a03dd%3A0x49c5255903cef3ff!2sConcorde%20Sienna%20~%20Apartments%20in%20hennur%20main%20road!5e0!3m2!1sen!2sin!4v1787308796525!5m2!1sen!2sin",
+        "sourceUrl": "https://sienna.concorde.in/"
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.0451001736374!2d77.6545331!3d13.0963283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b8d785a03dd%3A0x49c5255903cef3ff!2sConcorde%20Sienna%20~%20Apartments%20in%20hennur%20main%20road!5e0!3m2!1sen!2sin!4v1787335042150!5m2!1sen!2sin",
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-sienna"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-115",
+    "SRC-116",
+    "SRC-117",
+    "SRC-118",
+    "SRC-119"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer G+28 used rather than truncated current site floor string.",
+      "Brochure distinguishes 1,552/1,553 and 1,200/1,201 orientation variants; all are retained."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-1",
+        "alt": "Concorde Sienna — 2 BHK, 1200 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 2 BHK, 1200 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166912652-927416151.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-2",
+        "alt": "Concorde Sienna — 2 BHK, 1221 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 2 BHK, 1221 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166915858-862230672.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-3",
+        "alt": "Concorde Sienna — 3 BHK, 1552 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 3 BHK, 1552 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166919103-175308003.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-4",
+        "alt": "Concorde Sienna — 3 BHK, 1578 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 3 BHK, 1578 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166922285-862702510.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-5",
+        "alt": "Concorde Sienna — 3 BHK, 1680 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 3 BHK, 1680 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166925536-32223817.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-6",
+        "alt": "Concorde Sienna — 3 BHK, 1870 sq ft built-up unit plan",
+        "caption": "Concorde Sienna 3 BHK, 1870 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1783166928713-972230097.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-sienna",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "developer-gallery-2",
+    "developer-gallery-3",
+    "developer-gallery-4",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Concorde Sienna",
+    "summary": "Concorde Sienna is a two- and three-bedroom apartment development on Hennur Main Road, with architecture influenced by European design. Concorde describes 260 apartments across three acres, combining a high-rise residential format with a substantial open-space component. Club Evolve, landscaped recreation and privacy-focused planning form the main lifestyle proposition.",
+    "highlights": [
+      "Three acres with 260 apartments",
+      "G plus 28 floor arrangement",
+      "75 percent open space reported by Concorde",
+      "10000 sq ft Club Evolve"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 3,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 1,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Ground + 28 upper floors; corporate developer specification",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 260,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1200–1870",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.25 Cr* Onward",
+    "possessionDisplay": "July 2031 onwards, CP reference",
+    "sourceIds": [
+      "SRC-115",
+      "SRC-116",
+      "SRC-117",
+      "SRC-118",
+      "SRC-119"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

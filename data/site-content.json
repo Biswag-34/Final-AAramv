@@ -1,0 +1,79 @@
+{
+  "policies": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "How this website handles enquiry details and saved homes.",
+      "sections": [
+        [
+          "Information entered in the preview",
+          "The current enquiry form is a preview. Details entered in the form are checked in the page but are not sent to Aaramv or stored as an enquiry."
+        ],
+        [
+          "Saved homes",
+          "Saved homes are kept in your browser on the same device. Remove a home by selecting its heart icon again. Clearing browser storage may remove your saved list."
+        ],
+        [
+          "Third party content",
+          "Some project images and maps may load from third-party services. Those services may receive technical information needed to display their content."
+        ],
+        [
+          "Before a live enquiry service is enabled",
+          "The policy must identify the actual operator, information collected, purpose, contact channels, recipients or processors, retention approach, deletion process and a working privacy contact."
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "intro": "The role of this website and the information to confirm before a property transaction.",
+      "sections": [
+        [
+          "Using the website",
+          "Aaramv Realty provides property discovery, shortlist support and coordination for buyers in Bengaluru. Website content helps you compare options and start a conversation."
+        ],
+        [
+          "Property information",
+          "Project details, configurations, availability, prices and timelines may change. Review the current documents for the phase and home you are considering."
+        ],
+        [
+          "Our role",
+          "Aaramv acts as a real estate channel partner and provides advisory assistance. Construction, allotment, purchase terms, warranties and handover obligations remain governed by the relevant developer or seller documents."
+        ],
+        [
+          "Enquiries and visits",
+          "An enquiry is not a booking, allotment or confirmed appointment. Site access and timing must be agreed separately. In preview mode, the form does not send an enquiry."
+        ],
+        [
+          "Fees and commercial relationships",
+          "Before proceeding, ask for a written explanation of applicable service fees and developer or seller commission for your transaction."
+        ],
+        [
+          "Buyer review",
+          "Review the selected home's cost sheet, plans, registration details, payment schedule, cancellation terms and handover conditions with the relevant qualified professionals."
+        ],
+        [
+          "Images and plans",
+          "Photographs, artist impressions, show-apartment images and plans must be identified accurately. Furniture or fit-outs shown in an illustrative image are not automatically included in an offer."
+        ]
+      ]
+    }
+  },
+  "contactFaqs": [
+    {
+      "question": "Does this confirm a site visit?",
+      "answer": "No. Access and timing must be agreed separately."
+    },
+    {
+      "question": "Can I enquire while I am still exploring?",
+      "answer": "Yes. Share the budget, areas or priorities you already know, and use Help me decide for your home type."
+    },
+    {
+      "question": "What happens to my request?",
+      "answer": "In preview mode no enquiry is sent or stored. After a live enquiry service is connected, the page must explain the actual contact and data-handling process."
+    },
+    {
+      "question": "Are there any service fees?",
+      "answer": "Ask for a written explanation of any applicable service fee and developer or seller commission for your transaction before you proceed."
+    }
+  ],
+  "visitCopy": "Check the approach road, surrounding uses, utilities and ongoing construction from the actual project entrance. Visit at a time that reflects your normal routine. Planned infrastructure and operating infrastructure must be shown separately."
+}

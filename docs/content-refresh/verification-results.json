@@ -1,0 +1,12 @@
+{
+  "scope": "content and imagery only",
+  "projectRecords": 27,
+  "localityRecords": 17,
+  "unitTestsPassed": 32,
+  "originalCssPreserved": true,
+  "originalRoutingPreserved": true,
+  "originalCatalogueArchitecturePreserved": true,
+  "principalComponentStructuresPreserved": 10,
+  "productionBuild": "passed",
+  "deployment": "not performed"
+}

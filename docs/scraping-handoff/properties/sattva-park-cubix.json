@@ -1,0 +1,1601 @@
+{
+  "schemaVersion": 2,
+  "id": "sattva-park-cubix",
+  "published": true,
+  "isDemo": false,
+  "name": "Sattva Park Cubix",
+  "localityId": "devanahalli",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Sattva Group",
+  "phaseName": "Phase I and Phase II",
+  "address": "NH 207, Devanahalli Village, Kasaba Hobli, opposite KRN Complex, Devanahalli Taluk, Bengaluru Rural, Karnataka",
+  "postalCode": "562110",
+  "description": "Sattva Park Cubix is an apartment community in Devanahalli, with a planning concept built around central green spaces, recreation and two clubhouses. The original project page describes an 18-acre development with extensive indoor and outdoor facilities. Park Cubix I and Park Cubix II should be shown as distinct offerings wherever their configurations, construction stage or handover information differ.",
+  "possession": {
+    "label": "Phase I ready; Phase II proposed completion 15 September 2029",
+    "date": null,
+    "precision": "phase-specific",
+    "sourceUrl": "https://mypropertypoint.com/projects/sattva-park-cubix-ii-devanahalli-town-nh-207",
+    "sourceId": "SRC-027",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Sattva Park Cubix",
+    "Sattva Group",
+    "Devanahalli",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/sattva-park-cubix/master-plan.webp",
+      "alt": "Sattva Park Cubix — master plan",
+      "caption": "Sattva Park Cubix master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764742017527-161189191.webp",
+      "width": 766,
+      "height": 553,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "4ec56d98c2502857adaa89dd50e4d79c326962cca5f4811e772581787fe66eee",
+      "bytes": 104236
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/sattva-park-cubix/plan-1.webp",
+      "alt": "Sattva Park Cubix — Studio, 449 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix Studio, 449 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744125667-595618074.webp",
+      "width": 589,
+      "height": 805,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "ded66d16f72959571047f597c93ce40f8528983df9408c58d9dab1c40703e9ba",
+      "bytes": 44248
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/sattva-park-cubix/plan-2.webp",
+      "alt": "Sattva Park Cubix — 1 BHK, 672 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 1 BHK, 672 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1772362143859-255157843.webp",
+      "width": 753,
+      "height": 821,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "d821238e6b0a540a046a5b62188ba8a390ca544ff40c4c3114330c23138003e0",
+      "bytes": 58114
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/sattva-park-cubix/plan-3.webp",
+      "alt": "Sattva Park Cubix — 2 BHK, 1082 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 2 BHK, 1082 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1772362144022-989991568.webp",
+      "width": 418,
+      "height": 415,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c86f3f354efd4310054b7c8da039e974e195be60553a2a724ed1d78266046b02",
+      "bytes": 24618
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/sattva-park-cubix/plan-4.webp",
+      "alt": "Sattva Park Cubix — 2 BHK, 1105 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 2 BHK, 1105 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1772362144526-633138313.webp",
+      "width": 1035,
+      "height": 1009,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "dacdba3866524abeade4ac4918acf8baf0675d6c528fe50eff9f77a839baf2ac",
+      "bytes": 92466
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/sattva-park-cubix/plan-6.webp",
+      "alt": "Sattva Park Cubix — 3 BHK, 1457 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 3 BHK, 1457 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744114842-924498214.webp",
+      "width": 861,
+      "height": 1045,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "43750fbe5f6ab47a8f2ac15f7ded59ce8134ac510494f263c6143ecf3924318b",
+      "bytes": 96822
+    },
+    {
+      "id": "plan-7",
+      "src": "/images/projects/sattva-park-cubix/plan-7.webp",
+      "alt": "Sattva Park Cubix — 3 BHK, 1702 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 3 BHK, 1702 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744115369-692781622.webp",
+      "width": 845,
+      "height": 1077,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a5dd5851e25795b24f9445e11e9764af726fe649fbb4aecab3543b7e313916e5",
+      "bytes": 86806
+    },
+    {
+      "id": "plan-8",
+      "src": "/images/projects/sattva-park-cubix/plan-8.webp",
+      "alt": "Sattva Park Cubix — 3 BHK, 1741 sq ft built-up unit plan",
+      "caption": "Sattva Park Cubix 3 BHK, 1741 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744115699-136602461.webp",
+      "width": 562,
+      "height": 495,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bd27a815c32f8cac12994e593674d2dc8f525d9b20ae0c7c43ba204d2ac2772a",
+      "bytes": 39424
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/sattva-park-cubix/developer-hero.webp",
+      "alt": "sattva-park-cubix — developer project visual",
+      "caption": "Sattva Park Cubix · Developer visual",
+      "kind": "exterior",
+      "credit": "Sattva Group published project visual",
+      "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/beng-ParkCubix-thumb-1.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 570,
+      "height": 300,
+      "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "usage": "project-content",
+      "sha256": "719a9844dab237122977ee3f0eacbd120b5764c94bc2ae7bd48d3bf3191c1601",
+      "bytes": 54552
+    },
+    {
+      "id": "developer-master-plan-park-cubix",
+      "src": "/images/projects/sattva-park-cubix/developer-master-plan-park-cubix.webp",
+      "alt": "master-plan-park-cubix.jpg",
+      "caption": "master-plan-park-cubix.jpg",
+      "kind": "master-plan",
+      "credit": "Sattva Group published project visual",
+      "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/master-plan-park-cubix.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1520,
+      "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "usage": "project-content",
+      "sha256": "5ef1f6d97736128fd462ffd4c1b8317f06a5d2cb395e0f8069f44d6086a6c8b1",
+      "bytes": 401330
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/sattva-park-cubix/cp-gallery-1.webp",
+      "alt": "Sattva Park Cubix Phase 2 in Devanahalli, Bangalore",
+      "caption": "Sattva Park Cubix · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2016/10/Salarpuria-Park-Cubix-Homznspace-1600x900.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 810,
+      "sourcePageUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+      "usage": "project-content",
+      "sha256": "2e14e0e34d5f9096eff704d8aaa98199433d1243f1985476fb4eec45b1c62507",
+      "bytes": 198386
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/sattva-park-cubix/cp-gallery-2.webp",
+      "alt": "3BHK 1715 - Sattva Park Cubix Phase 2",
+      "caption": "Sattva Park Cubix · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2025/04/3BHK-1715-Sattva-Park-Cubix-Phase-2.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 604,
+      "height": 931,
+      "sourcePageUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+      "usage": "project-content",
+      "sha256": "a810b2c32c21ac9d4ceb9e98e11e8ae5e2ccfaa155b0d68694689fa911712e23",
+      "bytes": 67450
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/sattva-park-cubix/cp-gallery-3.webp",
+      "alt": "3BHK 1719 - Sattva Park Cubix Phase 2",
+      "caption": "Sattva Park Cubix · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2025/04/3BHK-1719-Sattva-Park-Cubix-Phase-2-768x675.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 675,
+      "sourcePageUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+      "usage": "project-content",
+      "sha256": "b0b1838232fdb8e2083e9d7596658f0f8034136a335be87fa0dd3082b3b5406f",
+      "bytes": 52908
+    },
+    {
+      "id": "phase1-plan-1282",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1282.webp",
+      "alt": "Park Cubix Phase I 1282 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1282 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 609,
+      "height": 500,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "9aa451e98a30e25780cee289d7190e6528401c629908c9d79b7160b7f4603eac",
+      "bytes": 37404
+    },
+    {
+      "id": "phase1-plan-1273",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1273.webp",
+      "alt": "Park Cubix Phase I 1273 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1273 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 605,
+      "height": 500,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "c472b9ed86869a61a97c9b7da9ec670ecf9c80c58fefdcecf32f2489f0056dd0",
+      "bytes": 36416
+    },
+    {
+      "id": "phase1-plan-1466",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1466.webp",
+      "alt": "Park Cubix Phase I 1466 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1466 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 613,
+      "height": 500,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "f55ba9059aee7ed595639ecc8c10e006e85a2aefa78ff2061d95b62c69c9f196",
+      "bytes": 33876
+    },
+    {
+      "id": "phase1-plan-1498",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1498.webp",
+      "alt": "Park Cubix Phase I 1498 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1498 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 624,
+      "height": 500,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "fb5ea40909ef146ff8ab2176440344060d541abfeaa9865ccc0b6a404b17c016",
+      "bytes": 34312
+    },
+    {
+      "id": "phase1-plan-658",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-658.webp",
+      "alt": "Park Cubix Phase I 658 sq ft developer plan",
+      "caption": "Park Cubix Phase I 658 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 602,
+      "height": 483,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "e2d96e44cea005364ba406c2f78b7280ed73c74869d975e5c5a5a727e37cc87e",
+      "bytes": 25032
+    },
+    {
+      "id": "phase1-plan-997",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-997.webp",
+      "alt": "Park Cubix Phase I 997 sq ft developer plan",
+      "caption": "Park Cubix Phase I 997 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1112,
+      "height": 960,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "0aa2c1cf9de275a45e2d48b450ee50e9da16ea519d814e4eba6a6513fbc0d65f",
+      "bytes": 73968
+    },
+    {
+      "id": "phase1-plan-1009",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1009.webp",
+      "alt": "Park Cubix Phase I 1009 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1009 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1150,
+      "height": 960,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "7dda3794afb7f3941a5e22822a2603c877acb7d475142b5a4b642b4e861bf09b",
+      "bytes": 78866
+    },
+    {
+      "id": "phase1-plan-1488",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1488.webp",
+      "alt": "Park Cubix Phase I 1488 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1488 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 523,
+      "height": 451,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "b64ff42adf7c8021d4c10194951331e5eec7757ecb40f6ad29d54a5a6c71c3fb",
+      "bytes": 26482
+    },
+    {
+      "id": "phase1-plan-1477",
+      "src": "/images/projects/sattva-park-cubix/phase1-plan-1477.webp",
+      "alt": "Park Cubix Phase I 1477 sq ft developer plan",
+      "caption": "Park Cubix Phase I 1477 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Sattva Group.",
+      "sourceUrl": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 612,
+      "height": 500,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "usage": "project-content",
+      "sha256": "d64903a7e3d4aeb106a46423ed934c107674d7f468fbdccd85b45063c36762f6",
+      "bytes": 34094
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.2422056,
+    "longitude": 77.7202198
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sattva%20Park%20Cubix%2C%20NH%20207%2C%20Devanahalli%20Village%2C%20Kasaba%20Hobli%2C%20opposite%20KRN%20Complex%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "Studio — 449 sq ft — Phase II",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "areaSqFt": 449,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 3590000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": [
+        "SRC-026"
+      ]
+    },
+    {
+      "id": "configuration-2",
+      "label": "1 BHK — 672 sq ft — Phase II",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 672,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 5970000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": [
+        "SRC-026"
+      ]
+    },
+    {
+      "id": "configuration-3",
+      "label": "2 BHK — 1082 sq ft — Phase II",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1082,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 10300000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": [
+        "SRC-026"
+      ]
+    },
+    {
+      "id": "configuration-4",
+      "label": "2 BHK — 1105 sq ft — Phase II",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1105,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK · 1,282 sq ft · Phase I (developer label)",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1282,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1282",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1457 sq ft — Phase II",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1457,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 13700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": [
+        "SRC-026"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1702 sq ft — Phase II",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1702,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 15900000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-7",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": [
+        "SRC-026"
+      ]
+    },
+    {
+      "id": "configuration-8",
+      "label": "3 BHK — 1741 sq ft — Phase II",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1741,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-8",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase II",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-9",
+      "label": "3 BHK — 1273 sq ft — Phase I",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1273,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1273",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-10",
+      "label": "3 BHK — 1466 sq ft — Phase I",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1466,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1466",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-11",
+      "label": "3 BHK — 1498 sq ft — Phase I",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1498,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1498",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-12",
+      "label": "1 BHK — 658 sq ft — Phase I",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 658,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-658",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-13",
+      "label": "2 BHK — 997 sq ft — Phase I",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 997,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-997",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-14",
+      "label": "2 BHK — 1009 sq ft — Phase I",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1009,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1009",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-15",
+      "label": "3 BHK — 1488 sq ft — Phase I",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1488,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1488",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-16",
+      "label": "3 BHK — 1477 sq ft — Phase I",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1477,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "phase1-plan-1477",
+      "sourceIds": [
+        "SRC-028"
+      ],
+      "phaseName": "Phase I",
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 18,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 7,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Phase I: 2 basements + ground + 14 upper floors; Phase II is separate",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 1620,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "449–1741",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "18 acre development described on the original project page",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Two clubhouses with recreation and fitness functions",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Central landscaped areas",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Phase specific apartment choices",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Club House",
+      "description": "Club House within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging Track",
+      "description": "Jogging Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Garden",
+      "description": "Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Football Court",
+      "description": "Football Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis Court",
+      "description": "Tennis Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket Pitch",
+      "description": "Cricket Pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor Chess",
+      "description": "Outdoor Chess within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball Court",
+      "description": "Basketball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Zone",
+      "description": "Yoga Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Meditation Zone",
+      "description": "Meditation Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Rock Climbing",
+      "description": "Rock Climbing within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Lawn Mound",
+      "description": "Lawn Mound within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Pool Deck",
+      "description": "Pool Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cycling Track",
+      "description": "Cycling Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet Park",
+      "description": "Pet Park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Jacuzzi",
+      "description": "Jacuzzi within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Volleyball Court",
+      "description": "Volleyball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Walking Track",
+      "description": "Walking Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tot Lot Play Area",
+      "description": "Tot Lot Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "The KOI Junction",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "The KOI Junction is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20KOI%20Junction%2C%20Bengaluru"
+    },
+    {
+      "name": "D Mart",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "D Mart is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 1.9,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D%20Mart%2C%20Bengaluru"
+    },
+    {
+      "name": "Devanahalli Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Devanahalli Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1.9,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli%20Station%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "brigade-oasis",
+    "century-seasons"
+  ],
+  "content": {
+    "overviewTitle": "What defines Sattva Park Cubix",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "NH 207, Devanahalli Village, Kasaba Hobli, opposite KRN Complex, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Sattva Park Cubix"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Sattva Park Cubix located?",
+      "answer": "NH 207, Devanahalli Village, Kasaba Hobli, opposite KRN Complex, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Studio, 1 BHK, 2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 449–1741 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹35.9 L–₹1.59 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Phase I ready; Phase II proposed completion 15 September 2029. The date differs by phase and must be matched to the offered home."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Club House, Kids Play Area, Jogging Track, Garden, Kids Pool. 50+ developer-marketed amenities for original Park Cubix. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "18 acre development described on the original project page Two clubhouses with recreation and fitness functions Central landscaped areas. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sattva Park Cubix",
+      "url": "https://sattvagroup.com/residential/park-cubix/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Sattva Park Cubix",
+      "url": "https://sattvagroup.com/sattva-property-results/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Sattva Park Cubix",
+      "url": "https://sattvagroup.com/our-business-verticals/residential/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Sattva Park Cubix",
+      "url": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Sattva Park Cubix",
+      "url": "https://mypropertypoint.com/projects/sattva-park-cubix-ii-devanahalli-town-nh-207",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Sattva Park Cubix"
+  ],
+  "projectScale": {
+    "landAreaAcres": 18,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 7,
+    "floorArrangement": "Phase I: 2 basements + ground + 14 upper floors; Phase II is separate",
+    "totalHomesOrPlots": 1620,
+    "sourceIds": [
+      "SRC-023",
+      "SRC-024",
+      "SRC-025",
+      "SRC-026",
+      "SRC-027"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Status is scoped to the selected phase; completed and ongoing portions may coexist.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹35.9 L–₹1.59 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 3590000,
+    "maxStartingPriceInr": 15900000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 3590000,
+      "highestConfigurationStartInr": 15900000,
+      "displayText": "₹35.9 L–₹1.59 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Studio",
+        "areaSqFt": 449,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 3590000,
+        "upperQuotedPriceInr": 3590000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+        "sourceId": "SRC-026",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "1 BHK",
+        "areaSqFt": 672,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 5970000,
+        "upperQuotedPriceInr": 5970000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+        "sourceId": "SRC-026",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK",
+        "areaSqFt": 1082,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 10300000,
+        "upperQuotedPriceInr": 10300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+        "sourceId": "SRC-026",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + 2T",
+        "areaSqFt": 1457,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 13700000,
+        "upperQuotedPriceInr": 13700000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+        "sourceId": "SRC-026",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + 3T",
+        "areaSqFt": 1702,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 15900000,
+        "upperQuotedPriceInr": 15900000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+        "sourceId": "SRC-026",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Studio",
+    "1 BHK",
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 50,
+    "countType": "advertised-lower-bound",
+    "label": "50+ developer-marketed amenities for original Park Cubix",
+    "namedAmenitiesCount": 24,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "50+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Sattva%20Park%20Cubix%2C%20NH%20207%2C%20Devanahalli%20Village%2C%20Kasaba%20Hobli%2C%20opposite%20KRN%20Complex%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+    "query": "Sattva Park Cubix, NH 207, Devanahalli Village, Kasaba Hobli, opposite KRN Complex, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-023",
+    "SRC-024",
+    "SRC-025",
+    "SRC-026",
+    "SRC-027",
+    "SRC-028"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Original Park Cubix plans and totals differ from Phase II inventory. Never apply the March 2022 Phase I possession label to Phase II.",
+      "CP tables mix 18-acre, 1,620-home Phase I scale with studio/Phase II pricing. Keep each scope labelled."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Sattva Park Cubix — project gallery 1",
+        "caption": "Sattva Park Cubix · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741975299-545525930.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Sattva Park Cubix — project gallery 2",
+        "caption": "Sattva Park Cubix · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741977650-325046804.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Sattva Park Cubix — project gallery 3",
+        "caption": "Sattva Park Cubix · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741978776-272845222.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Sattva Park Cubix — project gallery 4",
+        "caption": "Sattva Park Cubix · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/sattva-park-cubix_1764741980088-878035086.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-5",
+        "alt": "Sattva Park Cubix — 3 BHK, 1282 sq ft built-up unit plan",
+        "caption": "Sattva Park Cubix 3 BHK, 1282 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1772362143502-548579524.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-9",
+        "alt": "Sattva Park Cubix — 3 BHK, 1273 sq ft built-up unit plan",
+        "caption": "Sattva Park Cubix 3 BHK, 1273 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744121686-85396027.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-10",
+        "alt": "Sattva Park Cubix — 3 BHK, 1466 sq ft built-up unit plan",
+        "caption": "Sattva Park Cubix 3 BHK, 1466 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744123677-111772028.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-11",
+        "alt": "Sattva Park Cubix — 3 BHK, 1498 sq ft built-up unit plan",
+        "caption": "Sattva Park Cubix 3 BHK, 1498 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1764744125403-55209163.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-1bhk-unit-type-4-tv2",
+        "alt": "1BHK_Unit-Type-4-TV2.jpg",
+        "caption": "1BHK_Unit-Type-4-TV2.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/1BHK_Unit-Type-4-TV2.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-2bhk-unit-type-2-tv2",
+        "alt": "2BHK_Unit-Type-2-TV2.jpg",
+        "caption": "2BHK_Unit-Type-2-TV2.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/2BHK_Unit-Type-2-TV2.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-2bhk-unit-type-6-tv2",
+        "alt": "2BHK_Unit-Type-6-TV2.jpg",
+        "caption": "2BHK_Unit-Type-6-TV2.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/2BHK_Unit-Type-6-TV2.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-unit-type-1t",
+        "alt": "3BHK_Unit-Type-1T.jpg",
+        "caption": "3BHK_Unit-Type-1T.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/3BHK_Unit-Type-1T.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-2-5bhk-unit-type-3at",
+        "alt": "2.5BHK_Unit-Type-3AT.jpg",
+        "caption": "2.5BHK_Unit-Type-3AT.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/2.5BHK_Unit-Type-3AT.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-2-5bhk-unit-type-3t",
+        "alt": "2.5BHK_Unit-Type-3T.jpg",
+        "caption": "2.5BHK_Unit-Type-3T.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/2.5BHK_Unit-Type-3T.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-unit-type-5t",
+        "alt": "3BHK_Unit-Type-5T.jpg",
+        "caption": "3BHK_Unit-Type-5T.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/3BHK_Unit-Type-5T.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-unit-type-5at",
+        "alt": "3BHK_Unit-Type-5AT.jpg",
+        "caption": "3BHK_Unit-Type-5AT.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/3BHK_Unit-Type-5AT.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      },
+      {
+        "id": "developer-3bhk-unit-type-1-1t",
+        "alt": "3BHK_Unit-Type-1-1T.jpg",
+        "caption": "3BHK_Unit-Type-1-1T.jpg",
+        "kind": "floor-plan",
+        "credit": "Sattva Group published project visual",
+        "sourceUrl": "https://sattvagroup.com/wp-content/uploads/2023/01/3BHK_Unit-Type-1-1T.jpg",
+        "checkedAt": "2026-10-28",
+        "representation": "layout-plan",
+        "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+        "sourcePageUrl": "https://sattvagroup.com/residential/park-cubix/",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Sattva Park Cubix",
+    "summary": "Sattva Park Cubix is an apartment community in Devanahalli, with a planning concept built around central green spaces, recreation and two clubhouses. The original project page describes an 18-acre development with extensive indoor and outdoor facilities. Park Cubix I and Park Cubix II should be shown as distinct offerings wherever their configurations, construction stage or handover information differ.",
+    "highlights": [
+      "18 acre development described on the original project page",
+      "Two clubhouses with recreation and fitness functions",
+      "Central landscaped areas",
+      "Phase specific apartment choices"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 18,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 7,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Phase I: 2 basements + ground + 14 upper floors; Phase II is separate",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 1620,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "449–1741",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹35.9 L–₹1.59 Cr* Onward",
+    "possessionDisplay": "Phase I ready; Phase II proposed completion 15 September 2029",
+    "sourceIds": [
+      "SRC-023",
+      "SRC-024",
+      "SRC-025",
+      "SRC-026",
+      "SRC-027",
+      "SRC-028"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "bellahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "Bellahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North-East Bengaluru",
+  "tagline": "Where northern neighbourhood roads meet new home choices.",
+  "description": "Bellahalli sits within the wider Thanisandra–Kogilu–Kannur residential belt. Its local road connections and the regional education anchor of REVA University at Kattigenahalli help place it in the northern-city context. Projects may use Thanisandra in marketing while naming Bellahalli in the actual address.",
+  "tags": [
+    "North-East Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Bellahalli",
+    "bellahalli",
+    "Bengaluru",
+    "Nikoo Homes 8"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/bellahalli/cover.webp",
+      "alt": "REVA University, Kattigenahalli · nearby education landmark",
+      "caption": "REVA University, Kattigenahalli · nearby education landmark",
+      "kind": "landmark-photograph",
+      "credit": "RITM, Bangalore · CC BY-SA 3.0",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Reva_Main_Block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Reva_Main_Block.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2013-08-24 09:52:14",
+      "width": 720,
+      "height": 540,
+      "checkedAt": "2026-10-28",
+      "sha256": "521391cb8bbcc5ef4674e3e2bc82819b91230af5b4f5eb31c4d24b507693c5d2",
+      "bytes": 104862
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Connections within the Thanisandra–Kogilu–Kannur belt",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "REVA University is a nearby regional education anchor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Apartment developments with different phase and layout choices",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Bellahalli Cross",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bellahalli Cross is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellahalli%20Cross%2C%20Bengaluru"
+    },
+    {
+      "name": "Bhartiya City",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "Bhartiya City is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20City%2C%20Bengaluru"
+    },
+    {
+      "name": "Reva University",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Reva University is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reva%20University%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Bellahalli its identity?",
+      "answer": "Connections within the Thanisandra–Kogilu–Kannur belt; REVA University is a nearby regional education anchor; Apartment developments with different phase and layout choices."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Nikoo Homes 8. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would place the exact Bellahalli address on your daily-route map first. Then we would compare the home formats that suit your household, including study and loft options where documented. A familiar Thanisandra label should make the search easier, without concealing the project’s real location or its construction and delivery stage."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bellahalli",
+      "url": "https://www.reva.edu.in/how-to-reach-us",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Bellahalli image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Reva_Main_Block.jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would place the exact Bellahalli address on your daily-route map first. Then we would compare the home formats that suit your household, including study and loft options where documented. A familiar Thanisandra label should make the search easier, without concealing the project’s real location or its construction and delivery stage.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "nikoo-homes-8"
+  ],
+  "usp": [
+    "Connections within the Thanisandra–Kogilu–Kannur belt",
+    "REVA University is a nearby regional education anchor",
+    "Apartment developments with different phase and layout choices"
+  ],
+  "sourceIds": [
+    "SRC-161",
+    "SRC-162"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

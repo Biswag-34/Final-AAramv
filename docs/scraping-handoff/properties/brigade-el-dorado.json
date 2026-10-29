@@ -1,0 +1,845 @@
+{
+  "schemaVersion": 2,
+  "id": "brigade-el-dorado",
+  "published": true,
+  "isDemo": false,
+  "name": "Brigade El Dorado",
+  "localityId": "kiadb-aerospace-park",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Brigade Group",
+  "phaseName": "Multiple registered blocks",
+  "address": "KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka",
+  "postalCode": "562149",
+  "description": "Brigade El Dorado is a multi-block apartment development in North Bengaluru's Aerospace Park area. The developer markets a 50-acre township with an extensive shared recreation offering, including sports facilities, landscaped areas, pools and community spaces. Its different blocks offer different home formats, making the selected block an essential part of the comparison alongside the overall township.",
+  "possession": {
+    "label": "Completed and ongoing blocks; select the registered block",
+    "date": null,
+    "precision": "phase-specific",
+    "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado",
+    "sourceId": "SRC-014",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Brigade El Dorado",
+    "Brigade Group",
+    "KIADB Aerospace Park",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/brigade-el-dorado/cover.webp",
+      "alt": "Brigade El Dorado — clubhouse and township aerial visual",
+      "caption": "Brigade El Dorado · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/club-house-aerial.jpg",
+      "width": 1086,
+      "height": 527,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "731d6ed39723e2205a132263b1da48fc9f88ce00595648e2590f517ca9ad96d1",
+      "bytes": 143368
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/brigade-el-dorado/image-2.webp",
+      "alt": "Brigade El Dorado — aurum",
+      "caption": "Brigade El Dorado aurum",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images/aurum/aurum-homepage-masterplan.webp",
+      "width": 422,
+      "height": 299,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "1b5544bc5bda578f8a4b8634a674629e05b653f5845c690cf43b8f5bac4ad143",
+      "bytes": 30740
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/brigade-el-dorado/image-3.webp",
+      "alt": "Brigade El Dorado — cobalt masterplan",
+      "caption": "Brigade El Dorado cobalt masterplan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images//cobalt/cobalt-new-launch-masterplan.webp",
+      "width": 422,
+      "height": 345,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "6348f94b53a63e26532c9a68c2d4da8b8d27bf74aaa954cbf6b0dc658e102a42",
+      "bytes": 32592
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/brigade-el-dorado/image-4.webp",
+      "alt": "Brigade El Dorado — Beryl",
+      "caption": "Brigade El Dorado Beryl",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.brigadeeldorado.com/assets/images//beryl/beryl-homepage-masterplan.webp",
+      "width": 422,
+      "height": 299,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "2f4020def7bb0a5a6e28ee57aff98bc038ab2786ff2d6fee5fd94e3c3cc58e2c",
+      "bytes": 34394
+    },
+    {
+      "id": "image-5",
+      "src": "/images/projects/brigade-el-dorado/image-5.webp",
+      "alt": "Brigade El Dorado Aurum — 2 BHK 938 sq ft plan",
+      "caption": "Brigade El Dorado Aurum 2 BHK 938 sq ft plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Brigade_El%20Dorado-Aurum-2_BHK_938_sqft_Unit_Plan--1688642411817-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bba69df2ab0fe75a714b57b9cbf840a2c1d0b92695ed610911d2d4d6fc348a8a",
+      "bytes": 140488
+    },
+    {
+      "id": "image-6",
+      "src": "/images/projects/brigade-el-dorado/image-6.webp",
+      "alt": "Brigade El Dorado Aurum — 2 BHK 974 sq ft plan",
+      "caption": "Brigade El Dorado Aurum 2 BHK 974 sq ft plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Brigade_El%20Dorado-Aurum-2_BHK_974_sqft_Unit_Plan--1688642411831-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "e145905c0d019a5fd867182de171098b0796ae9575ba70282e67bcd8ac670b2a",
+      "bytes": 143696
+    },
+    {
+      "id": "image-7",
+      "src": "/images/projects/brigade-el-dorado/image-7.webp",
+      "alt": "Brigade El Dorado Aurum — 3 BHK 971 sq ft plan",
+      "caption": "Brigade El Dorado Aurum 3 BHK 971 sq ft plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Brigade_El%20Dorado-Aurum-3_BHK_971_sqft_Unit_Plan--1688642411838-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "71205af305bc45de75574b1bdbba7d3ce9e672584c22bb61457d71c2c2f54b32",
+      "bytes": 143108
+    },
+    {
+      "id": "image-8",
+      "src": "/images/projects/brigade-el-dorado/image-8.webp",
+      "alt": "Brigade El Dorado Aurum — 3 BHK 1382 sq ft plan",
+      "caption": "Brigade El Dorado Aurum 3 BHK 1382 sq ft plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Brigade_El%20Dorado-Aurum-3_BHK_1382_sqft_Unit_Plan--1688642411847-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "78d08e5acbf52ce3d7c1f61c8f61b5ba6feeac87213cb8df8d468c6658a94322",
+      "bytes": 149600
+    },
+    {
+      "id": "image-9",
+      "src": "/images/projects/brigade-el-dorado/image-9.webp",
+      "alt": "Brigade El Dorado Aurum — 3 BHK 1561 sq ft plan",
+      "caption": "Brigade El Dorado Aurum 3 BHK 1561 sq ft plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Brigade_El%20Dorado-Aurum-3_BHK_1561_sqft_Unit_Plan--1688642411857-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "c1790d4287743838322a7e708627a455c21128d246b3f01f9f2716df63b3441a",
+      "bytes": 167638
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/brigade-el-dorado/cp-gallery-1.webp",
+      "alt": "Brigade Eldorado in Bagalur, Bangalore",
+      "caption": "Brigade El Dorado · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/05/Main-Elevation-Brigade-El-Dorado-Cobalt.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 637,
+      "sourcePageUrl": "https://www.homznspace.com/brigade-eldorado-reviews/",
+      "usage": "project-content",
+      "sha256": "7ff80a3f05b5bf39f39940296cb330a5f5e5fb0b1bf9633823935711d96743f9",
+      "bytes": 201416
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/brigade-el-dorado/cp-gallery-2.webp",
+      "alt": "1BHK 535 - Brigade El Dorado Cobalt",
+      "caption": "Brigade El Dorado · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/05/1BHK-535-Brigade-El-Dorado-Cobalt-768x541.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 541,
+      "sourcePageUrl": "https://www.homznspace.com/brigade-eldorado-reviews/",
+      "usage": "project-content",
+      "sha256": "47008c280cf470f01360a83d6e80f3256db2825cc90020b0f8d65867005df837",
+      "bytes": 31762
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/brigade-el-dorado/cp-gallery-3.webp",
+      "alt": "1BHK 536 - Brigade El Dorado Cobalt",
+      "caption": "Brigade El Dorado · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/05/1BHK-536-Brigade-El-Dorado-Cobalt-768x544.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 544,
+      "sourcePageUrl": "https://www.homznspace.com/brigade-eldorado-reviews/",
+      "usage": "project-content",
+      "sha256": "025019acd8fdb058a8cac397aeac0de577d8beea875de245a2fa576141dfebc3",
+      "bytes": 29314
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brigade%20El%20Dorado%2C%20KIADB%20Aerospace%20Park%2C%20Huvinayakanahalli%2C%20Jala%20Hobli%2C%20Bagalur%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "1 BHK — Iridium",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 520.97,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "1.5 BHK — Iridium",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 689.64,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "1 BHK — Cobalt",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 534.54,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "1 BHK — Beryl",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 537,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "2 BHK — Aurum — 938 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 938,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-5",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "2 BHK — Aurum — 974 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 974,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-6",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — Aurum — 971 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 971,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-7",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "3 BHK — Aurum — 1382 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1382,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-8",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-9",
+      "label": "3 BHK — Aurum — 1561 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1561,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-9",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 50,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 12,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Township reference: basement + ground + 21 upper floors; varies by registered block",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 5000,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "520.97–1561",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "50 acre township setting",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Multiple residential blocks with different home formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "80 plus amenities described by Brigade",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Sports and shared recreation within the township proposition",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Multiplex",
+      "description": "Multiplex within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini cricket field",
+      "description": "Mini cricket field within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini-golf green",
+      "description": "Mini-golf green within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis court",
+      "description": "Tennis court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating rink",
+      "description": "Skating rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Swimming pools",
+      "description": "Swimming pools within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Clubhouse",
+      "description": "Clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor sports courts",
+      "description": "Outdoor sports courts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-015"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Shell Technology Centre, Bengaluru",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Shell Technology Centre, Bengaluru is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 3,
+      "travelMinutes": 6,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-2",
+      "title": "Developer brochure / plan document",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/30/d8/30d8bfc6-58ca-4b47-94ce-24b0c2f81643/beryl_e-brochure_5.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-016"
+    }
+  ],
+  "relatedPropertyIds": [
+    "jasper-at-brigade-el-dorado",
+    "nikoo-homes-9"
+  ],
+  "content": {
+    "overviewTitle": "What defines Brigade El Dorado",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Brigade El Dorado"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Brigade El Dorado located?",
+      "answer": "KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "1 BHK, 1.5 BHK, 2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 520.97–1561 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹89 L* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Completed and ongoing blocks; select the registered block. The date differs by phase and must be matched to the offered home."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Multiplex, Mini cricket field, Mini-golf green, Tennis court, Landscaped gardens, Skating rink. 80+ marketed township amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "50 acre township setting Multiple residential blocks with different home formats 80 plus amenities described by Brigade. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Brigade El Dorado",
+      "url": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Brigade El Dorado",
+      "url": "https://www.homznspace.com/brigade-eldorado-reviews/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Brigade El Dorado",
+      "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/30/d8/30d8bfc6-58ca-4b47-94ce-24b0c2f81643/beryl_e-brochure_5.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Brigade El Dorado"
+  ],
+  "projectScale": {
+    "landAreaAcres": 50,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 12,
+    "floorArrangement": "Township reference: basement + ground + 21 upper floors; varies by registered block",
+    "totalHomesOrPlots": 5000,
+    "sourceIds": [
+      "SRC-014",
+      "SRC-015",
+      "SRC-016"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Status is scoped to the selected phase; completed and ongoing portions may coexist.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹89 L* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 8900000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 8900000,
+      "highestConfigurationStartInr": 8900000,
+      "displayText": "₹89 L* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Developer Price section, selected marketed block",
+        "areaSqFt": null,
+        "startingPriceInr": 8900000,
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado",
+        "sourceId": "SRC-014",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "1 BHK",
+    "1.5 BHK",
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 80,
+    "countType": "advertised-lower-bound",
+    "label": "80+ marketed township amenities",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "80+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Brigade%20El%20Dorado%2C%20KIADB%20Aerospace%20Park%2C%20Huvinayakanahalli%2C%20Jala%20Hobli%2C%20Bagalur%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+    "query": "Brigade El Dorado, KIADB Aerospace Park, Huvinayakanahalli, Jala Hobli, Bagalur, Bengaluru, Karnataka, 562149",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d62164.587959458884!2d77.684441!3d13.144304!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b866e055a1b%3A0xcb5508a6a3f94f33!2sBrigade%20El%20Dorado!5e0!3m2!1sen!2sin!4v1704951213772!5m2!1sen!2sin",
+        "sourceUrl": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-014",
+    "SRC-015",
+    "SRC-016",
+    "SRC-017"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Corporate developer page is headed Beryl and marked sold out but contains township-wide facts. Individual block completion and inventory differ.",
+      "Price section and launch copy must not be treated as current stock confirmation."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "partial — exact plans missing for some records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Brigade El Dorado",
+    "summary": "Brigade El Dorado is a multi-block apartment development in North Bengaluru's Aerospace Park area. The developer markets a 50-acre township with an extensive shared recreation offering, including sports facilities, landscaped areas, pools and community spaces. Its different blocks offer different home formats, making the selected block an essential part of the comparison alongside the overall township.",
+    "highlights": [
+      "50 acre township setting",
+      "Multiple residential blocks with different home formats",
+      "80 plus amenities described by Brigade",
+      "Sports and shared recreation within the township proposition"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 50,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 12,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Township reference: basement + ground + 21 upper floors; varies by registered block",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 5000,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "520.97–1561",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹89 L* Onward",
+    "possessionDisplay": "Completed and ongoing blocks; select the registered block",
+    "sourceIds": [
+      "SRC-014",
+      "SRC-015",
+      "SRC-016",
+      "SRC-017"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

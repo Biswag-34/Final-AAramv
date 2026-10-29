@@ -1,0 +1,631 @@
+{
+  "schemaVersion": 2,
+  "id": "century-seasons",
+  "published": true,
+  "isDemo": false,
+  "name": "Century Seasons",
+  "localityId": "devanahalli",
+  "type": "Plot",
+  "status": "Ready to move",
+  "developerName": "Century Real Estate",
+  "phaseName": "Phases I and II",
+  "address": "Survey No. 39/1, Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka",
+  "postalCode": "562110",
+  "description": "Century Seasons is a 25-acre plotted development in Devanahalli, planned around themed landscape areas and shared recreation. Century describes close to half the development as open space, with more than 40 amenities distributed across 21 green pockets. Its proposition combines the flexibility of an individually built home with a planned community landscape.",
+  "possession": {
+    "label": "Ready to move, portal reference January 2025",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/century-seasons/103769/project",
+    "sourceId": "SRC-052",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2025,
+    "month": 1
+  },
+  "searchKeywords": [
+    "Century Seasons",
+    "Century Real Estate",
+    "Devanahalli",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/century-seasons/cover.webp",
+      "alt": "Century Seasons — Main View A Century Seasons Plots Devenahalli",
+      "caption": "Century Seasons · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2021/03/Main-View-A-Century-Seasons-Plots-Devenahalli.jpg",
+      "width": 1440,
+      "height": 810,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/century-seasons",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "c942f257fddd860691ed7b1c1b9925afc31ecd5b6720b2a9302950eba54c8c83",
+      "bytes": 187800
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/century-seasons/image-2.webp",
+      "alt": "Century Seasons — Layout Plan - Century Seasons Plots Devenahalli",
+      "caption": "Century Seasons project layout plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2021/03/Layout-Plan-Century-Seasons-Plots-Devenahalli.jpg",
+      "width": 1100,
+      "height": 909,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/century-seasons",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "b6584b03d6e2bc17be1adab6d41f6ad6ed27c4228f3ccad7acde1fb0a7c63204",
+      "bytes": 147068
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/century-seasons/cp-gallery-1.webp",
+      "alt": "Century Seasons project visual",
+      "caption": "Century Seasons · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation-century-astoria-at-immencity-jakkur-741x486.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 741,
+      "height": 486,
+      "sourcePageUrl": "https://www.homznspace.com/century-seasons-plots-devanahalli-bangalore-reviews/",
+      "usage": "project-content",
+      "sha256": "5596388c83b7113c1372515b01fcd73177886f4ab9b8843c2e8a91fec69903e5",
+      "bytes": 36080
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/century-seasons/cp-gallery-2.webp",
+      "alt": "Century Seasons Plots in Devanahalli, Bangalore",
+      "caption": "Century Seasons · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2021/03/Main-View-A-Century-Seasons-Plots-Devenahalli.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 810,
+      "sourcePageUrl": "https://www.homznspace.com/century-seasons-plots-devanahalli-bangalore-reviews/",
+      "usage": "project-content",
+      "sha256": "c942f257fddd860691ed7b1c1b9925afc31ecd5b6720b2a9302950eba54c8c83",
+      "bytes": 187800
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/century-seasons/cp-gallery-3.webp",
+      "alt": "Century Real Estate",
+      "caption": "Century Seasons · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/09/hns-footer-builder-marks/century-developers.png",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 207,
+      "height": 121,
+      "sourcePageUrl": "https://www.homznspace.com/century-seasons-plots-devanahalli-bangalore-reviews/",
+      "usage": "project-content",
+      "sha256": "ea389b965e50df7840b7aefe9ed72ff566b7bddaa28ae307808b0536a51794ea",
+      "bytes": 3262
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Century%20Seasons%2C%20Survey%20No.%2039/1%2C%20Lakshmipura%20Village%2C%20NH%20648%2C%20Doddaballapur%E2%80%93Devanahalli%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "30 × 50 ft plot — 1,500 sq ft — resale listing",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 1500,
+      "areaBasis": "plot",
+      "startingPriceInr": 11300000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-2",
+      "sourceIds": [
+        "SRC-054"
+      ],
+      "priceSourceIds": [
+        "SRC-052"
+      ],
+      "planScope": "Project master layout; not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    },
+    {
+      "id": "configuration-2",
+      "label": "40 × 60 ft plot — 2,400 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 2400,
+      "areaBasis": "plot",
+      "startingPriceInr": 18000000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-2",
+      "sourceIds": [
+        "SRC-054"
+      ],
+      "priceSourceIds": [
+        "SRC-052"
+      ],
+      "planScope": "Project master layout; not an individual plot survey drawing",
+      "planActionLabel": "View site layout"
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 25,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Plots",
+      "value": 326,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Plot area range",
+      "value": "1500–2400",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "25 acre plotted development",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Close to 50 percent open space marketed by Century",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "40 plus amenities across 21 green pockets",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Villa and larger plot formats described by the developer",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Users",
+      "title": "Clubhouse",
+      "description": "Clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor sports courts",
+      "description": "Outdoor sports courts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Indoor games",
+      "description": "Indoor games within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and meditation area",
+      "description": "Yoga and meditation area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Themed green pockets",
+      "description": "Themed green pockets within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior citizens’ seating",
+      "description": "Senior citizens’ seating within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-051",
+        "SRC-052"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 8.3,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempalingapura Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempalingapura Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 8.9,
+      "travelMinutes": 15,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempalingapura%20Bus%20Stop%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "sattva-park-cubix",
+    "brigade-oasis"
+  ],
+  "content": {
+    "overviewTitle": "What defines Century Seasons",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey No. 39/1, Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Century Seasons"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Century Seasons located?",
+      "answer": "Survey No. 39/1, Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "30 × 50 ft plot, 40 × 60 ft plot. Documented plot areas span 1500–2400 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.13 Cr–₹1.8 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Ready to move. Published timeline: Ready to move, portal reference January 2025. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Clubhouse, Swimming pool, Gymnasium, Children’s play area, Jogging track, Landscaped gardens. 40+ developer-marketed amenities across 21 green pockets. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "25 acre plotted development Close to 50 percent open space marketed by Century 40 plus amenities across 21 green pockets. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Century Seasons",
+      "url": "https://www.centuryrealestate.in/residential/projects/century-seasons",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Century Seasons",
+      "url": "https://www.squareyards.com/bangalore-residential-property/century-seasons/103769/project",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Century Seasons",
+      "url": "https://www.homznspace.com/century-seasons-plots-devanahalli-bangalore-reviews/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/century-seasons",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Century Seasons"
+  ],
+  "projectScale": {
+    "landAreaAcres": 25,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": null,
+    "floorArrangement": "Plotted development; no apartment towers",
+    "totalHomesOrPlots": 326,
+    "sourceIds": [
+      "SRC-051",
+      "SRC-052",
+      "SRC-053"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.13 Cr–₹1.8 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 11300000,
+    "maxStartingPriceInr": 18000000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 11300000,
+      "highestConfigurationStartInr": 18000000,
+      "displayText": "₹1.13 Cr–₹1.8 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1,500 sq ft villa plot",
+        "areaSqFt": 1500,
+        "startingPriceInr": 11300000,
+        "upperQuotedPriceInr": 11300000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/century-seasons/103769/project",
+        "sourceId": "SRC-052",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2,400 sq ft mansion plot",
+        "areaSqFt": 2400,
+        "startingPriceInr": 18000000,
+        "upperQuotedPriceInr": 18000000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/century-seasons/103769/project",
+        "sourceId": "SRC-052",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "30 × 50 ft plot",
+    "40 × 60 ft plot"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 40,
+    "countType": "advertised-lower-bound",
+    "label": "40+ developer-marketed amenities across 21 green pockets",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "40+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Century%20Seasons%2C%20Survey%20No.%2039/1%2C%20Lakshmipura%20Village%2C%20NH%20648%2C%20Doddaballapur%E2%80%93Devanahalli%20Road%2C%20Devanahalli%20Taluk%2C%20Bengaluru%20Rural%2C%20Karnataka%2C%20562110",
+    "query": "Century Seasons, Survey No. 39/1, Lakshmipura Village, NH 648, Doddaballapur–Devanahalli Road, Devanahalli Taluk, Bengaluru Rural, Karnataka, 562110",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d55658.71972260092!2d77.64928485618829!3d13.27258272639249!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x59cfe482a2f69e38!2sCentury%20Seasons!5e0!3m2!1sen!2sin!4v1616656712442!5m2!1sen!2sin",
+        "sourceUrl": "https://www.centuryrealestate.in/residential/projects/century-seasons"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-051",
+    "SRC-052",
+    "SRC-053",
+    "SRC-054"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer configuration table marks villa and odd plots sold out. Secondary-market quotes are not developer stock.",
+      "The master area is 25 acres. CP unit totals of 326 and older site totals of 329 are not independently reconciled."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "plotSizeSchedule": {
+    "developerPublishedOptions": [
+      {
+        "label": "Villa plot",
+        "areaSqFt": 1500
+      },
+      {
+        "label": "Odd plots",
+        "areaRangeSqFt": {
+          "min": 1000,
+          "max": 2000
+        }
+      }
+    ],
+    "legacyCpOption": {
+      "label": "Mansion plot",
+      "areaSqFt": 2400
+    },
+    "sourceIds": [
+      "SRC-051"
+    ],
+    "availability": "Developer configuration table marks displayed stock sold out"
+  },
+  "overview": {
+    "title": "What defines Century Seasons",
+    "summary": "Century Seasons is a 25-acre plotted development in Devanahalli, planned around themed landscape areas and shared recreation. Century describes close to half the development as open space, with more than 40 amenities distributed across 21 green pockets. Its proposition combines the flexibility of an individually built home with a planned community landscape.",
+    "highlights": [
+      "25 acre plotted development",
+      "Close to 50 percent open space marketed by Century",
+      "40 plus amenities across 21 green pockets",
+      "Villa and larger plot formats described by the developer"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 25,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Plots",
+        "value": 326,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Plot area range",
+        "value": "1500–2400",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.13 Cr–₹1.8 Cr* Onward",
+    "possessionDisplay": "Ready to move, portal reference January 2025",
+    "sourceIds": [
+      "SRC-051",
+      "SRC-052",
+      "SRC-053",
+      "SRC-054"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

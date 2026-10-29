@@ -1,0 +1,1040 @@
+{
+  "schemaVersion": 2,
+  "id": "concorde-neo",
+  "published": true,
+  "isDemo": false,
+  "name": "Concorde NEO",
+  "localityId": "thanisandra",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Concorde Group",
+  "phaseName": null,
+  "address": "Thanisandra Main Road, Markandhaiha Nagar, R. K. Hegde Nagar, Bellahalli, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "Concorde NEO is a two- and three-bedroom apartment community on Thanisandra Main Road at Bellahalli. Concorde describes 424 homes across 4.02 acres, with a sky-level clubhouse as a central feature. Open spaces, shared recreation and the elevated clubhouse give the project a recognisable community and leisure proposition.",
+  "possession": {
+    "label": "October 2029",
+    "date": null,
+    "precision": "month",
+    "sourceUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+    "sourceId": "SRC-110",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2029,
+    "month": 10
+  },
+  "searchKeywords": [
+    "Concorde NEO",
+    "Concorde Group",
+    "Thanisandra",
+    "Bangalore",
+    "Bengaluru",
+    "Concord Neo"
+  ],
+  "coverImageId": "developer-building-hero",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/concorde-neo/master-plan.webp",
+      "alt": "Concorde NEO — master plan",
+      "caption": "Concorde NEO master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-neo_1766837448928-193688569.webp",
+      "width": 1136,
+      "height": 803,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "67313e23c1a43230ee1c5619768dd9d3a6bbdfcbc375f696c0d7a4896d3b1939",
+      "bytes": 160894
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/concorde-neo/plan-1.webp",
+      "alt": "Concorde NEO — 2 BHK, 1241 sq ft built-up unit plan",
+      "caption": "Concorde NEO 2 BHK, 1241 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1740557771661-43078834.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "d1c5772f43577a08f82c7ae53ca9987b567dc070a11949d109f8f7b231dc0f9f",
+      "bytes": 143556
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/concorde-neo/plan-2.webp",
+      "alt": "Concorde NEO — 2 BHK, 1130 sq ft built-up unit plan",
+      "caption": "Concorde NEO 2 BHK, 1130 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1749626781633-170855789.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "2bd3b79f841d239aceb18019866080d9109d4996fdf1eb1e1382471c1d151826",
+      "bytes": 59800
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/concorde-neo/plan-3.webp",
+      "alt": "Concorde NEO — 2 BHK, 1199 sq ft built-up unit plan",
+      "caption": "Concorde NEO 2 BHK, 1199 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1749626782580-929660896.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "95e18152000314df5d80c95e944e0b7a88ed571df7abf419f07d34dd06d45c5f",
+      "bytes": 148444
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/concorde-neo/plan-4.webp",
+      "alt": "Concorde NEO — 3 BHK, 1477 sq ft built-up unit plan",
+      "caption": "Concorde NEO 3 BHK, 1477 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1740557771757-263493636.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "efd588203c092dd0e626cbf99d2a0a63a0abc0ba0f27b063ebcac7d54e9fc19e",
+      "bytes": 59116
+    },
+    {
+      "id": "plan-5",
+      "src": "/images/projects/concorde-neo/plan-5.webp",
+      "alt": "Concorde NEO — 3 BHK, 1539 sq ft built-up unit plan",
+      "caption": "Concorde NEO 3 BHK, 1539 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1740557771842-34097821.webp",
+      "width": 1663,
+      "height": 944,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "58abed9f54717db8777cad79a77f06833068a9a9caadf832d7ef602a1288d0ec",
+      "bytes": 138184
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/concorde-neo/plan-6.webp",
+      "alt": "Concorde NEO — 3 BHK, 1490 sq ft built-up unit plan",
+      "caption": "Concorde NEO 3 BHK, 1490 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0.webp_1749626783467-99646076.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "6eecc63c585b0fea5ecebdb42495061744ba347cbd97cea3f598c84b19f371df",
+      "bytes": 57268
+    },
+    {
+      "id": "developer-building-hero",
+      "src": "/images/projects/concorde-neo/developer-building-hero.webp",
+      "sourceUrl": "https://assets.concorde.in/projects/banners/neo-banner-web.webp",
+      "sourcePageUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+      "alt": "Concorde NEO · developer project visual",
+      "caption": "Concorde NEO · developer project visual",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1440,
+      "height": 681,
+      "bytes": 207994,
+      "sha256": "a31adf9e98c1367921a6585517adb3ef14033bf4e420051c81af5e35bef2fdd6"
+    },
+    {
+      "id": "developer-gallery-1",
+      "src": "/images/projects/concorde-neo/developer-gallery-1.webp",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/neo/gallery-01.webp",
+      "sourcePageUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+      "alt": "Concorde NEO · developer gallery 1",
+      "caption": "Concorde NEO · developer gallery 1",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1440,
+      "height": 945,
+      "bytes": 447878,
+      "sha256": "16b7044fcd9b53d26ae1cc644e1ab9886737c4381710905e718ea29944b496ec"
+    },
+    {
+      "id": "developer-gallery-2",
+      "src": "/images/projects/concorde-neo/developer-gallery-2.webp",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/neo/gallery-02.webp",
+      "sourcePageUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+      "alt": "Concorde NEO · developer gallery 2",
+      "caption": "Concorde NEO · developer gallery 2",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1440,
+      "height": 945,
+      "bytes": 303308,
+      "sha256": "54c7f16da4cce4fc7258777c5f22cacac866c911d663834636f94b5fdd7a5ea2"
+    },
+    {
+      "id": "developer-gallery-3",
+      "src": "/images/projects/concorde-neo/developer-gallery-3.webp",
+      "sourceUrl": "https://assets.concorde.in/projects/gallery/neo/gallery-03.webp",
+      "sourcePageUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+      "alt": "Concorde NEO · developer gallery 3",
+      "caption": "Concorde NEO · developer gallery 3",
+      "kind": "exterior",
+      "credit": "Developer-published project material",
+      "representation": "Project marketing visual / artist impression; not a construction-status photograph.",
+      "usage": "project-content",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "checkedAt": "2026-10-28",
+      "width": 1440,
+      "height": 945,
+      "bytes": 356278,
+      "sha256": "e717403fa59f3cd80d99ccfd3c72283f65c81e91e118285d74f5ad3ec08b868e"
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0976318,
+    "longitude": 77.6338481
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Concorde%20NEO%2C%20Thanisandra%20Main%20Road%2C%20Markandhaiha%20Nagar%2C%20R.%20K.%20Hegde%20Nagar%2C%20Bellahalli%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK — 1241 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1241,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "2 BHK — 1130 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1130,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "2 BHK — 1199 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1199,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK — 1477 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1477,
+      "areaBasis": "built-up",
+      "startingPriceInr": 14400000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": [
+        "SRC-113"
+      ]
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK — 1539 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1539,
+      "areaBasis": "built-up",
+      "startingPriceInr": 15700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-5",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": [
+        "SRC-113"
+      ]
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1490 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1490,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-114"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 4.02,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 6,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + 18 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 424,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1130–1539",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "4.02 acres with 424 homes",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "2B plus G plus 18 floor arrangement",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "78 percent open space reported by Concorde",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "7000 sq ft signature clubhouse",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging Track",
+      "description": "Jogging Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior Citizen Area",
+      "description": "Senior Citizen Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating Rink",
+      "description": "Skating Rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket Pitch",
+      "description": "Cricket Pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball Court",
+      "description": "Basketball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheater",
+      "description": "Amphitheater within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Zone",
+      "description": "Yoga Zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Seating Area",
+      "description": "Seating Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Barbeque Deck",
+      "description": "Barbeque Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Hobby Area",
+      "description": "Hobby Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Pool Deck",
+      "description": "Pool Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cycling Track",
+      "description": "Cycling Track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Table Tennis",
+      "description": "Table Tennis within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Futsal Court",
+      "description": "Futsal Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet Park",
+      "description": "Pet Park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Indoor Games",
+      "description": "Indoor Games within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Deck",
+      "description": "Yoga Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Multi Purpose Hall",
+      "description": "Multi Purpose Hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-110",
+        "SRC-111"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Kannuru Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kannuru Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 0.85,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kannuru%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Kogilu Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kogilu Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kogilu%20Main%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Bhartiya Mall of Bengaluru",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Bhartiya Mall of Bengaluru is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 2.6,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20Mall%20of%20Bengaluru%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-2",
+      "title": "Developer brochure / plan document",
+      "url": "https://assets.concorde.in/projects/brochures/neo-brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-112"
+    }
+  ],
+  "relatedPropertyIds": [
+    "purva-atmosphere",
+    "nikoo-homes-5"
+  ],
+  "content": {
+    "overviewTitle": "What defines Concorde NEO",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Thanisandra Main Road, Markandhaiha Nagar, R. K. Hegde Nagar, Bellahalli, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Concorde NEO"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Concorde NEO located?",
+      "answer": "Thanisandra Main Road, Markandhaiha Nagar, R. K. Hegde Nagar, Bellahalli, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 1130–1539 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.35 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: October 2029. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Kids Play Area, Jogging Track, Senior Citizen Area, Kids Pool, Outdoor Gym. 70+ developer-marketed amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "4.02 acres with 424 homes 2B plus G plus 18 floor arrangement 78 percent open space reported by Concorde. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Concorde NEO",
+      "url": "https://www.concorde.in/residential-projects/concorde-neo",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde NEO",
+      "url": "https://neo.concorde.in/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde NEO",
+      "url": "https://assets.concorde.in/projects/brochures/neo-brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Concorde NEO",
+      "url": "https://www.homznspace.com/concorde-neo-thanisandra-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/concorde-neo",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Concorde NEO"
+  ],
+  "projectScale": {
+    "landAreaAcres": 4.02,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 6,
+    "floorArrangement": "2 basements + ground + 18 upper floors",
+    "totalHomesOrPlots": 424,
+    "sourceIds": [
+      "SRC-110",
+      "SRC-111",
+      "SRC-112",
+      "SRC-113"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.35 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 13500000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 11700000,
+      "highestConfigurationStartInr": 15700000,
+      "displayText": "₹1.17 Cr–₹1.57 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Developer project starting reference",
+        "areaSqFt": null,
+        "startingPriceInr": 13500000,
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-neo",
+        "sourceId": "SRC-110",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK+2T",
+        "areaSqFt": 1107,
+        "areaMaxSqFt": 1241,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 11700000,
+        "upperQuotedPriceInr": 11700000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-neo-thanisandra-bangalore/",
+        "sourceId": "SRC-113",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK+2T",
+        "areaSqFt": 1477,
+        "areaMaxSqFt": 1490,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 14400000,
+        "upperQuotedPriceInr": 14400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-neo-thanisandra-bangalore/",
+        "sourceId": "SRC-113",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK+3T",
+        "areaSqFt": 1539,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 15700000,
+        "upperQuotedPriceInr": 15700000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/concorde-neo-thanisandra-bangalore/",
+        "sourceId": "SRC-113",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 70,
+    "countType": "advertised-lower-bound",
+    "label": "70+ developer-marketed amenities",
+    "namedAmenitiesCount": 24,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "70+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Concorde%20NEO%2C%20Thanisandra%20Main%20Road%2C%20Markandhaiha%20Nagar%2C%20R.%20K.%20Hegde%20Nagar%2C%20Bellahalli%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "Concorde NEO, Thanisandra Main Road, Markandhaiha Nagar, R. K. Hegde Nagar, Bellahalli, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.024293452116!2d77.6338277!3d13.097646899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1962fc00043b%3A0x4d612a6b52e57e47!2sConcorde%20Neo%20-%20Apartments%20in%20Thanisandra!5e0!3m2!1sen!2sin!4v1784729347221!5m2!1sen!2sin",
+        "sourceUrl": "https://www.concorde.in/residential-projects/concorde-neo"
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.02453173276!2d77.6338481!3d13.0976318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1962fc00043b%3A0x4d612a6b52e57e47!2sConcorde%20Neo%20-%20Apartments%20in%20Thanisandra!5e0!3m2!1sen!2sin!4v1730211348745!5m2!1sen!2sin",
+        "sourceUrl": "https://neo.concorde.in/"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-110",
+    "SRC-111",
+    "SRC-112",
+    "SRC-113",
+    "SRC-114"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer 1.35 crore headline supersedes CP 1.17 crore. Developer October 2029 possession supersedes CP December 2028.",
+      "Developer configuration sizes and older CP 1,107 sq ft minimum are not the same plan set."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Concorde NEO — project gallery 1",
+        "caption": "Concorde NEO · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-neo_1766837430178-571669495.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Concorde NEO — project gallery 2",
+        "caption": "Concorde NEO · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-neo_1766837433256-849530475.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Concorde NEO — project gallery 3",
+        "caption": "Concorde NEO · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-neo_1766837435601-667326556.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Concorde NEO — project gallery 4",
+        "caption": "Concorde NEO · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/concorde-neo_1766837438875-929187729.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/concorde-neo",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-building-hero",
+    "developer-gallery-1",
+    "developer-gallery-2",
+    "developer-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Concorde NEO",
+    "summary": "Concorde NEO is a two- and three-bedroom apartment community on Thanisandra Main Road at Bellahalli. Concorde describes 424 homes across 4.02 acres, with a sky-level clubhouse as a central feature. Open spaces, shared recreation and the elevated clubhouse give the project a recognisable community and leisure proposition.",
+    "highlights": [
+      "4.02 acres with 424 homes",
+      "2B plus G plus 18 floor arrangement",
+      "78 percent open space reported by Concorde",
+      "7000 sq ft signature clubhouse"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 4.02,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 6,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + 18 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 424,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1130–1539",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.35 Cr* Onward",
+    "possessionDisplay": "October 2029",
+    "sourceIds": [
+      "SRC-110",
+      "SRC-111",
+      "SRC-112",
+      "SRC-113",
+      "SRC-114"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

@@ -1,0 +1,988 @@
+Aaramv Website Content and Image Master
+Complete content and visual source for the existing website
+Prepared for Aaramv Realty and the Codex coding agent. Research reviewed 28 October 2026. Version 1 of this consolidated handoff.
+Use this document to update the existing website across its main pages, all 27 project detail records and all 17 locality guides. Preserve the current identity and component family. The copy below makes buyer-led recommendations and support through move-in visible while keeping factual project content tied to its source and phase.
+How to use this master
+Attach this document and Aaramv_Codex_Implementation_Prompt.docx to Codex while the actual website repository is open.
+Use the exact customer copy fields for the website. Route IDs, source notes, publication checks, image archive paths and instructions are implementation metadata and must not be printed as marketing text.
+The latest project Overviews in this document supersede the earlier generic project introductions. The latest main-page copy supersedes copy shown inside older layout boards.
+Only AR HERO and AR SUPPORT are production photograph assets. The remaining images are design references. Recreate the difference section as HTML and SVG; do not flatten a section into an image.
+Keep unconfirmed prices, availability, people, business contacts and legal details out of promotional claims. Implement the remaining authorised content changes without stopping the whole task for a missing field.
+Document map
+Part | Contents
+1 | Shared voice and design boundaries
+2 | Main page copy and shared interface text
+3 | Project overview records for all 27 projects
+4 | Locality records for all 17 areas
+5 | Registration references and source controls
+6 | Embedded production images and approved section references
+7 | Earlier page layout references
+8 | Source register and extraction manifest
+
+
+Part 1 Shared voice and design boundaries
+Positioning: Buyer-first property guidance in Bengaluru.
+Company description: Aaramv Realty is a Bengaluru real estate channel partner. We understand your requirements, research suitable homes and help you compare the details, with support from the first search through move-in.
+Owner supplied service promise: Buyer needs guide the research and shortlist. Aaramv continues coordination after EOI and booking through possession and move-in.
+Brand name handling: The current site uses Aaramv Realty while the logo reads AARAMV REALITY. Preserve the actual logo file. Confirm the approved trading and legal names before changing legal identity or creating a new logo.
+Preserve the present visual system
+Retain the current navigation, fonts, rounded header and cards, image-led hero, pill search, blue actions, restrained lime accents, mint surfaces and lavender enquiry areas. Improve copy, image relevance, fact labels, alignment and mobile stacking around the existing components. Use current CSS tokens before approximate reference colours.
+Role | Reference starting value
+Ivory | #F8F5EF
+Navy | #07354B
+Teal | #087E70
+Mint | #E7F3EB
+Blue action | #0867D9
+Fonts | Use existing site font files and italic serif treatment
+
+Source and publication rules
+Physical highlights are developer-published descriptions and plans, not independent completion inspection. Registration references are source leads unless matched to an approved current certificate. Access date is not the date a price was confirmed. Customer-facing copies use stable features; held fields require evidence before publication.
+Use SOURCE SUPPORTED for a sourced descriptive claim, OWNER CONFIRMATION for business information, CONDITIONAL for behaviour-dependent text and HOLD for conflicting or incomplete facts. These status words belong in the implementation record only. A newer approved primary source in the repository can supersede an older research note; log the source and decision.
+
+Part 2 Main page content
+Navigation and global actions
+Desktop navigation: Home / Properties / Localities / About us / Contact
+Header primary action: Build my shortlist
+Saved utility accessible name: Saved homes followed by the actual count
+Primary brief action: Build my shortlist
+Catalogue action: Browse homes
+Project action: Ask about this project
+Document action: Request current cost sheet
+Visit action: Request a site visit
+Keep route paths and existing modal handlers. A contact request must not be presented as a confirmed appointment.
+Homepage
+Route: /
+Hero eyebrow: Bengaluru real estate channel partner
+Hero heading: Your next home should fit your life.
+Hero body: Share your budget, everyday routes and must-haves. We research suitable options, explain the trade-offs and support you through move-in.
+Primary action: Build my shortlist
+Secondary action: Browse homes
+Search labels: Locality or project / Home type / Budget
+Search defaults: Any locality or project / Any home type / Any budget
+Search submit: Search homes
+Hero image: AR HERO
+Image caption: Illustrative advisory scene.
+Recommended order: hero, Aaramv difference, main home selection, locality selection, one buying journey, developer catalogue strip or authentic proof, closing enquiry, footer. Remove duplicate early-stage process copy rather than adding another long section.
+
+Aaramv difference exact copy
+Eyebrow: THE AARAMV DIFFERENCE
+Headline first phrase: We start with your needs.
+Headline italic phrase: We stay till you move in.
+Left heading: A shortlist built around you.
+Left body: Your budget, daily routes and must-haves guide our research and recommendations.
+Paper labels: Your needs / Our research / Your shortlist
+Right heading: Booking is a milestone. Not our finish line.
+Right body: From EOI and booking to possession and move-in, we help you track the next step and coordinate with the project team.
+Journey labels: Search / Booking / Move-in
+Booking annotation: Still with you
+Action: Tell us what you need
+References AR DIFFERENCE DESKTOP and AR DIFFERENCE MOBILE specify the visual direction. Written copy above overrides the shorter copy inside those images. Preserve the documents, the mint support shape and the journey line continuing beyond Booking. Keep this one short standalone section; do not add a competitor table or generic Why us cards.
+Homepage remaining sections
+Property heading: Homes to compare. Reasons to look closer.
+Property body: Start with the layouts, locations and price information in our catalogue. Tell us what matters to you for a more focused shortlist.
+Property action: View all properties
+Home type tabs: All homes / Apartments / Villas / Plots
+Locality heading: Choose the area around your everyday.
+Locality body: Compare the places in our catalogue, then check the routes and local essentials you will use most.
+Locality action: Explore neighbourhoods
+Developer heading: Browse projects by developer.
+Developer body: Explore the developers represented in our current catalogue.
+Closing heading: Tell us what your next home needs to do.
+Closing body: Your budget, preferred area and must-haves give us a useful place to start.
+Closing action: Build my shortlist
+Derive catalogue counts from current published records. Do not claim a developer relationship from its logo, invent testimonials or retain unsupported counters. Keep verified proof already supported by permission and evidence.
+
+Buying journey
+Heading: The booking is done. Our support continues.
+Body: From project updates to possession-related next steps, we help you coordinate what comes next, through move-in.
+Action: Talk about your next step
+Image: AR SUPPORT
+Image caption: Illustrative walkthrough scene.
+Your brief and shortlist
+We start with your budget, preferred areas, daily routes and must-haves. We research suitable options and explain why each home is worth considering.
+You get: A shortlist with reasons, not just project names.
+Visits and comparison
+See the shortlisted options with the questions that matter to you. We help arrange access and bring layouts, current cost sheets and project details into the comparison.
+You get: A clearer view of fit and trade-offs.
+EOI and booking
+Before you proceed, ask for the relevant cost sheet, payment schedule and written EOI or booking terms. We help coordinate your questions with the project team.
+You get: The next steps and documents to review.
+Possession and move in
+After booking, we stay in touch and help coordinate project updates, document requests and possession-related next steps through move-in.
+You get: Continued coordination after the booking milestone.
+Implementation scope: retain the existing tabbed journey component and keep all four stages discoverable. Do not imply control of construction, legal clearance, finance approval or technical inspection.
+
+Properties catalogue
+Route: /properties
+Heading: Compare homes around your priorities.
+Body: Filter the catalogue by area, home type and budget. Review each option, then ask for the current details that matter to your shortlist.
+Search placeholder: Search by project, locality or zone
+Filter title: Find your fit
+Reset action: Reset filters
+Filter labels: Locality / Home type / Budget / Bedrooms / Project status / Saved homes only
+Sort label: Sort by
+Result count: Use the actual number followed by matching catalogue entries
+No results: No matching homes in our current catalogue. Try a nearby area or share your brief with us.
+No results actions: Reset filters / Build my shortlist
+Catalogue card fields
+Use the same order on Home, Properties and related-project cards: correctly labelled project image; project and developer; short locality; phase or block when relevant; transaction type; configuration and named area measure; price scope; primary details action. Keep a longer registered address on the detail page.
+Card details action: View project details
+Card enquiry action: Ask about this project
+Unknown area: Area details awaiting confirmation
+Unknown price action: Request current cost sheet
+Unknown availability action: Ask about current availability
+Unavailable possession information: Possession date not confirmed
+Keep total project homes separate from available inventory. Budget and bedroom filters must match the same offered layout. Never pair a project-wide configuration range with a single resale price as though all configurations are offered at that price.
+Project detail page template
+Route pattern: /properties/[existing project slug]
+Tabs: Overview / Layouts / Amenities / Location / FAQs
+Overview section heading: About this project
+Highlight heading: Project highlights
+Layout heading: Layouts and area details
+Amenity heading: Amenities and their status
+Location heading: Location and everyday routes
+FAQ heading: Questions before you book
+Enquiry heading: Ask about this project
+Enquiry body: Tell us the layout you are considering or the question you want answered.
+Related heading: Other homes to compare
+Primary action: Request current cost sheet
+Secondary action: Request a site visit
+Populate the Overview with the project record in Part 3: one summary plus three or four highlights. Use a compact fact strip only for source-supported values. Put source and date beside the relevant facts. Keep the selected phase, layout or unit identity aligned across gallery, facts, prices and enquiry context.
+Aaramv perspective
+Use this optional short note only when its specific content is supported: Worth comparing if / Look closely at / Ask us for. Do not automatically rate the project or create a best-for category from demographics. A recommendation should be tied to the buyer's expressed brief.
+Property FAQs exact copy
+Which homes are currently available? Availability depends on the selected phase, layout and transaction type. Ask us for the current options for the home you are considering.
+Is the displayed price the complete purchase cost? The displayed amount may be a base price or asking price. Request the current cost sheet for the selected home, including applicable taxes, registration and other charges.
+Which area measurement is shown? Read the area label beside the figure. Carpet, built-up, super built-up and plot areas are different measures; compare the same basis across homes.
+Does the project status apply to every home? Different phases, blocks or homes can have different completion and possession information. Review the documents relevant to the option you select.
+Can I visit before booking? You can request a site visit. Access and timing need to be agreed separately with the project or seller.
+What should I review before EOI or booking? Ask for the relevant cost sheet, payment schedule, written EOI or booking terms and the documents for the selected home. Review cancellation and refund conditions before paying.
+Does Aaramv guarantee legal clearance or loan approval? No. Aaramv helps coordinate information and questions. Legal review, lending decisions and transaction commitments remain with the relevant professionals and parties.
+What happens after booking? Aaramv continues to help coordinate project updates, document requests and possession-related next steps through move-in, within the support scope agreed for your transaction.
+
+Locality directory
+Route: /localities
+Heading: Find the neighbourhood that fits your day.
+Body: Start with the places Aaramv lists. Compare home types and projects, then check your routes, everyday essentials and the surroundings on a visit.
+Action: Explore neighbourhoods
+List heading: Where would you like to live?
+Search placeholder: Search a neighbourhood or project
+Home type default: All home types
+Region controls: All neighbourhoods / North Bengaluru / Airport Corridor
+Card action: Explore area
+Count note: Counts cover Aaramv's published catalogue. They do not represent the whole locality market.
+No results: No matching areas in our current catalogue. Reset the filters or tell us where you would like to look.
+Use the 17 records in Part 4. Region and home-type labels must reflect the real inventory. Catalogue entry counts are dynamic; Jasper and its parent El Dorado are related records and not automatically separate independent townships.
+Locality detail page template
+Route pattern: /localities/[existing locality slug]
+Intro: Use the locality-specific introduction from Part 4
+Fact labels: Aaramv listed entries / Home types / Area context
+Section headings: Your daily routes / The homes to compare / What to look at on a visit / Questions about this area
+Primary action: Help me compare homes here
+Related project action: View project details
+Visit copy: Check the approach road, surrounding uses, utilities and ongoing construction from the actual project entrance. Visit at a time that reflects your normal routine. Planned infrastructure and operating infrastructure must be shown separately.
+Which projects does Aaramv list here? Show the current linked records for this area, generated from the catalogue rather than hard-coded counts.
+How should I compare locations? Start with the destinations you use most often. Check the route from each actual project entrance alongside the layout, complete cost and possession information.
+Can I arrange a visit? Request a visit to the homes you want to consider. The project or seller needs to confirm access and timing separately.
+
+About page
+Route: /about
+Heading: Before we recommend a home, we understand the buyer.
+Introduction: Aaramv Realty is a Bengaluru real estate channel partner. We start with your budget, daily routes and must-haves, research suitable homes and explain why each option belongs on your shortlist. Our support continues after EOI and booking, through possession and move-in.
+Approach heading: Your priorities shape the recommendation.
+Approach body: A useful recommendation begins with your brief. We bring together the location, layout, cost and project information relevant to your decision, explain the trade-offs and help you take the next step with clarity.
+Team heading: Know who is guiding your search.
+Team body: Meet the people responsible for your shortlist, visits and continued coordination.
+Action: Tell us what you need
+Your brief leads: Recommendations begin with what matters to you.
+Research has a reason: We compare the layout, location, cost and project details relevant to your decision.
+Support continues: We help coordinate the questions and next steps after booking.
+OWNER CONFIRMATION: publish only actual names, roles, portraits, legal or trading identity, applicable agent credentials, contact details, service scope and commercial disclosure. Omit unfilled team cards or unsupported metrics. Do not replace the interior hero with generated people presented as the Aaramv team. Use a real team-at-work photo when supplied.
+
+Contact page and shared enquiry form
+Route: /contact
+Heading: Let's start with what you need.
+Body: Have a project in mind or still working out your options? Share your budget, preferred areas and what matters most. We'll use that brief to plan the next conversation.
+Form heading: A few details. A focused next step.
+Name label: Your name
+Name placeholder: Full name
+Phone label: Mobile number
+Phone placeholder: Include your country code
+Email label: Email optional
+Email placeholder: Your email address
+Home type label: I am looking for
+Home type options: Help me decide / Apartment / Villa / Plot
+Budget label: My budget
+Budget default: Still exploring
+Preferred area label: Preferred area optional
+Message label: What matters most?
+Message placeholder: For example, your work location, extra room, budget limit or intended move.
+Primary submit: Request a callback
+Secondary submit: Request a site visit
+Consent: I agree to be contacted about this property enquiry. Read the Privacy Policy.
+Visit note: Your site visit is confirmed only after access and timing are agreed.
+Use the existing budget schema and currency logic. Match public options to catalogue filters; do not silently narrow a buyer's budget or invent a new bracket system. Collect only information needed for the enquiry. Keep email, preferred area and message optional unless the real workflow requires otherwise.
+Direct contact fields
+Visible label | Implementation requirement
+Call our team | Use a verified staffed business phone and tel link
+Email us | Use a verified business email and mailto link
+Visit by appointment | Use actual office address and appointment process
+Business hours | Use the actual operating days and times
+
+Omit unconfirmed contact rows. Do not publish dummy numbers, addresses, maps or response-time promises. If no reachable contact route exists, record the blocker and preserve the truthful preview state.
+Form states
+Preview state now: This form is a preview. It checks your details but does not send an enquiry.
+Sending state only for a connected service: Sending your request...
+Success only after confirmed delivery: Your request has been received. Our team will contact you using the details provided.
+Failure state: Your request could not be sent. Please try again or use our published phone or email.
+Name error: Please enter your name.
+Phone error: Please enter a valid mobile number with country code.
+Email error: Please check the email address or leave this field blank.
+Consent error: Please agree to be contacted about this enquiry before continuing.
+Preserve entered values on validation or delivery failure. Retain country-code support if the existing form supports international numbers. Do not display success merely because client validation passed. Do not send real test leads to production without explicit authorisation.
+Contact FAQs
+Does this confirm a site visit? No. Access and timing must be agreed separately.
+Can I enquire while I am still exploring? Yes. Share the budget, areas or priorities you already know, and use Help me decide for your home type.
+What happens to my request? In preview mode no enquiry is sent or stored. After a live enquiry service is connected, the page must explain the actual contact and data-handling process.
+Are there any service fees? Ask for a written explanation of any applicable service fee and developer or seller commission for your transaction before you proceed.
+
+Privacy page content
+Route /privacy. CONDITIONAL COPY. The current preview version below can describe the observed behaviour. Do not replace an existing approved live policy with preview wording if the actual backend has since changed. Do not invent operator contacts, processors or retention periods.
+Heading: Privacy Policy
+Introduction: How this website handles enquiry details and saved homes.
+Information entered in the preview: The current enquiry form is a preview. Details entered in the form are checked in the page but are not sent to Aaramv or stored as an enquiry.
+Saved homes: Saved homes are kept in your browser on the same device. Remove a home by selecting its heart icon again. Clearing browser storage may remove your saved list.
+Third party content: Some project images and maps may load from third-party services. Those services may receive technical information needed to display their content.
+Before a live enquiry service is enabled: The policy must identify the actual operator, information collected, purpose, contact channels, recipients or processors, retention approach, deletion process and a working privacy contact.
+Policy date: Use the actual date this policy is approved and made effective. Do not label the research date as an effective legal date.
+Implementation metadata: verify local storage, cookies, analytics, forms and external embeds against the repository and runtime. The live-state policy is held until those facts and owner details exist. Do not publish a placeholder policy claiming practices that are not implemented.
+Terms page content
+Route: /terms
+Heading: Terms and Conditions
+Introduction: The role of this website and the information to confirm before a property transaction.
+Using the website: Aaramv Realty provides property discovery, shortlist support and coordination for buyers in Bengaluru. Website content helps you compare options and start a conversation.
+Property information: Project details, configurations, availability, prices and timelines may change. Review the current documents for the phase and home you are considering.
+Our role: Aaramv acts as a real estate channel partner and provides advisory assistance. Construction, allotment, purchase terms, warranties and handover obligations remain governed by the relevant developer or seller documents.
+Enquiries and visits: An enquiry is not a booking, allotment or confirmed appointment. Site access and timing must be agreed separately. In preview mode, the form does not send an enquiry.
+Fees and commercial relationships: Before proceeding, ask for a written explanation of applicable service fees and developer or seller commission for your transaction.
+Buyer review: Review the selected home's cost sheet, plans, registration details, payment schedule, cancellation terms and handover conditions with the relevant qualified professionals.
+Images and plans: Photographs, artist impressions, show-apartment images and plans must be identified accurately. Furniture or fit-outs shown in an illustrative image are not automatically included in an offer.
+OWNER CONFIRMATION: approve the actual operator identity, commercial terms, applicable contacts and effective date. Keep this legal implementation gate distinct from the approved general marketing copy.
+Footer and utility copy
+Footer description: Buyer-first property guidance in Bengaluru. A researched shortlist and support through move-in.
+Footer column one: Find your place
+Column one links: Apartments / Villas / Plots / Ready to move
+Footer column two: Explore Aaramv
+Column two links: Our story / Neighbourhoods / The buying journey / Get in touch
+Footer contact heading: Let's talk about your next home
+Footer action: Tell us what you need
+Footer location: Bengaluru Karnataka
+Footer role: Real estate channel partner
+Copyright: Use the actual approved trading name and current year
+Footer legal links: Privacy Policy / Terms and Conditions
+Saved homes heading: Your saved homes
+Saved empty body: Save homes with the heart icon to compare them later.
+Saved empty action: Browse homes
+Saved storage note: Saved on this browser and device.
+404 heading: We could not find that page.
+404 body: Explore our current homes or return to the homepage.
+404 actions: Browse homes / Go to homepage
+Coming soon heading: This page is being prepared.
+Coming soon body: You can explore our current catalogue while we finish this page.
+Coming soon action: Browse homes
+Keep 404 and Coming soon out of the normal footer and main navigation. Retain a genuine not-found response for unknown routes. Keep only verified working social links. Do not add a Coming soon page unless the repository already needs it.
+
+SEO copy and structured data
+Page | Title
+Home | Bengaluru Homes and Buyer First Guidance | Aaramv Realty
+Properties | Compare Bengaluru Properties | Aaramv Realty
+Localities | Explore Bengaluru Neighbourhoods | Aaramv Realty
+About | Buyer First Property Guidance | About Aaramv Realty
+Contact | Share Your Home Buying Brief | Aaramv Realty
+Project pattern | Project name in Locality Layouts and Details | Aaramv Realty
+Locality pattern | Homes in Locality Bengaluru | Aaramv Realty
+
+Home description: Compare Bengaluru homes around your budget, everyday routes and priorities. Get a researched shortlist and Aaramv support from first search through move-in.
+Properties description: Explore Aaramv's Bengaluru catalogue by locality, home type and budget. Review layouts and project details, then ask about current availability and complete costs.
+Localities description: Compare the places in Aaramv's catalogue by listed projects and home types, with location context and everyday routes to check.
+About description: Learn how Aaramv understands your needs, researches suitable homes and helps coordinate your search through move-in in Bengaluru.
+Contact description: Share your preferred areas, budget and priorities with Aaramv Realty. Ask about a project or request a separately confirmed site visit.
+Project description: Explore [project name] in [locality]. Review its home formats, project highlights and layout details, then ask for current availability and complete costs. Replace brackets with known record values; do not publish literal placeholders.
+Locality description: Explore Aaramv's listed homes in [locality], Bengaluru. Compare the home formats and projects, with clear location context and routes to check. Replace brackets with the real locality name.
+Use actual canonical routes, one semantic H1 per page and useful alt text. Structured data must reflect visible source-supported facts. Never add aggregate ratings, review counts, authorisations, offers, coordinates, phone numbers or price availability without evidence. If an existing schema is more current and supported, retain it.
+
+Part 3 Project overview records
+Each record supplies the customer-facing Overview and highlights. Route, source, registration and publication-check paragraphs are for Codex and the content editor. Put only supported public facts into the live component. Source date for this collection is 28 October 2026; it does not establish current stock or price.
+Project 01 Prestige Finsbury Park
+Route: /properties/prestige-finsbury-park
+Overview copy: Prestige Finsbury Park is an apartment development in Gummanahalli, within the Bagalur-Aerospace Park corridor. Its Hyde and Regent components should be presented separately so buyers can understand the home formats and layouts relevant to each. The distinction between the wider project offering and the specific developer-sale or resale home available is an important part of choosing here.
+Hyde and Regent components
+One, two and three bedroom formats across the project record
+Gummanahalli location in the Bagalur corridor
+Publication check: Provisional source coverage. Confirm Hyde and Regent brochures and certificates. Keep resale asking prices attached to the exact offered home. Do not import a project-wide starting area or price from a single resale entry.
+Sources: S001
+Project 02 Earthsong by Manyata
+Route: /properties/earthsong-by-manyata
+Overview copy: Earthsong by Manyata is a plotted community near IVC Road, with a development approach centred on landscape and resource conservation. Manyata describes a master development of approximately 120 acres, with residential plot options and infrastructure measures including rainwater harvesting, recharge wells and wastewater treatment. Its appeal lies in combining an individually planned home with a larger community setting.
+Approximately 120 acres marketed by Manyata
+Residential plots in a phased development
+Landscape and tree planting form a central part of the plan
+Developer described water conservation infrastructure
+Publication check: Resolve the 120 versus 121 acre scope. Match individual plot, phase, services, completion information and registration. Phase 5 references found in secondary records are not cleared for automatic publication.
+Sources: S002, S003, S004
+
+Project 03 Brigade El Dorado
+Route: /properties/brigade-el-dorado
+Overview copy: Brigade El Dorado is a multi-block apartment development in North Bengaluru's Aerospace Park area. The developer markets a 50-acre township with an extensive shared recreation offering, including sports facilities, landscaped areas, pools and community spaces. Its different blocks offer different home formats, making the selected block an essential part of the comparison alongside the overall township.
+50 acre township setting
+Multiple residential blocks with different home formats
+80 plus amenities described by Brigade
+Sports and shared recreation within the township proposition
+Publication check: Select a registered block before using size, availability or possession fields. The corporate page mixes a Beryl heading and sold-out label with township-wide content. Do not apply one block status to every block.
+Sources: S005
+Project 04 Purva Atmosphere
+Route: /properties/purva-atmosphere
+Aliases for matching: Puravankara Atmosphere / Purva Atmosphere
+Overview copy: Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road. Its most distinctive feature is the elevated clubhouse experience on the 34th floor, supported by landscaped outdoor areas and smart-home features described by Puravankara. The project combines apartment living with recreation at both ground and elevated levels, giving buyers a specific proposition beyond a standard amenities list.
+Clubhouse on the 34th floor
+Developer described smart home features
+Miyawaki inspired landscape component
+Thanisandra Main Road location
+Publication check: Official campaigns use approximately 12 and approximately 13 acres. Hold a prominent land-area statistic until the approved scope is reconciled. Distinguish original project formats from currently offered layouts and prices.
+Sources: S006, S007, S008
+
+Project 05 Sattva Park Cubix
+Route: /properties/sattva-park-cubix
+Overview copy: Sattva Park Cubix is an apartment community in Devanahalli, with a planning concept built around central green spaces, recreation and two clubhouses. The original project page describes an 18-acre development with extensive indoor and outdoor facilities. Park Cubix I and Park Cubix II should be shown as distinct offerings wherever their configurations, construction stage or handover information differ.
+18 acre development described on the original project page
+Two clubhouses with recreation and fitness functions
+Central landscaped areas
+Phase specific apartment choices
+Publication check: Do not assign original project totals, plans or readiness to Park Cubix II automatically. Obtain full phase-specific registration certificates; the short PR/KN reference printed on the original page is not cleared as a full registration identifier.
+Sources: S009, S010, S011
+Project 06 Assetz Soul & Soil
+Route: /properties/assetz-soul-soil
+Aliases for matching: Assetz Soul and Soil
+Overview copy: Assetz Soul & Soil is a seven-acre residential community off Hennur-Bagalur Road. Its offering includes distinct row-house, villament and apartment formats. The documented row houses combine living spaces across multiple levels with backyard and terrace areas, while shared gardens and recreation facilities provide a community setting around the homes.
+Seven acre residential community
+Separate row house villament and apartment formats
+Three and four bedroom row houses
+Backyard and terrace spaces in documented row house plans
+Publication check: Keep row-house and villament products, plans, prices and registrations separate. For documented row houses, 3 BHK SBUA is 2182 sq ft and developer-labelled RERA carpet is 1801 sq ft; 4 BHK SBUA is 2460 sq ft and RERA carpet is 2105 sq ft. Verify the offered plan before rendering those figures.
+Sources: S012, S013
+
+Project 07 Mittal Palms
+Route: /properties/mittal-palms
+Overview copy: Mittal Palms offers two- and three-bedroom apartments in the Jakkur-Shivanahalli area. The project's published brochure presents a residential setting with landscaped grounds and a lake-oriented outlook. Its location and apartment formats give buyers a clear starting point, while the condition, outlook and documentation of the particular home should determine the final comparison.
+Two and three bedroom apartment formats
+Jakkur Shivanahalli location
+Landscaped residential setting
+Lake oriented positioning with unit specific outlooks
+Publication check: Public portals disagree on acreage and unit totals. Hold those statistics. Historical government material names Trishul Developers against the registration, while marketing uses Mittal. Confirm the legal promoter, current documents and any lake-view claim for the unit.
+Sources: S014, S015
+Project 08 Jasper at Brigade El Dorado
+Route: /properties/jasper-at-brigade-el-dorado
+Overview copy: Jasper is a residential component of Brigade El Dorado in the Aerospace Park area. Its documented two- and three-bedroom plans cover a range of sizes, allowing buyers to compare different space requirements within the same township setting. Jasper's home specifications and El Dorado's shared facilities should remain clearly identified throughout the page.
+Two and three bedroom homes
+740 to 1561 sq ft super built up range
+466 to 996 sq ft carpet range
+Part of the wider Brigade El Dorado township
+Publication check: Confirm current Jasper availability and possession documents. Do not publish the undated 40.50 lakh microsite reference as a current quotation. Parent township and Jasper records must remain related without duplicating an offered unit.
+Sources: S016
+
+Project 09 Brigade Oasis
+Route: /properties/brigade-oasis
+Overview copy: Brigade Oasis is a phased plotted development in the Devanahalli corridor. Brigade describes a 70-acre master development with residential plots, landscaped recreation areas and shared community facilities. The corporate page emphasises larger garden plots, making the selected plot dimensions, phase and development services useful comparison points alongside the overall project setting.
+70 acre master development
+Residential plots across multiple phases
+20 plus amenities marketed by Brigade
+Larger garden plots highlighted in corporate material
+Publication check: The corporate page combines a sold-out label with launch and price copy. Reconfirm actual stock, phase and developer-sale or resale scope. Do not apply Phase 3 registration or a 2550 sq ft garden-plot minimum to all earlier inventory.
+Sources: S017, S018
+Project 10 Century Seasons
+Route: /properties/century-seasons
+Overview copy: Century Seasons is a 25-acre plotted development in Devanahalli, planned around themed landscape areas and shared recreation. Century describes close to half the development as open space, with more than 40 amenities distributed across 21 green pockets. Its proposition combines the flexibility of an individually built home with a planned community landscape.
+25 acre plotted development
+Close to 50 percent open space marketed by Century
+40 plus amenities across 21 green pockets
+Villa and larger plot formats described by the developer
+Publication check: The official configuration table marks displayed stock sold out. Distinguish an information page from a verified active developer-sale or resale offer. Map the two published registrations to the relevant phase before displaying one.
+Sources: S019
+
+Project 11 Disha Harmony Gardens
+Route: /properties/disha-harmony-gardens
+Overview copy: Disha Harmony Gardens is a three-tower apartment community in the Hennur corridor, offering two- and three-bedroom homes. The developer describes 247 homes across 3.25 acres, with a substantial portion of the site left open and recreation centred on Club Harmony. Its planning emphasises shared outdoor areas, family amenities and a high proportion of corner apartments.
+3.25 acres with 247 homes and three towers
+B plus G plus 14 floor arrangement
+76 percent land as open space reported by the developer
+70 percent corner apartments reported by the developer
+Publication check: Current developer sample SBUA values are 1250, 1526 and 1745 sq ft. A separate combined measurement is labelled RERA plus Balcony; never relabel that combined value as pure RERA carpet area. Confirm each plan and price.
+Sources: S020
+Project 12 Sumadhura Epitome I
+Route: /properties/sumadhura-epitome-i
+Aliases for matching: Sumadhura Epitome
+Overview copy: Sumadhura Epitome is a three-tower apartment community in Rachenahalli, shaped by Mediterranean-inspired architecture and all-corner home planning. The developer describes 262 residences across 3.75 acres, with landscaped outdoor areas and a clubhouse anchoring the recreation offering. Arched architectural details, courtyard-inspired spaces and homes described as having no shared walls give the project a recognisable character.
+3.75 acres with 262 residences and three towers
+All corner home planning described by the developer
+No shared walls described by the developer
+19800 sq ft clubhouse and Mediterranean inspired landscape
+Publication check: Verify Epitome I naming against the registration and approved plans. Official title and body use different configuration descriptions. December 2027 is a developer-published indication, not an independently verified possession commitment.
+Sources: S021
+
+Project 13 Concorde Antares
+Route: /properties/concorde-antares
+Overview copy: Concorde Antares is a high-rise apartment development at Chikkabettahalli, marketed within the Vidyaranyapura-Yelahanka area. Concorde describes 592 homes across seven acres, with a large open-space component and a dedicated clubhouse. The project includes apartment and duplex-penthouse formats, bringing a range of home sizes into a landscape-led community setting.
+Seven acres with 592 homes
+G plus 16 floor arrangement
+81 percent open space reported by Concorde
+19000 sq ft clubhouse
+Publication check: Confirm actual stock separately from the project-wide 2, 3 and 4 BHK and duplex-penthouse mix. December 2027 is the developer-published completion indication. Do not carry forward an unfinished limited-stock sentence.
+Sources: S022
+Project 14 Poulomi Florique
+Route: /properties/poulomi-florique
+Overview copy: Poulomi Florique is a three-bedroom apartment development at Kannur, marketed within the Thanisandra corridor. Its central idea is a landscape-rich community with floral zones, vehicle-free podium areas and shared spaces for different generations. The dedicated project website describes 8.66 acres and four residential towers, with different apartment size ranges across the towers.
+8.66 acre development
+85 percent open space reported by the developer
+Four G plus 27 towers described on the dedicated site
+Tower specific super built up ranges from 1585 to 2740 sq ft
+Publication check: Distinguish Alpine and Blossom from coming-soon Cascade and Dewdrop. Parent corporate content includes unrelated project text and a unit-count conflict. Hold unit totals and conflicting specifications; use dedicated project plans. IGBC pre-certification must not be renamed final certification.
+Sources: S023, S024, S025, S026
+
+Project 15 SNN Estates Felicity
+Route: /properties/snn-estates-felicity
+Overview copy: SNN Estates Felicity is an apartment community behind the Manyata employment area, offering formats from 1.5 to four bedrooms. The developer describes a 6-acre-and-20-gunta site, with recreation built around its Happiness Club and shared indoor and outdoor facilities. Miyawaki-inspired landscaping, a festive activity lane and varied window and balcony treatments give the project its character.
+Six acres and 20 guntas
+1.5 2 2.5 3 and 4 BHK formats
+50000 sq ft of facilities in the developer description
+Miyawaki inspired landscape and social activity lane
+Publication check: Do not call the entire 50000 sq ft facilities figure enclosed clubhouse area. Window and balcony features need layout matching. Registration below was collected from a secondary index and remains held for a primary certificate.
+Sources: S027, S028
+Project 16 Bhartiya Garden Estate
+Route: /properties/bhartiya-garden-estate
+Aliases for matching: Nikoo Homes 7 / Nikoo7
+Overview copy: Bhartiya Garden Estate brings Nikoo's garden-led community concept to a development marketed near the airport corridor. The offering includes compact homes, study-room formats, larger family apartments and loft options. Gardens, social spaces, a retail proposition and the Black Swan Club form the wider community idea, with flexibility in home formats supporting different household needs.
+Also presented by the developer as Nikoo Homes 7
+Studio through larger family home formats
+Study room and loft options in developer material
+Garden led planning and Black Swan Club
+Publication check: Confirm the actual Navratna Agrahara site address rather than the corporate Bhartiya City address. Do not add villa inventory without approved plans and offered stock. Keep all three registered phases separate and do not claim planned retail is operating.
+Sources: S029, S030
+
+Project 17 Sattva Vasanta Skye
+Route: /properties/sattva-vasanta-skye
+Overview copy: Sattva Vasanta Skye is a 16-acre apartment development organised around three residential blocks and a substantial shared recreation core. The developer's planning emphasises open landscape, separation between blocks and a clubhouse described as spanning an acre. Its broad configuration mix allows different home sizes within the same community concept.
+16 acres with Blocks A B and C
+Studio through four bedroom formats
+Approximately 80 percent open space reported by Sattva
+Clubhouse described as spanning an acre with rooftop pool
+Publication check: Confirm the exact pin and Kannamangala Devanahalli address before publishing it as independently verified. No guaranteed five-minute airport journey. Ready infrastructure does not mean completed homes.
+Sources: S031
+Project 18 Nikoo Homes 6
+Route: /properties/nikoo-homes-6
+Aliases for matching: Nikoo Homes VI / Nikoo6
+Overview copy: Nikoo Homes 6 is a garden-led apartment development at Kogilu, with flexible home formats and shared recreation centred on the Black Swan Club. Developer material includes study-room, loft and larger family-home options, alongside gardens and indoor and outdoor activity spaces. The project combines different household layouts within a common landscape and community setting.
+Kogilu location
+Study room loft and larger family home formats
+Black Swan Club
+Gardens and shared indoor and outdoor recreation
+Publication check: Brochures, unit-plan documents and campaigns differ in configuration range. Historical plans are not current availability. Keep two phases separate and obtain a current layout-specific quotation.
+Sources: S032, S033, S034
+
+Project 19 Nikoo Homes 5
+Route: /properties/nikoo-homes-5
+Aliases for matching: Nikoo Homes V / Nikoo5
+Overview copy: Nikoo Homes 5 is an apartment development within the Bhartiya City setting, built around the developer's Garden Living concept. Landscaped spaces and opportunities for community interaction are central to its positioning. Its relationship with the wider Bhartiya City neighbourhood is an important part of the proposition, alongside the apartment layout and phase relevant to the buyer.
+Bhartiya City setting
+Garden led residential planning
+Spaces intended to encourage community interaction
+Two separately identified registration phases
+Publication check: Use Nikoo V plans and facilities. Never borrow club specifications, sizes or amenities from Nikoo 6, 8 or 9. Progress-gallery dates are evidence of updates, not a promised possession date.
+Sources: S035, S036
+Project 20 Nikoo Homes 8
+Route: /properties/nikoo-homes-8
+Aliases for matching: Bhartiya Garden Enclave / Nikoo8
+Overview copy: Nikoo Homes 8, branded Bhartiya Garden Enclave, is planned around a network of gardens and shared social spaces. The masterplan includes areas for quiet walks, community gardening, sensory experiences and recreation around the Black Swan Club and pool. Documented home formats range from studios to larger family apartments, including options with an additional study.
+Bhartiya Garden Enclave branding
+Community sensory aromatic and woodland landscape areas
+Black Swan Club and pool in the plan
+Studio study room and larger family home formats
+Publication check: Keep this development distinct from the established Bhartiya City site. Existing township facilities are not automatically inside this project or included in ownership. Confirm the exact Bellahalli entrance and phase.
+Sources: S037
+
+Project 21 Nikoo Homes 9
+Route: /properties/nikoo-homes-9
+Aliases for matching: Bhartiya Garden Hill / Nikoo9
+Overview copy: Nikoo Homes 9 is a multi-format residential development marketed for Bagalur, with a masterplan combining gardens, recreation and social spaces. Published formats include studios, apartments with additional study areas, lofts and sky villas. The planned community includes sports areas, a shopping plaza and Black Swan Club spaces, creating a wider neighbourhood proposition alongside individual homes.
+Studio through larger apartment formats
+Loft and sky villa options
+Gardens sports and community spaces in the plan
+Shopping plaza and Black Swan Club components
+Publication check: Confirm Garden Hill marketing name against the exact registered phase. Distinguish planned retail, school access and amenities from operating facilities. Do not infer safe walkability or a commute time from promotional language.
+Sources: S038, S039
+Project 22 DNR Parklink
+Route: /properties/dnr-parklink
+Overview copy: DNR Parklink is an apartment development in the Hennur-Bagalur corridor, with a layout mix that includes a two-bedroom-plus-study option. DNR describes an 8.35-acre community with landscaped shared areas and a substantial recreation programme. The additional-study format and range of three-bedroom plans give buyers specific space options to compare beyond a standard bedroom count.
+8.35 acre development
+Two bedroom plus study option
+70 plus amenities reported by DNR
+25000 sq ft of clubhouse and amenities as a combined description
+Publication check: Published sizes on the developer page do not establish a carpet-area basis. Confirm the measurement type for each plan. Phase 2 registration is secondary-source research and must be held for a primary certificate.
+Sources: S040, S041
+
+Project 23 Concorde NEO
+Route: /properties/concorde-neo
+Overview copy: Concorde NEO is a two- and three-bedroom apartment community on Thanisandra Main Road at Bellahalli. Concorde describes 424 homes across 4.02 acres, with a sky-level clubhouse as a central feature. Open spaces, shared recreation and the elevated clubhouse give the project a recognisable community and leisure proposition.
+4.02 acres with 424 homes
+2B plus G plus 18 floor arrangement
+78 percent open space reported by Concorde
+7000 sq ft signature clubhouse
+Publication check: Official pages present different two-bedroom size ranges. Import approved individual layouts rather than a convenient minimum. October 2029 is a developer-published possession indication and needs matching phase documents.
+Sources: S042, S043
+Project 24 Concorde Sienna
+Route: /properties/concorde-sienna
+Overview copy: Concorde Sienna is a two- and three-bedroom apartment development on Hennur Main Road, with architecture influenced by European design. Concorde describes 260 apartments across three acres, combining a high-rise residential format with a substantial open-space component. Club Evolve, landscaped recreation and privacy-focused planning form the main lifestyle proposition.
+Three acres with 260 apartments
+G plus 28 floor arrangement
+75 percent open space reported by Concorde
+10000 sq ft Club Evolve
+Publication check: New Launch is the current corporate description in the research. Older pages say pre-launch. Complete the truncated floor field and verify each marketed plan area basis.
+Sources: S044, S045
+
+Project 25 Lodha Mirabelle
+Route: /properties/lodha-mirabelle
+Overview copy: Lodha Mirabelle is an apartment development in the Manyata Business Park setting, marketed around an approximately 19-acre residential ecosystem. Its proposition combines larger homes, landscaped outdoor areas and Club Luxuria's fitness and recreation facilities. Developer material presents three-bedroom homes with a study and four-bedroom formats, making the additional living space an important part of its positioning.
+Approximately 19 acre marketed ecosystem
+Manyata Business Park setting
+Three bedroom with study and four bedroom formats
+45000 sq ft fitness and recreation complex at Club Luxuria
+Publication check: Five-bedroom and penthouse records need approved plans and current stock evidence. Ignore background metadata as a quotation. The developer wording by 2028 needs phase-specific confirmation.
+Sources: S046
+Project 26 Laurel & Maple at Brigade Orchards
+Route: /properties/laurel-maple-at-brigade-orchards
+Overview copy: Laurel & Maple is a multigenerational apartment development within Brigade Orchards, combining independent homes with a service-led community proposition operated by Primus. Brigade describes 311 one-, two- and three-bedroom homes across 2.5 acres. Planned dining, housekeeping, concierge and healthcare-related services distinguish the offering from a conventional apartment development.
+2.5 acres with 311 homes
+One two and three bedroom formats
+Primus operated multigenerational living proposition
+749 to 1647 sq ft super built up range
+Publication check: Confirm service eligibility, start dates, scope and recurring charges. Do not imply services are included in purchase price or equivalent to a hospital. Developer carpet range is separately published as 448.54 to 1051.21 sq ft.
+Sources: S047, S048
+
+Project 27 SB Urban Park
+Route: /properties/sb-urban-park
+Overview copy: SB Urban Park is a residential development in the Thanisandra-Rachenahalli area, marketed with three-bedroom and duplex homes. Its developer highlights no-common-wall planning, a three-level clubhouse and a substantial open-space component. These features give the project a clear privacy and recreation proposition, while the offered home's layout and outlook remain important unit-level considerations.
+Three bedroom and duplex formats
+No common walls reported by the developer
+Three level clubhouse
+60 percent open space reported by the developer
+Publication check: Highlights were supported by developer search-indexed material; direct retrieval failed. Reconfirm the current brochure, project totals, readiness and unit-specific outlook before publishing additional claims.
+Sources: S049, S050
+
+Part 4 Locality records
+Keep the following 17 routes. Listed entries and counts must be generated from the actual catalogue. These labels describe search areas and marketing corridors rather than certified administrative boundaries. The shared locality template supplies the supporting sections and FAQs; the introductions below are unique to each area.
+Locality 01 Bagalur
+Route: /localities/bagalur
+Introduction copy: Apartment living around the Aerospace Park corridor. Explore the home options Aaramv lists around Bagalur, with the exact project entrance and enclave shown alongside the broader area name.
+Current catalogue entries: Prestige Finsbury Park
+Home type handling: Apartment
+Image requirement: Photograph the public approach road; do not use a tower render as a locality panorama.
+Publication check: Gummanahalli and the project approach must be visible; the entire Bagalur corridor is not one address.
+Project context sources: S001
+Locality 02 IVC Road, Devanahalli
+Route: /localities/ivc-road-devanahalli
+Introduction copy: A plotted-home search along the IVC Road corridor. This is a useful starting point for buyers considering an individually planned home within a larger development.
+Current catalogue entries: Earthsong by Manyata
+Home type handling: Plot
+Image requirement: Actual road/access photograph plus the approved plot layout.
+Publication check: Show plot dimensions, advertised phase, development services and exact access from the main road.
+Project context sources: S002, S003, S004
+
+Locality 03 KIADB Aerospace Park
+Route: /localities/kiadb-aerospace-park
+Introduction copy: Homes around a major industrial and employment district. Compare residential developments by their actual location and registered block, rather than the industrial-area label alone.
+Current catalogue entries: Brigade El Dorado / Jasper at Brigade El Dorado / Nikoo Homes 9
+Home type handling: Apartment
+Image requirement: A genuine public access-road photo; separate employment area from residential project.
+Publication check: Jasper belongs to El Dorado. These catalogue entries are not three wholly independent townships.
+Project context sources: S005, S016, S038, S039
+Locality 04 Thanisandra
+Route: /localities/thanisandra
+Introduction copy: An apartment search shaped by your everyday destinations. Compare homes along the wider Thanisandra corridor, with the project address and route from its actual entrance clearly identified.
+Current catalogue entries: Purva Atmosphere / Nikoo Homes 5 / Concorde NEO
+Home type handling: Apartment
+Image requirement: A street-level locality photograph, not only Purva Atmosphere.
+Publication check: Clarify the different Hegde Nagar, Thirumenahalli and Bellahalli project addresses.
+Project context sources: S006, S007, S008, S035, S036, S042, S043
+
+Locality 05 Devanahalli
+Route: /localities/devanahalli
+Introduction copy: Town addresses and wider-corridor developments, clearly separated. Choose between apartment and plot options with a clear understanding of where each project sits.
+Current catalogue entries: Sattva Park Cubix / Brigade Oasis / Century Seasons
+Home type handling: Apartment and Plot
+Image requirement: Actual streetscape and a verified map with each project pin.
+Publication check: The three developments have different exact locations. The airport and taluk label do not imply town-centre proximity.
+Project context sources: S009, S010, S011, S017, S018, S019
+Locality 06 Chikkagubbi
+Route: /localities/chikkagubbi
+Introduction copy: A search for different home formats off the Hennur-Bagalur corridor. Explore the row-house setting listed here, with its floor arrangement and outdoor spaces shown upfront.
+Current catalogue entries: Assetz Soul & Soil
+Home type handling: Row house
+Image requirement: Public approach road; label row-house project photos separately.
+Publication check: Distinguish row houses from villaments and map the actual Chikkagubbi address.
+Project context sources: S012, S013
+
+Locality 07 Jakkur
+Route: /localities/jakkur
+Introduction copy: Apartment options within the Jakkur-Shivanahalli setting. Start with the offered home, then look at its immediate surroundings and the journeys relevant to your household.
+Current catalogue entries: Mittal Palms
+Home type handling: Apartment
+Image requirement: Real residential street; no unverified lake-view promise.
+Publication check: HDFC School provides an address-based route anchor. Lake views are unit-specific.
+Project context sources: S014, S015
+Locality 08 Hennur Road
+Route: /localities/hennur-road
+Introduction copy: One corridor, several different approaches. Compare the listed developments by their actual access roads, home formats and project scale.
+Current catalogue entries: Disha Harmony Gardens / DNR Parklink / Concorde Sienna
+Home type handling: Apartment
+Image requirement: Document the actual project approach from the main road.
+Publication check: Show Doddagubbi or Kyalasanahalli, Chikkagubbi and Kannuru context accurately.
+Project context sources: S020, S040, S041, S044, S045
+
+Locality 09 Rachenahalli
+Route: /localities/rachenahalli
+Introduction copy: Apartment choices around the Manyata employment area. Compare the specific development and surroundings, with the workplace gate and project entrance included in the location view.
+Current catalogue entries: Sumadhura Epitome I / SNN Estates Felicity / SB Urban Park
+Home type handling: Apartment
+Image requirement: Real local streetscape; lake imagery only where accurately identified.
+Publication check: Do not promise the same commute or lake outlook for all three projects.
+Project context sources: S021, S027, S028, S049, S050
+Locality 10 Vidyaranyapura
+Route: /localities/vidyaranyapura
+Introduction copy: A location search that needs the exact project pin. Explore the listed apartment option with its Chikkabettahalli address clearly shown beside the wider marketing area.
+Current catalogue entries: Concorde Antares
+Home type handling: Apartment
+Image requirement: Street-level approach near the exact project; verify the caption.
+Publication check: Developer address is Chikkabettahalli, Yelahanka Hobli; make that visible.
+Project context sources: S022
+
+Locality 11 Thanisandra-Kannur
+Route: /localities/thanisandra-kannur
+Introduction copy: A clear address behind a broad corridor name. Explore the listed Kannur apartment development through its tower plans, home sizes and exact location.
+Current catalogue entries: Poulomi Florique
+Home type handling: Apartment
+Image requirement: A verified Kannur street photograph; no interchangeable Thanisandra image.
+Publication check: Dedicated project site records Survey No. 16, Kannur Village, Bidarahalli Hobli.
+Project context sources: S023, S024, S025, S026
+Locality 12 Sadahalli
+Route: /localities/sadahalli
+Introduction copy: A home search across the wider airport-side setting. Review the listed development by its actual village address and phase, rather than relying only on a familiar corridor label.
+Current catalogue entries: Bhartiya Garden Estate
+Home type handling: Derive from offered layouts
+Image requirement: Actual approach photograph; distinguish apartment and villa project visuals.
+Publication check: Confirm Navratna Agrahara address. A villa-only tag is not supported by the researched apartment format list.
+Project context sources: S029, S030
+
+Locality 13 Kannamangala, Devanahalli
+Route: /localities/kannamangala-devanahalli
+Introduction copy: Confirm the location before comparing the homes. Identify the airport-corridor location clearly, then explore the apartment formats listed here.
+Current catalogue entries: Sattva Vasanta Skye
+Home type handling: Apartment
+Image requirement: Verified local photograph; clearly distinguish other Kannamangala locations.
+Publication check: Obtain official site pin and address; distinguish other Kannamangala locations. No guaranteed airport travel time.
+Project context sources: S031
+Locality 14 Kogilu
+Route: /localities/kogilu
+Introduction copy: Garden-led apartment options in the Kogilu setting. Explore the documented home formats with current phase and availability information kept separate.
+Current catalogue entries: Nikoo Homes 6
+Home type handling: Apartment
+Image requirement: Actual Kogilu approach street; availability needs a separate current check.
+Publication check: Use the actual Kogilu site rather than the generic Bhartiya City corporate address.
+Project context sources: S032, S033, S034
+
+Locality 15 Bellahalli
+Route: /localities/bellahalli
+Introduction copy: Apartment choices along the wider Thanisandra-side corridor. Start with the actual project location and home format, with the wider neighbourhood context beside it.
+Current catalogue entries: Nikoo Homes 8
+Home type handling: Apartment
+Image requirement: Street-level Bellahalli context plus approved project photography.
+Publication check: Other projects marketed under Thanisandra may also use Bellahalli addresses; these are catalogue categories, not boundary certification.
+Project context sources: S037
+Locality 16 Manyata Tech Park
+Route: /localities/manyata-tech-park
+Introduction copy: Homes around the workplace district. Compare the residential address and the workplace gate you use, rather than assuming that a nearby project provides the same journey for everyone.
+Current catalogue entries: Lodha Mirabelle
+Home type handling: Apartment
+Image requirement: Real workplace-area access photograph; no assumed commute duration.
+Publication check: Customer label may read Around Manyata Business Park. This is an employment-area search label, not a municipal residential boundary.
+Project context sources: S046
+
+Locality 17 Devanahalli-Boodihal
+Route: /localities/devanahalli-boodihal
+Introduction copy: A service-led apartment option within Brigade Orchards. Review the home layout and community proposition alongside any optional service arrangements.
+Current catalogue entries: Laurel & Maple at Brigade Orchards
+Home type handling: Apartment
+Image requirement: Actual public approach; service images only from the confirmed operator.
+Publication check: Verify exact address and explain Primus service scope and charges separately.
+Project context sources: S047, S048
+Landmarks for route checks
+These are destinations with operator or government address evidence, not claims that every project is nearby. Show a route only when its actual project entrance and destination are known. Do not invent distances or drive times.
+Destination | Category | Address context
+Embassy Manyata Business Park | Workplace | Nagavara with the Rachenahalli and Thanisandra setting
+Aster CMI Hospital | Healthcare | New Airport Road NH 44 Sahakar Nagar Hebbal
+Legacy School | Education | Byrathi Village Bidarahalli Hobli
+The HDFC School Bengaluru | Education | Nehru Nagar Shivanahalli Road off Jakkur Yelahanka Road
+REVA University | Education | Kattigenahalli Yelahanka
+Stonehill International School | Education | Tarahunise Post Jala Hobli
+Kempegowda International Airport | Airport | Devanahalli taluk
+
+Metro copy rule: the dated BMRCL document of 2 April 2026 describes Phase 2A and Phase 2B as under construction. That is dated evidence, not current operating-status confirmation. Publish operational status and opening dates only after a fresh authoritative check. Source S058.
+
+Part 5 Registration references and data controls
+Reference numbers below were collected from developer material except where explicitly labelled historical or secondary. Direct current Karnataka RERA verification was not completed. Match a current primary certificate to the project, promoter, phase or block before using a registration as a verified badge. Never equate registration with legal clearance or every permission being granted.
+Project | Reference scope | Published reference
+Prestige Finsbury Park | Registration | Hold for separate Hyde and Regent certificates
+Earthsong by Manyata | Phase 5 registration | Hold for current primary certificates
+Brigade El Dorado | Registration | Multiple block registrations; match selected block
+Purva Atmosphere | Developer published registration | PRM/KA/RERA/1251/472/PR/190204/002350
+Sattva Park Cubix | Registration | Hold for full phase specific PRM references
+Assetz Soul & Soil | Row houses Phase 1 | PRM/KA/RERA/1251/446/PR/180516/001716
+Assetz Soul & Soil | Row houses Phase 2 | PRM/KA/RERA/1251/446/PR/201001/003628
+Assetz Soul & Soil | Villaments | PRM/KA/RERA/1251/446/PR/070522/004859
+Mittal Palms | Historical government reference | PRM/KA/RERA/1251/309/PR/180328/000585
+Jasper at Brigade El Dorado | Developer published registration | PRM/KA/RERA/1250/303/PR/200618/003458
+Brigade Oasis | Phase 3 developer marketing reference | PRM/KA/RERA/1250/303/PR/220124/006562
+Century Seasons | Developer published reference 1 | PRM/KA/RERA/1250/303/PR/210302/003971
+Century Seasons | Developer published reference 2 | PRM/KA/RERA/1250/303/PR/010722/005031
+Disha Harmony Gardens | Developer published registration | PRM/KA/RERA/1251/446/PR/020125/007341
+Sumadhura Epitome I | Developer published registration | PRM/KA/RERA/1251/446/PR/190924/007044
+Concorde Antares | Developer published registration | PRM/KA/RERA/1251/309/PR/181223/006491
+Poulomi Florique | Developer published registration | PRM/KA/RERA/1251/446/PR/180326/008539
+SNN Estates Felicity | Secondary reference requiring primary confirmation | PRM/KA/RERA/1251/309/PR/220124/006568
+Bhartiya Garden Estate | Phase 1 | PRM/KA/RERA/1251/472/PR/260825/008038
+Bhartiya Garden Estate | Phase 2 | PRM/KA/RERA/1251/309/PR/060925/008064
+Bhartiya Garden Estate | Phase 3 | PRM/KA/RERA/1251/309/PR/060925/008065
+Sattva Vasanta Skye | Developer published registration | PRM/KA/RERA/1250/303/PR/080525/007730
+Nikoo Homes 6 | Phase 1 | PRM/KA/RERA/1251/472/PR/160124/006543
+Nikoo Homes 6 | Phase 2 | PRM/KA/RERA/1251/309/PR/160124/006550
+Nikoo Homes 5 | Phase 1 | PRM/KA/RERA/1251/309/PR/171123/006418
+Nikoo Homes 5 | Phase 2 | PRM/KA/RERA/1251/309/PR/271123/006444
+Nikoo Homes 8 | Phase 1 | PRM/KA/RERA/1251/309/PR/070526/008628
+Nikoo Homes 8 | Phase 2 | PRM/KA/RERA/1251/309/PR/070526/008629
+Nikoo Homes 9 | Bagaluru Phase 1 | PRM/KA/RERA/1251/309/PR/100926/008930
+DNR Parklink | Phase 1 developer published | PRM/KA/RERA/1251/446/PR/040823/006113
+DNR Parklink | Phase 2 secondary reference held | PRM/KA/RERA/1251/446/PR/151223/006478
+Concorde NEO | Developer published registration | PRM/KA/RERA/1251/309/PR/270924/007088
+Concorde Sienna | Developer published registration | PRM/KA/RERA/1251/446/PR/220626/008740
+Lodha Mirabelle | Developer published registration | PRM/KA/RERA/1251/309/PR/131023/006321
+Laurel & Maple at Brigade Orchards | Developer showcase reference | PRM/KA/RERA/1250/303/PR/040326/008505
+SB Urban Park | Developer published reference | PRM/KA/RERA/1251/309/PR/200224/006647
+
+Price availability and possession
+Obtain a current cost sheet tied to the selected layout or unit and transaction type. The existing catalogue ranges and public campaigns are not automatically current quotations. Use explicit asking or base-price labels and include exclusions. Preserve unknown fields as unknown rather than manufacturing a plausible figure.
+Known scope issues: Finsbury mixes project-wide formats with resale asks; Soul & Soil villament prices do not price row houses; Jasper retains an undated starting figure; Oasis and Century show sold-out labels alongside legacy marketing; Purva has differing campaign propositions; Nikoo 6 has differing historical formats; Poulomi has conflicting corporate content.
+A project status is not a possession date. Certificate validity is not automatically a handover promise. Developer indications collected include December 2027 for Antares and Epitome, October 2029 for NEO and by 2028 for Mirabelle; do not turn those research notes into an unconditional contractual commitment.
+Minimum fields for a priced offer
+Project ID, developer ID, phase or block, sale type and layout or unit ID
+Configuration and bathroom count; each area value with its measurement type
+Base or asking price, inclusions, exclusions, cost-sheet source and quote date
+Availability state, availability source and actual checked date
+Construction state, possession date or range and documentary basis
+Registration reference, source, verification state and phase mapping
+Image type, source, permission, phase and capture date where relevant
+Keep research notes and unresolved fields in structured metadata. Do not show HOLD, source disputes, instruction text or bracketed placeholders as a polished promotional feature. If a fact must remain visible for transparency, use concise truthful wording such as Possession date not confirmed.
+
+Part 6 Embedded production images and section references
+The first two images are original illustrative brand scenes for the website. They do not depict actual Aaramv people, clients or named projects. The next two are the selected desktop and mobile difference-section references. Full source PNG bytes are embedded in this DOCX. Extract them using the media index in Part 8.
+AR HERO
+Role: Production illustrative brand photograph
+Target filename: aaramv-buyer-first-hero.png
+Placement: First homepage hero frame. Desktop image-led composition with a controlled navy overlay behind copy. On mobile place headline and action above the contextual photograph. Never label the people as actual Aaramv staff or clients.
+Alt text: Illustrative scene of a homebuyer and advisor comparing apartment layouts at a table.
+
+Illustrative advisory scene.
+
+AR SUPPORT
+Role: Production illustrative brand photograph
+Target filename: aaramv-support-through-move-in.png
+Placement: Existing buying journey photograph replacing the repeated villa photograph. Preserve the people and doorway interaction. This image does not establish a technical inspection, snagging, engineering or certification service.
+Alt text: Illustrative scene of a buyer and advisor reviewing a home during a walkthrough.
+
+Illustrative walkthrough scene.
+
+AR DIFFERENCE DESKTOP
+Role: Design reference only
+Target filename: aaramv-difference-desktop-reference.png
+Placement: Use for the difference section composition, three paper forms, mint shape, typography hierarchy and connector continuing past Booking. Written copy in this master overrides text embedded in the reference.
+Alt text: Desktop layout reference showing buyer needs leading to research and a shortlist with support continuing past booking to move-in.
+
+Desktop section reference. Recreate with selectable HTML and native SVG.
+
+AR DIFFERENCE MOBILE
+Role: Design reference only
+Target filename: aaramv-difference-mobile-reference.png
+Placement: Stack both difference ideas in normal flow. Retain Still with you below Booking. Do not force the reference line breaks or use this image as the entire web section.
+Alt text: Mobile layout reference stacking the two Aaramv differences with a visible Search Booking Move-in journey and a full-width action.
+
+Mobile reflow reference. Readable type and the written responsive rules take precedence.
+Responsive rules for the difference section
+Desktop: approximately 1280px maximum content width, two ideas side by side, action at the upper right, three staggered papers and a teal rail continuing to Move-in. Retain the hollow Booking marker and prominent home endpoint. Scope native SVG IDs and keep decorative paths behind readable text.
+Tablet: stack earlier if fonts or labels collide. The earlier implementation stacks through 1023px; tune against the actual fonts rather than enforcing a breakpoint that makes the diagram unreadable.
+Mobile: 20px side padding, both headline phrases, shortlist copy, three papers, mint support area, readable Search Booking Move-in rail, and one full-width action. Keep Still with you visible. Body text at least 16px, comfortable line height and controls at least 48px. Do not force it into one screen or shrink the desktop diagram to hide overflow.
+Image rules across the site
+Use approved developer originals for named projects and actual plans for layouts. Preserve architecture and amenities. Label actual photographs with phase and date, artist impressions as such and show apartments with fit-out context. Source permissions must be recorded; a hotlinked file is not evidence of permission.
+Use genuine locality photography or a verified geographic map for areas. Until supplied, an accurately captioned project reference can remain temporarily, with literal project-image alt text. Do not generate a pretend Bengaluru neighbourhood. Use real portraits for named staff and authentic consented reviews. If evidence is missing, omit the portrait or unsupported proof rather than invent it.
+
+Part 7 Earlier page layout references
+These boards preserve the earlier page-by-page current-design approach. They are visual context for spacing and component families only. Their embedded text, sample prices, registrations, property pictures and fields do not override Parts 1 to 6. The current website remains the baseline; no board is an instruction to rebuild the full page as a screenshot.
+AR LAYOUT HOME
+Homepage layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT CATALOGUE
+Properties catalogue layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT PROJECT
+Property details layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT LOCALITIES
+Locality directory layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT LOCALITY
+Locality details layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT ABOUT
+About page layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT CONTACT
+Contact page layout. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT POLICIES
+Policy reading layouts. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+AR LAYOUT UTILITIES
+Utility page layouts. Retain the current component family. This reference does not override the latest content, approved difference section or verified factual imagery. Never use the board as a production screenshot background.
+
+Layout reference only. Ignore embedded sample facts, placeholder text and images.
+
+Part 8 Source register and extraction manifest
+Research review date 28 October 2026. Use source IDs to trace a record. Access or publication dates on a page are not a fresh confirmation of a current price, unit or possession commitment. Open a newer authoritative source when required before clearing a held field.
+S001 Prestige Finsbury Park https://www.aaramvreality.com/properties/prestige-finsbury-park?layout=configuration-11
+S002 Earthsong by Manyata https://manyata.co.in/earthsong-by-manyata/
+S003 Earthsong by Manyata https://earthsongbymanyata.com/infrastructure/
+S004 Earthsong by Manyata https://earthsongbymanyata.com/construction-update/
+S005 Brigade El Dorado https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado
+S006 Purva Atmosphere https://www.puravankara.com/campaigns/atmosphere/
+S007 Purva Atmosphere https://www.puravankara.com/campaigns/purva-atmosphere/
+S008 Purva Atmosphere https://www.puravankara.com/campaigns/r2/atmosphere/
+S009 Sattva Park Cubix https://sattvagroup.com/residential/park-cubix/
+S010 Sattva Park Cubix https://sattvagroup.com/sattva-property-results/
+S011 Sattva Park Cubix https://sattvagroup.com/our-business-verticals/residential/
+S012 Assetz Soul & Soil https://www.assetzproperty.com/soulandsoil/project.php
+S013 Assetz Soul & Soil https://www.assetzproperty.com/soulandsoil/contact-us.php
+S014 Mittal Palms https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf
+S015 Mittal Palms https://kla.kar.nic.in/council/house/Paperlaid/152/87.pdf
+S016 Jasper at Brigade El Dorado https://www.brigadeeldorado.com/jasper
+S017 Brigade Oasis https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis
+S018 Brigade Oasis https://www.brigadegroup.com/residential-projects/index.php
+S019 Century Seasons https://www.centuryrealestate.in/residential/projects/century-seasons
+S020 Disha Harmony Gardens https://www.dishaproperties.com/harmonygardens
+S021 Sumadhura Epitome I https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome
+S022 Concorde Antares https://www.concorde.in/residential-projects/concorde-antares
+S023 Poulomi Florique https://poulomiflorique.com/
+S024 Poulomi Florique https://poulomiflorique.com/residences
+S025 Poulomi Florique https://poulomiflorique.com/faq
+S026 Poulomi Florique https://www.poulomi.in/project/poulomi-florique
+S027 SNN Estates Felicity https://felicity.snnestates.com/
+S028 SNN Estates Felicity https://felicity.snnestates.com/project-status/
+S029 Bhartiya Garden Estate https://nikoohomes.com/bhartiya-garden-estate/
+S030 Bhartiya Garden Estate https://nikoohomes.com/construction-progress-bhartiya-garden-estate/
+S031 Sattva Vasanta Skye https://sattvagroup.com/residential/sattva-vasanta-skye/
+S032 Nikoo Homes 6 https://nikoo6.nikoohomes.com/
+S033 Nikoo Homes 6 https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf
+S034 Nikoo Homes 6 https://nikoohomes.com/construction-progress-nikoo-homes-6/
+S035 Nikoo Homes 5 https://nikoohomes.com/nikoo-homes-v/
+S036 Nikoo Homes 5 https://nikoohomes.com/construction-progress-nikoo-homes-v/
+S037 Nikoo Homes 8 https://nikoohomes.com/nikoo-homes-8/
+S038 Nikoo Homes 9 https://nikoohomes.com/nikoo-homes-9/
+S039 Nikoo Homes 9 https://nikoohomes.com/
+S040 DNR Parklink https://dnrgroup.in/dnr-parklink/
+S041 DNR Parklink https://parklink.dnrgroup.in/
+S042 Concorde NEO https://www.concorde.in/residential-projects/concorde-neo
+S043 Concorde NEO https://neo.concorde.in/
+S044 Concorde Sienna https://www.concorde.in/residential-projects/concorde-sienna
+S045 Concorde Sienna https://sienna.concorde.in/
+S046 Lodha Mirabelle https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle
+S047 Laurel & Maple at Brigade Orchards https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards
+S048 Laurel & Maple at Brigade Orchards https://www.brigadegroup.com/residential-showcase-2026/index.html
+S049 SB Urban Park https://sburbanscapes.com/
+S050 SB Urban Park https://sburbanpark.in/
+S051 Embassy Manyata Business Park https://www.embassyofficeparks.com/AnnualReport-FY21/pdf/valuation-report.pdf
+S052 Aster CMI Hospital https://www.asterhospitals.in/location/bangalore
+S053 Legacy School https://lsb.edu.in/connect/
+S054 The HDFC School Bengaluru https://www.thehdfcschool.com/
+S055 REVA University https://www.reva.edu.in/index.php/contact-us
+S056 Stonehill International School https://www.stonehill.in/
+S057 Kempegowda International Airport https://bangalorerural.nic.in/en/tourist-place/kempegowda-international-airport/
+S058 BMRCL dated 2 April 2026 https://www.bmrc.co.in/pd/FinalMetroParkingPolicy02-04-2026.pdf
+S059 Government industrial area context https://investkarnataka.co.in/key-industrie/aerospace-defence/
+S060 Aaramv catalogue scope https://www.aaramvreality.com/properties
+S061 Aaramv locality scope https://www.aaramvreality.com/localities
+S062 Secondary SNN registration lead https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/snn-estates-felicity/11686
+S063 Secondary DNR Phase 2 registration lead https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/dnr-parklink-phase-2/10935
+Embedded media extraction index
+The archive names below are exact for this DOCX. Match by SHA256 as well as filename so reordered or re-saved media cannot silently map to the wrong website asset. Native reference images remain reference-only. The manifest itself is implementation metadata.
+Asset ID | DOCX archive entry | Target filename
+AR HERO | word/media/image1.png | aaramv-buyer-first-hero.png
+AR SUPPORT | word/media/image2.png | aaramv-support-through-move-in.png
+AR DIFFERENCE DESKTOP | word/media/image3.png | aaramv-difference-desktop-reference.png
+AR DIFFERENCE MOBILE | word/media/image4.png | aaramv-difference-mobile-reference.png
+AR LAYOUT HOME | word/media/image5.png | ar-layout-home-reference.png
+AR LAYOUT CATALOGUE | word/media/image6.png | ar-layout-catalogue-reference.png
+AR LAYOUT PROJECT | word/media/image7.png | ar-layout-project-reference.png
+AR LAYOUT LOCALITIES | word/media/image8.png | ar-layout-localities-reference.png
+AR LAYOUT LOCALITY | word/media/image9.png | ar-layout-locality-reference.png
+AR LAYOUT ABOUT | word/media/image10.png | ar-layout-about-reference.png
+AR LAYOUT CONTACT | word/media/image11.png | ar-layout-contact-reference.png
+AR LAYOUT POLICIES | word/media/image12.png | ar-layout-policies-reference.png
+AR LAYOUT UTILITIES | word/media/image13.png | ar-layout-utilities-reference.png
+
+Asset: AR HERO  1774 by 887 pixels
+9a17f7432dbcc50ffadb3679dc1df36c2ffde5cd05c463d02039e5b46b088d51
+Asset: AR SUPPORT  1536 by 1024 pixels
+268e0f922caee7c02c42e391ca4baf35b111a179206fb21e9e9eb463e0dc0eef
+Asset: AR DIFFERENCE DESKTOP  2025 by 777 pixels
+0a52c649df727c59851aa5d8f92c1d7bf864c328a25f60f4da6af4215b179a97
+Asset: AR DIFFERENCE MOBILE  865 by 1819 pixels
+639d026f5b59f9203babb18f9b5a3b0d86bff7d53885957fa3f18b0245c4b481
+Asset: AR LAYOUT HOME  1122 by 1402 pixels
+730f013d835e6701861b282451f4b88704fec1bd666d6bf4ce2d84bbe0ae5038
+Asset: AR LAYOUT CATALOGUE  1122 by 1402 pixels
+d6fa4e27962f9b360d661fdb42bfc0cd5df20776fe502c58a460db7c718b85fa
+Asset: AR LAYOUT PROJECT  1122 by 1402 pixels
+ef689b9d61383360f7d071638746393208f37ce5023f9e9a2984b866547cac66
+Asset: AR LAYOUT LOCALITIES  1122 by 1402 pixels
+820c9e3e82c67d03378446ea410b7827ac6cde60c77f06533a931b01bf9736a9
+Asset: AR LAYOUT LOCALITY  1122 by 1402 pixels
+b943d4c4528bae0c83ee4e4424331de90b593a8a236f2bac98faea4c9045f1ef
+Asset: AR LAYOUT ABOUT  1123 by 1401 pixels
+bf1bad134d2a9562486da574ace5af130723f9dcbcb4b0a2e0fdb7b2338fd4c8
+Asset: AR LAYOUT CONTACT  1122 by 1402 pixels
+5f856ae5690c4e2023276501c8336dddc52eea6c89c5ecea60d0681eecaf14f8
+Asset: AR LAYOUT POLICIES  1774 by 887 pixels
+46b9c1e7bee204f2a2d98d2a6297266995f827a630707df07302360ca1f93668
+Asset: AR LAYOUT UTILITIES  1254 by 1254 pixels
+27c6539798eddf921d472f8c7025100df935995de8f4307c012e4958c6ed67d0

@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 2,
+  "id": "poulomi-florique",
+  "published": true,
+  "isDemo": false,
+  "name": "Poulomi Florique",
+  "localityId": "thanisandra-kannur",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Poulomi Estates",
+  "phaseName": null,
+  "address": "Survey No. 16, Kannur Village, Bidarahalli Hobli, Kannur, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "Poulomi Florique is a three-bedroom apartment development at Kannur, marketed within the Thanisandra corridor. Its central idea is a landscape-rich community with floral zones, vehicle-free podium areas and shared spaces for different generations. The dedicated project website describes 8.66 acres and four residential towers, with different apartment size ranges across the towers.",
+  "possession": {
+    "label": "Secondary RERA completion reference 31 December 2032",
+    "date": null,
+    "precision": "secondary-day",
+    "sourceUrl": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/poulomi-florique/14394",
+    "sourceId": "SRC-071",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2032,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Poulomi Florique",
+    "Poulomi Estates",
+    "Thanisandra - Kannur",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/poulomi-florique/cover.webp",
+      "alt": "Poulomi Florique — development visual",
+      "caption": "Poulomi Florique · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://poulomiflorique.com/images/hero-image.png",
+      "width": 1440,
+      "height": 910,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "0b2a5ef5318a7e6e89ed2e4c65fd543e475d01d92c4237075b938242cb5ec46f",
+      "bytes": 229798
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/poulomi-florique/image-2.webp",
+      "alt": "Poulomi Florique — section three image",
+      "caption": "Poulomi Florique · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://poulomiflorique.com/images/section-three-image.png",
+      "width": 1440,
+      "height": 905,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "4e527b2f74eae9587166ea63cd04d525116e12cc27d82791734e727614cd97ec",
+      "bytes": 125448
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/poulomi-florique/image-3.webp",
+      "alt": "Poulomi Florique — swimming",
+      "caption": "Poulomi Florique swimming",
+      "kind": "amenity",
+      "credit": "",
+      "sourceUrl": "https://poulomiflorique.com/images/swimming.webp",
+      "width": 865,
+      "height": 546,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "ee8bc09b114c03abec759d505ec0300096a903b59b18ea1afa0362344760bf75",
+      "bytes": 42216
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/poulomi-florique/image-4.webp",
+      "alt": "Poulomi Florique — Florique gym",
+      "caption": "Poulomi Florique Florique gym",
+      "kind": "amenity",
+      "credit": "",
+      "sourceUrl": "https://poulomiflorique.com/images/Florique-gym.webp",
+      "width": 432,
+      "height": 273,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "5e4888b244fe3f29eff8fbe8f667fd76db6c5b3a55f7eb21ac7521bcf26843f4",
+      "bytes": 16576
+    },
+    {
+      "id": "developer-plan-p9",
+      "src": "/images/projects/poulomi-florique/developer-plan-p9.webp",
+      "alt": "Poulomi Florique developer tower plan sheet, brochure page 9",
+      "caption": "Poulomi Florique developer tower plan sheet, brochure page 9",
+      "kind": "floor-plan",
+      "credit": "Project material published by Poulomi Estates.",
+      "sourceUrl": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 9,
+      "width": 1069,
+      "height": 1900,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "sourceDocumentUrl": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "usage": "project-content",
+      "sha256": "2472eb827f8962ad275ff31c3f7ebe78fee8068567c776adc2906c82a3ff0f3c",
+      "bytes": 170092
+    },
+    {
+      "id": "developer-plan-p10",
+      "src": "/images/projects/poulomi-florique/developer-plan-p10.webp",
+      "alt": "Poulomi Florique developer tower plan sheet, brochure page 10",
+      "caption": "Poulomi Florique developer tower plan sheet, brochure page 10",
+      "kind": "floor-plan",
+      "credit": "Project material published by Poulomi Estates.",
+      "sourceUrl": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 10,
+      "width": 1069,
+      "height": 1900,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "sourceDocumentUrl": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "usage": "project-content",
+      "sha256": "7899953fd797625c0406130ffbf413df9cb744aa14092edfeb6840e28898f614",
+      "bytes": 173754
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Poulomi%20Florique%2C%20Survey%20No.%2016%2C%20Kannur%20Village%2C%20Bidarahalli%20Hobli%2C%20Kannur%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "configuration-5",
+  "configurations": [
+    {
+      "id": "configuration-5",
+      "label": "3 BHK + study + maid · 2,740 sq ft · Alpine / Dewdrop",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2740,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "phaseName": "Alpine / Dewdrop",
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK + maid · 2,535 sq ft · Alpine / Dewdrop",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2535,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "phaseName": "Alpine / Dewdrop",
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-830-sq-ft-alpine-dewdrop-1830",
+      "label": "3 BHK · 1,830 sq ft · Alpine / Dewdrop",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1830,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "phaseName": "Alpine / Dewdrop",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-maid-2-380-sq-ft-alpine-dewdrop-2380",
+      "label": "3 BHK + maid · 2,380 sq ft · Alpine / Dewdrop",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2380,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "phaseName": "Alpine / Dewdrop",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK + maid · 2,210 sq ft · Alpine / Dewdrop",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2210,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "phaseName": "Alpine / Dewdrop",
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-905-sq-ft-blossom-cascade-1905",
+      "label": "3 BHK · 1,905 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1905,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "phaseName": "Blossom / Cascade",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-2-000-sq-ft-blossom-cascade-2000",
+      "label": "3 BHK · 2,000 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2000,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "phaseName": "Blossom / Cascade",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-1",
+      "label": "3 BHK · 1,585 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1585,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "phaseName": "Blossom / Cascade",
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-780-sq-ft-blossom-cascade-1780",
+      "label": "3 BHK · 1,780 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1780,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "phaseName": "Blossom / Cascade",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "3 BHK · 2,030 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2030,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "phaseName": "Blossom / Cascade",
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-890-sq-ft-blossom-cascade-1890",
+      "label": "3 BHK · 1,890 sq ft · Blossom / Cascade",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1890,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p10",
+      "phaseName": "Blossom / Cascade",
+      "sourceIds": [
+        "SRC-066"
+      ],
+      "floorPlanMatch": "Exact labelled unit appears on the linked multi-unit tower sheet",
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 8.66,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 4,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Ground + 27 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 720,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1585–2740",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "8.66 acre development",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "85 percent open space reported by the developer",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Four G plus 27 towers described on the dedicated site",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Tower specific super built up ranges from 1585 to 2740 sq ft",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "25-metre lap pool",
+      "description": "25-metre lap pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids’ pool",
+      "description": "Kids’ pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Badminton court",
+      "description": "Badminton court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Squash court",
+      "description": "Squash court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pickleball court",
+      "description": "Pickleball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Futsal court",
+      "description": "Futsal court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket pitch",
+      "description": "Cricket pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Co-working lounge",
+      "description": "Co-working lounge within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose hall",
+      "description": "Multipurpose hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Reflexology garden",
+      "description": "Reflexology garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pet garden",
+      "description": "Pet garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor yoga deck",
+      "description": "Outdoor yoga deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-065",
+        "SRC-066"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Delhi Public School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Delhi Public School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 10,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Delhi%20Public%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "REVA University",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "REVA University is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 15,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=REVA%20University%2C%20Bengaluru"
+    },
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": 15,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": 30,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-6",
+      "title": "Developer brochure / plan document",
+      "url": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-070"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Poulomi Florique",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey No. 16, Kannur Village, Bidarahalli Hobli, Kannur, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Poulomi Florique"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Poulomi Florique located?",
+      "answer": "Survey No. 16, Kannur Village, Bidarahalli Hobli, Kannur, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "3 BHK + study + maid, 3 BHK + maid, 3 BHK. Documented saleable/super built-up plan areas span 1585–2740 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.85 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Secondary RERA completion reference 31 December 2032. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "25-metre lap pool, Kids’ pool, Gymnasium, Badminton court, Squash court, Pickleball court. 40+ on developer booking site. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "8.66 acre development 85 percent open space reported by the developer Four G plus 27 towers described on the dedicated site. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Poulomi Florique",
+      "url": "https://poulomiflorique.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://poulomiflorique.com/residences",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://poulomiflorique.com/faq",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://www.poulomi.in/project/poulomi-florique",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://book.poulomiflorique.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Poulomi Florique",
+      "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/poulomi-florique/14394",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/poulomi-florique",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Poulomi Florique"
+  ],
+  "projectScale": {
+    "landAreaAcres": 8.66,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 4,
+    "floorArrangement": "Ground + 27 upper floors",
+    "totalHomesOrPlots": 720,
+    "sourceIds": [
+      "SRC-065",
+      "SRC-066",
+      "SRC-067",
+      "SRC-068",
+      "SRC-069",
+      "SRC-070",
+      "SRC-071"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.85 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 18500000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 18500000,
+      "highestConfigurationStartInr": 18500000,
+      "displayText": "₹1.85 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "3 BHK, advertised starting reference",
+        "areaSqFt": null,
+        "startingPriceInr": 18500000,
+        "sourceUrl": "https://book.poulomiflorique.com/",
+        "sourceId": "SRC-069",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "3 BHK + study + maid",
+    "3 BHK + maid",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 40,
+    "countType": "advertised-lower-bound",
+    "label": "40+ on developer booking site",
+    "namedAmenitiesCount": 14,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "40+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Poulomi%20Florique%2C%20Survey%20No.%2016%2C%20Kannur%20Village%2C%20Bidarahalli%20Hobli%2C%20Kannur%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "Poulomi Florique, Survey No. 16, Kannur Village, Bidarahalli Hobli, Kannur, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-065",
+    "SRC-066",
+    "SRC-067",
+    "SRC-068",
+    "SRC-069",
+    "SRC-070",
+    "SRC-071",
+    "SRC-072"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Use the dedicated project brochure and booking site. Corporate project page includes unrelated Palazzo plans and amenities; excluded.",
+      "Dedicated FAQ says 720 homes, other marketing records differ; retain source scope, verify registered current total.",
+      "CP 2030 possession conflicts with secondary RERA completion December 2032. Do not replace the latter with an optimistic launch date.",
+      "Alpine/Blossom shown first; Cascade/Dewdrop are marked coming soon on the residences page."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "image-4"
+  ],
+  "overview": {
+    "title": "What defines Poulomi Florique",
+    "summary": "Poulomi Florique is a three-bedroom apartment development at Kannur, marketed within the Thanisandra corridor. Its central idea is a landscape-rich community with floral zones, vehicle-free podium areas and shared spaces for different generations. The dedicated project website describes 8.66 acres and four residential towers, with different apartment size ranges across the towers.",
+    "highlights": [
+      "8.66 acre development",
+      "85 percent open space reported by the developer",
+      "Four G plus 27 towers described on the dedicated site",
+      "Tower specific super built up ranges from 1585 to 2740 sq ft"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 8.66,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 4,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Ground + 27 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 720,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1585–2740",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.85 Cr* Onward",
+    "possessionDisplay": "Secondary RERA completion reference 31 December 2032",
+    "sourceIds": [
+      "SRC-065",
+      "SRC-066",
+      "SRC-067",
+      "SRC-068",
+      "SRC-069",
+      "SRC-070",
+      "SRC-071",
+      "SRC-072"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

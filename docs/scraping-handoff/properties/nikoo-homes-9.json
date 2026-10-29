@@ -1,0 +1,1195 @@
+{
+  "schemaVersion": 2,
+  "id": "nikoo-homes-9",
+  "published": true,
+  "isDemo": false,
+  "name": "Nikoo Homes 9",
+  "localityId": "kiadb-aerospace-park",
+  "type": "Apartment",
+  "status": "New launch",
+  "developerName": "Bhartiya Urban",
+  "phaseName": "Alpine, Bhartiya Garden Hill — Phase 1",
+  "address": "Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka",
+  "postalCode": "562149",
+  "description": "Nikoo Homes 9 is a multi-format residential development marketed for Bagalur, with a masterplan combining gardens, recreation and social spaces. Published formats include studios, apartments with additional study areas, lofts and sky villas. The planned community includes sports areas, a shopping plaza and Black Swan Club spaces, creating a wider neighbourhood proposition alongside individual homes.",
+  "possession": {
+    "label": "CP tentative December 2030; Phase 1 certificate validity September 2031 is a different field",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+    "sourceId": "SRC-103",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2030,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Nikoo Homes 9",
+    "Bhartiya Urban",
+    "KIADB Aerospace Park",
+    "Bangalore",
+    "Bengaluru",
+    "Nikoo9",
+    "Nikoo IX"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/nikoo-homes-9/cover.webp",
+      "alt": "Nikoo Homes 9 — developer exterior visual",
+      "caption": "Nikoo Homes 9 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/Copy-of-V06-FINALE-V2-A-scaled.jpg",
+      "width": 1440,
+      "height": 870,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "1825cb3aefdb4c5ce9cf3986b13302ebef2099824ae9f7a613452734b3305f8d",
+      "bytes": 402418
+    },
+    {
+      "id": "developer-gallery-2",
+      "src": "/images/projects/nikoo-homes-9/developer-gallery-2.webp",
+      "alt": "Nikoo Homes 9 — developer aerial visual",
+      "caption": "Nikoo Homes 9 · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/render-nh-9.2.png",
+      "width": 1216,
+      "height": 735,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "6706eeb0ebaed993d33c7952ff83cae599f4b3c0f88f3f9725cadbdc1b0814e1",
+      "bytes": 262658
+    },
+    {
+      "id": "developer-plan-a1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-a1.webp",
+      "alt": "nikoo-homes-9 — STUDIO, type A1, 468 sq ft developer plan",
+      "caption": "nikoo-homes-9 — STUDIO, type A1, 468 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/STUDIO-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1800,
+      "height": 1366,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "4620ff00afe56a139df225576d963d910b5bb1166f22d2927d78517708d9d776",
+      "bytes": 65574
+    },
+    {
+      "id": "developer-plan-b1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-b1.webp",
+      "alt": "nikoo-homes-9 — ONE BED, type B1, 784 sq ft developer plan",
+      "caption": "nikoo-homes-9 — ONE BED, type B1, 784 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/ONE-BED-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1817,
+      "height": 1392,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "06a30c0a0eda4006538b4a67127ddc904ae9abfddb568b0a412bce55e0b37b94",
+      "bytes": 69848
+    },
+    {
+      "id": "developer-plan-c1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-c1.webp",
+      "alt": "nikoo-homes-9 — ONE BED WITH STUDY, type C1, 1005 sq ft developer plan",
+      "caption": "nikoo-homes-9 — ONE BED WITH STUDY, type C1, 1005 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/ONE-BED-WITH-STUDY-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1565,
+      "height": 1572,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "e69b4a466d6e8de0e2e810fdbb787879e43ac6caa0a42ccb795eff7d81640383",
+      "bytes": 80038
+    },
+    {
+      "id": "developer-plan-d1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-d1.webp",
+      "alt": "nikoo-homes-9 — TWO BED, type D1, 1219 sq ft developer plan",
+      "caption": "nikoo-homes-9 — TWO BED, type D1, 1219 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/TWO-BED-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1756,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "91cc9970b85748904d85fe666a4bd7d67f99a306101f740a9c0a86339ae59024",
+      "bytes": 102116
+    },
+    {
+      "id": "developer-plan-f1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-f1.webp",
+      "alt": "nikoo-homes-9 — TWO BED WITH STUDY, type F1, 1423 sq ft developer plan",
+      "caption": "nikoo-homes-9 — TWO BED WITH STUDY, type F1, 1423 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/TWO-BED-WITH-STUDY-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 1755,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "40c900b694cf1b579a03e51a39374fa1ad78f4f025a1f50b95c5ded8b179bc6a",
+      "bytes": 101324
+    },
+    {
+      "id": "developer-plan-g1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-g1.webp",
+      "alt": "nikoo-homes-9 — THREE BED, type G1, 1697 sq ft developer plan",
+      "caption": "nikoo-homes-9 — THREE BED, type G1, 1697 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/THREE-BED-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1629,
+      "height": 1740,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "0509001aeaaa49f5c8749df0635151c73dc2f713aaa380f346b602bece9b1726",
+      "bytes": 112344
+    },
+    {
+      "id": "developer-plan-h1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-h1.webp",
+      "alt": "nikoo-homes-9 — THREE BED WITH STUDY, type H1, 1911 sq ft developer plan",
+      "caption": "nikoo-homes-9 — THREE BED WITH STUDY, type H1, 1911 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/THREE-BED-WITH-STUDY-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1613,
+      "height": 1780,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "f4345719eb991c375fc24d104164d2761d174f7753789f33d73df4ac0c8a5a94",
+      "bytes": 123754
+    },
+    {
+      "id": "developer-plan-l1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-l1.webp",
+      "alt": "nikoo-homes-9 — Loft, type L1, 2133 sq ft developer plan",
+      "caption": "nikoo-homes-9 — Loft, type L1, 2133 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/loft-floor-plan.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1613,
+      "height": 1900,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "cf333e13f25b47ed6eb716aece19f7f7a42b3267c166747e289d155215957a4f",
+      "bytes": 123204
+    },
+    {
+      "id": "developer-plan-k1",
+      "src": "/images/projects/nikoo-homes-9/developer-plan-k1.webp",
+      "alt": "nikoo-homes-9 — SKY VILLA, type K1, 2684 sq ft developer plan",
+      "caption": "nikoo-homes-9 — SKY VILLA, type K1, 2684 sq ft developer plan",
+      "kind": "floor-plan",
+      "credit": "Bhartiya Urban published project visual",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/SKY-VILLA-floor-plan-scaled.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1900,
+      "height": 916,
+      "sourcePageUrl": "https://nikoohomes.com/nikoo-homes-9/",
+      "usage": "project-content",
+      "sha256": "f998eef76f040342f810833753cd9f1c0a1009c44e242f5f5faf388ca96f6c4c",
+      "bytes": 83908
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/nikoo-homes-9/cp-gallery-1.webp",
+      "alt": "Nikoo Homes 9 in KIADB Aerospace Park, North Bangalore",
+      "caption": "Nikoo Homes 9 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation-nikoo-homes-9-kiadb-bagalur.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 619,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+      "usage": "project-content",
+      "sha256": "041311a5c1cb8908fa202cae3e6deaeb79319dc3d2d358214696e9e5aff2a077",
+      "bytes": 222132
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/nikoo-homes-9/cp-gallery-2.webp",
+      "alt": "nikoo homes 9 kiadb 1bhk 879",
+      "caption": "Nikoo Homes 9 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/nikoo-homes-9-kiadb-1bhk-879-768x543.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 543,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+      "usage": "project-content",
+      "sha256": "3806136a84fee07831f2b85c91c3370e75371f64992d41129251d809d42bee41",
+      "bytes": 9716
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/nikoo-homes-9/cp-gallery-3.webp",
+      "alt": "nikoo homes 9 kiadb 1bhk study 1016",
+      "caption": "Nikoo Homes 9 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/nikoo-homes-9-kiadb-1bhk-study-1016-768x543.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 543,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+      "usage": "project-content",
+      "sha256": "6bb3a1dc2339fa581210db89b4b1e30f4a854623c2f78510c66d6aa5f950d4e6",
+      "bytes": 12442
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.1547584,
+    "longitude": 77.6834531
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%209%2C%20Survey%20Nos.%20120%20and%20121%2C%20Hoovinayakanahalli%20Village%2C%20Jala%20Hobli%2C%20Bengaluru%20North%2C%20Bengaluru%20Urban%2C%20Karnataka%2C%20562149",
+  "primaryConfigurationId": "verified-configuration-1",
+  "configurations": [
+    {
+      "id": "verified-configuration-1",
+      "label": "STUDIO · Type A1 · 468 sq ft",
+      "bedrooms": 0,
+      "bathrooms": null,
+      "areaSqFt": 468,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-a1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 331,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-2",
+      "label": "ONE BED · Type B1 · 784 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 784,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-b1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 473,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-3",
+      "label": "ONE BED WITH STUDY · Type C1 · 1,005 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 1005,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-c1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 634,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-4",
+      "label": "TWO BED · Type D1 · 1,219 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1219,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-d1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 780,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-5",
+      "label": "TWO BED WITH STUDY · Type F1 · 1,423 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1423,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-f1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 916,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-6",
+      "label": "THREE BED · Type G1 · 1,697 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1697,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-g1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1092,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-7",
+      "label": "THREE BED WITH STUDY · Type H1 · 1,911 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1911,
+      "areaBasis": "saleable",
+      "startingPriceInr": 21100000,
+      "priceNote": "agreement-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-h1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1239,
+      "priceSourceIds": [
+        "SRC-103"
+      ]
+    },
+    {
+      "id": "layout-loft-type-l1-2-133-sq-ft-2133",
+      "label": "Loft · Type L1 · 2,133 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2133,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-l1",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "carpetAreaSqFt": 1380,
+      "priceSourceIds": []
+    },
+    {
+      "id": "verified-configuration-9",
+      "label": "SKY VILLA · Type K1 · 2,684 sq ft",
+      "bedrooms": null,
+      "bathrooms": null,
+      "areaSqFt": 2684,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-k1",
+      "sourceIds": [
+        "SRC-101"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1149,
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 13.5,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 8,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "CP reference: 2 basements + ground + 18/23; developer selected plan examples cover floors 3–17",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 1550,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "468–2684",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Studio through larger apartment formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Loft and sky villa options",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Gardens sports and community spaces in the plan",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Shopping plaza and Black Swan Club components",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Concert venue",
+      "description": "Concert venue within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Shopping plaza",
+      "description": "Shopping plaza within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Garden of Senses",
+      "description": "Garden of Senses within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Community garden",
+      "description": "Community garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Earth Garden",
+      "description": "Earth Garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Rolling garden and path",
+      "description": "Rolling garden and path within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Black Swan Café and Square",
+      "description": "Black Swan Café and Square within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket pitch",
+      "description": "Cricket pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Padel court",
+      "description": "Padel court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pickleball court",
+      "description": "Pickleball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Sports pavilion",
+      "description": "Sports pavilion within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis and multipurpose court",
+      "description": "Tennis and multipurpose court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Fantasy Land children’s zone",
+      "description": "Fantasy Land children’s zone within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-101",
+        "SRC-102"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "New Airport rd",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "New Airport rd is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 0.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20rd%2C%20Bengaluru"
+    },
+    {
+      "name": "Budigere Main Rd",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "Budigere Main Rd is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 3.9,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Budigere%20Main%20Rd%2C%20Bengaluru"
+    },
+    {
+      "name": "Bagalur",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "Bagalur is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 4.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-3",
+      "title": "Developer brochure / plan document",
+      "url": "https://nikoohomes.com/wp-content/uploads/2026/09/NH9-Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-104"
+    }
+  ],
+  "relatedPropertyIds": [
+    "brigade-el-dorado",
+    "jasper-at-brigade-el-dorado"
+  ],
+  "content": {
+    "overviewTitle": "What defines Nikoo Homes 9",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka, 562149. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Nikoo Homes 9"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Nikoo Homes 9 located?",
+      "answer": "Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka, 562149. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "STUDIO, ONE BED, ONE BED WITH STUDY, TWO BED, TWO BED WITH STUDY, THREE BED, THREE BED WITH STUDY, Loft, SKY VILLA. Documented saleable/super built-up plan areas span 468–2684 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹62 L–₹2.56 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "New launch. Published timeline: CP tentative December 2030; Phase 1 certificate validity September 2031 is a different field. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Concert venue, Shopping plaza, Garden of Senses, Community garden, Earth Garden, Rolling garden and path. Master plan labels identify named recreation zones. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Studio through larger apartment formats Loft and sky villa options Gardens sports and community spaces in the plan. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nikoo Homes 9",
+      "url": "https://nikoohomes.com/nikoo-homes-9/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 9",
+      "url": "https://nikoohomes.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 9",
+      "url": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 9",
+      "url": "https://nikoohomes.com/wp-content/uploads/2026/09/NH9-Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Nikoo Homes 9",
+    "Bhartiya Garden Hill",
+    "Nikoo9"
+  ],
+  "projectScale": {
+    "landAreaAcres": 13.5,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 8,
+    "floorArrangement": "CP reference: 2 basements + ground + 18/23; developer selected plan examples cover floors 3–17",
+    "totalHomesOrPlots": 1550,
+    "sourceIds": [
+      "SRC-101",
+      "SRC-102",
+      "SRC-103",
+      "SRC-104"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹62 L–₹2.56 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 6200000,
+    "maxStartingPriceInr": 25600000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 6200000,
+      "highestConfigurationStartInr": 25600000,
+      "displayText": "₹62 L–₹2.56 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Studio",
+        "areaSqFt": 506,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 6200000,
+        "upperQuotedPriceInr": 6600000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "1 BHK",
+        "areaSqFt": 879,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 9900000,
+        "upperQuotedPriceInr": 10100000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "1 BHK + Study",
+        "areaSqFt": 1016,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 11200000,
+        "upperQuotedPriceInr": 12000000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK",
+        "areaSqFt": 1257,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 14300000,
+        "upperQuotedPriceInr": 15100000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK + Study",
+        "areaSqFt": 1428,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 15900000,
+        "upperQuotedPriceInr": 16900000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK",
+        "areaSqFt": 1714,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 18500000,
+        "upperQuotedPriceInr": 20200000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + Study",
+        "areaSqFt": 1911,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 21100000,
+        "upperQuotedPriceInr": 22200000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK Loft",
+        "areaSqFt": 2190,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 25600000,
+        "upperQuotedPriceInr": 26600000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+        "sourceId": "SRC-103",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "STUDIO",
+    "ONE BED",
+    "ONE BED WITH STUDY",
+    "TWO BED",
+    "TWO BED WITH STUDY",
+    "THREE BED",
+    "THREE BED WITH STUDY",
+    "Loft",
+    "SKY VILLA"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 14,
+    "countType": "sourced-named-facility-count",
+    "label": "Master plan labels identify named recreation zones",
+    "namedAmenitiesCount": 14,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "14 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%209%2C%20Survey%20Nos.%20120%20and%20121%2C%20Hoovinayakanahalli%20Village%2C%20Jala%20Hobli%2C%20Bengaluru%20North%2C%20Bengaluru%20Urban%2C%20Karnataka%2C%20562149",
+    "query": "Nikoo Homes 9, Survey Nos. 120 and 121, Hoovinayakanahalli Village, Jala Hobli, Bengaluru North, Bengaluru Urban, Karnataka, 562149",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-101",
+    "SRC-102",
+    "SRC-103",
+    "SRC-104",
+    "SRC-105"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer plans use 468–2,684 sq ft; CP price table uses 506–2,190 sq ft. Store CP quoted layouts separately; do not attach their prices to mismatching primary plans.",
+      "13.5-acre CP master figure, older 15-acre catalogue figure and RERA phase boundary need reconciliation.",
+      "Certificate validity in September 2031 is not a contractual possession promise."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "verified-image-3",
+        "alt": "Nikoo Homes 9 — A1 Studio developer plan",
+        "caption": "Nikoo Homes 9 A1 Studio developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/STUDIO-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-4",
+        "alt": "Nikoo Homes 9 — B1 1 BHK developer plan",
+        "caption": "Nikoo Homes 9 B1 1 BHK developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/ONE-BED-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-5",
+        "alt": "Nikoo Homes 9 — C1 1 BHK + study developer plan",
+        "caption": "Nikoo Homes 9 C1 1 BHK + study developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/ONE-BED-WITH-STUDY-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-6",
+        "alt": "Nikoo Homes 9 — D1 2 BHK developer plan",
+        "caption": "Nikoo Homes 9 D1 2 BHK developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/TWO-BED-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-7",
+        "alt": "Nikoo Homes 9 — F1 2 BHK + study developer plan",
+        "caption": "Nikoo Homes 9 F1 2 BHK + study developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/TWO-BED-WITH-STUDY-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-8",
+        "alt": "Nikoo Homes 9 — G1 3 BHK developer plan",
+        "caption": "Nikoo Homes 9 G1 3 BHK developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/THREE-BED-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-9",
+        "alt": "Nikoo Homes 9 — H1 3 BHK + study developer plan",
+        "caption": "Nikoo Homes 9 H1 3 BHK + study developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/THREE-BED-WITH-STUDY-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-10",
+        "alt": "Nikoo Homes 9 — L1 Loft / duplex developer plan",
+        "caption": "Nikoo Homes 9 L1 Loft / duplex developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/loft-floor-plan.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-11",
+        "alt": "Nikoo Homes 9 — K1 Sky villa developer plan",
+        "caption": "Nikoo Homes 9 K1 Sky villa developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2026/09/SKY-VILLA-floor-plan-scaled.jpg",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cover",
+    "developer-gallery-2",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Nikoo Homes 9",
+    "summary": "Nikoo Homes 9 is a multi-format residential development marketed for Bagalur, with a masterplan combining gardens, recreation and social spaces. Published formats include studios, apartments with additional study areas, lofts and sky villas. The planned community includes sports areas, a shopping plaza and Black Swan Club spaces, creating a wider neighbourhood proposition alongside individual homes.",
+    "highlights": [
+      "Studio through larger apartment formats",
+      "Loft and sky villa options",
+      "Gardens sports and community spaces in the plan",
+      "Shopping plaza and Black Swan Club components"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 13.5,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 8,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "CP reference: 2 basements + ground + 18/23; developer selected plan examples cover floors 3–17",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 1550,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "468–2684",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹62 L–₹2.56 Cr* Onward",
+    "possessionDisplay": "CP tentative December 2030; Phase 1 certificate validity September 2031 is a different field",
+    "sourceIds": [
+      "SRC-101",
+      "SRC-102",
+      "SRC-103",
+      "SRC-104",
+      "SRC-105"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

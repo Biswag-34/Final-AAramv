@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "vidyaranyapura",
+  "published": true,
+  "isDemo": false,
+  "name": "Vidyaranyapura",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North-West Bengaluru",
+  "tagline": "An established neighbourhood; an address worth reading closely.",
+  "description": "Vidyaranyapura is an established residential search area in northern Bengaluru, with local streets, schools and the Sri Kalika Durga Parameshwari Temple as a recognised landmark. Some new projects marketed under Vidyaranyapura lie in Chikkabettahalli towards Yelahanka. Keep that actual village address visible when comparing a home.",
+  "tags": [
+    "North-West Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Vidyaranyapura",
+    "vidyaranyapura",
+    "Bengaluru",
+    "Concorde Antares"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/vidyaranyapura/cover.webp",
+      "alt": "Vidyaranyapura temple gopuram · neighbourhood landmark",
+      "caption": "Vidyaranyapura temple gopuram · neighbourhood landmark",
+      "kind": "landmark-photograph",
+      "credit": "Shiva321 · CC BY-SA 3.0",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vidyaranyapura_Temple-Gopuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Vidyaranyapura_Temple-Gopuram.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2013-01-01",
+      "width": 825,
+      "height": 1100,
+      "checkedAt": "2026-10-28",
+      "sha256": "610066f03b9a7a36482f259f33bffebddfde1bce2ce56dae11fa2716204ca597",
+      "bytes": 251630
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Vidyaranyapura%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Established residential-neighbourhood context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Sri Kalika Durga Parameshwari Temple landmark",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Chikkabettahalli and Yelahanka-side new-home options",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Hesaraghatta Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Hesaraghatta Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hesaraghatta%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Yelahanka Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Yelahanka Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "D-Mart",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "D-Mart is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D-Mart%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Vidyaranyapura its identity?",
+      "answer": "Established residential-neighbourhood context; Sri Kalika Durga Parameshwari Temple landmark; Chikkabettahalli and Yelahanka-side new-home options."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Concorde Antares. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would distinguish living within the established Vidyaranyapura neighbourhood from buying in a nearby new development marketed under its name. Both can be worth comparing, but they solve different everyday needs. We would use your school, work and move-in requirements to decide which addresses belong on your shortlist."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Vidyaranyapura",
+      "url": "https://itms.kar.nic.in/hrcehome/index_temple.php?tid=9",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Vidyaranyapura image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Vidyaranyapura_Temple-Gopuram.jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would distinguish living within the established Vidyaranyapura neighbourhood from buying in a nearby new development marketed under its name. Both can be worth comparing, but they solve different everyday needs. We would use your school, work and move-in requirements to decide which addresses belong on your shortlist.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "concorde-antares"
+  ],
+  "usp": [
+    "Established residential-neighbourhood context",
+    "Sri Kalika Durga Parameshwari Temple landmark",
+    "Chikkabettahalli and Yelahanka-side new-home options"
+  ],
+  "sourceIds": [
+    "SRC-151",
+    "SRC-152"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

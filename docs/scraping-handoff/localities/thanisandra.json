@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "id": "thanisandra",
+  "published": true,
+  "isDemo": false,
+  "name": "Thanisandra",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru",
+  "tagline": "A main-road address. Many different daily routines.",
+  "description": "Thanisandra Main Road links the Nagavara side of the Outer Ring Road with the Hegde Nagar and northern residential belt. The corridor includes larger apartment communities, local retail and routes towards the Manyata employment area. Projects marketed under Thanisandra may actually sit at Hegde Nagar, Thirumenahalli or Bellahalli.",
+  "tags": [
+    "North Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Thanisandra",
+    "thanisandra",
+    "Bengaluru",
+    "Purva Atmosphere",
+    "Nikoo Homes 5",
+    "Concorde NEO"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/thanisandra/cover.webp",
+      "alt": "Thanisandra Main Road · source photograph published in 2020",
+      "caption": "Thanisandra Main Road · source photograph published in 2020",
+      "kind": "landmark-photograph",
+      "credit": "Anand Swamy / Magicbricks · Thanisandra Main Road, 2020 source photograph",
+      "sourceUrl": "https://img.staticmb.com/mbphoto/locality/cropped_images/2020/Oct/29/Photo_h470_w1080/105564_IMG_20200623_145156554_BURST001---Anand-Swamy_470_1080.jpg",
+      "sourcePageUrl": "https://www.magicbricks.com/Thanisandra-Main-Road-in-Bangalore-Overview",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 626,
+      "height": 470,
+      "checkedAt": "2026-10-28",
+      "sha256": "14193b0e99832fa6cf3825817b47b3977f8c700b7043dfb92288fffced9bce55",
+      "bytes": 36682
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Use landmarks such as Manyata Tech Park, Rashtrotthana Vidya Kendra, Elements Mall and Aster CMI Hospital as starting points for your own route checks. Confirm access from the exact project location and compare peak-hour journeys before you decide.",
+    "Review Purva Atmosphere, Nikoo Homes 5 and Concorde NEO by layout, complete cost, current availability and phase-specific possession information."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Thanisandra Main Road as the corridor spine",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Manyata and Nagavara employment context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "A range of gated apartment formats along the wider belt",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "3"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Rashtrotthana Vidya Kendra",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Rashtrotthana Vidya Kendra is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rashtrotthana%20Vidya%20Kendra%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Aster CMI Hospital",
+      "category": "Hospital",
+      "icon": "Hospital",
+      "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aster%20CMI%20Hospital%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Thanisandra its identity?",
+      "answer": "Thanisandra Main Road as the corridor spine; Manyata and Nagavara employment context; A range of gated apartment formats along the wider belt."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Purva Atmosphere, Nikoo Homes 5, Concorde NEO. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "Thanisandra is useful to compare when you want apartment choice around the northern employment belt. We would first identify the part of the corridor that works for your commute, then compare layout, full purchase cost and completion stage. Two projects using the same Thanisandra label can lead to very different everyday journeys."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Thanisandra",
+      "url": "https://housing.com/thanisandra-bengaluru-overview-P4hd4a6xdrnnmtn5w",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Thanisandra image source",
+      "url": "https://www.magicbricks.com/Thanisandra-Main-Road-in-Bangalore-Overview",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "Thanisandra is useful to compare when you want apartment choice around the northern employment belt. We would first identify the part of the corridor that works for your commute, then compare layout, full purchase cost and completion stage. Two projects using the same Thanisandra label can lead to very different everyday journeys.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "purva-atmosphere",
+    "nikoo-homes-5",
+    "concorde-neo"
+  ],
+  "usp": [
+    "Thanisandra Main Road as the corridor spine",
+    "Manyata and Nagavara employment context",
+    "A range of gated apartment formats along the wider belt"
+  ],
+  "sourceIds": [
+    "SRC-139",
+    "SRC-140"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

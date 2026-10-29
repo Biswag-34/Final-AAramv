@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "id": "devanahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "Devanahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Airport corridor",
+  "tagline": "A town, a fort and a wider world of home choices.",
+  "description": "Devanahalli combines an established town and historic fort with a much wider airport-corridor property market. Apartment communities and plotted developments sit at different points across the taluk and its connecting roads. A Devanahalli address should therefore identify the village and project entrance as well as the familiar town name.",
+  "tags": [
+    "North Bengaluru · Airport corridor",
+    "Apartment",
+    "Plot"
+  ],
+  "searchKeywords": [
+    "Devanahalli",
+    "devanahalli",
+    "Bengaluru",
+    "Sattva Park Cubix",
+    "Brigade Oasis",
+    "Century Seasons"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/devanahalli/cover.webp",
+      "alt": "Devanahalli Fort · historic town landmark",
+      "caption": "Devanahalli Fort · historic town landmark",
+      "kind": "landmark-photograph",
+      "credit": "Hitha Nanjappa · CC BY-SA 3.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Devanahalli_Fort_entrance%2C_Devanahalli%2C_Bengaluru%2C_Karnataka%2C_India_%282006%29.jpg/1920px-Devanahalli_Fort_entrance%2C_Devanahalli%2C_Bengaluru%2C_Karnataka%2C_India_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Devanahalli_Fort_entrance,_Devanahalli,_Bengaluru,_Karnataka,_India_(2006).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "Taken on 4 March 2006, 12:56:28",
+      "width": 1440,
+      "height": 1082,
+      "checkedAt": "2026-10-28",
+      "sha256": "18cc4d2ad208447c3c0eda9a13036eb4212a79634d042de29970dd889c4ae59b",
+      "bytes": 181216
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Historic Devanahalli Fort and town setting",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Kempegowda International Airport in the wider taluk",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Apartment and plotted-development options across distinct locations",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "3"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment, Plot",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "The KOI Junction",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "The KOI Junction is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20KOI%20Junction%2C%20Bengaluru"
+    },
+    {
+      "name": "D Mart",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "D Mart is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=D%20Mart%2C%20Bengaluru"
+    },
+    {
+      "name": "Devanahalli Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Devanahalli Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli%20Station%2C%20Bengaluru"
+    },
+    {
+      "name": "NAFL-NPS School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "NAFL-NPS School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=NAFL-NPS%20School%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Devanahalli its identity?",
+      "answer": "Historic Devanahalli Fort and town setting; Kempegowda International Airport in the wider taluk; Apartment and plotted-development options across distinct locations."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Sattva Park Cubix, Brigade Oasis, Century Seasons. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would separate a town-based apartment search from a larger-plot search on the surrounding roads. Your work route, school plans and intended move-in date determine which location deserves attention. The airport is a useful regional anchor, but it should not hide differences in road access, services or distance from the town."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Devanahalli",
+      "url": "https://bangalorerural.nic.in/en/tourist-place/kempegowda-international-airport/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Devanahalli image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Devanahalli_Fort_entrance,_Devanahalli,_Bengaluru,_Karnataka,_India_(2006).jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would separate a town-based apartment search from a larger-plot search on the surrounding roads. Your work route, school plans and intended move-in date determine which location deserves attention. The airport is a useful regional anchor, but it should not hide differences in road access, services or distance from the town.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "sattva-park-cubix",
+    "brigade-oasis",
+    "century-seasons"
+  ],
+  "usp": [
+    "Historic Devanahalli Fort and town setting",
+    "Kempegowda International Airport in the wider taluk",
+    "Apartment and plotted-development options across distinct locations"
+  ],
+  "sourceIds": [
+    "SRC-141",
+    "SRC-142"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

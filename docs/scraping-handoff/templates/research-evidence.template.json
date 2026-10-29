@@ -1,0 +1,40 @@
+{
+  "note": "Optional research sidecar only. Do not merge these extra keys into the strict live catalogue records.",
+  "recordType": "property",
+  "recordId": "",
+  "phaseOrBlock": null,
+  "configurationId": null,
+  "unitId": null,
+  "saleType": null,
+  "claims": [
+    {
+      "fieldPath": "",
+      "value": null,
+      "sourceUrl": null,
+      "sourceType": null,
+      "sourceScope": null,
+      "reviewedAt": null,
+      "verificationState": "unverified",
+      "notes": ""
+    }
+  ],
+  "quotation": {
+    "quoteDate": null,
+    "validUntil": null,
+    "costSheetSourceUrl": null,
+    "includedCharges": [],
+    "excludedCharges": [],
+    "availabilityCheckedAt": null
+  },
+  "mediaRights": [
+    {
+      "imageId": "",
+      "sourcePageUrl": null,
+      "permissionStatus": "unconfirmed",
+      "permissionEvidence": null,
+      "imageType": null,
+      "phase": null,
+      "capturedAt": null
+    }
+  ]
+}

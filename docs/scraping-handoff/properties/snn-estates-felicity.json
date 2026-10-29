@@ -1,0 +1,1358 @@
+{
+  "schemaVersion": 2,
+  "id": "snn-estates-felicity",
+  "published": true,
+  "isDemo": false,
+  "name": "SNN Estates Felicity",
+  "localityId": "rachenahalli",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "SNN Estates",
+  "phaseName": null,
+  "address": "Railway Parallel Road, Mestri Palya, Rachenahalli/Jakkur, behind Manyata Business Park, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "SNN Estates Felicity is an apartment community behind the Manyata employment area, offering formats from 1.5 to four bedrooms. The developer describes a 6-acre-and-20-gunta site, with recreation built around its Happiness Club and shared indoor and outdoor facilities. Miyawaki-inspired landscaping, a festive activity lane and varied window and balcony treatments give the project its character.",
+  "possession": {
+    "label": "December 2028, CP reference",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+    "sourceId": "SRC-075",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2028,
+    "month": 12
+  },
+  "searchKeywords": [
+    "SNN Estates Felicity",
+    "SNN Estates",
+    "Rachenahalli",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/snn-estates-felicity/master-plan.webp",
+      "alt": "SNN Estates Felicity — master plan",
+      "caption": "SNN Estates Felicity master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/snn-estates-felicity_1761803539345-369393864.webp",
+      "width": 1900,
+      "height": 1036,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "7241ff09534ebda0b2891fede9c2ec18747bb89982767e89ccd6ecbe2e3d3f9a",
+      "bytes": 241108
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/snn-estates-felicity/plan-1.webp",
+      "alt": "SNN Estates Felicity — 1.5 BHK (with additional flexible room), 700 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 1.5 BHK (with additional flexible room), 700 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_1--1713614756662-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "8aa0b3a4fe2d7f97cc42fe01cd90682e34493a58f7513e374257e30745fee458",
+      "bytes": 93876
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/snn-estates-felicity/plan-2.webp",
+      "alt": "SNN Estates Felicity — 1.5 BHK (with additional flexible room), 715 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 1.5 BHK (with additional flexible room), 715 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_1--1713614756684-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a3d334f5b7f92ab2512c0560d2838169cc81a67ad2164205bf306af240cec5ee",
+      "bytes": 95208
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/snn-estates-felicity/plan-3.webp",
+      "alt": "SNN Estates Felicity — 2 BHK, 1060 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 2 BHK, 1060 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_2_BHK_1060_Sqft_Unit_Plan--1713614756707-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "19b65e96566ff7b4ed4574dc3edcf108904b52cf5b991169abb3ac9d3e1a8838",
+      "bytes": 109104
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/snn-estates-felicity/plan-4.webp",
+      "alt": "SNN Estates Felicity — 2 BHK, 1090 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 2 BHK, 1090 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_2_BHK_1090_Sqft_Unit_Plan--1713614756733-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "66776e287251c55b4d2b22c14e52bbf48db29b987c4c38caf32fa441ae122d2b",
+      "bytes": 108516
+    },
+    {
+      "id": "plan-5",
+      "src": "/images/projects/snn-estates-felicity/plan-5.webp",
+      "alt": "SNN Estates Felicity — 2 BHK, 1120 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 2 BHK, 1120 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_2_BHK_1120_Sqft_Unit_Plan--1732771620851-img.webp",
+      "width": 843,
+      "height": 596,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "6d89d040c4c3de50dfc3b1a302a42dfd71bb2816dea4aa1e6cfb84fec86018a7",
+      "bytes": 31948
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/snn-estates-felicity/plan-6.webp",
+      "alt": "SNN Estates Felicity — 2.5 BHK (with additional flexible room), 1215 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 2.5 BHK (with additional flexible room), 1215 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_2--1713614756754-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bcfbf5f2ffb07c608f69c919f369bd61f0ba1fe89c0714c3860c69159ba0cfdf",
+      "bytes": 104552
+    },
+    {
+      "id": "plan-7",
+      "src": "/images/projects/snn-estates-felicity/plan-7.webp",
+      "alt": "SNN Estates Felicity — 3 BHK, 1380 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 3 BHK, 1380 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_3_BHK_1380_Sqft_Unit_Plan--1713614757163-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a0ee2269e60803d07da433e0c062e84e9bce38313b95fe666b7332a353c8a65f",
+      "bytes": 115396
+    },
+    {
+      "id": "plan-8",
+      "src": "/images/projects/snn-estates-felicity/plan-8.webp",
+      "alt": "SNN Estates Felicity — 3 BHK, 1620 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 3 BHK, 1620 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_3_BHK_1620_Sqft_Unit_Plan--1713614757192-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "87c6f062de5ea196b5b76886d89c34a38b1d95e4a33dd4e35e88dd8123fce1d1",
+      "bytes": 129568
+    },
+    {
+      "id": "plan-9",
+      "src": "/images/projects/snn-estates-felicity/plan-9.webp",
+      "alt": "SNN Estates Felicity — 3 BHK, 1695 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 3 BHK, 1695 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_3_BHK_1695_Sqft_Unit_Plan--1713616313760-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "3c499577f7a75bacde239f5fd59f7d9a132c0b04200236bb0d3ccbd4b9419450",
+      "bytes": 128314
+    },
+    {
+      "id": "plan-10",
+      "src": "/images/projects/snn-estates-felicity/plan-10.webp",
+      "alt": "SNN Estates Felicity — 3 BHK, 1725 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 3 BHK, 1725 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_3_BHK_1725_Sqft_Unit_Plan--1713616313784-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "4c0cda7201245de99cd8b1f269efbe30e96dab96e93f58b188cc4f8e7467b6b8",
+      "bytes": 128030
+    },
+    {
+      "id": "plan-11",
+      "src": "/images/projects/snn-estates-felicity/plan-11.webp",
+      "alt": "SNN Estates Felicity — 4 BHK, 1890 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 4 BHK, 1890 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_4_BHK_1890_Sqft_Unit_Plan--1713616313806-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "85e1957f626e2e955409bd50a50b93f9357a7dd837acaf86db5a683bf00250ca",
+      "bytes": 152738
+    },
+    {
+      "id": "plan-12",
+      "src": "/images/projects/snn-estates-felicity/plan-12.webp",
+      "alt": "SNN Estates Felicity — 4 BHK, 1950 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 4 BHK, 1950 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_4_BHK_1950_Sqft_Unit_Plan--1713616313827-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "1a4603152f1b2517910e8c6e40c91b7d0a55f378f418be26a0eb644bd09b92ac",
+      "bytes": 163038
+    },
+    {
+      "id": "plan-13",
+      "src": "/images/projects/snn-estates-felicity/plan-13.webp",
+      "alt": "SNN Estates Felicity — 4 BHK, 1995 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 4 BHK, 1995 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_4_BHK_1995_Sqft_Unit_Plan--1713616313845-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "23dd064fe3e8ba5b859ce6ce3a36632f4b025dcad028c86287ad1888c6e3112b",
+      "bytes": 149900
+    },
+    {
+      "id": "plan-14",
+      "src": "/images/projects/snn-estates-felicity/plan-14.webp",
+      "alt": "SNN Estates Felicity — 4 BHK, 2200 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 4 BHK, 2200 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_4_BHK_2200_Sqft_Unit_Plan--1713616314276-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "bf168056679aeeab151161f33b0d332f3e4784a4fabb6136c593ee713dec1979",
+      "bytes": 141674
+    },
+    {
+      "id": "plan-15",
+      "src": "/images/projects/snn-estates-felicity/plan-15.webp",
+      "alt": "SNN Estates Felicity — 4 BHK, 2300 sq ft built-up unit plan",
+      "caption": "SNN Estates Felicity 4 BHK, 2300 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/SNN_Estates_Felicity_4_BHK_2300_Sqft_Unit_Plan--1713616314345-img.webp",
+      "width": 1900,
+      "height": 1344,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "0ce30333633a6958ec572d49d8888cf7f5d5456fd98afed77731a9563142438c",
+      "bytes": 153890
+    },
+    {
+      "id": "developer-hero",
+      "src": "/images/projects/snn-estates-felicity/developer-hero.webp",
+      "alt": "snn-estates-felicity — developer project visual",
+      "caption": "SNN Estates Felicity · Developer visual",
+      "kind": "exterior",
+      "credit": "SNN Estates published project visual",
+      "sourceUrl": "https://felicity.snnestates.com/wp-content/themes/framesync/public/overview/01-960w.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 960,
+      "height": 793,
+      "sourcePageUrl": "https://felicity.snnestates.com/",
+      "usage": "project-content",
+      "sha256": "e54dc99ceda6f88ea636f8c1578277f5dcecbf6eedf4a81a90761147c5c9c6fb",
+      "bytes": 208118
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/snn-estates-felicity/cp-gallery-1.webp",
+      "alt": "SNN Estates Felicity near Manyata Tech Park, Rachenahalli, Bangalore",
+      "caption": "SNN Estates Felicity · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/02/Main-Elevation-SNN-Estates-Felicity.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 622,
+      "sourcePageUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+      "usage": "project-content",
+      "sha256": "78fa0fe88b201be9f351c902833001cc3498eeeeb29965ab3687882ed4f8d071",
+      "bytes": 88054
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/snn-estates-felicity/cp-gallery-2.webp",
+      "alt": "clubhouse snn estates felicity",
+      "caption": "SNN Estates Felicity · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/02/Clubhouse-SNN-Estates-Felicity.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 830,
+      "height": 829,
+      "sourcePageUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+      "usage": "project-content",
+      "sha256": "5cf3cac26dcc93d22ea6a30dc909d86f11a24425480b7233fd197b95af5f77a7",
+      "bytes": 96472
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/snn-estates-felicity/cp-gallery-3.webp",
+      "alt": "1.5bhk 700 snn estates felicity",
+      "caption": "SNN Estates Felicity · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/02/1.5BHK-700-SNN-Estates-Felicity-768x429.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 429,
+      "sourcePageUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+      "usage": "project-content",
+      "sha256": "79c74d1cde361d4092e2ba18bd64542f75e0b90dc8b5f8d1a87226b9832e2b3a",
+      "bytes": 32212
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0677706,
+    "longitude": 77.62287
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=SNN%20Estates%20Felicity%2C%20Railway%20Parallel%20Road%2C%20Mestri%20Palya%2C%20Rachenahalli/Jakkur%2C%20behind%20Manyata%20Business%20Park%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "1.5 BHK (with additional flexible room) — 700 sq ft",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 700,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "1.5 BHK (with additional flexible room) — 715 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 715,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "2 BHK — 1060 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1060,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "2 BHK — 1090 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1090,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "2 BHK — 1120 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1120,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-5",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "2.5 BHK (with additional flexible room) — 1215 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1215,
+      "areaBasis": "built-up",
+      "startingPriceInr": 16000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": [
+        "SRC-075"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1380 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1380,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-7",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "3 BHK — 1620 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1620,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-8",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-9",
+      "label": "3 BHK — 1695 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1695,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-9",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-10",
+      "label": "3 BHK — 1725 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1725,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-10",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-11",
+      "label": "4 BHK — 1890 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 1890,
+      "areaBasis": "built-up",
+      "startingPriceInr": 24700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-11",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": [
+        "SRC-075"
+      ]
+    },
+    {
+      "id": "configuration-12",
+      "label": "4 BHK — 1950 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 1950,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-12",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-13",
+      "label": "4 BHK — 1995 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 1995,
+      "areaBasis": "built-up",
+      "startingPriceInr": 26300000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-13",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": [
+        "SRC-075"
+      ]
+    },
+    {
+      "id": "configuration-14",
+      "label": "4 BHK — 2200 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2200,
+      "areaBasis": "built-up",
+      "startingPriceInr": 29000000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-14",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": [
+        "SRC-075"
+      ]
+    },
+    {
+      "id": "configuration-15",
+      "label": "4 BHK — 2300 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2300,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-15",
+      "sourceIds": [
+        "SRC-077"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 6.5,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 9,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Ground + 13 upper floors; confirm basements on the approved plan",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 580,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "700–2300",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Six acres and 20 guntas",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "1.5 2 2.5 3 and 4 BHK formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "50000 sq ft of facilities in the developer description",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Miyawaki inspired landscape and social activity lane",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball court",
+      "description": "Basketball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket practice pitch",
+      "description": "Cricket practice pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating rink",
+      "description": "Skating rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and meditation space",
+      "description": "Yoga and meditation space within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Badminton court",
+      "description": "Badminton court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Chess",
+      "description": "Chess within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Carrom",
+      "description": "Carrom within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Snooker",
+      "description": "Snooker within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Spa",
+      "description": "Spa within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Reading lounge",
+      "description": "Reading lounge within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Table tennis",
+      "description": "Table tennis within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Aerobics space",
+      "description": "Aerobics space within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet park",
+      "description": "Pet park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Aqua gym",
+      "description": "Aqua gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pickleball court",
+      "description": "Pickleball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Squash court",
+      "description": "Squash court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-073",
+        "SRC-074"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "State Highway 104",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "State Highway 104 is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=State%20Highway%20104%2C%20Bengaluru"
+    },
+    {
+      "name": "Reliance Digital",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 3.6,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reliance%20Digital%2C%20Bengaluru"
+    },
+    {
+      "name": "Decathlon",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 3.8,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Decathlon%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-4",
+      "title": "Developer brochure / plan document",
+      "url": "https://felicity.snnestates.com/wp-content/uploads/2026/06/SNN-Estates-Felicity-Brochure.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-076"
+    }
+  ],
+  "relatedPropertyIds": [
+    "sumadhura-epitome-i",
+    "sb-urban-park"
+  ],
+  "content": {
+    "overviewTitle": "What defines SNN Estates Felicity",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Railway Parallel Road, Mestri Palya, Rachenahalli/Jakkur, behind Manyata Business Park, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about SNN Estates Felicity"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is SNN Estates Felicity located?",
+      "answer": "Railway Parallel Road, Mestri Palya, Rachenahalli/Jakkur, behind Manyata Business Park, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "1.5 BHK (with additional flexible room), 2 BHK, 2.5 BHK (with additional flexible room), 3 BHK, 4 BHK. Documented saleable/super built-up plan areas span 700–2300 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹93.5 L* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: December 2028, CP reference. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming pool, Basketball court, Children’s play area, Cricket practice pitch, Skating rink, Yoga and meditation space. 50,000 sq ft is a facilities-area claim, not an amenity count. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Six acres and 20 guntas 1.5 2 2.5 3 and 4 BHK formats 50000 sq ft of facilities in the developer description. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "SNN Estates Felicity",
+      "url": "https://felicity.snnestates.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "SNN Estates Felicity",
+      "url": "https://felicity.snnestates.com/project-status/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "SNN Estates Felicity",
+      "url": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "SNN Estates Felicity",
+      "url": "https://felicity.snnestates.com/wp-content/uploads/2026/06/SNN-Estates-Felicity-Brochure.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "SNN Estates Felicity"
+  ],
+  "projectScale": {
+    "landAreaAcres": 6.5,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 9,
+    "floorArrangement": "Ground + 13 upper floors; confirm basements on the approved plan",
+    "totalHomesOrPlots": 580,
+    "sourceIds": [
+      "SRC-073",
+      "SRC-074",
+      "SRC-075",
+      "SRC-076"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹93.5 L* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 9350000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 9350000,
+      "highestConfigurationStartInr": 29000000,
+      "displayText": "₹93.5 L–₹2.9 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1.5 BHK",
+        "areaSqFt": null,
+        "startingPriceInr": 9350000,
+        "sourceUrl": "https://felicity.snnestates.com/",
+        "sourceId": "SRC-073",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK",
+        "areaSqFt": null,
+        "startingPriceInr": 13900000,
+        "sourceUrl": "https://felicity.snnestates.com/",
+        "sourceId": "SRC-073",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2.5 BHK",
+        "areaSqFt": 1215,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 16000000,
+        "upperQuotedPriceInr": 16000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK",
+        "areaSqFt": 1345,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 17800000,
+        "upperQuotedPriceInr": 17800000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK",
+        "areaSqFt": 1615,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 21300000,
+        "upperQuotedPriceInr": 21300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK",
+        "areaSqFt": 1890,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 24700000,
+        "upperQuotedPriceInr": 24700000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK",
+        "areaSqFt": 1995,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 26300000,
+        "upperQuotedPriceInr": 26300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK",
+        "areaSqFt": 2200,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 29000000,
+        "upperQuotedPriceInr": 29000000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+        "sourceId": "SRC-075",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "1.5 BHK (with additional flexible room)",
+    "2 BHK",
+    "2.5 BHK (with additional flexible room)",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 19,
+    "countType": "sourced-named-facility-count",
+    "label": "50,000 sq ft is a facilities-area claim, not an amenity count",
+    "namedAmenitiesCount": 19,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "19 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=SNN%20Estates%20Felicity%2C%20Railway%20Parallel%20Road%2C%20Mestri%20Palya%2C%20Rachenahalli/Jakkur%2C%20behind%20Manyata%20Business%20Park%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "SNN Estates Felicity, Railway Parallel Road, Mestri Palya, Rachenahalli/Jakkur, behind Manyata Business Park, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4952188386264!2d77.62029507558435!3d13.06777058725642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19efdbf80065%3A0x2ac57fa720e07b0b!2sSNN%20Estates%20Felicity%20-%20Luxury%20Premium%20Condos%20%26%20Luxury%20Studio%20-%20Apartment!5e0!3m2!1sen!2sin!4v1777964261549!5m2!1sen!2sin",
+        "sourceUrl": "https://felicity.snnestates.com/"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-073",
+    "SRC-074",
+    "SRC-075",
+    "SRC-076",
+    "SRC-077"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer 1.5 BHK starts 93.5 lakh and 2 BHK starts 1.39 crore. These override older CP starting figures for those types.",
+      "50,000 sq ft is facilities area, not necessarily enclosed clubhouse area or amenity count.",
+      "CP 3 BHK 1,380 sq ft price 2.73 crore is anomalous relative to the rest of its table and is held for confirmation."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "SNN Estates Felicity — project gallery 1",
+        "caption": "SNN Estates Felicity · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/snn-estates-felicity_1761802316186-216715396.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "SNN Estates Felicity — project gallery 2",
+        "caption": "SNN Estates Felicity · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/snn-estates-felicity_1761802317543-871528439.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "SNN Estates Felicity — project gallery 3",
+        "caption": "SNN Estates Felicity · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/snn-estates-felicity_1761802319071-846774839.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "SNN Estates Felicity — project gallery 4",
+        "caption": "SNN Estates Felicity · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/snn-estates-felicity_1761802320634-493299422.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-hero",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines SNN Estates Felicity",
+    "summary": "SNN Estates Felicity is an apartment community behind the Manyata employment area, offering formats from 1.5 to four bedrooms. The developer describes a 6-acre-and-20-gunta site, with recreation built around its Happiness Club and shared indoor and outdoor facilities. Miyawaki-inspired landscaping, a festive activity lane and varied window and balcony treatments give the project its character.",
+    "highlights": [
+      "Six acres and 20 guntas",
+      "1.5 2 2.5 3 and 4 BHK formats",
+      "50000 sq ft of facilities in the developer description",
+      "Miyawaki inspired landscape and social activity lane"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 6.5,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 9,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Ground + 13 upper floors; confirm basements on the approved plan",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 580,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "700–2300",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹93.5 L* Onward",
+    "possessionDisplay": "December 2028, CP reference",
+    "sourceIds": [
+      "SRC-073",
+      "SRC-074",
+      "SRC-075",
+      "SRC-076",
+      "SRC-077"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "manyata-tech-park",
+  "published": true,
+  "isDemo": false,
+  "name": "Manyata Tech Park",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Manyata work district",
+  "tagline": "Put your work gate on the home-search map.",
+  "description": "Manyata Business Park is a major office district at Nagavara in North Bengaluru. This locality page is an employment-area search guide for homes around the park, not a claim that every listed home sits inside an office campus. The relevant park gate and residential project entrance are essential to a useful comparison.",
+  "tags": [
+    "North Bengaluru · Manyata work district",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Manyata Tech Park",
+    "manyata-tech-park",
+    "Bengaluru",
+    "Lodha Mirabelle"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/manyata-tech-park/cover.webp",
+      "alt": "Manyata Embassy Business Park · employment-area aerial photograph",
+      "caption": "Manyata Embassy Business Park · employment-area aerial photograph",
+      "kind": "landmark-photograph",
+      "credit": "KshitizBathwal / Skyscape Photography · CC BY-SA 4.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manyata_Embassy_Business_Park.jpg/1920px-Manyata_Embassy_Business_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Manyata_Embassy_Business_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "23 June 2019 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "width": 1440,
+      "height": 1078,
+      "checkedAt": "2026-10-28",
+      "sha256": "9719c0e53034226293707733e798abf89e0a62966bf2b091c6d87730b6c4edef",
+      "bytes": 220396
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Major Nagavara office and employment anchor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Outer Ring Road and northern-city road context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Residential search focused on the actual workplace gate",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Nagawara Metro Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Nagawara Metro Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nagawara%20Metro%20Station%2C%20Bengaluru"
+    },
+    {
+      "name": "Rachenahalli Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Rachenahalli Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%20Main%20Road%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Manyata Tech Park its identity?",
+      "answer": "Major Nagavara office and employment anchor; Outer Ring Road and northern-city road context; Residential search focused on the actual workplace gate."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Lodha Mirabelle. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would start with the Manyata gate you use and the hours you travel. From there, we would compare the residential address, home layout and full purchase cost. For a phased development, we would also check the exact tower and schedule, because a workplace-oriented location does not make every phase equally suitable for your move-in plans."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Manyata Tech Park",
+      "url": "https://www.embassyofficeparks.com/AnnualReport-FY21/pdf/valuation-report.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Manyata Tech Park image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Manyata_Embassy_Business_Park.jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would start with the Manyata gate you use and the hours you travel. From there, we would compare the residential address, home layout and full purchase cost. For a phased development, we would also check the exact tower and schedule, because a workplace-oriented location does not make every phase equally suitable for your move-in plans.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "lodha-mirabelle"
+  ],
+  "usp": [
+    "Major Nagavara office and employment anchor",
+    "Outer Ring Road and northern-city road context",
+    "Residential search focused on the actual workplace gate"
+  ],
+  "sourceIds": [
+    "SRC-163",
+    "SRC-164"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

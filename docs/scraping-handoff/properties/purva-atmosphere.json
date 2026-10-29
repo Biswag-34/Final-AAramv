@@ -1,0 +1,878 @@
+{
+  "schemaVersion": 2,
+  "id": "purva-atmosphere",
+  "published": true,
+  "isDemo": false,
+  "name": "Purva Atmosphere",
+  "localityId": "thanisandra",
+  "type": "Apartment",
+  "status": "Ready to move",
+  "developerName": "Puravankara Limited",
+  "phaseName": null,
+  "address": "Survey Nos. 86/1, 86/4, 95/1, 95/2 and 95/3, Thanisandra Main Road, R. K. Hegde Nagar, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road. Its most distinctive feature is the elevated clubhouse experience on the 34th floor, supported by landscaped outdoor areas and smart-home features described by Puravankara. The project combines apartment living with recreation at both ground and elevated levels, giving buyers a specific proposition beyond a standard amenities list.",
+  "possession": {
+    "label": "Ready to move, as reported by CP; verify the selected tower OC",
+    "date": null,
+    "precision": "status",
+    "sourceUrl": "https://www.homznspace.com/purva-atmosphere/",
+    "sourceId": "SRC-021",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Purva Atmosphere",
+    "Puravankara Limited",
+    "Thanisandra",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cp-gallery-2",
+  "images": [
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/purva-atmosphere/cp-gallery-1.webp",
+      "alt": "Purva Atmosphere project visual",
+      "caption": "Purva Atmosphere · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2026/10/main-elevation.webp-purva-heritage-741x476.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 741,
+      "height": 476,
+      "sourcePageUrl": "https://www.homznspace.com/purva-atmosphere/",
+      "usage": "project-content",
+      "sha256": "e665f76a7e9afa8ce58b42897fe43cd5b9f2bcc0ccceda9b89f11ae66a4a549f",
+      "bytes": 36438
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/purva-atmosphere/cp-gallery-2.webp",
+      "alt": "Purva Atmosphere in Thanisandra, Bangalore",
+      "caption": "Purva Atmosphere · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/purva-atmosphere-elevation.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1398,
+      "height": 900,
+      "sourcePageUrl": "https://www.homznspace.com/purva-atmosphere/",
+      "usage": "project-content",
+      "sha256": "8c07478985df059126893bdbb5f672f47389e1ccabd14a6b6e6eff97bd81a565",
+      "bytes": 267082
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/purva-atmosphere/cp-gallery-3.webp",
+      "alt": "Purva Atmosphere Elevation 3",
+      "caption": "Purva Atmosphere · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/purva-atmosphere-elevation-3-768x491.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 491,
+      "sourcePageUrl": "https://www.homznspace.com/purva-atmosphere/",
+      "usage": "project-content",
+      "sha256": "e73c4555b8e6df2eec9005af3cf237bcd479413128a3ee1ebfad040b17d1da9b",
+      "bytes": 29962
+    },
+    {
+      "id": "developer-plan-2bhk-option1",
+      "src": "/images/projects/purva-atmosphere/developer-plan-2bhk-option1.webp",
+      "alt": "Purva Atmosphere 2bhk-option1 developer plan",
+      "caption": "Purva Atmosphere 2bhk-option1 developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "0bcdb3f18845f8798874335e7dc083c0d9a7ba8fa4fea51b4ce15fdf725c3335",
+      "bytes": 46776
+    },
+    {
+      "id": "developer-plan-2bhk-option2",
+      "src": "/images/projects/purva-atmosphere/developer-plan-2bhk-option2.webp",
+      "alt": "Purva Atmosphere 2bhk-option2 developer plan",
+      "caption": "Purva Atmosphere 2bhk-option2 developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "9f55c19a3550d1dd954323034cce7402198f00993a36592a869e464890023a2b",
+      "bytes": 49772
+    },
+    {
+      "id": "developer-plan-3bhk-comfort",
+      "src": "/images/projects/purva-atmosphere/developer-plan-3bhk-comfort.webp",
+      "alt": "Purva Atmosphere 3bhk-comfort developer plan",
+      "caption": "Purva Atmosphere 3bhk-comfort developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "91bc9fa516deac6d1cb5d3860fdded5dd2db18044fc3661de026cf5b603e4f4d",
+      "bytes": 58096
+    },
+    {
+      "id": "developer-plan-3bhk-grand",
+      "src": "/images/projects/purva-atmosphere/developer-plan-3bhk-grand.webp",
+      "alt": "Purva Atmosphere 3bhk-grand developer plan",
+      "caption": "Purva Atmosphere 3bhk-grand developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "d651c387a2b00838395332b9c3931eebab5b669f95a82fa3d7e69fe3bc624418",
+      "bytes": 44782
+    },
+    {
+      "id": "developer-plan-3bhk-luxe",
+      "src": "/images/projects/purva-atmosphere/developer-plan-3bhk-luxe.webp",
+      "alt": "Purva Atmosphere 3bhk-luxe developer plan",
+      "caption": "Purva Atmosphere 3bhk-luxe developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "86012f9f9ec37bedddf221fba956e5f7a42b7cca9ce376decdb1e1dc52f24428",
+      "bytes": 43742
+    },
+    {
+      "id": "developer-plan-4bhk",
+      "src": "/images/projects/purva-atmosphere/developer-plan-4bhk.webp",
+      "alt": "Purva Atmosphere 4bhk developer plan",
+      "caption": "Purva Atmosphere 4bhk developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Puravankara Limited.",
+      "sourceUrl": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 695,
+      "height": 573,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "usage": "project-content",
+      "sha256": "b495d4c79bf36913377930b606b33a0bdd01df16abd9cd7f1e1e08cdd6197bee",
+      "bytes": 55042
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Purva%20Atmosphere%2C%20Survey%20Nos.%2086/1%2C%2086/4%2C%2095/1%2C%2095/2%20and%2095/3%2C%20Thanisandra%20Main%20Road%2C%20R.%20K.%20Hegde%20Nagar%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK — 1280 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1280,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-2bhk-option1",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "2 BHK — 1322 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1322,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-2bhk-option2",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK Comfort — 1680 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1680,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-comfort",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK Grand — 2010 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2010,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-grand",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK Luxe — 2181 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2181,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-luxe",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "4 BHK — 2420 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2420,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-4bhk",
+      "sourceIds": [
+        "SRC-022"
+      ],
+      "floorPlanMatch": "Developer configuration-family plan; confirm the exact area revision before transacting.",
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-1-674-sq-ft-current-developer-campaign-1674",
+      "label": "3 BHK · 1,674 sq ft · current developer campaign",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1674,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-comfort",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-020"
+      ],
+      "floorPlanMatch": "Configuration family reference; area revision requires approval",
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 13,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + up to 34 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 939,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1280–2420",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Clubhouse on the 34th floor",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Developer described smart home features",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Miyawaki inspired landscape component",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Thanisandra Main Road location",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Sky clubhouse",
+      "description": "Sky clubhouse within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga and meditation lawn",
+      "description": "Yoga and meditation lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket practice pitch",
+      "description": "Cricket practice pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Toddlers’ pool",
+      "description": "Toddlers’ pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Volleyball court",
+      "description": "Volleyball court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball half court",
+      "description": "Basketball half court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis court",
+      "description": "Tennis court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Aroma garden",
+      "description": "Aroma garden within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior citizens’ court",
+      "description": "Senior citizens’ court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Miyawaki forest",
+      "description": "Miyawaki forest within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Star-gazing space",
+      "description": "Star-gazing space within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-018",
+        "SRC-019"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": 7,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "Rashtrotthana Vidya Kendra",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Rashtrotthana Vidya Kendra is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 3,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rashtrotthana%20Vidya%20Kendra%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 10,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Aster CMI Hospital",
+      "category": "Hospital",
+      "icon": "Hospital",
+      "description": "Aster CMI Hospital is a hospital or healthcare landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": 12,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aster%20CMI%20Hospital%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "nikoo-homes-5",
+    "concorde-neo"
+  ],
+  "content": {
+    "overviewTitle": "What defines Purva Atmosphere",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey Nos. 86/1, 86/4, 95/1, 95/2 and 95/3, Thanisandra Main Road, R. K. Hegde Nagar, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Purva Atmosphere"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Purva Atmosphere located?",
+      "answer": "Survey Nos. 86/1, 86/4, 95/1, 95/2 and 95/3, Thanisandra Main Road, R. K. Hegde Nagar, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK Comfort, 3 BHK Grand, 3 BHK Luxe, 4 BHK, 3 BHK. Documented saleable/super built-up plan areas span 1280–2420 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹2.55 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Ready to move. Published timeline: Ready to move, as reported by CP; verify the selected tower OC. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Sky clubhouse, Yoga and meditation lawn, Children’s play area, Cricket practice pitch, Jogging track, Swimming pool. No reconciled unique total in the sources used. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Clubhouse on the 34th floor Developer described smart home features Miyawaki inspired landscape component. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Purva Atmosphere",
+      "url": "https://www.puravankara.com/campaigns/atmosphere/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Purva Atmosphere",
+      "url": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Purva Atmosphere",
+      "url": "https://www.puravankara.com/campaigns/r2/atmosphere/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Purva Atmosphere",
+      "url": "https://www.homznspace.com/purva-atmosphere/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/purva-atmosphere",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Purva Atmosphere",
+    "Puravankara Atmosphere"
+  ],
+  "projectScale": {
+    "landAreaAcres": 13,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 3,
+    "floorArrangement": "2 basements + ground + up to 34 upper floors",
+    "totalHomesOrPlots": 939,
+    "sourceIds": [
+      "SRC-018",
+      "SRC-019",
+      "SRC-020",
+      "SRC-021"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹2.55 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 25500000,
+    "maxStartingPriceInr": 25500000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 25500000,
+      "highestConfigurationStartInr": 25500000,
+      "displayText": "₹2.55 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "3 BHK Comfort",
+        "areaSqFt": 1678,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 25500000,
+        "upperQuotedPriceInr": 25500000,
+        "basis": "agreement-price",
+        "sourceUrl": "https://www.homznspace.com/purva-atmosphere/",
+        "sourceId": "SRC-021",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": null,
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK Comfort",
+    "3 BHK Grand",
+    "3 BHK Luxe",
+    "4 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 15,
+    "countType": "sourced-named-facility-count",
+    "label": "No reconciled unique total in the sources used",
+    "namedAmenitiesCount": 15,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "15 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Purva%20Atmosphere%2C%20Survey%20Nos.%2086/1%2C%2086/4%2C%2095/1%2C%2095/2%20and%2095/3%2C%20Thanisandra%20Main%20Road%2C%20R.%20K.%20Hegde%20Nagar%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "Purva Atmosphere, Survey Nos. 86/1, 86/4, 95/1, 95/2 and 95/3, Thanisandra Main Road, R. K. Hegde Nagar, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15546.181307260485!2d77.6336947!3d13.0645877!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x95264b2a77b017e2!2sPurva%20Atmosphere!5e0!3m2!1sen!2sin!4v1575543917032!5m2!1sen!2sin",
+        "sourceUrl": "https://www.puravankara.com/campaigns/atmosphere/"
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7773.364080737168!2d77.62189189462923!3d13.055899699068993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19cd10cc5161%3A0x95264b2a77b017e2!2sPurva%20Atmosphere!5e0!3m2!1sen!2sin!4v1692688488071!5m2!1sen!2sin",
+        "sourceUrl": "https://www.puravankara.com/campaigns/r2/atmosphere/"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-018",
+    "SRC-019",
+    "SRC-020",
+    "SRC-021",
+    "SRC-022"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Two developer campaigns state approximately 13 acres and another states approximately 12; use 13 as an approximate campaign figure, pending registered-scope reconciliation.",
+      "Developer campaigns currently highlight 3 BHK. Original 2 and 4 BHK plans are historical project formats, not a claim of live stock."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "cover",
+        "alt": "Purva Atmosphere — 3 bhk flats in thanisandra bangalore",
+        "caption": "Purva Atmosphere 3 bhk flats in thanisandra bangalore",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://www.puravankara.com/_next/image?url=%2Fuploads%2FPurva_Atmosphere_59c2f79612.jpg&w=2048&q=75",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-2",
+        "alt": "Purva Atmosphere — 3 BHK Flats For Sale in Thanisandra Main Road",
+        "caption": "Purva Atmosphere 3 BHK Flats For Sale in Thanisandra Main Road",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://www.puravankara.com/_next/image?url=%2Fuploads%2FAtmosphere_2_3ac8ae75a5.png&w=1080&q=75",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "image-3",
+        "alt": "Purva Atmosphere — 3bhk flat for sale bangalore",
+        "caption": "Purva Atmosphere 3bhk flat for sale bangalore",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://www.puravankara.com/_next/image?url=%2Fuploads%2FPurva_Atmosphere_691e9443a5.webp&w=2048&q=75",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/purva-atmosphere",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Purva Atmosphere",
+    "summary": "Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road. Its most distinctive feature is the elevated clubhouse experience on the 34th floor, supported by landscaped outdoor areas and smart-home features described by Puravankara. The project combines apartment living with recreation at both ground and elevated levels, giving buyers a specific proposition beyond a standard amenities list.",
+    "highlights": [
+      "Clubhouse on the 34th floor",
+      "Developer described smart home features",
+      "Miyawaki inspired landscape component",
+      "Thanisandra Main Road location"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 13,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + up to 34 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 939,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1280–2420",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹2.55 Cr* Onward",
+    "possessionDisplay": "Ready to move, as reported by CP; verify the selected tower OC",
+    "sourceIds": [
+      "SRC-018",
+      "SRC-019",
+      "SRC-020",
+      "SRC-021",
+      "SRC-022"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

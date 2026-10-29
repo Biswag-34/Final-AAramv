@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "sourceFiles": {
+    "properties": "data/properties.json",
+    "localities": "data/localities.json",
+    "validator": "lib/catalog-schema.ts"
+  },
+  "properties": [
+    {
+      "id": "prestige-finsbury-park",
+      "name": "Prestige Finsbury Park",
+      "localityId": "bagalur",
+      "file": "properties/prestige-finsbury-park.json",
+      "route": "/properties/prestige-finsbury-park"
+    },
+    {
+      "id": "earthsong-by-manyata",
+      "name": "Earthsong by Manyata",
+      "localityId": "ivc-road-devanahalli",
+      "file": "properties/earthsong-by-manyata.json",
+      "route": "/properties/earthsong-by-manyata"
+    },
+    {
+      "id": "brigade-el-dorado",
+      "name": "Brigade El Dorado",
+      "localityId": "kiadb-aerospace-park",
+      "file": "properties/brigade-el-dorado.json",
+      "route": "/properties/brigade-el-dorado"
+    },
+    {
+      "id": "purva-atmosphere",
+      "name": "Purva Atmosphere",
+      "localityId": "thanisandra",
+      "file": "properties/purva-atmosphere.json",
+      "route": "/properties/purva-atmosphere"
+    },
+    {
+      "id": "sattva-park-cubix",
+      "name": "Sattva Park Cubix",
+      "localityId": "devanahalli",
+      "file": "properties/sattva-park-cubix.json",
+      "route": "/properties/sattva-park-cubix"
+    },
+    {
+      "id": "assetz-soul-soil",
+      "name": "Assetz Soul & Soil",
+      "localityId": "chikkagubbi",
+      "file": "properties/assetz-soul-soil.json",
+      "route": "/properties/assetz-soul-soil"
+    },
+    {
+      "id": "mittal-palms",
+      "name": "Mittal Palms",
+      "localityId": "jakkur",
+      "file": "properties/mittal-palms.json",
+      "route": "/properties/mittal-palms"
+    },
+    {
+      "id": "jasper-at-brigade-el-dorado",
+      "name": "Jasper at Brigade El Dorado",
+      "localityId": "kiadb-aerospace-park",
+      "file": "properties/jasper-at-brigade-el-dorado.json",
+      "route": "/properties/jasper-at-brigade-el-dorado"
+    },
+    {
+      "id": "brigade-oasis",
+      "name": "Brigade Oasis",
+      "localityId": "devanahalli",
+      "file": "properties/brigade-oasis.json",
+      "route": "/properties/brigade-oasis"
+    },
+    {
+      "id": "century-seasons",
+      "name": "Century Seasons",
+      "localityId": "devanahalli",
+      "file": "properties/century-seasons.json",
+      "route": "/properties/century-seasons"
+    },
+    {
+      "id": "disha-harmony-gardens",
+      "name": "Disha Harmony Gardens",
+      "localityId": "hennur-road",
+      "file": "properties/disha-harmony-gardens.json",
+      "route": "/properties/disha-harmony-gardens"
+    },
+    {
+      "id": "sumadhura-epitome-i",
+      "name": "Sumadhura Epitome",
+      "localityId": "rachenahalli",
+      "file": "properties/sumadhura-epitome-i.json",
+      "route": "/properties/sumadhura-epitome-i"
+    },
+    {
+      "id": "concorde-antares",
+      "name": "Concorde Antares",
+      "localityId": "vidyaranyapura",
+      "file": "properties/concorde-antares.json",
+      "route": "/properties/concorde-antares"
+    },
+    {
+      "id": "poulomi-florique",
+      "name": "Poulomi Florique",
+      "localityId": "thanisandra-kannur",
+      "file": "properties/poulomi-florique.json",
+      "route": "/properties/poulomi-florique"
+    },
+    {
+      "id": "snn-estates-felicity",
+      "name": "SNN Estates Felicity",
+      "localityId": "rachenahalli",
+      "file": "properties/snn-estates-felicity.json",
+      "route": "/properties/snn-estates-felicity"
+    },
+    {
+      "id": "bhartiya-garden-estate",
+      "name": "Bhartiya Garden Estate",
+      "localityId": "sadahalli",
+      "file": "properties/bhartiya-garden-estate.json",
+      "route": "/properties/bhartiya-garden-estate"
+    },
+    {
+      "id": "sattva-vasanta-skye",
+      "name": "Sattva Vasanta Skye",
+      "localityId": "kannamangala-devanahalli",
+      "file": "properties/sattva-vasanta-skye.json",
+      "route": "/properties/sattva-vasanta-skye"
+    },
+    {
+      "id": "nikoo-homes-6",
+      "name": "Nikoo Homes 6",
+      "localityId": "kogilu",
+      "file": "properties/nikoo-homes-6.json",
+      "route": "/properties/nikoo-homes-6"
+    },
+    {
+      "id": "nikoo-homes-5",
+      "name": "Nikoo Homes 5",
+      "localityId": "thanisandra",
+      "file": "properties/nikoo-homes-5.json",
+      "route": "/properties/nikoo-homes-5"
+    },
+    {
+      "id": "nikoo-homes-8",
+      "name": "Nikoo Homes 8",
+      "localityId": "bellahalli",
+      "file": "properties/nikoo-homes-8.json",
+      "route": "/properties/nikoo-homes-8"
+    },
+    {
+      "id": "nikoo-homes-9",
+      "name": "Nikoo Homes 9",
+      "localityId": "kiadb-aerospace-park",
+      "file": "properties/nikoo-homes-9.json",
+      "route": "/properties/nikoo-homes-9"
+    },
+    {
+      "id": "dnr-parklink",
+      "name": "DNR Parklink",
+      "localityId": "hennur-road",
+      "file": "properties/dnr-parklink.json",
+      "route": "/properties/dnr-parklink"
+    },
+    {
+      "id": "concorde-neo",
+      "name": "Concorde NEO",
+      "localityId": "thanisandra",
+      "file": "properties/concorde-neo.json",
+      "route": "/properties/concorde-neo"
+    },
+    {
+      "id": "concorde-sienna",
+      "name": "Concorde Sienna",
+      "localityId": "hennur-road",
+      "file": "properties/concorde-sienna.json",
+      "route": "/properties/concorde-sienna"
+    },
+    {
+      "id": "lodha-mirabelle",
+      "name": "Lodha Mirabelle",
+      "localityId": "manyata-tech-park",
+      "file": "properties/lodha-mirabelle.json",
+      "route": "/properties/lodha-mirabelle"
+    },
+    {
+      "id": "laurel-maple-at-brigade-orchards",
+      "name": "Laurel & Maple at Brigade Orchards",
+      "localityId": "devanahalli-boodihal",
+      "file": "properties/laurel-maple-at-brigade-orchards.json",
+      "route": "/properties/laurel-maple-at-brigade-orchards"
+    },
+    {
+      "id": "sb-urban-park",
+      "name": "SB Urban Park",
+      "localityId": "rachenahalli",
+      "file": "properties/sb-urban-park.json",
+      "route": "/properties/sb-urban-park"
+    }
+  ],
+  "localities": [
+    {
+      "id": "bagalur",
+      "name": "Bagalur",
+      "file": "localities/bagalur.json",
+      "route": "/localities/bagalur",
+      "propertyIds": [
+        "prestige-finsbury-park"
+      ]
+    },
+    {
+      "id": "ivc-road-devanahalli",
+      "name": "IVC Road, Devanahalli",
+      "file": "localities/ivc-road-devanahalli.json",
+      "route": "/localities/ivc-road-devanahalli",
+      "propertyIds": [
+        "earthsong-by-manyata"
+      ]
+    },
+    {
+      "id": "kiadb-aerospace-park",
+      "name": "KIADB Aerospace Park",
+      "file": "localities/kiadb-aerospace-park.json",
+      "route": "/localities/kiadb-aerospace-park",
+      "propertyIds": [
+        "brigade-el-dorado",
+        "jasper-at-brigade-el-dorado",
+        "nikoo-homes-9"
+      ]
+    },
+    {
+      "id": "thanisandra",
+      "name": "Thanisandra",
+      "file": "localities/thanisandra.json",
+      "route": "/localities/thanisandra",
+      "propertyIds": [
+        "purva-atmosphere",
+        "nikoo-homes-5",
+        "concorde-neo"
+      ]
+    },
+    {
+      "id": "devanahalli",
+      "name": "Devanahalli",
+      "file": "localities/devanahalli.json",
+      "route": "/localities/devanahalli",
+      "propertyIds": [
+        "sattva-park-cubix",
+        "brigade-oasis",
+        "century-seasons"
+      ]
+    },
+    {
+      "id": "chikkagubbi",
+      "name": "Chikkagubbi",
+      "file": "localities/chikkagubbi.json",
+      "route": "/localities/chikkagubbi",
+      "propertyIds": [
+        "assetz-soul-soil"
+      ]
+    },
+    {
+      "id": "jakkur",
+      "name": "Jakkur",
+      "file": "localities/jakkur.json",
+      "route": "/localities/jakkur",
+      "propertyIds": [
+        "mittal-palms"
+      ]
+    },
+    {
+      "id": "hennur-road",
+      "name": "Hennur Road",
+      "file": "localities/hennur-road.json",
+      "route": "/localities/hennur-road",
+      "propertyIds": [
+        "disha-harmony-gardens",
+        "dnr-parklink",
+        "concorde-sienna"
+      ]
+    },
+    {
+      "id": "rachenahalli",
+      "name": "Rachenahalli",
+      "file": "localities/rachenahalli.json",
+      "route": "/localities/rachenahalli",
+      "propertyIds": [
+        "sumadhura-epitome-i",
+        "snn-estates-felicity",
+        "sb-urban-park"
+      ]
+    },
+    {
+      "id": "vidyaranyapura",
+      "name": "Vidyaranyapura",
+      "file": "localities/vidyaranyapura.json",
+      "route": "/localities/vidyaranyapura",
+      "propertyIds": [
+        "concorde-antares"
+      ]
+    },
+    {
+      "id": "thanisandra-kannur",
+      "name": "Thanisandra-Kannur",
+      "file": "localities/thanisandra-kannur.json",
+      "route": "/localities/thanisandra-kannur",
+      "propertyIds": [
+        "poulomi-florique"
+      ]
+    },
+    {
+      "id": "sadahalli",
+      "name": "Sadahalli",
+      "file": "localities/sadahalli.json",
+      "route": "/localities/sadahalli",
+      "propertyIds": [
+        "bhartiya-garden-estate"
+      ]
+    },
+    {
+      "id": "kannamangala-devanahalli",
+      "name": "Kannamangala, Devanahalli",
+      "file": "localities/kannamangala-devanahalli.json",
+      "route": "/localities/kannamangala-devanahalli",
+      "propertyIds": [
+        "sattva-vasanta-skye"
+      ]
+    },
+    {
+      "id": "kogilu",
+      "name": "Kogilu",
+      "file": "localities/kogilu.json",
+      "route": "/localities/kogilu",
+      "propertyIds": [
+        "nikoo-homes-6"
+      ]
+    },
+    {
+      "id": "bellahalli",
+      "name": "Bellahalli",
+      "file": "localities/bellahalli.json",
+      "route": "/localities/bellahalli",
+      "propertyIds": [
+        "nikoo-homes-8"
+      ]
+    },
+    {
+      "id": "manyata-tech-park",
+      "name": "Manyata Tech Park",
+      "file": "localities/manyata-tech-park.json",
+      "route": "/localities/manyata-tech-park",
+      "propertyIds": [
+        "lodha-mirabelle"
+      ]
+    },
+    {
+      "id": "devanahalli-boodihal",
+      "name": "Devanahalli-Boodihal",
+      "file": "localities/devanahalli-boodihal.json",
+      "route": "/localities/devanahalli-boodihal",
+      "propertyIds": [
+        "laurel-maple-at-brigade-orchards"
+      ]
+    }
+  ]
+}

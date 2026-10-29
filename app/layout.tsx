@@ -8,5 +8,6 @@ import './tablet.css';
 import './refinements.css';
 import './experience.css';
 import './visual-refinements.css';
-export const metadata:Metadata={title:'Aaramv Realty — Find your place in Bengaluru',description:'An interactive design concept for Aaramv Realty. Explore homes, neighbourhoods and a guided property buying journey.',robots:{index:false,follow:false},icons:{icon:{url:'/images/aaramv-realty-logo.png',type:'image/png'},apple:'/images/aaramv-realty-logo.png'}};
+import './research-details.css';
+export const metadata:Metadata={metadataBase:new URL('https://www.aaramvreality.com'),title:'Bengaluru Homes and Buyer First Guidance | Aaramv Realty',description:'Compare Bengaluru homes around your budget, everyday routes and priorities. Get a researched shortlist and Aaramv support from first search through move-in.',alternates:{canonical:'/'},robots:{index:false,follow:false},icons:{icon:{url:'/images/aaramv-realty-logo.png',type:'image/png'},apple:'/images/aaramv-realty-logo.png'}};
 export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}

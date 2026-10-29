@@ -1,0 +1,1278 @@
+{
+  "schemaVersion": 2,
+  "id": "mittal-palms",
+  "published": true,
+  "isDemo": false,
+  "name": "Mittal Palms",
+  "localityId": "jakkur",
+  "type": "Apartment",
+  "status": "Ready to move",
+  "developerName": "Mittal Builders",
+  "phaseName": null,
+  "address": "Survey Nos. 31, 32 and 33, Shivanahalli Village, Jakkur Hobli, next to The HDFC School, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "Mittal Palms offers two- and three-bedroom apartments in the Jakkur-Shivanahalli area. The project's published brochure presents a residential setting with landscaped grounds and a lake-oriented outlook. Its location and apartment formats give buyers a clear starting point, while the condition, outlook and documentation of the particular home should determine the final comparison.",
+  "possession": {
+    "label": "Ready to move; secondary registry completion August 2020",
+    "date": null,
+    "precision": "historical-month",
+    "sourceUrl": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/mittal-palms/432",
+    "sourceId": "SRC-040",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2020,
+    "month": 8
+  },
+  "searchKeywords": [
+    "Mittal Palms",
+    "Mittal Builders",
+    "Jakkur",
+    "Bangalore",
+    "Bengaluru"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/mittal-palms/cover.webp",
+      "alt": "Mittal Palms — Gallery Cover Pic of Mittal Palms",
+      "caption": "Mittal Palms · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://housing-images.n7net.in/4f2250e8/51379d132d14d7a98b9bee66924a2375/v0/large/mittal_palms-jakkur-bengaluru-mittal_builders.jpeg",
+      "width": 720,
+      "height": 539,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "d942faff39cc5288dd8eb2b843edab55a72f4a01703ad31ab1b78be12bad9025",
+      "bytes": 63822
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/mittal-palms/image-2.webp",
+      "alt": "Mittal Palms — Gallery Cover Pic of Mittal Palms",
+      "caption": "Mittal Palms · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://housing-images.n7net.in/4f2250e8/51379d132d14d7a98b9bee66924a2375/v0/large/mittal_palms-jakkur-bengaluru-mittal_builders.jpeg",
+      "width": 720,
+      "height": 539,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "d942faff39cc5288dd8eb2b843edab55a72f4a01703ad31ab1b78be12bad9025",
+      "bytes": 63822
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/mittal-palms/image-3.webp",
+      "alt": "Mittal Palms — Mittal Palms Elevation 1",
+      "caption": "Mittal Palms · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://housing-images.n7net.in/012c1500/594f170bb4a6f2755c2a60134feb096c/v0/medium.jpeg",
+      "width": 284,
+      "height": 300,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "82be3e9e1ef58e87d695e9a7447ecf70df935f64b2d7595b8f4bcded055c8b4f",
+      "bytes": 18094
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/mittal-palms/image-4.webp",
+      "alt": "Mittal Palms — Mittal Palms Elevation 2",
+      "caption": "Mittal Palms · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://housing-images.n7net.in/012c1500/6cb5f1a55e6fcef23ca444877c56283a/v0/medium.jpeg",
+      "width": 400,
+      "height": 300,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "9119e7d4561d4039b537582f0b8743fba8a24556a18fa6c85a4d03efa0614151",
+      "bytes": 25578
+    },
+    {
+      "id": "developer-block-a",
+      "src": "/images/projects/mittal-palms/developer-block-a.webp",
+      "alt": "Mittal Palms Block A typical-floor sheet, developer brochure page 10",
+      "caption": "Mittal Palms Block A typical-floor sheet, developer brochure page 10",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 10,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "f96b985dc4a5a0998adda1a903a663acc6a6c340604e9e607aa276f9929460a9",
+      "bytes": 131946
+    },
+    {
+      "id": "developer-block-b",
+      "src": "/images/projects/mittal-palms/developer-block-b.webp",
+      "alt": "Mittal Palms Block B typical-floor sheet, developer brochure page 11",
+      "caption": "Mittal Palms Block B typical-floor sheet, developer brochure page 11",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 11,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "1fc24266fb9b3ae6bc64d24ed6b2879b341599808f76b3b1870a2163eb4f57df",
+      "bytes": 125776
+    },
+    {
+      "id": "developer-block-c",
+      "src": "/images/projects/mittal-palms/developer-block-c.webp",
+      "alt": "Mittal Palms Block C typical-floor sheet, developer brochure page 12",
+      "caption": "Mittal Palms Block C typical-floor sheet, developer brochure page 12",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 12,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "401c43ea36a9c88b69c36ca92a01a3ce1a170bc7d41312026e2b139353c8d09a",
+      "bytes": 126554
+    },
+    {
+      "id": "developer-block-d",
+      "src": "/images/projects/mittal-palms/developer-block-d.webp",
+      "alt": "Mittal Palms Block D typical-floor sheet, developer brochure page 13",
+      "caption": "Mittal Palms Block D typical-floor sheet, developer brochure page 13",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 13,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "059449b957343aff400fda64c421257de22a944b2857e48bd5c14d2685ce6d1a",
+      "bytes": 133052
+    },
+    {
+      "id": "developer-block-e",
+      "src": "/images/projects/mittal-palms/developer-block-e.webp",
+      "alt": "Mittal Palms Block E typical-floor sheet, developer brochure page 14",
+      "caption": "Mittal Palms Block E typical-floor sheet, developer brochure page 14",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 14,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "a9318fb281a971e907d1ea8644a3b0ca0f6a85aa442330af04bcc66609a7495c",
+      "bytes": 136434
+    },
+    {
+      "id": "developer-block-f",
+      "src": "/images/projects/mittal-palms/developer-block-f.webp",
+      "alt": "Mittal Palms Block F typical-floor sheet, developer brochure page 15",
+      "caption": "Mittal Palms Block F typical-floor sheet, developer brochure page 15",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 15,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "c17dae4b559cbf18b4892787a59082ba6af2cd7d0399c659e040be02c948417e",
+      "bytes": 156202
+    },
+    {
+      "id": "developer-block-g",
+      "src": "/images/projects/mittal-palms/developer-block-g.webp",
+      "alt": "Mittal Palms Block G typical-floor sheet, developer brochure page 16",
+      "caption": "Mittal Palms Block G typical-floor sheet, developer brochure page 16",
+      "kind": "floor-plan",
+      "credit": "Project material published by Mittal Builders.",
+      "sourceUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 16,
+      "width": 1872,
+      "height": 1296,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/mittal-palms",
+      "sourceDocumentUrl": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "usage": "project-content",
+      "sha256": "1efffd7ef7d893922957e9de72250a3574078a150ec57a3822d21fd33cc4083a",
+      "bytes": 160226
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mittal%20Palms%2C%20Survey%20Nos.%2031%2C%2032%20and%2033%2C%20Shivanahalli%20Village%2C%20Jakkur%20Hobli%2C%20next%20to%20The%20HDFC%20School%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "block-a-3bhk-1870",
+  "configurations": [
+    {
+      "id": "block-a-3bhk-1870",
+      "label": "Block A · 3 BHK · 1,870 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1870,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-a",
+      "phaseName": "Block A",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-a-3bhk-1950",
+      "label": "Block A · 3 BHK · 1,950 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1950,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-a",
+      "phaseName": "Block A",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-a-3bhk-1775",
+      "label": "Block A · 3 BHK · 1,775 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1775,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-a",
+      "phaseName": "Block A",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-a-3bhk-1830",
+      "label": "Block A · 3 BHK · 1,830 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1830,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-a",
+      "phaseName": "Block A",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-b-2bhk-1245",
+      "label": "Block B · 2 BHK · 1,245 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1245,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-b",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block B",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-b-2bhk-1235",
+      "label": "Block B · 2 BHK · 1,235 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1235,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-b",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block B",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-b-3bhk-1695",
+      "label": "Block B · 3 BHK · 1,695 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1695,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-b",
+      "phaseName": "Block B",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-b-3bhk-1700",
+      "label": "Block B · 3 BHK · 1,700 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1700,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-b",
+      "phaseName": "Block B",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-c-2bhk-1245",
+      "label": "Block C · 2 BHK · 1,245 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1245,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-c",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block C",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-c-2bhk-1235",
+      "label": "Block C · 2 BHK · 1,235 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1235,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-c",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block C",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-c-3bhk-1695",
+      "label": "Block C · 3 BHK · 1,695 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1695,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-c",
+      "phaseName": "Block C",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-c-3bhk-1755",
+      "label": "Block C · 3 BHK · 1,755 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1755,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-c",
+      "phaseName": "Block C",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-d-2bhk-1245",
+      "label": "Block D · 2 BHK · 1,245 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1245,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-d",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block D",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-d-2bhk-1235",
+      "label": "Block D · 2 BHK · 1,235 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1235,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-d",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block D",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-d-3bhk-1695",
+      "label": "Block D · 3 BHK · 1,695 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1695,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-d",
+      "phaseName": "Block D",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-d-3bhk-1700",
+      "label": "Block D · 3 BHK · 1,700 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1700,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-d",
+      "phaseName": "Block D",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-e-2bhk-1295",
+      "label": "Block E · 2 BHK · 1,295 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1295,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-e",
+      "phaseName": "Block E",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-e-2bhk-1180",
+      "label": "Block E · 2 BHK · 1,180 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1180,
+      "areaBasis": "unspecified",
+      "startingPriceInr": 8817000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-e",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block E",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": [
+        "SRC-039"
+      ]
+    },
+    {
+      "id": "block-e-3bhk-1750",
+      "label": "Block E · 3 BHK · 1,750 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1750,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-e",
+      "phaseName": "Block E",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-e-3bhk-1755",
+      "label": "Block E · 3 BHK · 1,755 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1755,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-e",
+      "phaseName": "Block E",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-f-2bhk-1295",
+      "label": "Block F · 2 BHK · 1,295 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1295,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-f",
+      "phaseName": "Block F",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-f-2bhk-1235",
+      "label": "Block F · 2 BHK · 1,235 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1235,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-f",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block F",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-f-3bhk-1695",
+      "label": "Block F · 3 BHK · 1,695 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1695,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-f",
+      "phaseName": "Block F",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-f-3bhk-1700",
+      "label": "Block F · 3 BHK · 1,700 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1700,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-f",
+      "phaseName": "Block F",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-g-2bhk-1220",
+      "label": "Block G · 2 BHK · 1,220 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1220,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-g",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block G",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-g-2bhk-1210",
+      "label": "Block G · 2 BHK · 1,210 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1210,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-g",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "phaseName": "Block G",
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-g-3bhk-1745",
+      "label": "Block G · 3 BHK · 1,745 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1745,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-g",
+      "phaseName": "Block G",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-g-3bhk-1755",
+      "label": "Block G · 3 BHK · 1,755 sq ft brochure total area",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1755,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-g",
+      "phaseName": "Block G",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    },
+    {
+      "id": "block-g-2bhk-1300",
+      "label": "Block G · 2 BHK · 1,300 sq ft brochure total area",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1300,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-block-g",
+      "phaseName": "Block G",
+      "sourceIds": [
+        "SRC-037"
+      ],
+      "areaBasisLabel": "Total area as printed in developer brochure",
+      "floorPlanMatch": "Exact area and BHK listed in the linked block typical-floor schedule",
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 3.33,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 7,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 buildings of 7 floors and 5 buildings of 8 floors, portal reference",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 144,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1180–1950",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Two and three bedroom apartment formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Jakkur Shivanahalli location",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped residential setting",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Lake oriented positioning with unit specific outlooks",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Entrance lobby",
+      "description": "Entrance lobby within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Solar lighting",
+      "description": "Solar lighting within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Lifts",
+      "description": "Lifts within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaped gardens",
+      "description": "Landscaped gardens within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Car parking",
+      "description": "Car parking within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose room",
+      "description": "Multipurpose room within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Health facilities",
+      "description": "Health facilities within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-037",
+        "SRC-038"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "HDFC School, Jakkur",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "HDFC School, Jakkur is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=HDFC%20School%2C%20Jakkur%2C%20Bengaluru"
+    },
+    {
+      "name": "Dasarahalli Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Dasarahalli Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 2.7,
+      "travelMinutes": 5,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dasarahalli%20Bus%20Stop%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-037"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Mittal Palms",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Survey Nos. 31, 32 and 33, Shivanahalli Village, Jakkur Hobli, next to The HDFC School, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Mittal Palms"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Mittal Palms located?",
+      "answer": "Survey Nos. 31, 32 and 33, Shivanahalli Village, Jakkur Hobli, next to The HDFC School, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Block A, Block B, Block C, Block D, Block E, Block F, Block G. Documented saleable/super built-up plan areas span 1180–1950 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹88.17 L–₹1.01 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Ready to move. Published timeline: Ready to move; secondary registry completion August 2020. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Children’s play area, Entrance lobby, Solar lighting, Swimming pool, Lifts, Landscaped gardens. 20+ amenities advertised on Housing; supplied brochure should govern delivery. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Two and three bedroom apartment formats Jakkur Shivanahalli location Landscaped residential setting. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Mittal Palms",
+      "url": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Mittal Palms",
+      "url": "https://kla.kar.nic.in/council/house/Paperlaid/152/87.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Mittal Palms",
+      "url": "https://housing.com/in/buy/projects/page/8387-mittal-palms-by-mittal-builders-in-jakkur",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Mittal Palms",
+      "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/mittal-palms/432",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/mittal-palms",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Mittal Palms"
+  ],
+  "projectScale": {
+    "landAreaAcres": 3.33,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 7,
+    "floorArrangement": "2 buildings of 7 floors and 5 buildings of 8 floors, portal reference",
+    "totalHomesOrPlots": null,
+    "sourceIds": [
+      "SRC-037",
+      "SRC-038",
+      "SRC-039",
+      "SRC-040"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹88.17 L–₹1.01 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 8817000,
+    "maxStartingPriceInr": 10100000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 8817000,
+      "highestConfigurationStartInr": 10100000,
+      "displayText": "₹88.17 L–₹1.01 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "2 BHK",
+        "areaSqFt": 1180,
+        "startingPriceInr": 8817000,
+        "upperQuotedPriceInr": 8817000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://housing.com/in/buy/projects/page/8387-mittal-palms-by-mittal-builders-in-jakkur",
+        "sourceId": "SRC-039",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK",
+        "areaSqFt": null,
+        "startingPriceInr": 10100000,
+        "upperQuotedPriceInr": 10100000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://housing.com/in/buy/projects/page/8387-mittal-palms-by-mittal-builders-in-jakkur",
+        "sourceId": "SRC-039",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Block A",
+    "Block B",
+    "Block C",
+    "Block D",
+    "Block E",
+    "Block F",
+    "Block G"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 20,
+    "countType": "advertised-lower-bound",
+    "label": "20+ amenities advertised on Housing; supplied brochure should govern delivery",
+    "namedAmenitiesCount": 11,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "20+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Mittal%20Palms%2C%20Survey%20Nos.%2031%2C%2032%20and%2033%2C%20Shivanahalli%20Village%2C%20Jakkur%20Hobli%2C%20next%20to%20The%20HDFC%20School%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "Mittal Palms, Survey Nos. 31, 32 and 33, Shivanahalli Village, Jakkur Hobli, next to The HDFC School, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-037",
+    "SRC-038",
+    "SRC-039",
+    "SRC-040",
+    "SRC-041"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Seven buildings and 144 homes are the selected portal schedule; other portal text says 250 units and 3.2/3.5 acres. Land reference 13,460 sq m is approximately 3.33 acres.",
+      "Legal promoter references name Trishul Developers while public marketing names Mittal Builders.",
+      "Brochure is image-only. OCR/visual plan confirmation is required before treating every portal variant as the complete sanctioned schedule."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {
+    "configuration-1": "block-e-2bhk-1180",
+    "configuration-2": "block-g-2bhk-1210",
+    "configuration-3": "block-g-2bhk-1220",
+    "configuration-4": "block-b-2bhk-1235",
+    "configuration-5": "block-b-2bhk-1245",
+    "configuration-7": "block-e-3bhk-1750"
+  },
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "image-4"
+  ],
+  "overview": {
+    "title": "What defines Mittal Palms",
+    "summary": "Mittal Palms offers two- and three-bedroom apartments in the Jakkur-Shivanahalli area. The project's published brochure presents a residential setting with landscaped grounds and a lake-oriented outlook. Its location and apartment formats give buyers a clear starting point, while the condition, outlook and documentation of the particular home should determine the final comparison.",
+    "highlights": [
+      "Two and three bedroom apartment formats",
+      "Jakkur Shivanahalli location",
+      "Landscaped residential setting",
+      "Lake oriented positioning with unit specific outlooks"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 3.33,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 7,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 buildings of 7 floors and 5 buildings of 8 floors, portal reference",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 144,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1180–1950",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹88.17 L–₹1.01 Cr* Onward",
+    "possessionDisplay": "Ready to move; secondary registry completion August 2020",
+    "sourceIds": [
+      "SRC-037",
+      "SRC-038",
+      "SRC-039",
+      "SRC-040",
+      "SRC-041"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

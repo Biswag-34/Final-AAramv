@@ -1,0 +1,1449 @@
+[
+  {
+    "id": "SRC-001",
+    "label": "Prestige Finsbury Park",
+    "url": "https://www.aaramvreality.com/properties/prestige-finsbury-park?layout=configuration-11",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-002",
+    "label": "Prestige Finsbury Park",
+    "url": "https://auric-acres.com/wp-content/uploads/FAQs-Prestige-Finsbury-Park-Hyde.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-003",
+    "label": "Prestige Finsbury Park",
+    "url": "https://mypropertypoint.com/projects/prestige-finsbury-park-hyde-thanisandra",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-004",
+    "label": "Prestige Finsbury Park",
+    "url": "https://www.homznspace.com/prestige-finsbury-park-regent-hyde-bagalur-reviews/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-005",
+    "label": "Prestige Finsbury Park",
+    "url": "https://www.prestigeconstructions.com/residential-projects/bangalore/prestige-finsbury-park",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-006",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-007",
+    "label": "Prestige Finsbury Park prices",
+    "url": "https://www.magicbricks.com/prestige-finsbury-park-regent-bagalur-main-road-bangalore-pdpid-4d4235313330303435",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-008",
+    "label": "Earthsong by Manyata",
+    "url": "https://manyata.co.in/earthsong-by-manyata/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-009",
+    "label": "Earthsong by Manyata",
+    "url": "https://earthsongbymanyata.com/infrastructure/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-010",
+    "label": "Earthsong by Manyata",
+    "url": "https://earthsongbymanyata.com/construction-update/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-011",
+    "label": "Earthsong by Manyata",
+    "url": "https://www.homznspace.com/manyata-earthsong-phase-5-devanahalli-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-012",
+    "label": "Earthsong by Manyata",
+    "url": "https://www.squareyards.com/bangalore-residential-property/earthsong-by-manyata/146842/project",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-013",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/earthsong-by-manyata",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-014",
+    "label": "Brigade El Dorado",
+    "url": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-015",
+    "label": "Brigade El Dorado",
+    "url": "https://www.homznspace.com/brigade-eldorado-reviews/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-016",
+    "label": "Brigade El Dorado",
+    "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/30/d8/30d8bfc6-58ca-4b47-94ce-24b0c2f81643/beryl_e-brochure_5.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-017",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/brigade-el-dorado",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-018",
+    "label": "Purva Atmosphere",
+    "url": "https://www.puravankara.com/campaigns/atmosphere/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-019",
+    "label": "Purva Atmosphere",
+    "url": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-020",
+    "label": "Purva Atmosphere",
+    "url": "https://www.puravankara.com/campaigns/r2/atmosphere/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-021",
+    "label": "Purva Atmosphere",
+    "url": "https://www.homznspace.com/purva-atmosphere/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-022",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/purva-atmosphere",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-023",
+    "label": "Sattva Park Cubix",
+    "url": "https://sattvagroup.com/residential/park-cubix/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-024",
+    "label": "Sattva Park Cubix",
+    "url": "https://sattvagroup.com/sattva-property-results/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-025",
+    "label": "Sattva Park Cubix",
+    "url": "https://sattvagroup.com/our-business-verticals/residential/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-026",
+    "label": "Sattva Park Cubix",
+    "url": "https://www.homznspace.com/salarpuria-sattva-park-cubix/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-027",
+    "label": "Sattva Park Cubix",
+    "url": "https://mypropertypoint.com/projects/sattva-park-cubix-ii-devanahalli-town-nh-207",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-028",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/sattva-park-cubix",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-029",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/soulandsoil/project.php",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-030",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/soulandsoil/contact-us.php",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-031",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/63east/assets/brochure/63%CB%9AEast%20-%20Brochure%20-%20Tower%20F.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-032",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul&Soil-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-033",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/soulandsoil/assets/brochure/Soul-&-Soil-Villaments-E-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-034",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.assetzproperty.com/soulandsoil/brochure/Soul-Soil-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-035",
+    "label": "Assetz Soul & Soil",
+    "url": "https://www.homznspace.com/assetz-soul-soil-hennur-road-villas/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-036",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/assetz-soul-soil",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-037",
+    "label": "Mittal Palms",
+    "url": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-038",
+    "label": "Mittal Palms",
+    "url": "https://kla.kar.nic.in/council/house/Paperlaid/152/87.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-039",
+    "label": "Mittal Palms",
+    "url": "https://housing.com/in/buy/projects/page/8387-mittal-palms-by-mittal-builders-in-jakkur",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-040",
+    "label": "Mittal Palms",
+    "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/mittal-palms/432",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-041",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/mittal-palms",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-042",
+    "label": "Jasper at Brigade El Dorado",
+    "url": "https://www.brigadeeldorado.com/jasper",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-043",
+    "label": "Jasper at Brigade El Dorado",
+    "url": "https://mypropertypoint.com/projects/jasper-and-iridium-at-brigade-el-dorado-thanisandra",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-044",
+    "label": "Jasper at Brigade El Dorado",
+    "url": "https://www.brigadeeldorado.com/jasper-plans",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-045",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/jasper-at-brigade-el-dorado",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-046",
+    "label": "Brigade Oasis",
+    "url": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-047",
+    "label": "Brigade Oasis",
+    "url": "https://www.brigadegroup.com/residential-projects/index.php",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-048",
+    "label": "Brigade Oasis",
+    "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/70/03/7003cc4e-bb6e-4ad1-b356-f9f84d0bd425/oasis_iii_poster_e-brochure.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-049",
+    "label": "Brigade Oasis",
+    "url": "https://www.squareyards.com/bangalore-residential-property/brigade-oasis/198753/project",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-050",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/brigade-oasis",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-051",
+    "label": "Century Seasons",
+    "url": "https://www.centuryrealestate.in/residential/projects/century-seasons",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-052",
+    "label": "Century Seasons",
+    "url": "https://www.squareyards.com/bangalore-residential-property/century-seasons/103769/project",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-053",
+    "label": "Century Seasons",
+    "url": "https://www.homznspace.com/century-seasons-plots-devanahalli-bangalore-reviews/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-054",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/century-seasons",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-055",
+    "label": "Disha Harmony Gardens",
+    "url": "https://www.dishaproperties.com/harmonygardens",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-056",
+    "label": "Disha Harmony Gardens",
+    "url": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67d3dc9b01761f74cf267b66_38ff0cbae5725265b6dc21d1a5538e42_DHG%20E-Brochure_WFV.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-057",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-058",
+    "label": "Sumadhura Epitome",
+    "url": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-059",
+    "label": "Sumadhura Epitome",
+    "url": "https://www.homznspace.com/sumadhura-epitome-rachenahalli-manyata-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-060",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/sumadhura-epitome-i",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-061",
+    "label": "Concorde Antares",
+    "url": "https://www.concorde.in/residential-projects/concorde-antares",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-062",
+    "label": "Concorde Antares",
+    "url": "https://www.homznspace.com/concorde-antares-vidyaranyapura-north-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-063",
+    "label": "Concorde Antares",
+    "url": "https://assets.concorde.in/projects/brochures/antares-brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-064",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/concorde-antares",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-065",
+    "label": "Poulomi Florique",
+    "url": "https://poulomiflorique.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-066",
+    "label": "Poulomi Florique",
+    "url": "https://poulomiflorique.com/residences",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-067",
+    "label": "Poulomi Florique",
+    "url": "https://poulomiflorique.com/faq",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-068",
+    "label": "Poulomi Florique",
+    "url": "https://www.poulomi.in/project/poulomi-florique",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-069",
+    "label": "Poulomi Florique",
+    "url": "https://book.poulomiflorique.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-070",
+    "label": "Poulomi Florique",
+    "url": "https://pub-4a1a6628f6df4d768c4ed9a420eeff8b.r2.dev/brochure/2026-April-14/v1/brochure.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-071",
+    "label": "Poulomi Florique",
+    "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/poulomi-florique/14394",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-072",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/poulomi-florique",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-073",
+    "label": "SNN Estates Felicity",
+    "url": "https://felicity.snnestates.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-074",
+    "label": "SNN Estates Felicity",
+    "url": "https://felicity.snnestates.com/project-status/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-075",
+    "label": "SNN Estates Felicity",
+    "url": "https://www.homznspace.com/snn-estates-felicity-manyata-tech-park-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-076",
+    "label": "SNN Estates Felicity",
+    "url": "https://felicity.snnestates.com/wp-content/uploads/2026/06/SNN-Estates-Felicity-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-077",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/snn-estates-felicity",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-078",
+    "label": "Bhartiya Garden Estate",
+    "url": "https://nikoohomes.com/bhartiya-garden-estate/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-079",
+    "label": "Bhartiya Garden Estate",
+    "url": "https://nikoohomes.com/construction-progress-bhartiya-garden-estate/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-080",
+    "label": "Bhartiya Garden Estate",
+    "url": "https://www.squareyards.com/bangalore-residential-property/bhartiya-garden-estate/340403/project",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-081",
+    "label": "Bhartiya Garden Estate",
+    "url": "https://www.desiacres.com/projects/bhartiya-garden-estate/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-082",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/bhartiya-garden-estate",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-083",
+    "label": "Sattva Vasanta Skye",
+    "url": "https://sattvagroup.com/residential/sattva-vasanta-skye/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-084",
+    "label": "Sattva Vasanta Skye",
+    "url": "https://www.homznspace.com/sattva-vasanta-skye-apartments-in-devanahalli-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-085",
+    "label": "Sattva Vasanta Skye",
+    "url": "https://sattvabuilders.com/projects/sattva-vasanta-skye/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-086",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/sattva-vasanta-skye",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-087",
+    "label": "Nikoo Homes 6",
+    "url": "https://nikoo6.nikoohomes.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-088",
+    "label": "Nikoo Homes 6",
+    "url": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-089",
+    "label": "Nikoo Homes 6",
+    "url": "https://nikoohomes.com/construction-progress-nikoo-homes-6/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-090",
+    "label": "Nikoo Homes 6",
+    "url": "https://www.homznspace.com/nikoo-homes-6-kogilu-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-091",
+    "label": "Nikoo Homes 6",
+    "url": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-092",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-093",
+    "label": "Nikoo Homes 5",
+    "url": "https://nikoohomes.com/nikoo-homes-v/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-094",
+    "label": "Nikoo Homes 5",
+    "url": "https://nikoohomes.com/construction-progress-nikoo-homes-v/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-095",
+    "label": "Nikoo Homes 5",
+    "url": "https://www.homznspace.com/nikoo-homes-5-bhartiya-city-thanisandra-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-096",
+    "label": "Nikoo Homes 5",
+    "url": "https://nikoohomes.com/wp-content/uploads/2024/07/Nikoo-Homes-V-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-097",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/nikoo-homes-5",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-098",
+    "label": "Nikoo Homes 8",
+    "url": "https://nikoohomes.com/nikoo-homes-8/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-099",
+    "label": "Nikoo Homes 8",
+    "url": "https://www.homznspace.com/nikoo-homes-8-thanisandra-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-100",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/nikoo-homes-8",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-101",
+    "label": "Nikoo Homes 9",
+    "url": "https://nikoohomes.com/nikoo-homes-9/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-102",
+    "label": "Nikoo Homes 9",
+    "url": "https://nikoohomes.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-103",
+    "label": "Nikoo Homes 9",
+    "url": "https://www.homznspace.com/nikoo-homes-9-kiadb-aerospace-park-north-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-104",
+    "label": "Nikoo Homes 9",
+    "url": "https://nikoohomes.com/wp-content/uploads/2026/09/NH9-Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-105",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/nikoo-homes-9",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-106",
+    "label": "DNR Parklink",
+    "url": "https://dnrgroup.in/dnr-parklink/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-107",
+    "label": "DNR Parklink",
+    "url": "https://parklink.dnrgroup.in/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-108",
+    "label": "DNR Parklink",
+    "url": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-109",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/dnr-parklink",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-110",
+    "label": "Concorde NEO",
+    "url": "https://www.concorde.in/residential-projects/concorde-neo",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-111",
+    "label": "Concorde NEO",
+    "url": "https://neo.concorde.in/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-112",
+    "label": "Concorde NEO",
+    "url": "https://assets.concorde.in/projects/brochures/neo-brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-113",
+    "label": "Concorde NEO",
+    "url": "https://www.homznspace.com/concorde-neo-thanisandra-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-114",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/concorde-neo",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-115",
+    "label": "Concorde Sienna",
+    "url": "https://www.concorde.in/residential-projects/concorde-sienna",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-116",
+    "label": "Concorde Sienna",
+    "url": "https://sienna.concorde.in/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-117",
+    "label": "Concorde Sienna",
+    "url": "https://www.homznspace.com/concorde-sienna-on-hennur-road-north-bangalore-details-reviews-price-floor-plan-photos-master-plan-brochure-amenities-location/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-118",
+    "label": "Concorde Sienna",
+    "url": "https://assets.concorde.in/projects/brochures/sienna-brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-119",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/concorde-sienna",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-120",
+    "label": "Lodha Mirabelle",
+    "url": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-121",
+    "label": "Lodha Mirabelle",
+    "url": "https://www.homznspace.com/lodha-mirabelle-manyata-tech-park-thanisandra-bangalore/",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-122",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/lodha-mirabelle",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-123",
+    "label": "Laurel & Maple at Brigade Orchards",
+    "url": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-124",
+    "label": "Laurel & Maple at Brigade Orchards",
+    "url": "https://www.brigadegroup.com/residential-showcase-2026/index.html",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-125",
+    "label": "Laurel & Maple at Brigade Orchards",
+    "url": "https://www.brigadeorchards.com/residences/laurel-maple-at-brigade-orchards",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-126",
+    "label": "Laurel & Maple at Brigade Orchards",
+    "url": "https://d1di04ifehjy6m.cloudfront.net/media/filer_public/6f/21/6f21fbb9-29d1-415e-af36-77ede000e88e/lm_main_brochure.pdf",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-127",
+    "label": "Laurel & Maple at Brigade Orchards",
+    "url": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-rural/laurel-maple-at-brigade-orchards/14376",
+    "type": "secondary",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-128",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/laurel-maple-at-brigade-orchards",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-129",
+    "label": "SB Urban Park",
+    "url": "https://sburbanscapes.com/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-130",
+    "label": "SB Urban Park",
+    "url": "https://sburbanpark.in/",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-131",
+    "label": "SB Urban Park",
+    "url": "https://sburbanpark.in/wp-content/themes/sb-urban/public/Urban_Park_Brochure.pdf",
+    "type": "developer",
+    "checkedAt": "2026-10-28",
+    "retrieval": "downloaded",
+    "httpStatus": 200
+  },
+  {
+    "id": "SRC-132",
+    "label": "Existing catalogue layout",
+    "url": "https://www.aaramvreality.com/properties/sb-urban-park",
+    "type": "owner-site",
+    "checkedAt": "2026-10-28",
+    "retrieval": "web-search-reviewed",
+    "httpStatus": null
+  },
+  {
+    "id": "SRC-133",
+    "url": "https://find.shell.com/in/fuel/13031028-shell-technology-center-bnglre/en_IN",
+    "label": "Bagalur",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-134",
+    "url": "https://www.shell.in/about-us/what-we-do/capability-centres.html",
+    "label": "Bagalur",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-135",
+    "url": "https://www.freedomofdesign.co/home",
+    "label": "Bagalur image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-136",
+    "url": "https://www.stonehill.in/",
+    "label": "IVC Road, Devanahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-137",
+    "url": "https://www.stonehill.in/about/about-stonehill",
+    "label": "IVC Road, Devanahalli image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-138",
+    "url": "https://www.boeing.co.in/content/theboeingcompany/in/en.html",
+    "label": "KIADB Aerospace Park",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-139",
+    "url": "https://housing.com/thanisandra-bengaluru-overview-P4hd4a6xdrnnmtn5w",
+    "label": "Thanisandra",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-140",
+    "url": "https://www.magicbricks.com/Thanisandra-Main-Road-in-Bangalore-Overview",
+    "label": "Thanisandra image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-141",
+    "url": "https://bangalorerural.nic.in/en/tourist-place/kempegowda-international-airport/",
+    "label": "Devanahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-142",
+    "url": "https://commons.wikimedia.org/wiki/File:Devanahalli_Fort_entrance,_Devanahalli,_Bengaluru,_Karnataka,_India_(2006).jpg",
+    "label": "Devanahalli image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-143",
+    "url": "https://lsb.edu.in/connect/",
+    "label": "Chikkagubbi",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-144",
+    "url": "https://www.openstreetmap.org/#map=14/13.0822582/77.6616026",
+    "label": "Chikkagubbi image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-145",
+    "url": "https://site.bbmp.gov.in/departmentwebsites/Lakes/jakkuru.html",
+    "label": "Jakkur",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-146",
+    "url": "https://commons.wikimedia.org/wiki/File:Jakkur_lake,_Bangalore_(2025)_01.jpg",
+    "label": "Jakkur image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-147",
+    "url": "https://websitemedia.anarock.com/media/Hennur_Road_Bengaluru_Micro_Market_Report_42e86f756d.pdf",
+    "label": "Hennur Road",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-148",
+    "url": "https://commons.wikimedia.org/wiki/File:Indian_Academy_Group_of_Institutions,_Hennur_Main_Road,_Bangalore,_Karnataka,_India_(2000).jpg",
+    "label": "Hennur Road image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-149",
+    "url": "https://lms.bbmpgov.in/projectdetails/111",
+    "label": "Rachenahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-150",
+    "url": "https://commons.wikimedia.org/wiki/File:Rachenahalli_lake_(2024)_19.jpg",
+    "label": "Rachenahalli image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-151",
+    "url": "https://itms.kar.nic.in/hrcehome/index_temple.php?tid=9",
+    "label": "Vidyaranyapura",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-152",
+    "url": "https://commons.wikimedia.org/wiki/File:Vidyaranyapura_Temple-Gopuram.jpg",
+    "label": "Vidyaranyapura image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-153",
+    "url": "https://www.openstreetmap.org/relation/17421370",
+    "label": "Thanisandra-Kannur",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-154",
+    "url": "https://www.openstreetmap.org/#map=14/13.0967426/77.6535003",
+    "label": "Thanisandra-Kannur image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-155",
+    "url": "https://karnatakaexplore.com/district/bengaluru-rural/sadahalli-quarry-temple/",
+    "label": "Sadahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-156",
+    "url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/831297",
+    "label": "Kannamangala, Devanahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-157",
+    "url": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+    "label": "Kannamangala, Devanahalli image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-158",
+    "url": "https://lms.bbmpgov.in/projectdetails/105",
+    "label": "Kogilu",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-159",
+    "url": "https://pms.bbmpgov.in/view-park/264",
+    "label": "Kogilu",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-160",
+    "url": "https://commons.wikimedia.org/wiki/File:Kogilu_Kere_(30631866706).jpg",
+    "label": "Kogilu image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-161",
+    "url": "https://www.reva.edu.in/how-to-reach-us",
+    "label": "Bellahalli",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-162",
+    "url": "https://commons.wikimedia.org/wiki/File:Reva_Main_Block.jpg",
+    "label": "Bellahalli image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-163",
+    "url": "https://www.embassyofficeparks.com/AnnualReport-FY21/pdf/valuation-report.pdf",
+    "label": "Manyata Tech Park",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-164",
+    "url": "https://commons.wikimedia.org/wiki/File:Manyata_Embassy_Business_Park.jpg",
+    "label": "Manyata Tech Park image source",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-165",
+    "url": "https://www.brigadeorchards.com/location",
+    "label": "Devanahalli-Boodihal",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-166",
+    "url": "https://www.brigadeorchards.com/signature-club-resort",
+    "label": "Devanahalli-Boodihal",
+    "type": "landmark-or-locality-source",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-167",
+    "url": "https://earthsongbymanyata.com/plots/",
+    "label": "Earthsong plot size range",
+    "type": "developer",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-168",
+    "url": "https://housing.com/in/buy/resale/page/21217116-2-bhk-apartment-in-gummanahalli-for-rs-9400000",
+    "label": "Jasper/Iridium 938 sq ft resale asking price",
+    "type": "property-portal",
+    "checkedAt": "2026-10-28"
+  },
+  {
+    "id": "SRC-169",
+    "url": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle/plans",
+    "label": "Lodha official plans",
+    "type": "developer",
+    "checkedAt": "2026-10-28"
+  }
+]

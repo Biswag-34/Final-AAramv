@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "id": "kogilu",
+  "published": true,
+  "isDemo": false,
+  "name": "Kogilu",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru",
+  "tagline": "A lake-side identity within the Yelahanka network.",
+  "description": "Kogilu sits within the wider Yelahanka–Jakkur residential setting, with Kogilu Main Road and Kogilu Lake providing local reference points. Apartment communities have different approaches towards Bellary Road and Thanisandra Main Road. A home’s tower, access road and layout are more useful comparison points than the broad northern-city label.",
+  "tags": [
+    "North Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Kogilu",
+    "kogilu",
+    "Bengaluru",
+    "Nikoo Homes 6"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/kogilu/cover.webp",
+      "alt": "Kogilu Lake · neighbourhood landmark",
+      "caption": "Kogilu Lake · neighbourhood landmark",
+      "kind": "landmark-photograph",
+      "credit": "Mike Prince from Bangalore, India · CC BY 2.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Kogilu_Kere_%2830631866706%29.jpg/1920px-Kogilu_Kere_%2830631866706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kogilu_Kere_(30631866706).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2016-10-29 07:50",
+      "width": 1440,
+      "height": 810,
+      "checkedAt": "2026-10-28",
+      "sha256": "cdb6dfaf94303ae7d4269d862ccbdac84f1faa7e7f51e86a30133b61c12419ae",
+      "bytes": 233180
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kogilu%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Kogilu Lake as a recognised local landmark",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Yelahanka–Jakkur neighbourhood context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Road connections towards Bellary Road and Thanisandra",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Yelahanka Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Yelahanka Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Station%2C%20Bengaluru"
+    },
+    {
+      "name": "Garuda Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Garuda Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Garuda%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Bagalur Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bagalur Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%20Main%20Road%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Kogilu its identity?",
+      "answer": "Kogilu Lake as a recognised local landmark; Yelahanka–Jakkur neighbourhood context; Road connections towards Bellary Road and Thanisandra."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Nikoo Homes 6. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would compare Kogilu around your actual travel pattern and the kind of home your family needs. Study rooms, lofts and larger apartments can offer different ways to use space, but their plans and costs should be matched exactly. We would also keep phase-specific delivery schedules visible rather than assigning one date to the whole community."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Kogilu",
+      "url": "https://lms.bbmpgov.in/projectdetails/105",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Kogilu",
+      "url": "https://pms.bbmpgov.in/view-park/264",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Kogilu image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Kogilu_Kere_(30631866706).jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would compare Kogilu around your actual travel pattern and the kind of home your family needs. Study rooms, lofts and larger apartments can offer different ways to use space, but their plans and costs should be matched exactly. We would also keep phase-specific delivery schedules visible rather than assigning one date to the whole community.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "nikoo-homes-6"
+  ],
+  "usp": [
+    "Kogilu Lake as a recognised local landmark",
+    "Yelahanka–Jakkur neighbourhood context",
+    "Road connections towards Bellary Road and Thanisandra"
+  ],
+  "sourceIds": [
+    "SRC-158",
+    "SRC-159",
+    "SRC-160"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "id": "rachenahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "Rachenahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru",
+  "tagline": "A lake neighbourhood beside a major work district.",
+  "description": "Rachenahalli combines a recognised lake landscape with residential communities in the northern employment belt. Its relationship with Manyata Business Park makes the exact workplace gate an important route-check destination. The lake, railway-side roads and individual project approaches create different local experiences within the same search area.",
+  "tags": [
+    "North Bengaluru",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Rachenahalli",
+    "rachenahalli",
+    "Bengaluru",
+    "Sumadhura Epitome",
+    "SNN Estates Felicity",
+    "SB Urban Park"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/rachenahalli/cover.webp",
+      "alt": "Rachenahalli Lake · neighbourhood landmark",
+      "caption": "Rachenahalli Lake · neighbourhood landmark",
+      "kind": "landmark-photograph",
+      "credit": "Gpkp · CC BY-SA 4.0",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rachenahalli_lake_%282024%29_19.jpg/1920px-Rachenahalli_lake_%282024%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Rachenahalli_lake_(2024)_19.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsStatus": "Reuse under the stated licence with attribution and applicable share-alike terms.",
+      "capturedAt": "2024-11-27 16:12:55",
+      "width": 1440,
+      "height": 1085,
+      "checkedAt": "2026-10-28",
+      "sha256": "1a5bb2dffd4928134ec341730a818017a0bc15e7eed74eba41b6ae85299e0e58",
+      "bytes": 59428
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rachenahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Rachenahalli Lake is a documented civic landmark",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Manyata Business Park employment context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Apartment communities across distinct local approaches",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "3"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Thanisandra Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Thanisandra Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thanisandra%20Main%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Elements Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Elements Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Reliance Digital",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "Reliance Digital is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reliance%20Digital%2C%20Bengaluru"
+    },
+    {
+      "name": "State Highway 104",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "State Highway 104 is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=State%20Highway%20104%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Rachenahalli its identity?",
+      "answer": "Rachenahalli Lake is a documented civic landmark; Manyata Business Park employment context; Apartment communities across distinct local approaches."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Sumadhura Epitome, SNN Estates Felicity, SB Urban Park. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "Rachenahalli can be a practical search area when your day centres on the Manyata side of Bengaluru. We would compare the exact office gate and project entrance, then look at layout, surroundings and completion stage. A short distance on a map does not tell you everything about the road journey or the outlook from a home."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Rachenahalli",
+      "url": "https://lms.bbmpgov.in/projectdetails/111",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Rachenahalli image source",
+      "url": "https://commons.wikimedia.org/wiki/File:Rachenahalli_lake_(2024)_19.jpg",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "Rachenahalli can be a practical search area when your day centres on the Manyata side of Bengaluru. We would compare the exact office gate and project entrance, then look at layout, surroundings and completion stage. A short distance on a map does not tell you everything about the road journey or the outlook from a home.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "sumadhura-epitome-i",
+    "snn-estates-felicity",
+    "sb-urban-park"
+  ],
+  "usp": [
+    "Rachenahalli Lake is a documented civic landmark",
+    "Manyata Business Park employment context",
+    "Apartment communities across distinct local approaches"
+  ],
+  "sourceIds": [
+    "SRC-149",
+    "SRC-150"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

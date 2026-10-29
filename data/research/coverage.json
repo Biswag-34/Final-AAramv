@@ -1,0 +1,16 @@
+{
+  "projects": 27,
+  "localities": 17,
+  "configurations": 259,
+  "projectImages": 349,
+  "localityImages": 17,
+  "namedAmenities": 408,
+  "projectFaqs": 162,
+  "priceQuotes": 100,
+  "sources": 169,
+  "missingExactPlanRecords": 7,
+  "exactPlanCoverageCertified": false,
+  "validationErrors": [],
+  "checkedAt": "2026-10-28",
+  "projectsWithMultipleGalleryImages": 27
+}

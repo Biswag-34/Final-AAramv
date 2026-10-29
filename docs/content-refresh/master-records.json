@@ -1,0 +1,684 @@
+{
+  "projects": [
+    {
+      "name": "Prestige Finsbury Park",
+      "slug": "prestige-finsbury-park",
+      "description": "Prestige Finsbury Park is an apartment development in Gummanahalli, within the Bagalur-Aerospace Park corridor. Its Hyde and Regent components should be presented separately so buyers can understand the home formats and layouts relevant to each. The distinction between the wider project offering and the specific developer-sale or resale home available is an important part of choosing here.",
+      "highlights": [
+        "Hyde and Regent components",
+        "One, two and three bedroom formats across the project record",
+        "Gummanahalli location in the Bagalur corridor"
+      ],
+      "hold": "Provisional source coverage. Confirm Hyde and Regent brochures and certificates. Keep resale asking prices attached to the exact offered home. Do not import a project-wide starting area or price from a single resale entry.",
+      "sourceIds": [
+        "S001"
+      ]
+    },
+    {
+      "name": "Earthsong by Manyata",
+      "slug": "earthsong-by-manyata",
+      "description": "Earthsong by Manyata is a plotted community near IVC Road, with a development approach centred on landscape and resource conservation. Manyata describes a master development of approximately 120 acres, with residential plot options and infrastructure measures including rainwater harvesting, recharge wells and wastewater treatment. Its appeal lies in combining an individually planned home with a larger community setting.",
+      "highlights": [
+        "Approximately 120 acres marketed by Manyata",
+        "Residential plots in a phased development",
+        "Landscape and tree planting form a central part of the plan",
+        "Developer described water conservation infrastructure"
+      ],
+      "hold": "Resolve the 120 versus 121 acre scope. Match individual plot, phase, services, completion information and registration. Phase 5 references found in secondary records are not cleared for automatic publication.",
+      "sourceIds": [
+        "S002",
+        "S003",
+        "S004"
+      ]
+    },
+    {
+      "name": "Brigade El Dorado",
+      "slug": "brigade-el-dorado",
+      "description": "Brigade El Dorado is a multi-block apartment development in North Bengaluru's Aerospace Park area. The developer markets a 50-acre township with an extensive shared recreation offering, including sports facilities, landscaped areas, pools and community spaces. Its different blocks offer different home formats, making the selected block an essential part of the comparison alongside the overall township.",
+      "highlights": [
+        "50 acre township setting",
+        "Multiple residential blocks with different home formats",
+        "80 plus amenities described by Brigade",
+        "Sports and shared recreation within the township proposition"
+      ],
+      "hold": "Select a registered block before using size, availability or possession fields. The corporate page mixes a Beryl heading and sold-out label with township-wide content. Do not apply one block status to every block.",
+      "sourceIds": [
+        "S005"
+      ]
+    },
+    {
+      "name": "Purva Atmosphere",
+      "slug": "purva-atmosphere",
+      "description": "Purva Atmosphere is a high-rise apartment community on Thanisandra Main Road. Its most distinctive feature is the elevated clubhouse experience on the 34th floor, supported by landscaped outdoor areas and smart-home features described by Puravankara. The project combines apartment living with recreation at both ground and elevated levels, giving buyers a specific proposition beyond a standard amenities list.",
+      "highlights": [
+        "Clubhouse on the 34th floor",
+        "Developer described smart home features",
+        "Miyawaki inspired landscape component",
+        "Thanisandra Main Road location"
+      ],
+      "hold": "Official campaigns use approximately 12 and approximately 13 acres. Hold a prominent land-area statistic until the approved scope is reconciled. Distinguish original project formats from currently offered layouts and prices.",
+      "sourceIds": [
+        "S006",
+        "S007",
+        "S008"
+      ]
+    },
+    {
+      "name": "Sattva Park Cubix",
+      "slug": "sattva-park-cubix",
+      "description": "Sattva Park Cubix is an apartment community in Devanahalli, with a planning concept built around central green spaces, recreation and two clubhouses. The original project page describes an 18-acre development with extensive indoor and outdoor facilities. Park Cubix I and Park Cubix II should be shown as distinct offerings wherever their configurations, construction stage or handover information differ.",
+      "highlights": [
+        "18 acre development described on the original project page",
+        "Two clubhouses with recreation and fitness functions",
+        "Central landscaped areas",
+        "Phase specific apartment choices"
+      ],
+      "hold": "Do not assign original project totals, plans or readiness to Park Cubix II automatically. Obtain full phase-specific registration certificates; the short PR/KN reference printed on the original page is not cleared as a full registration identifier.",
+      "sourceIds": [
+        "S009",
+        "S010",
+        "S011"
+      ]
+    },
+    {
+      "name": "Assetz Soul & Soil",
+      "slug": "assetz-soul-soil",
+      "description": "Assetz Soul & Soil is a seven-acre residential community off Hennur-Bagalur Road. Its offering includes distinct row-house, villament and apartment formats. The documented row houses combine living spaces across multiple levels with backyard and terrace areas, while shared gardens and recreation facilities provide a community setting around the homes.",
+      "highlights": [
+        "Seven acre residential community",
+        "Separate row house villament and apartment formats",
+        "Three and four bedroom row houses",
+        "Backyard and terrace spaces in documented row house plans"
+      ],
+      "hold": "Keep row-house and villament products, plans, prices and registrations separate. For documented row houses, 3 BHK SBUA is 2182 sq ft and developer-labelled RERA carpet is 1801 sq ft; 4 BHK SBUA is 2460 sq ft and RERA carpet is 2105 sq ft. Verify the offered plan before rendering those figures.",
+      "sourceIds": [
+        "S012",
+        "S013"
+      ]
+    },
+    {
+      "name": "Mittal Palms",
+      "slug": "mittal-palms",
+      "description": "Mittal Palms offers two- and three-bedroom apartments in the Jakkur-Shivanahalli area. The project's published brochure presents a residential setting with landscaped grounds and a lake-oriented outlook. Its location and apartment formats give buyers a clear starting point, while the condition, outlook and documentation of the particular home should determine the final comparison.",
+      "highlights": [
+        "Two and three bedroom apartment formats",
+        "Jakkur Shivanahalli location",
+        "Landscaped residential setting",
+        "Lake oriented positioning with unit specific outlooks"
+      ],
+      "hold": "Public portals disagree on acreage and unit totals. Hold those statistics. Historical government material names Trishul Developers against the registration, while marketing uses Mittal. Confirm the legal promoter, current documents and any lake-view claim for the unit.",
+      "sourceIds": [
+        "S014",
+        "S015"
+      ]
+    },
+    {
+      "name": "Jasper at Brigade El Dorado",
+      "slug": "jasper-at-brigade-el-dorado",
+      "description": "Jasper is a residential component of Brigade El Dorado in the Aerospace Park area. Its documented two- and three-bedroom plans cover a range of sizes, allowing buyers to compare different space requirements within the same township setting. Jasper's home specifications and El Dorado's shared facilities should remain clearly identified throughout the page.",
+      "highlights": [
+        "Two and three bedroom homes",
+        "740 to 1561 sq ft super built up range",
+        "466 to 996 sq ft carpet range",
+        "Part of the wider Brigade El Dorado township"
+      ],
+      "hold": "Confirm current Jasper availability and possession documents. Do not publish the undated 40.50 lakh microsite reference as a current quotation. Parent township and Jasper records must remain related without duplicating an offered unit.",
+      "sourceIds": [
+        "S016"
+      ]
+    },
+    {
+      "name": "Brigade Oasis",
+      "slug": "brigade-oasis",
+      "description": "Brigade Oasis is a phased plotted development in the Devanahalli corridor. Brigade describes a 70-acre master development with residential plots, landscaped recreation areas and shared community facilities. The corporate page emphasises larger garden plots, making the selected plot dimensions, phase and development services useful comparison points alongside the overall project setting.",
+      "highlights": [
+        "70 acre master development",
+        "Residential plots across multiple phases",
+        "20 plus amenities marketed by Brigade",
+        "Larger garden plots highlighted in corporate material"
+      ],
+      "hold": "The corporate page combines a sold-out label with launch and price copy. Reconfirm actual stock, phase and developer-sale or resale scope. Do not apply Phase 3 registration or a 2550 sq ft garden-plot minimum to all earlier inventory.",
+      "sourceIds": [
+        "S017",
+        "S018"
+      ]
+    },
+    {
+      "name": "Century Seasons",
+      "slug": "century-seasons",
+      "description": "Century Seasons is a 25-acre plotted development in Devanahalli, planned around themed landscape areas and shared recreation. Century describes close to half the development as open space, with more than 40 amenities distributed across 21 green pockets. Its proposition combines the flexibility of an individually built home with a planned community landscape.",
+      "highlights": [
+        "25 acre plotted development",
+        "Close to 50 percent open space marketed by Century",
+        "40 plus amenities across 21 green pockets",
+        "Villa and larger plot formats described by the developer"
+      ],
+      "hold": "The official configuration table marks displayed stock sold out. Distinguish an information page from a verified active developer-sale or resale offer. Map the two published registrations to the relevant phase before displaying one.",
+      "sourceIds": [
+        "S019"
+      ]
+    },
+    {
+      "name": "Disha Harmony Gardens",
+      "slug": "disha-harmony-gardens",
+      "description": "Disha Harmony Gardens is a three-tower apartment community in the Hennur corridor, offering two- and three-bedroom homes. The developer describes 247 homes across 3.25 acres, with a substantial portion of the site left open and recreation centred on Club Harmony. Its planning emphasises shared outdoor areas, family amenities and a high proportion of corner apartments.",
+      "highlights": [
+        "3.25 acres with 247 homes and three towers",
+        "B plus G plus 14 floor arrangement",
+        "76 percent land as open space reported by the developer",
+        "70 percent corner apartments reported by the developer"
+      ],
+      "hold": "Current developer sample SBUA values are 1250, 1526 and 1745 sq ft. A separate combined measurement is labelled RERA plus Balcony; never relabel that combined value as pure RERA carpet area. Confirm each plan and price.",
+      "sourceIds": [
+        "S020"
+      ]
+    },
+    {
+      "name": "Sumadhura Epitome I",
+      "slug": "sumadhura-epitome-i",
+      "description": "Sumadhura Epitome is a three-tower apartment community in Rachenahalli, shaped by Mediterranean-inspired architecture and all-corner home planning. The developer describes 262 residences across 3.75 acres, with landscaped outdoor areas and a clubhouse anchoring the recreation offering. Arched architectural details, courtyard-inspired spaces and homes described as having no shared walls give the project a recognisable character.",
+      "highlights": [
+        "3.75 acres with 262 residences and three towers",
+        "All corner home planning described by the developer",
+        "No shared walls described by the developer",
+        "19800 sq ft clubhouse and Mediterranean inspired landscape"
+      ],
+      "hold": "Verify Epitome I naming against the registration and approved plans. Official title and body use different configuration descriptions. December 2027 is a developer-published indication, not an independently verified possession commitment.",
+      "sourceIds": [
+        "S021"
+      ]
+    },
+    {
+      "name": "Concorde Antares",
+      "slug": "concorde-antares",
+      "description": "Concorde Antares is a high-rise apartment development at Chikkabettahalli, marketed within the Vidyaranyapura-Yelahanka area. Concorde describes 592 homes across seven acres, with a large open-space component and a dedicated clubhouse. The project includes apartment and duplex-penthouse formats, bringing a range of home sizes into a landscape-led community setting.",
+      "highlights": [
+        "Seven acres with 592 homes",
+        "G plus 16 floor arrangement",
+        "81 percent open space reported by Concorde",
+        "19000 sq ft clubhouse"
+      ],
+      "hold": "Confirm actual stock separately from the project-wide 2, 3 and 4 BHK and duplex-penthouse mix. December 2027 is the developer-published completion indication. Do not carry forward an unfinished limited-stock sentence.",
+      "sourceIds": [
+        "S022"
+      ]
+    },
+    {
+      "name": "Poulomi Florique",
+      "slug": "poulomi-florique",
+      "description": "Poulomi Florique is a three-bedroom apartment development at Kannur, marketed within the Thanisandra corridor. Its central idea is a landscape-rich community with floral zones, vehicle-free podium areas and shared spaces for different generations. The dedicated project website describes 8.66 acres and four residential towers, with different apartment size ranges across the towers.",
+      "highlights": [
+        "8.66 acre development",
+        "85 percent open space reported by the developer",
+        "Four G plus 27 towers described on the dedicated site",
+        "Tower specific super built up ranges from 1585 to 2740 sq ft"
+      ],
+      "hold": "Distinguish Alpine and Blossom from coming-soon Cascade and Dewdrop. Parent corporate content includes unrelated project text and a unit-count conflict. Hold unit totals and conflicting specifications; use dedicated project plans. IGBC pre-certification must not be renamed final certification.",
+      "sourceIds": [
+        "S023",
+        "S024",
+        "S025",
+        "S026"
+      ]
+    },
+    {
+      "name": "SNN Estates Felicity",
+      "slug": "snn-estates-felicity",
+      "description": "SNN Estates Felicity is an apartment community behind the Manyata employment area, offering formats from 1.5 to four bedrooms. The developer describes a 6-acre-and-20-gunta site, with recreation built around its Happiness Club and shared indoor and outdoor facilities. Miyawaki-inspired landscaping, a festive activity lane and varied window and balcony treatments give the project its character.",
+      "highlights": [
+        "Six acres and 20 guntas",
+        "1.5 2 2.5 3 and 4 BHK formats",
+        "50000 sq ft of facilities in the developer description",
+        "Miyawaki inspired landscape and social activity lane"
+      ],
+      "hold": "Do not call the entire 50000 sq ft facilities figure enclosed clubhouse area. Window and balcony features need layout matching. Registration below was collected from a secondary index and remains held for a primary certificate.",
+      "sourceIds": [
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "name": "Bhartiya Garden Estate",
+      "slug": "bhartiya-garden-estate",
+      "description": "Bhartiya Garden Estate brings Nikoo's garden-led community concept to a development marketed near the airport corridor. The offering includes compact homes, study-room formats, larger family apartments and loft options. Gardens, social spaces, a retail proposition and the Black Swan Club form the wider community idea, with flexibility in home formats supporting different household needs.",
+      "highlights": [
+        "Also presented by the developer as Nikoo Homes 7",
+        "Studio through larger family home formats",
+        "Study room and loft options in developer material",
+        "Garden led planning and Black Swan Club"
+      ],
+      "hold": "Confirm the actual Navratna Agrahara site address rather than the corporate Bhartiya City address. Do not add villa inventory without approved plans and offered stock. Keep all three registered phases separate and do not claim planned retail is operating.",
+      "sourceIds": [
+        "S029",
+        "S030"
+      ]
+    },
+    {
+      "name": "Sattva Vasanta Skye",
+      "slug": "sattva-vasanta-skye",
+      "description": "Sattva Vasanta Skye is a 16-acre apartment development organised around three residential blocks and a substantial shared recreation core. The developer's planning emphasises open landscape, separation between blocks and a clubhouse described as spanning an acre. Its broad configuration mix allows different home sizes within the same community concept.",
+      "highlights": [
+        "16 acres with Blocks A B and C",
+        "Studio through four bedroom formats",
+        "Approximately 80 percent open space reported by Sattva",
+        "Clubhouse described as spanning an acre with rooftop pool"
+      ],
+      "hold": "Confirm the exact pin and Kannamangala Devanahalli address before publishing it as independently verified. No guaranteed five-minute airport journey. Ready infrastructure does not mean completed homes.",
+      "sourceIds": [
+        "S031"
+      ]
+    },
+    {
+      "name": "Nikoo Homes 6",
+      "slug": "nikoo-homes-6",
+      "description": "Nikoo Homes 6 is a garden-led apartment development at Kogilu, with flexible home formats and shared recreation centred on the Black Swan Club. Developer material includes study-room, loft and larger family-home options, alongside gardens and indoor and outdoor activity spaces. The project combines different household layouts within a common landscape and community setting.",
+      "highlights": [
+        "Kogilu location",
+        "Study room loft and larger family home formats",
+        "Black Swan Club",
+        "Gardens and shared indoor and outdoor recreation"
+      ],
+      "hold": "Brochures, unit-plan documents and campaigns differ in configuration range. Historical plans are not current availability. Keep two phases separate and obtain a current layout-specific quotation.",
+      "sourceIds": [
+        "S032",
+        "S033",
+        "S034"
+      ]
+    },
+    {
+      "name": "Nikoo Homes 5",
+      "slug": "nikoo-homes-5",
+      "description": "Nikoo Homes 5 is an apartment development within the Bhartiya City setting, built around the developer's Garden Living concept. Landscaped spaces and opportunities for community interaction are central to its positioning. Its relationship with the wider Bhartiya City neighbourhood is an important part of the proposition, alongside the apartment layout and phase relevant to the buyer.",
+      "highlights": [
+        "Bhartiya City setting",
+        "Garden led residential planning",
+        "Spaces intended to encourage community interaction",
+        "Two separately identified registration phases"
+      ],
+      "hold": "Use Nikoo V plans and facilities. Never borrow club specifications, sizes or amenities from Nikoo 6, 8 or 9. Progress-gallery dates are evidence of updates, not a promised possession date.",
+      "sourceIds": [
+        "S035",
+        "S036"
+      ]
+    },
+    {
+      "name": "Nikoo Homes 8",
+      "slug": "nikoo-homes-8",
+      "description": "Nikoo Homes 8, branded Bhartiya Garden Enclave, is planned around a network of gardens and shared social spaces. The masterplan includes areas for quiet walks, community gardening, sensory experiences and recreation around the Black Swan Club and pool. Documented home formats range from studios to larger family apartments, including options with an additional study.",
+      "highlights": [
+        "Bhartiya Garden Enclave branding",
+        "Community sensory aromatic and woodland landscape areas",
+        "Black Swan Club and pool in the plan",
+        "Studio study room and larger family home formats"
+      ],
+      "hold": "Keep this development distinct from the established Bhartiya City site. Existing township facilities are not automatically inside this project or included in ownership. Confirm the exact Bellahalli entrance and phase.",
+      "sourceIds": [
+        "S037"
+      ]
+    },
+    {
+      "name": "Nikoo Homes 9",
+      "slug": "nikoo-homes-9",
+      "description": "Nikoo Homes 9 is a multi-format residential development marketed for Bagalur, with a masterplan combining gardens, recreation and social spaces. Published formats include studios, apartments with additional study areas, lofts and sky villas. The planned community includes sports areas, a shopping plaza and Black Swan Club spaces, creating a wider neighbourhood proposition alongside individual homes.",
+      "highlights": [
+        "Studio through larger apartment formats",
+        "Loft and sky villa options",
+        "Gardens sports and community spaces in the plan",
+        "Shopping plaza and Black Swan Club components"
+      ],
+      "hold": "Confirm Garden Hill marketing name against the exact registered phase. Distinguish planned retail, school access and amenities from operating facilities. Do not infer safe walkability or a commute time from promotional language.",
+      "sourceIds": [
+        "S038",
+        "S039"
+      ]
+    },
+    {
+      "name": "DNR Parklink",
+      "slug": "dnr-parklink",
+      "description": "DNR Parklink is an apartment development in the Hennur-Bagalur corridor, with a layout mix that includes a two-bedroom-plus-study option. DNR describes an 8.35-acre community with landscaped shared areas and a substantial recreation programme. The additional-study format and range of three-bedroom plans give buyers specific space options to compare beyond a standard bedroom count.",
+      "highlights": [
+        "8.35 acre development",
+        "Two bedroom plus study option",
+        "70 plus amenities reported by DNR",
+        "25000 sq ft of clubhouse and amenities as a combined description"
+      ],
+      "hold": "Published sizes on the developer page do not establish a carpet-area basis. Confirm the measurement type for each plan. Phase 2 registration is secondary-source research and must be held for a primary certificate.",
+      "sourceIds": [
+        "S040",
+        "S041"
+      ]
+    },
+    {
+      "name": "Concorde NEO",
+      "slug": "concorde-neo",
+      "description": "Concorde NEO is a two- and three-bedroom apartment community on Thanisandra Main Road at Bellahalli. Concorde describes 424 homes across 4.02 acres, with a sky-level clubhouse as a central feature. Open spaces, shared recreation and the elevated clubhouse give the project a recognisable community and leisure proposition.",
+      "highlights": [
+        "4.02 acres with 424 homes",
+        "2B plus G plus 18 floor arrangement",
+        "78 percent open space reported by Concorde",
+        "7000 sq ft signature clubhouse"
+      ],
+      "hold": "Official pages present different two-bedroom size ranges. Import approved individual layouts rather than a convenient minimum. October 2029 is a developer-published possession indication and needs matching phase documents.",
+      "sourceIds": [
+        "S042",
+        "S043"
+      ]
+    },
+    {
+      "name": "Concorde Sienna",
+      "slug": "concorde-sienna",
+      "description": "Concorde Sienna is a two- and three-bedroom apartment development on Hennur Main Road, with architecture influenced by European design. Concorde describes 260 apartments across three acres, combining a high-rise residential format with a substantial open-space component. Club Evolve, landscaped recreation and privacy-focused planning form the main lifestyle proposition.",
+      "highlights": [
+        "Three acres with 260 apartments",
+        "G plus 28 floor arrangement",
+        "75 percent open space reported by Concorde",
+        "10000 sq ft Club Evolve"
+      ],
+      "hold": "New Launch is the current corporate description in the research. Older pages say pre-launch. Complete the truncated floor field and verify each marketed plan area basis.",
+      "sourceIds": [
+        "S044",
+        "S045"
+      ]
+    },
+    {
+      "name": "Lodha Mirabelle",
+      "slug": "lodha-mirabelle",
+      "description": "Lodha Mirabelle is an apartment development in the Manyata Business Park setting, marketed around an approximately 19-acre residential ecosystem. Its proposition combines larger homes, landscaped outdoor areas and Club Luxuria's fitness and recreation facilities. Developer material presents three-bedroom homes with a study and four-bedroom formats, making the additional living space an important part of its positioning.",
+      "highlights": [
+        "Approximately 19 acre marketed ecosystem",
+        "Manyata Business Park setting",
+        "Three bedroom with study and four bedroom formats",
+        "45000 sq ft fitness and recreation complex at Club Luxuria"
+      ],
+      "hold": "Five-bedroom and penthouse records need approved plans and current stock evidence. Ignore background metadata as a quotation. The developer wording by 2028 needs phase-specific confirmation.",
+      "sourceIds": [
+        "S046"
+      ]
+    },
+    {
+      "name": "Laurel & Maple at Brigade Orchards",
+      "slug": "laurel-maple-at-brigade-orchards",
+      "description": "Laurel & Maple is a multigenerational apartment development within Brigade Orchards, combining independent homes with a service-led community proposition operated by Primus. Brigade describes 311 one-, two- and three-bedroom homes across 2.5 acres. Planned dining, housekeeping, concierge and healthcare-related services distinguish the offering from a conventional apartment development.",
+      "highlights": [
+        "2.5 acres with 311 homes",
+        "One two and three bedroom formats",
+        "Primus operated multigenerational living proposition",
+        "749 to 1647 sq ft super built up range"
+      ],
+      "hold": "Confirm service eligibility, start dates, scope and recurring charges. Do not imply services are included in purchase price or equivalent to a hospital. Developer carpet range is separately published as 448.54 to 1051.21 sq ft.",
+      "sourceIds": [
+        "S047",
+        "S048"
+      ]
+    },
+    {
+      "name": "SB Urban Park",
+      "slug": "sb-urban-park",
+      "description": "SB Urban Park is a residential development in the Thanisandra-Rachenahalli area, marketed with three-bedroom and duplex homes. Its developer highlights no-common-wall planning, a three-level clubhouse and a substantial open-space component. These features give the project a clear privacy and recreation proposition, while the offered home's layout and outlook remain important unit-level considerations.",
+      "highlights": [
+        "Three bedroom and duplex formats",
+        "No common walls reported by the developer",
+        "Three level clubhouse",
+        "60 percent open space reported by the developer"
+      ],
+      "hold": "Highlights were supported by developer search-indexed material; direct retrieval failed. Reconfirm the current brochure, project totals, readiness and unit-specific outlook before publishing additional claims.",
+      "sourceIds": [
+        "S049",
+        "S050"
+      ]
+    }
+  ],
+  "localities": [
+    {
+      "name": "Bagalur",
+      "slug": "bagalur",
+      "description": "Apartment living around the Aerospace Park corridor. Explore the home options Aaramv lists around Bagalur, with the exact project entrance and enclave shown alongside the broader area name.",
+      "hold": "Gummanahalli and the project approach must be visible; the entire Bagalur corridor is not one address.",
+      "sourceIds": [
+        "S001"
+      ]
+    },
+    {
+      "name": "IVC Road, Devanahalli",
+      "slug": "ivc-road-devanahalli",
+      "description": "A plotted-home search along the IVC Road corridor. This is a useful starting point for buyers considering an individually planned home within a larger development.",
+      "hold": "Show plot dimensions, advertised phase, development services and exact access from the main road.",
+      "sourceIds": [
+        "S002",
+        "S003",
+        "S004"
+      ]
+    },
+    {
+      "name": "KIADB Aerospace Park",
+      "slug": "kiadb-aerospace-park",
+      "description": "Homes around a major industrial and employment district. Compare residential developments by their actual location and registered block, rather than the industrial-area label alone.",
+      "hold": "Jasper belongs to El Dorado. These catalogue entries are not three wholly independent townships.",
+      "sourceIds": [
+        "S005",
+        "S016",
+        "S038",
+        "S039"
+      ]
+    },
+    {
+      "name": "Thanisandra",
+      "slug": "thanisandra",
+      "description": "An apartment search shaped by your everyday destinations. Compare homes along the wider Thanisandra corridor, with the project address and route from its actual entrance clearly identified.",
+      "hold": "Clarify the different Hegde Nagar, Thirumenahalli and Bellahalli project addresses.",
+      "sourceIds": [
+        "S006",
+        "S007",
+        "S008",
+        "S035",
+        "S036",
+        "S042",
+        "S043"
+      ]
+    },
+    {
+      "name": "Devanahalli",
+      "slug": "devanahalli",
+      "description": "Town addresses and wider-corridor developments, clearly separated. Choose between apartment and plot options with a clear understanding of where each project sits.",
+      "hold": "The three developments have different exact locations. The airport and taluk label do not imply town-centre proximity.",
+      "sourceIds": [
+        "S009",
+        "S010",
+        "S011",
+        "S017",
+        "S018",
+        "S019"
+      ]
+    },
+    {
+      "name": "Chikkagubbi",
+      "slug": "chikkagubbi",
+      "description": "A search for different home formats off the Hennur-Bagalur corridor. Explore the row-house setting listed here, with its floor arrangement and outdoor spaces shown upfront.",
+      "hold": "Distinguish row houses from villaments and map the actual Chikkagubbi address.",
+      "sourceIds": [
+        "S012",
+        "S013"
+      ]
+    },
+    {
+      "name": "Jakkur",
+      "slug": "jakkur",
+      "description": "Apartment options within the Jakkur-Shivanahalli setting. Start with the offered home, then look at its immediate surroundings and the journeys relevant to your household.",
+      "hold": "HDFC School provides an address-based route anchor. Lake views are unit-specific.",
+      "sourceIds": [
+        "S014",
+        "S015"
+      ]
+    },
+    {
+      "name": "Hennur Road",
+      "slug": "hennur-road",
+      "description": "One corridor, several different approaches. Compare the listed developments by their actual access roads, home formats and project scale.",
+      "hold": "Show Doddagubbi or Kyalasanahalli, Chikkagubbi and Kannuru context accurately.",
+      "sourceIds": [
+        "S020",
+        "S040",
+        "S041",
+        "S044",
+        "S045"
+      ]
+    },
+    {
+      "name": "Rachenahalli",
+      "slug": "rachenahalli",
+      "description": "Apartment choices around the Manyata employment area. Compare the specific development and surroundings, with the workplace gate and project entrance included in the location view.",
+      "hold": "Do not promise the same commute or lake outlook for all three projects.",
+      "sourceIds": [
+        "S021",
+        "S027",
+        "S028",
+        "S049",
+        "S050"
+      ]
+    },
+    {
+      "name": "Vidyaranyapura",
+      "slug": "vidyaranyapura",
+      "description": "A location search that needs the exact project pin. Explore the listed apartment option with its Chikkabettahalli address clearly shown beside the wider marketing area.",
+      "hold": "Developer address is Chikkabettahalli, Yelahanka Hobli; make that visible.",
+      "sourceIds": [
+        "S022"
+      ]
+    },
+    {
+      "name": "Thanisandra-Kannur",
+      "slug": "thanisandra-kannur",
+      "description": "A clear address behind a broad corridor name. Explore the listed Kannur apartment development through its tower plans, home sizes and exact location.",
+      "hold": "Dedicated project site records Survey No. 16, Kannur Village, Bidarahalli Hobli.",
+      "sourceIds": [
+        "S023",
+        "S024",
+        "S025",
+        "S026"
+      ]
+    },
+    {
+      "name": "Sadahalli",
+      "slug": "sadahalli",
+      "description": "A home search across the wider airport-side setting. Review the listed development by its actual village address and phase, rather than relying only on a familiar corridor label.",
+      "hold": "Confirm Navratna Agrahara address. A villa-only tag is not supported by the researched apartment format list.",
+      "sourceIds": [
+        "S029",
+        "S030"
+      ]
+    },
+    {
+      "name": "Kannamangala, Devanahalli",
+      "slug": "kannamangala-devanahalli",
+      "description": "Confirm the location before comparing the homes. Identify the airport-corridor location clearly, then explore the apartment formats listed here.",
+      "hold": "Obtain official site pin and address; distinguish other Kannamangala locations. No guaranteed airport travel time.",
+      "sourceIds": [
+        "S031"
+      ]
+    },
+    {
+      "name": "Kogilu",
+      "slug": "kogilu",
+      "description": "Garden-led apartment options in the Kogilu setting. Explore the documented home formats with current phase and availability information kept separate.",
+      "hold": "Use the actual Kogilu site rather than the generic Bhartiya City corporate address.",
+      "sourceIds": [
+        "S032",
+        "S033",
+        "S034"
+      ]
+    },
+    {
+      "name": "Bellahalli",
+      "slug": "bellahalli",
+      "description": "Apartment choices along the wider Thanisandra-side corridor. Start with the actual project location and home format, with the wider neighbourhood context beside it.",
+      "hold": "Other projects marketed under Thanisandra may also use Bellahalli addresses; these are catalogue categories, not boundary certification.",
+      "sourceIds": [
+        "S037"
+      ]
+    },
+    {
+      "name": "Manyata Tech Park",
+      "slug": "manyata-tech-park",
+      "description": "Homes around the workplace district. Compare the residential address and the workplace gate you use, rather than assuming that a nearby project provides the same journey for everyone.",
+      "hold": "Customer label may read Around Manyata Business Park. This is an employment-area search label, not a municipal residential boundary.",
+      "sourceIds": [
+        "S046"
+      ]
+    },
+    {
+      "name": "Devanahalli-Boodihal",
+      "slug": "devanahalli-boodihal",
+      "description": "A service-led apartment option within Brigade Orchards. Review the home layout and community proposition alongside any optional service arrangements.",
+      "hold": "Verify exact address and explain Primus service scope and charges separately.",
+      "sourceIds": [
+        "S047",
+        "S048"
+      ]
+    }
+  ],
+  "sources": {
+    "S001": "https://www.aaramvreality.com/properties/prestige-finsbury-park?layout=configuration-11",
+    "S002": "https://manyata.co.in/earthsong-by-manyata/",
+    "S003": "https://earthsongbymanyata.com/infrastructure/",
+    "S004": "https://earthsongbymanyata.com/construction-update/",
+    "S005": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-el-dorado",
+    "S006": "https://www.puravankara.com/campaigns/atmosphere/",
+    "S007": "https://www.puravankara.com/campaigns/purva-atmosphere/",
+    "S008": "https://www.puravankara.com/campaigns/r2/atmosphere/",
+    "S009": "https://sattvagroup.com/residential/park-cubix/",
+    "S010": "https://sattvagroup.com/sattva-property-results/",
+    "S011": "https://sattvagroup.com/our-business-verticals/residential/",
+    "S012": "https://www.assetzproperty.com/soulandsoil/project.php",
+    "S013": "https://www.assetzproperty.com/soulandsoil/contact-us.php",
+    "S014": "https://housing-is-01.s3.amazonaws.com/6a32315a/956a2f7d92dcf97ed1de93de4ab8c0b5/original.pdf",
+    "S015": "https://kla.kar.nic.in/council/house/Paperlaid/152/87.pdf",
+    "S016": "https://www.brigadeeldorado.com/jasper",
+    "S017": "https://www.brigadegroup.com/residential/projects/bengaluru/brigade-oasis",
+    "S018": "https://www.brigadegroup.com/residential-projects/index.php",
+    "S019": "https://www.centuryrealestate.in/residential/projects/century-seasons",
+    "S020": "https://www.dishaproperties.com/harmonygardens",
+    "S021": "https://sumadhuragroup.com/residential/bangalore/sumadhura-epitome",
+    "S022": "https://www.concorde.in/residential-projects/concorde-antares",
+    "S023": "https://poulomiflorique.com/",
+    "S024": "https://poulomiflorique.com/residences",
+    "S025": "https://poulomiflorique.com/faq",
+    "S026": "https://www.poulomi.in/project/poulomi-florique",
+    "S027": "https://felicity.snnestates.com/",
+    "S028": "https://felicity.snnestates.com/project-status/",
+    "S029": "https://nikoohomes.com/bhartiya-garden-estate/",
+    "S030": "https://nikoohomes.com/construction-progress-bhartiya-garden-estate/",
+    "S031": "https://sattvagroup.com/residential/sattva-vasanta-skye/",
+    "S032": "https://nikoo6.nikoohomes.com/",
+    "S033": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+    "S034": "https://nikoohomes.com/construction-progress-nikoo-homes-6/",
+    "S035": "https://nikoohomes.com/nikoo-homes-v/",
+    "S036": "https://nikoohomes.com/construction-progress-nikoo-homes-v/",
+    "S037": "https://nikoohomes.com/nikoo-homes-8/",
+    "S038": "https://nikoohomes.com/nikoo-homes-9/",
+    "S039": "https://nikoohomes.com/",
+    "S040": "https://dnrgroup.in/dnr-parklink/",
+    "S041": "https://parklink.dnrgroup.in/",
+    "S042": "https://www.concorde.in/residential-projects/concorde-neo",
+    "S043": "https://neo.concorde.in/",
+    "S044": "https://www.concorde.in/residential-projects/concorde-sienna",
+    "S045": "https://sienna.concorde.in/",
+    "S046": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+    "S047": "https://www.brigadegroup.com/residential/projects/bengaluru/laurel-maple-at-brigade-orchards",
+    "S048": "https://www.brigadegroup.com/residential-showcase-2026/index.html",
+    "S049": "https://sburbanscapes.com/",
+    "S050": "https://sburbanpark.in/",
+    "S051": "https://www.embassyofficeparks.com/AnnualReport-FY21/pdf/valuation-report.pdf",
+    "S052": "https://www.asterhospitals.in/location/bangalore",
+    "S053": "https://lsb.edu.in/connect/",
+    "S054": "https://www.thehdfcschool.com/",
+    "S055": "https://www.reva.edu.in/index.php/contact-us",
+    "S056": "https://www.stonehill.in/",
+    "S057": "https://bangalorerural.nic.in/en/tourist-place/kempegowda-international-airport/",
+    "S058": "https://www.bmrc.co.in/pd/FinalMetroParkingPolicy02-04-2026.pdf",
+    "S059": "https://investkarnataka.co.in/key-industrie/aerospace-defence/",
+    "S060": "https://www.aaramvreality.com/properties",
+    "S061": "https://www.aaramvreality.com/localities",
+    "S062": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/snn-estates-felicity/11686",
+    "S063": "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/dnr-parklink-phase-2/10935"
+  }
+}

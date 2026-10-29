@@ -21,6 +21,6 @@ export function FooterBusinessDetails() {
     {business.email && <a href={`mailto:${business.email}`}>{business.email}</a>}
     <p>{business.address || 'Bengaluru, Karnataka'}</p>
     {business.agentRegistration && <p>Agent registration: {business.agentRegistration}</p>}
-    <p>Real estate channel partner · confirm applicable fees and project details before committing.</p>
+    <p>Real estate channel partner</p>
   </div>;
 }

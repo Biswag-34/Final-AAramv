@@ -1,0 +1,1112 @@
+{
+  "schemaVersion": 2,
+  "id": "prestige-finsbury-park",
+  "published": true,
+  "isDemo": false,
+  "name": "Prestige Finsbury Park",
+  "localityId": "bagalur",
+  "type": "Apartment",
+  "status": "Ready to move",
+  "developerName": "Prestige Group",
+  "phaseName": "Hyde and Regent",
+  "address": "Aerospace Park, Gummanahalli, Bagalur KIADB, near Shell Technology Centre, Bengaluru, Karnataka",
+  "postalCode": "562149",
+  "description": "Prestige Finsbury Park is an apartment development in Gummanahalli, within the Bagalur-Aerospace Park corridor. Its Hyde and Regent components should be presented separately so buyers can understand the home formats and layouts relevant to each. The distinction between the wider project offering and the specific developer-sale or resale home available is an important part of choosing here.",
+  "possession": {
+    "label": "Ready to move; Hyde historical delivery target June 2023",
+    "date": null,
+    "precision": "historical-month",
+    "sourceUrl": "https://auric-acres.com/wp-content/uploads/FAQs-Prestige-Finsbury-Park-Hyde.pdf",
+    "sourceId": "SRC-002",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2023,
+    "month": 6
+  },
+  "searchKeywords": [
+    "Prestige Finsbury Park",
+    "Prestige Group",
+    "Bagalur",
+    "Bangalore",
+    "Bengaluru",
+    "Prestige Finbury Park",
+    "Finsbury Park Hyde",
+    "Finsbury Park Regent"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/prestige-finsbury-park/cover.webp",
+      "alt": "Prestige Finsbury Park — Main Prestige Finsbury Park Regent",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Main-Prestige-Finsbury-Park-Regent.jpg",
+      "width": 1440,
+      "height": 822,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "fa8455406758aaf31956c1e7dfa84e4a4993aa73e1f72c6b0d8cc56ab35a4b99",
+      "bytes": 216822
+    },
+    {
+      "id": "image-2",
+      "src": "/images/projects/prestige-finsbury-park/image-2.webp",
+      "alt": "Prestige Finsbury Park — Aerial View Prestige Finsbury Park Regent",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Aerial-View-Prestige-Finsbury-Park-Regent-768x431.jpg",
+      "width": 768,
+      "height": 431,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "23c2fb4a947dd372f82c53cc45015d09c197ee77591aaf1bf6f39936ead08a10",
+      "bytes": 98498
+    },
+    {
+      "id": "image-3",
+      "src": "/images/projects/prestige-finsbury-park/image-3.webp",
+      "alt": "Prestige Finsbury Park — Aerial View Prestige Finsbury Park Hyde",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Aerial-View-Prestige-Finsbury-Park-Hyde-768x451.jpg",
+      "width": 768,
+      "height": 451,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "b86389388c696f1e1fe4c0c77b128837befaf7ce87040964ece42ed7c03e6a13",
+      "bytes": 105910
+    },
+    {
+      "id": "image-4",
+      "src": "/images/projects/prestige-finsbury-park/image-4.webp",
+      "alt": "Prestige Finsbury Park — Clubhouse Prestige Finsbury Park Regent",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Clubhouse-Prestige-Finsbury-Park-Regent-768x469.jpg",
+      "width": 768,
+      "height": 469,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "162b97068c0bdc3607e474b8944a8550aefa1237d57f21090280597a1fac5b30",
+      "bytes": 54976
+    },
+    {
+      "id": "image-5",
+      "src": "/images/projects/prestige-finsbury-park/image-5.webp",
+      "alt": "Prestige Finsbury Park — Elevation D Prestige Finsbury Park Hyde",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Elevation-D-Prestige-Finsbury-Park-Hyde-768x403.jpg",
+      "width": 768,
+      "height": 403,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "ba5c2f71c17fd45a6f7067266194ad563db59134d685e65e95fd9d9f94721483",
+      "bytes": 44002
+    },
+    {
+      "id": "image-6",
+      "src": "/images/projects/prestige-finsbury-park/image-6.webp",
+      "alt": "Prestige Finsbury Park — 1 BHK 636 sq ft Hyde",
+      "caption": "Prestige Finsbury Park 1 BHK 636 sq ft Hyde",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/1-BHK-A1-636-Prestige-Finsbury-Park-Hyde-768x572.jpg",
+      "width": 768,
+      "height": 572,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "92a8c1729466536f1abf0a61f5362261be5d79185ff742224b0fec5b7ba3ae6c",
+      "bytes": 36950
+    },
+    {
+      "id": "image-7",
+      "src": "/images/projects/prestige-finsbury-park/image-7.webp",
+      "alt": "Prestige Finsbury Park — 1 BHK 652 sq ft Hyde",
+      "caption": "Prestige Finsbury Park 1 BHK 652 sq ft Hyde",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/1-BHK-A11-652-Prestige-Finsbury-Park-Hyde-768x572.jpg",
+      "width": 768,
+      "height": 572,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "25c8599f091c71fe4455c123711f8cc63141b0ec3425043d734ece767a4145a9",
+      "bytes": 36006
+    },
+    {
+      "id": "image-8",
+      "src": "/images/projects/prestige-finsbury-park/image-8.webp",
+      "alt": "Prestige Finsbury Park — 2 BHK 955 sq ft Hyde",
+      "caption": "Prestige Finsbury Park 2 BHK 955 sq ft Hyde",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/2-BHK-B1-955-Prestige-Finsbury-Park-Hyde-768x572.jpg",
+      "width": 768,
+      "height": 572,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "9964f15580c879ffe4e3b4770fccb573bee0ccc595f9727757dcfa953f415360",
+      "bytes": 35330
+    },
+    {
+      "id": "image-9",
+      "src": "/images/projects/prestige-finsbury-park/image-9.webp",
+      "alt": "Prestige Finsbury Park — 2 BHK 977 sq ft Hyde",
+      "caption": "Prestige Finsbury Park 2 BHK 977 sq ft Hyde",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/2-BHK-B5-977-Prestige-Finsbury-Park-Hyde-768x572.jpg",
+      "width": 768,
+      "height": 572,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "8b1591e45f81eaa2a6dca312be252a2aa92189135a9454638754c860be7b72f9",
+      "bytes": 33592
+    },
+    {
+      "id": "image-10",
+      "src": "/images/projects/prestige-finsbury-park/image-10.webp",
+      "alt": "Prestige Finsbury Park — 2 BHK 999 sq ft Hyde",
+      "caption": "Prestige Finsbury Park 2 BHK 999 sq ft Hyde",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/2-BHK-B11-999-Prestige-Finsbury-Park-Hyde-768x572.jpg",
+      "width": 768,
+      "height": 572,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "9015651865678c3d2aa4bca79116626c11c84e8eb3942e773f2ce3d0dcc5fe71",
+      "bytes": 39570
+    },
+    {
+      "id": "image-11",
+      "src": "/images/projects/prestige-finsbury-park/image-11.webp",
+      "alt": "Prestige Finsbury Park — 3 BHK 1224 sq ft Regent",
+      "caption": "Prestige Finsbury Park 3 BHK 1224 sq ft Regent",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/3-BHK-C1-1224-Prestige-Finsbury-Park-Regent-768x570.jpg",
+      "width": 768,
+      "height": 570,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "170ed3b4c81144c78efc46faeaaf584f659dc2dcc27a1c7b84dd080f849ab26a",
+      "bytes": 42294
+    },
+    {
+      "id": "image-12",
+      "src": "/images/projects/prestige-finsbury-park/image-12.webp",
+      "alt": "Prestige Finsbury Park — 3 BHK 1277 sq ft Regent",
+      "caption": "Prestige Finsbury Park 3 BHK 1277 sq ft Regent",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/3-BHK-C5-1277-Prestige-Finsbury-Park-Regent-768x570.jpg",
+      "width": 768,
+      "height": 570,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "e3c0a1dcaf60a973b9be1cb7efb02d83d2be3dade39ec4146a40036532c217d4",
+      "bytes": 43014
+    },
+    {
+      "id": "image-13",
+      "src": "/images/projects/prestige-finsbury-park/image-13.webp",
+      "alt": "Prestige Finsbury Park — 3 BHK 1431 sq ft Regent",
+      "caption": "Prestige Finsbury Park 3 BHK 1431 sq ft Regent",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/3-BHK-C8-1431-Prestige-Finsbury-Park-Regent-768x570.jpg",
+      "width": 768,
+      "height": 570,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "f79a77d6a53a9ef20799e7ef5d836abb763c330f5a839bdf3e13c6ddc26b4efa",
+      "bytes": 45354
+    },
+    {
+      "id": "image-14",
+      "src": "/images/projects/prestige-finsbury-park/image-14.webp",
+      "alt": "Prestige Finsbury Park — 3 BHK 1473 sq ft Regent",
+      "caption": "Prestige Finsbury Park 3 BHK 1473 sq ft Regent",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/3-BHK-C14-1473-Prestige-Finsbury-Park-Regent-768x570.jpg",
+      "width": 768,
+      "height": 570,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "fb2c32fb81d120ebbbe656bac6a9633b14862d276ceb8b9ebf75f10df173c8a2",
+      "bytes": 39992
+    },
+    {
+      "id": "image-15",
+      "src": "/images/projects/prestige-finsbury-park/image-15.webp",
+      "alt": "Prestige Finsbury Park — 3 BHK 1562 sq ft Regent",
+      "caption": "Prestige Finsbury Park 3 BHK 1562 sq ft Regent",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/3-BHK-C16-1562-Prestige-Finsbury-Park-Regent-768x570.jpg",
+      "width": 768,
+      "height": 570,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "aae65f5f1426f6df4296d2dea6d9053cccf29fc335c382e341923b89e34b1cf1",
+      "bytes": 45930
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/prestige-finsbury-park/cp-gallery-1.webp",
+      "alt": "Prestige Finsbury Park in Bagalur, Bangalore",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Main-Prestige-Finsbury-Park-Regent.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 822,
+      "sourcePageUrl": "https://www.homznspace.com/prestige-finsbury-park-regent-hyde-bagalur-reviews/",
+      "usage": "project-content",
+      "sha256": "fa8455406758aaf31956c1e7dfa84e4a4993aa73e1f72c6b0d8cc56ab35a4b99",
+      "bytes": 216822
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/prestige-finsbury-park/cp-gallery-2.webp",
+      "alt": "Aerial View Prestige Finsbury Park Regent",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Aerial-View-Prestige-Finsbury-Park-Regent-768x431.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 431,
+      "sourcePageUrl": "https://www.homznspace.com/prestige-finsbury-park-regent-hyde-bagalur-reviews/",
+      "usage": "project-content",
+      "sha256": "149535e950671277a77dccf5a142c23504d24a7b1175f927c3661de293d7eced",
+      "bytes": 93362
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/prestige-finsbury-park/cp-gallery-3.webp",
+      "alt": "Aerial View Prestige Finsbury Park Hyde",
+      "caption": "Prestige Finsbury Park · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2019/12/Aerial-View-Prestige-Finsbury-Park-Hyde-768x451.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 451,
+      "sourcePageUrl": "https://www.homznspace.com/prestige-finsbury-park-regent-hyde-bagalur-reviews/",
+      "usage": "project-content",
+      "sha256": "359d6b677ec976e5593de5f2f46c22a83c7a461e05fefe14b0786b58845c6b73",
+      "bytes": 102198
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prestige%20Finsbury%20Park%2C%20Aerospace%20Park%2C%20Gummanahalli%2C%20Bagalur%20KIADB%2C%20near%20Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "1 BHK — 636 sq ft — Hyde",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 636,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-6",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 416,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-2",
+      "label": "1 BHK — 652 sq ft — Hyde",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 652,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-7",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 428,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "2 BHK — 955 sq ft — Hyde",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 955,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-8",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 614,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-4",
+      "label": "2 BHK — 977 sq ft — Hyde",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 977,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 8600000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-9",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 628,
+      "priceSourceIds": [
+        "SRC-006"
+      ]
+    },
+    {
+      "id": "configuration-5",
+      "label": "2 BHK — 999 sq ft — Hyde",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 999,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-10",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 630,
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1224 sq ft — Regent",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1224,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-11",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Regent",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1277 sq ft — Regent",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1277,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-12",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Regent",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "3 BHK — 1431 sq ft — Regent",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1431,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-13",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Regent",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-9",
+      "label": "3 BHK — 1473 sq ft — Regent",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1473,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-14",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Regent",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-10",
+      "label": "3 BHK — 1562 sq ft — Regent",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1562,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-15",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Regent",
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-11",
+      "label": "1 BHK — 676 sq ft — Hyde resale listing",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 676,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 6800000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "priceSourceIds": [
+        "SRC-006"
+      ]
+    },
+    {
+      "id": "configuration-12",
+      "label": "2 BHK — 977 sq ft — Hyde resale listing",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 977,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": 8600000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "image-9",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "phaseName": "Hyde",
+      "carpetAreaSqFt": 628,
+      "priceSourceIds": [
+        "SRC-006"
+      ]
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 25,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 18,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Hyde: 12 towers; Regent: 6 towers; basement + ground + 20 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 3050,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "636–1562",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Hyde and Regent components",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "One, two and three bedroom formats across the project record",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Gummanahalli location in the Bagalur corridor",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Gymnasium",
+      "description": "Gymnasium within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Health club",
+      "description": "Health club within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Indoor badminton court",
+      "description": "Indoor badminton court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Mini theatre",
+      "description": "Mini theatre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Party hall",
+      "description": "Party hall within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Crèche provision",
+      "description": "Crèche provision within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Convenience store provision",
+      "description": "Convenience store provision within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pharmacy provision",
+      "description": "Pharmacy provision within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Clinic provision",
+      "description": "Clinic provision within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Outdoor games area",
+      "description": "Outdoor games area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior citizen park",
+      "description": "Senior citizen park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Pet park",
+      "description": "Pet park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-002"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 6.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    },
+    {
+      "name": "Manyata Tech Park",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Manyata Tech Park is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": 12.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Manyata%20Tech%20Park%2C%20Bengaluru"
+    },
+    {
+      "name": "KR Puram",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "KR Puram is a sport and recreation landmark to include in your route check.",
+      "distanceKm": 15.9,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Puram%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://auric-acres.com/wp-content/uploads/FAQs-Prestige-Finsbury-Park-Hyde.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-002"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Prestige Finsbury Park",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Aerospace Park, Gummanahalli, Bagalur KIADB, near Shell Technology Centre, Bengaluru, Karnataka, 562149. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Prestige Finsbury Park"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Prestige Finsbury Park located?",
+      "answer": "Aerospace Park, Gummanahalli, Bagalur KIADB, near Shell Technology Centre, Bengaluru, Karnataka, 562149. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "1 BHK, 2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 636–1562 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹68 L–₹1.1 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Ready to move. Published timeline: Ready to move; Hyde historical delivery target June 2023. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming pool, Gymnasium, Health club, Indoor badminton court, Mini theatre, Party hall. Hyde and Regent have separate facilities; do not merge clubhouse access. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Hyde and Regent components One, two and three bedroom formats across the project record Gummanahalli location in the Bagalur corridor. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Prestige Finsbury Park",
+      "url": "https://www.aaramvreality.com/properties/prestige-finsbury-park?layout=configuration-11",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Prestige Finsbury Park",
+      "url": "https://auric-acres.com/wp-content/uploads/FAQs-Prestige-Finsbury-Park-Hyde.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Prestige Finsbury Park",
+      "url": "https://mypropertypoint.com/projects/prestige-finsbury-park-hyde-thanisandra",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Prestige Finsbury Park",
+      "url": "https://www.homznspace.com/prestige-finsbury-park-regent-hyde-bagalur-reviews/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Prestige Finsbury Park",
+      "url": "https://www.prestigeconstructions.com/residential-projects/bangalore/prestige-finsbury-park",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Prestige Finsbury Park prices",
+      "url": "https://www.magicbricks.com/prestige-finsbury-park-regent-bagalur-main-road-bangalore-pdpid-4d4235313330303435",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Prestige Finsbury Park"
+  ],
+  "projectScale": {
+    "landAreaAcres": 25,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 18,
+    "floorArrangement": "Hyde: 12 towers; Regent: 6 towers; basement + ground + 20 upper floors",
+    "totalHomesOrPlots": 3050,
+    "sourceIds": [
+      "SRC-001",
+      "SRC-002",
+      "SRC-003",
+      "SRC-004",
+      "SRC-005"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹68 L–₹1.1 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 6800000,
+    "maxStartingPriceInr": 11000000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 6800000,
+      "highestConfigurationStartInr": 11000000,
+      "displayText": "₹68 L–₹1.1 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "1 BHK Hyde, Aaramv listed resale",
+        "areaSqFt": 676,
+        "startingPriceInr": 6800000,
+        "upperQuotedPriceInr": 6800000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+        "sourceId": "SRC-006",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK Hyde, Aaramv listed resale",
+        "areaSqFt": 977,
+        "startingPriceInr": 8600000,
+        "upperQuotedPriceInr": 8600000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.aaramvreality.com/properties/prestige-finsbury-park",
+        "sourceId": "SRC-006",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK Regent, portal starting ask",
+        "areaSqFt": 1233,
+        "startingPriceInr": 11000000,
+        "upperQuotedPriceInr": 11000000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.magicbricks.com/prestige-finsbury-park-regent-bagalur-main-road-bangalore-pdpid-4d4235313330303435",
+        "sourceId": "SRC-007",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 14,
+    "countType": "sourced-named-facility-count",
+    "label": "Hyde and Regent have separate facilities; do not merge clubhouse access",
+    "namedAmenitiesCount": 14,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "14 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Prestige%20Finsbury%20Park%2C%20Aerospace%20Park%2C%20Gummanahalli%2C%20Bagalur%20KIADB%2C%20near%20Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Karnataka%2C%20562149",
+    "query": "Prestige Finsbury Park, Aerospace Park, Gummanahalli, Bagalur KIADB, near Shell Technology Centre, Bengaluru, Karnataka, 562149",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": null,
+  "sourceIds": [
+    "SRC-001",
+    "SRC-002",
+    "SRC-003",
+    "SRC-004",
+    "SRC-005",
+    "SRC-006",
+    "SRC-007"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Hyde and Regent are independently approved developments with separate amenity access. Combined land is 25 acres; do not assign 18 towers to Hyde alone.",
+      "Aaramv listed resale asks of 68 and 86 lakh are retained as owner-site listing references, not new developer inventory."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "partial — exact plans missing for some records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {
+    "configuration-12": "configuration-4"
+  },
+  "galleryImageIds": [
+    "cover",
+    "image-2",
+    "image-3",
+    "image-4",
+    "image-5",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Prestige Finsbury Park",
+    "summary": "Prestige Finsbury Park is an apartment development in Gummanahalli, within the Bagalur-Aerospace Park corridor. Its Hyde and Regent components should be presented separately so buyers can understand the home formats and layouts relevant to each. The distinction between the wider project offering and the specific developer-sale or resale home available is an important part of choosing here.",
+    "highlights": [
+      "Hyde and Regent components",
+      "One, two and three bedroom formats across the project record",
+      "Gummanahalli location in the Bagalur corridor"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 25,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 18,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Hyde: 12 towers; Regent: 6 towers; basement + ground + 20 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 3050,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "636–1562",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹68 L–₹1.1 Cr* Onward",
+    "possessionDisplay": "Ready to move; Hyde historical delivery target June 2023",
+    "sourceIds": [
+      "SRC-001",
+      "SRC-002",
+      "SRC-003",
+      "SRC-004",
+      "SRC-005",
+      "SRC-006",
+      "SRC-007"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

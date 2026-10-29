@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "id": "kiadb-aerospace-park",
+  "published": true,
+  "isDemo": false,
+  "name": "KIADB Aerospace Park",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Aerospace corridor",
+  "tagline": "An employment district with several ways to live nearby.",
+  "description": "The KIADB Aerospace and Hardware Park is an industrial and technology district in North Bengaluru. Boeing’s engineering campus and Shell Technology Centre are established employment landmarks in the wider park area. Residential developments have their own locations, phases and access arrangements; the park label does not mean every home is inside the same enclave.",
+  "tags": [
+    "North Bengaluru · Aerospace corridor",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "KIADB Aerospace Park",
+    "kiadb-aerospace-park",
+    "Bengaluru",
+    "Brigade El Dorado",
+    "Jasper at Brigade El Dorado",
+    "Nikoo Homes 9"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/kiadb-aerospace-park/cover.webp",
+      "alt": "Boeing’s Bengaluru engineering campus · aerospace employment landmark",
+      "caption": "Boeing’s Bengaluru engineering campus · aerospace employment landmark",
+      "kind": "landmark-photograph",
+      "credit": "Boeing India · Bengaluru campus",
+      "sourceUrl": "https://www.boeing.co.in/content/dam/boeing/v2/india/images/in-bengaluru.jpg",
+      "sourcePageUrl": "https://www.boeing.co.in/content/theboeingcompany/in/en.html",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 960,
+      "height": 640,
+      "checkedAt": "2026-10-28",
+      "sha256": "d87846362b6549cbdaf1cd1c631af992d519401ec8d5a0160df2ed2542b7d375",
+      "bytes": 78846
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=KIADB%20Aerospace%20Park%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Boeing engineering and technology campus",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Shell research and technology presence",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Block-based apartment and township choices in the surrounding corridor",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "3"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Jasper is related to the parent El Dorado township; these are catalogue records, not independent township counts."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Shell Technology Centre, Bengaluru",
+      "category": "Workplace",
+      "icon": "BriefcaseBusiness",
+      "description": "Shell Technology Centre, Bengaluru is a workplace landmark to compare from the exact project entrance.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shell%20Technology%20Centre%2C%20Bengaluru%2C%20Bengaluru"
+    },
+    {
+      "name": "New Airport rd",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "New Airport rd is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20rd%2C%20Bengaluru"
+    },
+    {
+      "name": "Budigere Main Rd",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "Budigere Main Rd is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Budigere%20Main%20Rd%2C%20Bengaluru"
+    },
+    {
+      "name": "Bagalur",
+      "category": "Nearby landmark",
+      "icon": "MapPin",
+      "description": "Bagalur is a useful landmark for comparing routes from the exact project location.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives KIADB Aerospace Park its identity?",
+      "answer": "Boeing engineering and technology campus; Shell research and technology presence; Block-based apartment and township choices in the surrounding corridor."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Brigade El Dorado, Jasper at Brigade El Dorado, Nikoo Homes 9. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "Our starting point is the workplace or destination you actually need to reach. We then separate the residential project from the industrial park and compare its registered block, road approach and home layout. For El Dorado and Jasper, we also make the parent–component relationship clear so the same township is not presented as two unrelated choices."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bagalur",
+      "url": "https://find.shell.com/in/fuel/13031028-shell-technology-center-bnglre/en_IN",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "KIADB Aerospace Park",
+      "url": "https://www.boeing.co.in/content/theboeingcompany/in/en.html",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "Our starting point is the workplace or destination you actually need to reach. We then separate the residential project from the industrial park and compare its registered block, road approach and home layout. For El Dorado and Jasper, we also make the parent–component relationship clear so the same township is not presented as two unrelated choices.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "brigade-el-dorado",
+    "jasper-at-brigade-el-dorado",
+    "nikoo-homes-9"
+  ],
+  "usp": [
+    "Boeing engineering and technology campus",
+    "Shell research and technology presence",
+    "Block-based apartment and township choices in the surrounding corridor"
+  ],
+  "sourceIds": [
+    "SRC-138",
+    "SRC-133",
+    "SRC-138"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

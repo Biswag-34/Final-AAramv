@@ -1,0 +1,867 @@
+{
+  "schemaVersion": 2,
+  "id": "disha-harmony-gardens",
+  "published": true,
+  "isDemo": false,
+  "name": "Disha Harmony Gardens",
+  "localityId": "hennur-road",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Disha Properties",
+  "phaseName": null,
+  "address": "Doddagubbi Main Road, Kyalasanahalli, off Hennur–Bagalur Road, Byrathi/Hennur corridor, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "Disha Harmony Gardens is a three-tower apartment community in the Hennur corridor, offering two- and three-bedroom homes. The developer describes 247 homes across 3.25 acres, with a substantial portion of the site left open and recreation centred on Club Harmony. Its planning emphasises shared outdoor areas, family amenities and a high proportion of corner apartments.",
+  "possession": {
+    "label": "December 2027",
+    "date": null,
+    "precision": "month",
+    "sourceUrl": "https://www.dishaproperties.com/harmonygardens",
+    "sourceId": "SRC-055",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2027,
+    "month": 12
+  },
+  "searchKeywords": [
+    "Disha Harmony Gardens",
+    "Disha Properties",
+    "Hennur Road",
+    "Bangalore",
+    "Bengaluru",
+    "Disha Harmony Garden"
+  ],
+  "coverImageId": "developer-gallery-2",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/disha-harmony-gardens/master-plan.webp",
+      "alt": "Disha Harmony Gardens — master plan",
+      "caption": "Disha Harmony Gardens master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200211009-154538582.webp",
+      "width": 1241,
+      "height": 1754,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "2ef2c78728d3e99970f4500e890051bf46e55863aeeebfc63b72dfd2b675c41b",
+      "bytes": 156368
+    },
+    {
+      "id": "developer-gallery-1",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-1.webp",
+      "alt": "Drone View of Harmony Gardens all three towers by Disha Properties in Hennur.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67ce9d348ca6808cc87c7ff7_Header-Mobile.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 800,
+      "height": 1000,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "92729c6780796016496f42bddc95470d58910f50f195d09f92afc4968007a90b",
+      "bytes": 198982
+    },
+    {
+      "id": "developer-gallery-2",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-2.webp",
+      "alt": "Party Lawns at Harmony Gardens by Disha Properties (Disha Habitat). ",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67caa95987f4478e6a153e25_Landscape.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 640,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "9646e15795cc16f8df6f3eee3454229e24c1033eac93fcb9e6448c4d9f3141b1",
+      "bytes": 248624
+    },
+    {
+      "id": "developer-gallery-3",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-3.webp",
+      "alt": "Entrance 2 of Harmony Gardens, top projects in north Bangalore, Hennur by Disha Properties.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67cfe5fffd919a2bcf17321e_Entry-Plaza.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 640,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "0856bff057fd2d447e2c9787abda4694ebf5cea5ca85f3920cd5a749bf9c51cc",
+      "bytes": 155976
+    },
+    {
+      "id": "developer-gallery-4",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-4.webp",
+      "alt": "Birds eye view 2 of Harmony Gardens, top projects in north Bangalore, Hennur by Disha Properties.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67cfe5ff932f725c00a198f4_Angle-Shot.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 640,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "620c1f6bcbb4976ec92d0994424b23d29b4e79e629ad94536293b3489f346662",
+      "bytes": 177558
+    },
+    {
+      "id": "developer-gallery-5",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-5.webp",
+      "alt": "Swimming Pool 2 of Harmony Gardens, top projects in north Bangalore, Hennur by Disha Properties.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67cfe5ff1a6d0f7e7982b6cd_Swimming-Pool2.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 640,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "6c777d10c909b827ad1bb994e810c17f3a66005c989043c931f40f28c56aedb5",
+      "bytes": 265986
+    },
+    {
+      "id": "developer-gallery-6",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-6.webp",
+      "alt": "Entrance of Harmony Gardens, top projects in north Bangalore, Hennur by Disha Properties.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67cfe6194a8eb3c8f9afc0e5_Entry-Plaza-Mobile.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 1080,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "0679fe395462757651813e1f4ce4bfce2a4b86d0695410601758310f7fcd7b42",
+      "bytes": 193946
+    },
+    {
+      "id": "developer-gallery-7",
+      "src": "/images/projects/disha-harmony-gardens/developer-gallery-7.webp",
+      "alt": "Birds eye view of Harmony Gardens, top projects in north Bangalore, Hennur by Disha Properties.",
+      "caption": "Disha Harmony Gardens · Developer visual",
+      "kind": "exterior",
+      "credit": "Disha Properties published project visual",
+      "sourceUrl": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67cfe619ff85e927f4fa5f63_Angle-Shot-Mobile.webp",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1440,
+      "height": 1080,
+      "sourcePageUrl": "https://www.dishaproperties.com/harmonygardens",
+      "usage": "project-content",
+      "sha256": "0993daabecfb3a13a5198e3f642f50f2e91ca16cb90395690ded8856e28312d4",
+      "bytes": 183984
+    },
+    {
+      "id": "developer-plan-2bhk-2t",
+      "src": "/images/projects/disha-harmony-gardens/developer-plan-2bhk-2t.webp",
+      "alt": "Disha Harmony Gardens 2 BHK 2 bath developer plan",
+      "caption": "Disha Harmony Gardens 2 BHK 2 bath developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Disha Properties.",
+      "sourceUrl": "https://www.dishaproperties.com/harmonygardens",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1193,
+      "height": 1255,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+      "usage": "project-content",
+      "sha256": "51c8539ea3826da6c6e2104555569f3cb6e3583304f753ba9f44e743fca6f007",
+      "bytes": 132730
+    },
+    {
+      "id": "developer-plan-3bhk-2t",
+      "src": "/images/projects/disha-harmony-gardens/developer-plan-3bhk-2t.webp",
+      "alt": "Disha Harmony Gardens 3 BHK 2 bath developer plan",
+      "caption": "Disha Harmony Gardens 3 BHK 2 bath developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Disha Properties.",
+      "sourceUrl": "https://www.dishaproperties.com/harmonygardens",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1492,
+      "height": 1236,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+      "usage": "project-content",
+      "sha256": "4fc2b4cb08eadea896875aa44c60906556a862ecdba088226967056f5e292ca1",
+      "bytes": 179334
+    },
+    {
+      "id": "developer-plan-3bhk-3t",
+      "src": "/images/projects/disha-harmony-gardens/developer-plan-3bhk-3t.webp",
+      "alt": "Disha Harmony Gardens 3 BHK 3 bath developer plan",
+      "caption": "Disha Harmony Gardens 3 BHK 3 bath developer plan",
+      "kind": "floor-plan",
+      "credit": "Project material published by Disha Properties.",
+      "sourceUrl": "https://www.dishaproperties.com/harmonygardens",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1517,
+      "height": 1322,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+      "usage": "project-content",
+      "sha256": "495cad406710483edba22845213323b16e72077987b743b8ca9f91bf24c1d3bc",
+      "bytes": 191398
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0671755,
+    "longitude": 77.6614315
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Disha%20Harmony%20Gardens%2C%20Doddagubbi%20Main%20Road%2C%20Kyalasanahalli%2C%20off%20Hennur%E2%80%93Bagalur%20Road%2C%20Byrathi/Hennur%20corridor%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2 BHK · 2 baths · 1,250 sq ft",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 1250,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-2bhk-2t",
+      "sourceIds": [
+        "SRC-055"
+      ],
+      "phaseName": null,
+      "combinedReraAndBalconyAreaSqFt": 873,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-2-baths-1-526-sq-ft-1526",
+      "label": "3 BHK · 2 baths · 1,526 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1526,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-2t",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-055"
+      ],
+      "combinedReraAndBalconyAreaSqFt": 1080,
+      "priceSourceIds": []
+    },
+    {
+      "id": "layout-3-bhk-3-baths-1-745-sq-ft-1745",
+      "label": "3 BHK · 3 baths · 1,745 sq ft",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqFt": 1745,
+      "areaBasis": "super-built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-3bhk-3t",
+      "phaseName": null,
+      "sourceIds": [
+        "SRC-055"
+      ],
+      "combinedReraAndBalconyAreaSqFt": 1238,
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 3.25,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 3,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "Basement + ground + 14 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 247,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "1250–1745",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "3.25 acres with 247 homes and three towers",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "B plus G plus 14 floor arrangement",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "76 percent land as open space reported by the developer",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "70 percent corner apartments reported by the developer",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Activity",
+      "title": "Futsal court",
+      "description": "Futsal court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multipurpose court",
+      "description": "Multipurpose court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Children’s play area",
+      "description": "Children’s play area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket practice pitch",
+      "description": "Cricket practice pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Seating alcove",
+      "description": "Seating alcove within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Aroma garden with swing lounge",
+      "description": "Aroma garden with swing lounge within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Youth corner",
+      "description": "Youth corner within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Celebration lawn",
+      "description": "Celebration lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheatre",
+      "description": "Amphitheatre within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Swimming pool",
+      "description": "Swimming pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Jogging track",
+      "description": "Jogging track within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Club Harmony",
+      "description": "Club Harmony within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-055",
+        "SRC-056"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "New Airport Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "New Airport Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 2.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=New%20Airport%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Bileshivale Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bileshivale Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 1.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bileshivale%20Main%20Road%2C%20Bengaluru"
+    },
+    {
+      "name": "Decathlon",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 2.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Decathlon%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-2",
+      "title": "Developer brochure / plan document",
+      "url": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67d3dc9b01761f74cf267b66_38ff0cbae5725265b6dc21d1a5538e42_DHG%20E-Brochure_WFV.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-056"
+    }
+  ],
+  "relatedPropertyIds": [
+    "dnr-parklink",
+    "concorde-sienna"
+  ],
+  "content": {
+    "overviewTitle": "What defines Disha Harmony Gardens",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Doddagubbi Main Road, Kyalasanahalli, off Hennur–Bagalur Road, Byrathi/Hennur corridor, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Disha Harmony Gardens"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Disha Harmony Gardens located?",
+      "answer": "Doddagubbi Main Road, Kyalasanahalli, off Hennur–Bagalur Road, Byrathi/Hennur corridor, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2 BHK, 3 BHK. Documented saleable/super built-up plan areas span 1250–1745 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.2 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: December 2027. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Futsal court, Multipurpose court, Children’s play area, Cricket practice pitch, Seating alcove, Aroma garden with swing lounge. 30+ developer-marketed multi-generational amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "3.25 acres with 247 homes and three towers B plus G plus 14 floor arrangement 76 percent land as open space reported by the developer. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Disha Harmony Gardens",
+      "url": "https://www.dishaproperties.com/harmonygardens",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Disha Harmony Gardens",
+      "url": "https://cdn.prod.website-files.com/677e4a57ec96e27aa8c59e1e/67d3dc9b01761f74cf267b66_38ff0cbae5725265b6dc21d1a5538e42_DHG%20E-Brochure_WFV.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Disha Harmony Gardens"
+  ],
+  "projectScale": {
+    "landAreaAcres": 3.25,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 3,
+    "floorArrangement": "Basement + ground + 14 upper floors",
+    "totalHomesOrPlots": 247,
+    "sourceIds": [
+      "SRC-055",
+      "SRC-056"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.2 Cr* Onward",
+    "displayMode": "starting-price",
+    "minStartingPriceInr": 12000000,
+    "maxStartingPriceInr": null,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 12000000,
+      "highestConfigurationStartInr": 12000000,
+      "displayText": "₹1.2 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "2 and 3 BHK developer starting headline",
+        "areaSqFt": null,
+        "startingPriceInr": 12000000,
+        "sourceUrl": "https://www.dishaproperties.com/harmonygardens",
+        "sourceId": "SRC-055",
+        "basis": "developer-headline",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2 BHK",
+    "3 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 30,
+    "countType": "advertised-lower-bound",
+    "label": "30+ developer-marketed multi-generational amenities",
+    "namedAmenitiesCount": 12,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "30+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Disha%20Harmony%20Gardens%2C%20Doddagubbi%20Main%20Road%2C%20Kyalasanahalli%2C%20off%20Hennur%E2%80%93Bagalur%20Road%2C%20Byrathi/Hennur%20corridor%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "Disha Harmony Gardens, Doddagubbi Main Road, Kyalasanahalli, off Hennur–Bagalur Road, Byrathi/Hennur corridor, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62191.91968151794!2d77.60232242401317!3d13.035991294879334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b8e073ea085%3A0xaa7513306bd8b041!2sDisha%20Harmony%20Gardens!5e0!3m2!1sen!2sin!4v1741353098797!5m2!1sen!2sin",
+        "sourceUrl": "https://www.dishaproperties.com/harmonygardens"
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62191.91968151794!2d77.60232242401317!3d13.035991294879334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b8e073ea085%3A0xaa7513306bd8b041!2sDisha%20Harmony%20Gardens!5e0!3m2!1sen!2sin!4v1741353098797!5m2!1sen!2sin",
+        "sourceUrl": "https://www.dishaproperties.com/harmonygardens"
+      }
+    ],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-055",
+    "SRC-056",
+    "SRC-057"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer plans are 1,250, 1,526 and 1,745 sq ft SBUA; portal 1,230/1,720 figures must not override them.",
+      "The site labels a combined measure RERA + Balcony. Store this as a combined measure, never as pure carpet.",
+      "Published cost-sheet values use different plan revisions and are not automatically current."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "Disha Harmony Gardens — project gallery 1",
+        "caption": "Disha Harmony Gardens · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200186101-849451883.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "Disha Harmony Gardens — project gallery 2",
+        "caption": "Disha Harmony Gardens · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200189373-863329877.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "Disha Harmony Gardens — project gallery 3",
+        "caption": "Disha Harmony Gardens · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200190924-722972600.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "Disha Harmony Gardens — project gallery 4",
+        "caption": "Disha Harmony Gardens · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/disha-harmony-gardens_1770200192934-343145603.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-1",
+        "alt": "Disha Harmony Gardens — 2 BHK, 1250 sq ft built-up unit plan",
+        "caption": "Disha Harmony Gardens 2 BHK, 1250 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1785500986874-188498509.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-2",
+        "alt": "Disha Harmony Gardens — 2 BHK, 1231 sq ft built-up unit plan",
+        "caption": "Disha Harmony Gardens 2 BHK, 1231 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1785500990933-231425889.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-3",
+        "alt": "Disha Harmony Gardens — 3 BHK, 1492 sq ft built-up unit plan",
+        "caption": "Disha Harmony Gardens 3 BHK, 1492 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1785500987269-691107197.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-4",
+        "alt": "Disha Harmony Gardens — 3 BHK, 1720 sq ft built-up unit plan",
+        "caption": "Disha Harmony Gardens 3 BHK, 1720 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/image_0_1785500987673-606557859.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/disha-harmony-gardens",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "developer-gallery-1",
+    "developer-gallery-2",
+    "developer-gallery-3",
+    "developer-gallery-4",
+    "developer-gallery-5",
+    "developer-gallery-6",
+    "developer-gallery-7"
+  ],
+  "overview": {
+    "title": "What defines Disha Harmony Gardens",
+    "summary": "Disha Harmony Gardens is a three-tower apartment community in the Hennur corridor, offering two- and three-bedroom homes. The developer describes 247 homes across 3.25 acres, with a substantial portion of the site left open and recreation centred on Club Harmony. Its planning emphasises shared outdoor areas, family amenities and a high proportion of corner apartments.",
+    "highlights": [
+      "3.25 acres with 247 homes and three towers",
+      "B plus G plus 14 floor arrangement",
+      "76 percent land as open space reported by the developer",
+      "70 percent corner apartments reported by the developer"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 3.25,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 3,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "Basement + ground + 14 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 247,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "1250–1745",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.2 Cr* Onward",
+    "possessionDisplay": "December 2027",
+    "sourceIds": [
+      "SRC-055",
+      "SRC-056",
+      "SRC-057"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

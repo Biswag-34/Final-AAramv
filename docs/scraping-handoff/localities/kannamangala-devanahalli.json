@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "id": "kannamangala-devanahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "Kannamangala, Devanahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Airport corridor",
+  "tagline": "Kannamangala, on the Devanahalli side of Bengaluru.",
+  "description": "This is Kannamangala in Devanahalli taluk, near the northern airport corridor—not the Kannamangala near Whitefield. The location sits within the wider NH 44 and Kempegowda International Airport setting. Use the full village and taluk name whenever opening a map or comparing projects here.",
+  "tags": [
+    "North Bengaluru · Airport corridor",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Kannamangala, Devanahalli",
+    "kannamangala-devanahalli",
+    "Bengaluru",
+    "Sattva Vasanta Skye"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/kannamangala-devanahalli/cover.webp",
+      "alt": "Kannamangala, Devanahalli taluk · OpenStreetMap location map",
+      "caption": "Kannamangala, Devanahalli taluk · OpenStreetMap location map",
+      "kind": "location-map",
+      "credit": "© OpenStreetMap contributors",
+      "sourceUrl": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+      "sourcePageUrl": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+      "license": "ODbL 1.0",
+      "licenseUrl": "https://www.openstreetmap.org/copyright",
+      "rightsStatus": "Retain visible OpenStreetMap attribution.",
+      "capturedAt": "2026-10-28",
+      "width": 1280,
+      "height": 768,
+      "checkedAt": "2026-10-28",
+      "sha256": "a6eda533f11ed84d7d54f4606d9208c40af467fb842f37c605a6771021c48e6e",
+      "bytes": 174326
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.2151923,
+    "longitude": 77.6667197
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kannamangala%2C%20Devanahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Devanahalli-taluka village identity",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "NH 44 and airport-corridor context",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Apartment choices in the Sattva Vasanta Skye search area",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "National Highway 44",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "National Highway 44 is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Highway%2044%2C%20Bengaluru"
+    },
+    {
+      "name": "Forum Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Forum Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Kannamangala, Devanahalli its identity?",
+      "answer": "Devanahalli-taluka village identity; NH 44 and airport-corridor context; Apartment choices in the Sattva Vasanta Skye search area."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Sattva Vasanta Skye. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "Getting the location right is the first step here. We would identify Kannamangala in Devanahalli, then test the routes relevant to your household and compare the exact apartment type. We would treat ready infrastructure, home construction status and possession dates as separate facts, so a convenient location claim never implies a home is ready to occupy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Kannamangala, Devanahalli",
+      "url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/831297",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Kannamangala, Devanahalli image source",
+      "url": "https://www.openstreetmap.org/#map=14/13.2151923/77.6667197",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "Getting the location right is the first step here. We would identify Kannamangala in Devanahalli, then test the routes relevant to your household and compare the exact apartment type. We would treat ready infrastructure, home construction status and possession dates as separate facts, so a convenient location claim never implies a home is ready to occupy.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "sattva-vasanta-skye"
+  ],
+  "usp": [
+    "Devanahalli-taluka village identity",
+    "NH 44 and airport-corridor context",
+    "Apartment choices in the Sattva Vasanta Skye search area"
+  ],
+  "sourceIds": [
+    "SRC-156",
+    "SRC-157"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Map",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

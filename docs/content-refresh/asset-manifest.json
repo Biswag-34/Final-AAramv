@@ -1,0 +1,30 @@
+[
+  {
+    "archiveEntry": "word/media/image1.png",
+    "file": "public/images/aaramv-buyer-first-hero.png",
+    "sha256": "9a17f7432dbcc50ffadb3679dc1df36c2ffde5cd05c463d02039e5b46b088d51",
+    "role": "production illustrative advisory scene",
+    "source": "Aaramv_Website_Content_and_Image_Master.docx"
+  },
+  {
+    "archiveEntry": "word/media/image2.png",
+    "file": "public/images/aaramv-support-through-move-in.png",
+    "sha256": "268e0f922caee7c02c42e391ca4baf35b111a179206fb21e9e9eb463e0dc0eef",
+    "role": "production illustrative walkthrough scene",
+    "source": "Aaramv_Website_Content_and_Image_Master.docx"
+  },
+  {
+    "archiveEntry": "word/media/image3.png",
+    "file": "docs/content-refresh/aaramv-difference-desktop-reference.png",
+    "sha256": "0a52c649df727c59851aa5d8f92c1d7bf864c328a25f60f4da6af4215b179a97",
+    "role": "design reference only",
+    "source": "Aaramv_Website_Content_and_Image_Master.docx"
+  },
+  {
+    "archiveEntry": "word/media/image4.png",
+    "file": "docs/content-refresh/aaramv-difference-mobile-reference.png",
+    "sha256": "639d026f5b59f9203babb18f9b5a3b0d86bff7d53885957fa3f18b0245c4b481",
+    "role": "design reference only",
+    "source": "Aaramv_Website_Content_and_Image_Master.docx"
+  }
+]

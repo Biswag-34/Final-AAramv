@@ -1,0 +1,367 @@
+[
+  {
+    "projectId": "prestige-finsbury-park",
+    "category": "source-conflict-or-scope",
+    "detail": "Hyde and Regent are independently approved developments with separate amenity access. Combined land is 25 acres; do not assign 18 towers to Hyde alone."
+  },
+  {
+    "projectId": "prestige-finsbury-park",
+    "category": "source-conflict-or-scope",
+    "detail": "Aaramv listed resale asks of 68 and 86 lakh are retained as owner-site listing references, not new developer inventory."
+  },
+  {
+    "projectId": "earthsong-by-manyata",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer 120-acre master claim preferred over CP 121 acres. Phase 5 is not the whole township."
+  },
+  {
+    "projectId": "earthsong-by-manyata",
+    "category": "source-conflict-or-scope",
+    "detail": "The developer plots page markets a 1,200–4,750 sq ft range; not every intermediate plot dimension has a published plan."
+  },
+  {
+    "projectId": "earthsong-by-manyata",
+    "category": "source-conflict-or-scope",
+    "detail": "CP marks Phase 5 sold out. Portal prices are indicative secondary-market references; no live stock confirmation."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "source-conflict-or-scope",
+    "detail": "Corporate developer page is headed Beryl and marked sold out but contains township-wide facts. Individual block completion and inventory differ."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "source-conflict-or-scope",
+    "detail": "Price section and launch copy must not be treated as current stock confirmation."
+  },
+  {
+    "projectId": "purva-atmosphere",
+    "category": "source-conflict-or-scope",
+    "detail": "Two developer campaigns state approximately 13 acres and another states approximately 12; use 13 as an approximate campaign figure, pending registered-scope reconciliation."
+  },
+  {
+    "projectId": "purva-atmosphere",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer campaigns currently highlight 3 BHK. Original 2 and 4 BHK plans are historical project formats, not a claim of live stock."
+  },
+  {
+    "projectId": "sattva-park-cubix",
+    "category": "source-conflict-or-scope",
+    "detail": "Original Park Cubix plans and totals differ from Phase II inventory. Never apply the March 2022 Phase I possession label to Phase II."
+  },
+  {
+    "projectId": "sattva-park-cubix",
+    "category": "source-conflict-or-scope",
+    "detail": "CP tables mix 18-acre, 1,620-home Phase I scale with studio/Phase II pricing. Keep each scope labelled."
+  },
+  {
+    "projectId": "assetz-soul-soil",
+    "category": "source-conflict-or-scope",
+    "detail": "Use developer row-house SBUA 2,182 and 2,460 sq ft; CP 2,532 sq ft figure conflicts."
+  },
+  {
+    "projectId": "assetz-soul-soil",
+    "category": "source-conflict-or-scope",
+    "detail": "Row houses, one-bedroom apartments and villaments are different products. This Row House catalogue record contains the two row-house families; other products are listed separately in research."
+  },
+  {
+    "projectId": "assetz-soul-soil",
+    "category": "source-conflict-or-scope",
+    "detail": "CP 4 BHK price refers to 2,532 sq ft and cannot be assigned automatically to the developer 2,460 sq ft plan."
+  },
+  {
+    "projectId": "mittal-palms",
+    "category": "source-conflict-or-scope",
+    "detail": "Seven buildings and 144 homes are the selected portal schedule; other portal text says 250 units and 3.2/3.5 acres. Land reference 13,460 sq m is approximately 3.33 acres."
+  },
+  {
+    "projectId": "mittal-palms",
+    "category": "source-conflict-or-scope",
+    "detail": "Legal promoter references name Trishul Developers while public marketing names Mittal Builders."
+  },
+  {
+    "projectId": "mittal-palms",
+    "category": "source-conflict-or-scope",
+    "detail": "Brochure is image-only. OCR/visual plan confirmation is required before treating every portal variant as the complete sanctioned schedule."
+  },
+  {
+    "projectId": "jasper-at-brigade-el-dorado",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer microsite prices of 35/40 lakh are undated legacy prices. They are not current quotes; do not publish them as live starting prices."
+  },
+  {
+    "projectId": "jasper-at-brigade-el-dorado",
+    "category": "source-conflict-or-scope",
+    "detail": "Jasper and Iridium are sometimes merged in portal records. Do not silently import Iridium layouts into Jasper."
+  },
+  {
+    "projectId": "brigade-oasis",
+    "category": "source-conflict-or-scope",
+    "detail": "Same developer page displays sold out, INR 1.09 crore in Price, and INR 1.30 crore for 2,550+ sq ft garden plots. Keep these as separate references; no safe full-range calculation is possible from this page."
+  },
+  {
+    "projectId": "brigade-oasis",
+    "category": "source-conflict-or-scope",
+    "detail": "Master layout is the relevant plan for land; do not fabricate an apartment-style floor plan or rectangular dimensions for irregular plots."
+  },
+  {
+    "projectId": "century-seasons",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer configuration table marks villa and odd plots sold out. Secondary-market quotes are not developer stock."
+  },
+  {
+    "projectId": "century-seasons",
+    "category": "source-conflict-or-scope",
+    "detail": "The master area is 25 acres. CP unit totals of 326 and older site totals of 329 are not independently reconciled."
+  },
+  {
+    "projectId": "disha-harmony-gardens",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer plans are 1,250, 1,526 and 1,745 sq ft SBUA; portal 1,230/1,720 figures must not override them."
+  },
+  {
+    "projectId": "disha-harmony-gardens",
+    "category": "source-conflict-or-scope",
+    "detail": "The site labels a combined measure RERA + Balcony. Store this as a combined measure, never as pure carpet."
+  },
+  {
+    "projectId": "disha-harmony-gardens",
+    "category": "source-conflict-or-scope",
+    "detail": "Published cost-sheet values use different plan revisions and are not automatically current."
+  },
+  {
+    "projectId": "sumadhura-epitome-i",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer page now describes 2, 3 and 4 BHK, with maximum 2,120 sq ft; CP has an older 2,110 sq ft 4 BHK. Use the plan-specific area."
+  },
+  {
+    "projectId": "sumadhura-epitome-i",
+    "category": "source-conflict-or-scope",
+    "detail": "Retain existing route epitome-i while customer-facing project name follows Sumadhura Epitome."
+  },
+  {
+    "projectId": "concorde-antares",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer completion December 2027 preferred over CP 2028. Corporate starting price 1.15 crore preferred over CP 1.10 crore."
+  },
+  {
+    "projectId": "concorde-antares",
+    "category": "source-conflict-or-scope",
+    "detail": "CP 1 BHK 755 sq ft conflicts with current developer 2, 3, 4 BHK and duplex positioning; hold the 1 BHK offer."
+  },
+  {
+    "projectId": "poulomi-florique",
+    "category": "source-conflict-or-scope",
+    "detail": "Use the dedicated project brochure and booking site. Corporate project page includes unrelated Palazzo plans and amenities; excluded."
+  },
+  {
+    "projectId": "poulomi-florique",
+    "category": "source-conflict-or-scope",
+    "detail": "Dedicated FAQ says 720 homes, other marketing records differ; retain source scope, verify registered current total."
+  },
+  {
+    "projectId": "poulomi-florique",
+    "category": "source-conflict-or-scope",
+    "detail": "CP 2030 possession conflicts with secondary RERA completion December 2032. Do not replace the latter with an optimistic launch date."
+  },
+  {
+    "projectId": "poulomi-florique",
+    "category": "source-conflict-or-scope",
+    "detail": "Alpine/Blossom shown first; Cascade/Dewdrop are marked coming soon on the residences page."
+  },
+  {
+    "projectId": "snn-estates-felicity",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer 1.5 BHK starts 93.5 lakh and 2 BHK starts 1.39 crore. These override older CP starting figures for those types."
+  },
+  {
+    "projectId": "snn-estates-felicity",
+    "category": "source-conflict-or-scope",
+    "detail": "50,000 sq ft is facilities area, not necessarily enclosed clubhouse area or amenity count."
+  },
+  {
+    "projectId": "snn-estates-felicity",
+    "category": "source-conflict-or-scope",
+    "detail": "CP 3 BHK 1,380 sq ft price 2.73 crore is anomalous relative to the rest of its table and is held for confirmation."
+  },
+  {
+    "projectId": "bhartiya-garden-estate",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer modal plans take precedence over older CP villa listings. Unconfirmed villa products are archived rather than shown as available apartments."
+  },
+  {
+    "projectId": "bhartiya-garden-estate",
+    "category": "source-conflict-or-scope",
+    "detail": "Phase 1 land of 115,738.48 sq m (28.60 acres) is from the architect filing; whole marketing township acreage may differ."
+  },
+  {
+    "projectId": "bhartiya-garden-estate",
+    "category": "source-conflict-or-scope",
+    "detail": "Portal price table and its later explanatory table disagree; main Price List is stored, with conflict recorded."
+  },
+  {
+    "projectId": "sattva-vasanta-skye",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer describes 16 acres and blocks A, B and C. CP 15.8 acres and 4 blocks do not override that grouping."
+  },
+  {
+    "projectId": "sattva-vasanta-skye",
+    "category": "source-conflict-or-scope",
+    "detail": "CP studio and 2 BHK are marked sold out; original plan existence is not proof of current availability."
+  },
+  {
+    "projectId": "nikoo-homes-6",
+    "category": "source-conflict-or-scope",
+    "detail": "Primary Homeplans PDF is used for exact saleable and carpet areas."
+  },
+  {
+    "projectId": "nikoo-homes-6",
+    "category": "source-conflict-or-scope",
+    "detail": "CP marks selected builder inventory sold out; Square Yards prices are secondary indicative references, not a fresh builder offer."
+  },
+  {
+    "projectId": "nikoo-homes-5",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer sample plans include studio, 1 BHK, 2 BHK, 2 BHK + study, 3 BHK, 3 BHK + study, loft and 4 BHK + staff."
+  },
+  {
+    "projectId": "nikoo-homes-5",
+    "category": "source-conflict-or-scope",
+    "detail": "Phase 2 CP prices apply to the table’s own sizes. Do not apply its 1,317 sq ft quote to a 1,354 sq ft developer plan."
+  },
+  {
+    "projectId": "nikoo-homes-8",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer modal plan names use study and staff rooms; do not turn these into fractional bedrooms without explanation."
+  },
+  {
+    "projectId": "nikoo-homes-8",
+    "category": "source-conflict-or-scope",
+    "detail": "Studio 501 sq ft is a documented format but has no current priced CP row in the selected source."
+  },
+  {
+    "projectId": "nikoo-homes-9",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer plans use 468–2,684 sq ft; CP price table uses 506–2,190 sq ft. Store CP quoted layouts separately; do not attach their prices to mismatching primary plans."
+  },
+  {
+    "projectId": "nikoo-homes-9",
+    "category": "source-conflict-or-scope",
+    "detail": "13.5-acre CP master figure, older 15-acre catalogue figure and RERA phase boundary need reconciliation."
+  },
+  {
+    "projectId": "nikoo-homes-9",
+    "category": "source-conflict-or-scope",
+    "detail": "Certificate validity in September 2031 is not a contractual possession promise."
+  },
+  {
+    "projectId": "dnr-parklink",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer 25,000 sq ft describes clubhouse plus amenities combined."
+  },
+  {
+    "projectId": "dnr-parklink",
+    "category": "source-conflict-or-scope",
+    "detail": "1 BHK appears in a wider developer description, while current CP Phase 2 priced options begin at 2 BHK + study. Keep phase scope explicit."
+  },
+  {
+    "projectId": "concorde-neo",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer 1.35 crore headline supersedes CP 1.17 crore. Developer October 2029 possession supersedes CP December 2028."
+  },
+  {
+    "projectId": "concorde-neo",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer configuration sizes and older CP 1,107 sq ft minimum are not the same plan set."
+  },
+  {
+    "projectId": "concorde-sienna",
+    "category": "source-conflict-or-scope",
+    "detail": "Developer G+28 used rather than truncated current site floor string."
+  },
+  {
+    "projectId": "concorde-sienna",
+    "category": "source-conflict-or-scope",
+    "detail": "Brochure distinguishes 1,552/1,553 and 1,200/1,201 orientation variants; all are retained."
+  },
+  {
+    "projectId": "lodha-mirabelle",
+    "category": "source-conflict-or-scope",
+    "detail": "Phase 1 and Phase 2 tower heights, plan sizes and dates differ. Preserve separate phase scope; do not collapse to one assumed G+39 programme."
+  },
+  {
+    "projectId": "lodha-mirabelle",
+    "category": "source-conflict-or-scope",
+    "detail": "CP Phase 1 prices are for carpet areas. Existing 2,340/2,952/5,904/7,800 sq ft records need approved phase-specific plans before use."
+  },
+  {
+    "projectId": "lodha-mirabelle",
+    "category": "source-conflict-or-scope",
+    "detail": "The 5 BHK and penthouse records from the old catalogue are retained in research.legacyConfigurations, not promoted as currently documented offerings. The official plan page has older hidden 1.6–2.5 crore metadata; it is not used as a fresh customer-facing quote."
+  },
+  {
+    "projectId": "laurel-maple-at-brigade-orchards",
+    "category": "source-conflict-or-scope",
+    "detail": "Current corporate developer starting price is 99 lakh; older project microsite says 97 lakh. Prefer the corporate page for the headline and preserve the discrepancy."
+  },
+  {
+    "projectId": "laurel-maple-at-brigade-orchards",
+    "category": "source-conflict-or-scope",
+    "detail": "2.5 acres is the Laurel & Maple enclave; 135 acres is the parent Brigade Orchards township."
+  },
+  {
+    "projectId": "laurel-maple-at-brigade-orchards",
+    "category": "source-conflict-or-scope",
+    "detail": "Primus care, food and other services may have subscriptions or additional charges; they are not automatically included in purchase price."
+  },
+  {
+    "projectId": "sb-urban-park",
+    "category": "source-conflict-or-scope",
+    "detail": "Use corporate SB Urbanscapes prices: 3 BHK 2.05 crore and duplex 3.83 crore."
+  },
+  {
+    "projectId": "sb-urban-park",
+    "category": "source-conflict-or-scope",
+    "detail": "Corporate site says 3-level clubhouse; project microsite says 5-level. Retain clubhouse without a public level-count claim."
+  },
+  {
+    "projectId": "sb-urban-park",
+    "category": "source-conflict-or-scope",
+    "detail": "Project microsite PIN 560045 conflicts with some portal 560024 references; physical address and developer map remain primary."
+  },
+  {
+    "projectId": "prestige-finsbury-park",
+    "category": "missing-exact-plan",
+    "detail": "1 BHK — 676 sq ft — Hyde resale listing: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "missing-exact-plan",
+    "detail": "1 BHK — Iridium: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "missing-exact-plan",
+    "detail": "1.5 BHK — Iridium: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "missing-exact-plan",
+    "detail": "1 BHK — Cobalt: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "brigade-el-dorado",
+    "category": "missing-exact-plan",
+    "detail": "1 BHK — Beryl: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "dnr-parklink",
+    "category": "missing-exact-plan",
+    "detail": "1 BHK — 700 sq ft — developer- format: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  },
+  {
+    "projectId": "sb-urban-park",
+    "category": "missing-exact-plan",
+    "detail": "3 BHK · 1,605 sq ft current website reference: Exact source-backed plan not established. Obtain the approved matching revision; do not substitute another unit plan."
+  }
+]

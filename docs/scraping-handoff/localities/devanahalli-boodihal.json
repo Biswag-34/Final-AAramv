@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "id": "devanahalli-boodihal",
+  "published": true,
+  "isDemo": false,
+  "name": "Devanahalli-Boodihal",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Airport corridor",
+  "tagline": "A township setting with a multigenerational home choice.",
+  "description": "This guide covers the Boodihal–Brigade Orchards side of the Devanahalli search area. Brigade Orchards is a township setting with Signature Club Resort as a recognisable landmark. Laurel & Maple brings different apartment formats and a Primus-operated service proposition within a distinct enclave of the larger development.",
+  "tags": [
+    "North Bengaluru · Airport corridor",
+    "Apartment"
+  ],
+  "searchKeywords": [
+    "Devanahalli-Boodihal",
+    "devanahalli-boodihal",
+    "Bengaluru",
+    "Laurel & Maple at Brigade Orchards"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/devanahalli-boodihal/cover.webp",
+      "alt": "Signature Club Resort at Brigade Orchards · township-area landmark",
+      "caption": "Signature Club Resort at Brigade Orchards · township-area landmark",
+      "kind": "landmark-photograph",
+      "credit": "Brigade Orchards · Signature Club Resort",
+      "sourceUrl": "https://www.brigadeorchards.com/assets/images/signature-club-resort-bigThumb.png",
+      "sourcePageUrl": "https://www.brigadeorchards.com/signature-club-resort",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 590,
+      "height": 497,
+      "checkedAt": "2026-10-28",
+      "sha256": "94f332c29c94e08dc82b11a571f6984a26356a5eddad95784ac73774d1a3113b",
+      "bytes": 86336
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Devanahalli-Boodihal%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Brigade Orchards township setting",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Signature Club Resort local landmark",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Laurel & Maple multigenerational apartment proposition",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Apartment",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Kempegowda International Airport",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Kempegowda International Airport is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20International%20Airport%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives Devanahalli-Boodihal its identity?",
+      "answer": "Brigade Orchards township setting; Signature Club Resort local landmark; Laurel & Maple multigenerational apartment proposition."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Laurel & Maple at Brigade Orchards. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We would compare this area through your household’s needs across generations. The apartment, the wider township and the optional care or hospitality services are separate parts of the decision. We would explain the layout, access and service charges together, and keep the enclave’s delivery schedule distinct from completed parts of Brigade Orchards."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Devanahalli-Boodihal",
+      "url": "https://www.brigadeorchards.com/location",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Devanahalli-Boodihal",
+      "url": "https://www.brigadeorchards.com/signature-club-resort",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We would compare this area through your household’s needs across generations. The apartment, the wider township and the optional care or hospitality services are separate parts of the decision. We would explain the layout, access and service charges together, and keep the enclave’s delivery schedule distinct from completed parts of Brigade Orchards.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "laurel-maple-at-brigade-orchards"
+  ],
+  "usp": [
+    "Brigade Orchards township setting",
+    "Signature Club Resort local landmark",
+    "Laurel & Maple multigenerational apartment proposition"
+  ],
+  "sourceIds": [
+    "SRC-165",
+    "SRC-166",
+    "SRC-166"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}

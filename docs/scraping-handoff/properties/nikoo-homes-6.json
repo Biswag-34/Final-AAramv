@@ -1,0 +1,1621 @@
+{
+  "schemaVersion": 2,
+  "id": "nikoo-homes-6",
+  "published": true,
+  "isDemo": false,
+  "name": "Nikoo Homes 6",
+  "localityId": "kogilu",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "Bhartiya Urban",
+  "phaseName": "Nikoo Homes VI — Phases 1 and 2",
+  "address": "Kogilu Main Road, Kogilu, Yelahanka, Bengaluru, Karnataka",
+  "postalCode": "560064",
+  "description": "Nikoo Homes 6 is a garden-led apartment development at Kogilu, with flexible home formats and shared recreation centred on the Black Swan Club. Developer material includes study-room, loft and larger family-home options, alongside gardens and indoor and outdoor activity spaces. The project combines different household layouts within a common landscape and community setting.",
+  "possession": {
+    "label": "Phase 1 January 2029; Phase 2 September 2029, secondary registry references",
+    "date": null,
+    "precision": "phase-specific",
+    "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+    "sourceId": "SRC-091",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false
+  },
+  "searchKeywords": [
+    "Nikoo Homes 6",
+    "Bhartiya Urban",
+    "Kogilu",
+    "Bangalore",
+    "Bengaluru",
+    "Nikko 6",
+    "Nikoo VI"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/projects/nikoo-homes-6/cover.webp",
+      "alt": "Nikoo Homes 6 — Block 2",
+      "caption": "Nikoo Homes 6 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2024/01/NH6_BLOCK-2-scaled.jpg",
+      "width": 1440,
+      "height": 917,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "898b2c0a296cac289e6258b055f2448816e9ff30e1cf2db9046bc8eda758aac3",
+      "bytes": 310362
+    },
+    {
+      "id": "developer-gallery-2",
+      "src": "/images/projects/nikoo-homes-6/developer-gallery-2.webp",
+      "alt": "Nikoo Homes 6 — Block 4",
+      "caption": "Nikoo Homes 6 · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2024/01/NH6_BLOCK-4-scaled.jpg",
+      "width": 1440,
+      "height": 608,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "31b367769451c1381ba9ea6bb751b6cf0db08fe3b621a1eac2d8b91f3da27232",
+      "bytes": 103594
+    },
+    {
+      "id": "developer-gallery-3",
+      "src": "/images/projects/nikoo-homes-6/developer-gallery-3.webp",
+      "alt": "Nikoo Homes 6 — Block 3",
+      "caption": "Nikoo Homes 6 · Developer visual",
+      "kind": "exterior",
+      "credit": "",
+      "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2024/01/NH6_BLOCK-3-1.jpg",
+      "width": 1440,
+      "height": 917,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "usage": "project-content",
+      "sha256": "471bc1be0ec93b644b68f16d983dd3d2ea9f0b0a1b9311185613455fcf8cb6b9",
+      "bytes": 184978
+    },
+    {
+      "id": "master-plan",
+      "src": "/images/projects/nikoo-homes-6/master-plan.webp",
+      "alt": "Nikoo Homes 6 — master plan",
+      "caption": "Nikoo Homes 6 master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/Bhartiya_City_Nikoo_Homes-6_Master_Plan--1705666475822-img.webp",
+      "width": 1900,
+      "height": 1343,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "53aa95abd192b9568b0a83051fed7230f85658d94fa93e8d8fb45f923cb964cd",
+      "bytes": 340536
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/nikoo-homes-6/cp-gallery-1.webp",
+      "alt": "Nikoo Homes 6 at Kogilu, Bangalore",
+      "caption": "Nikoo Homes 6 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/01/Main-Elevation-Nikoo-Homes-6.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 595,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-6-kogilu-bangalore/",
+      "usage": "project-content",
+      "sha256": "37ef27270a07a182e732a2a4824827fc8585e6d7cf2184b45ea4748d42b15f9f",
+      "bytes": 199188
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/nikoo-homes-6/cp-gallery-2.webp",
+      "alt": "1bhk b1 731 nikoo homes 6",
+      "caption": "Nikoo Homes 6 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/01/1BHK-B1-731-Nikoo-Homes-6-768x539.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 539,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-6-kogilu-bangalore/",
+      "usage": "project-content",
+      "sha256": "cb2ba04b7e301ab3f4d3189400d367e5ba61860a1420d22838bfee2bfb910789",
+      "bytes": 21176
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/nikoo-homes-6/cp-gallery-3.webp",
+      "alt": "2.5bhk f2 1294 nikoo homes 6",
+      "caption": "Nikoo Homes 6 · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/01/2.5BHK-F2-1294-Nikoo-Homes-6-768x539.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 539,
+      "sourcePageUrl": "https://www.homznspace.com/nikoo-homes-6-kogilu-bangalore/",
+      "usage": "project-content",
+      "sha256": "d67f05d0d0797e359e7f993c191f34f67fca58b7f0f0aac7a1f2a1bb9c088b0b",
+      "bytes": 23956
+    },
+    {
+      "id": "developer-plan-p1",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p1.webp",
+      "alt": "Nikoo Homes 6 STUDIO, type A1, 470 sq ft saleable, page 1",
+      "caption": "Nikoo Homes 6 STUDIO, type A1, 470 sq ft saleable, page 1",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 1,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "416f8560b9660aff4281abb23d7aa53695e3422b0bb07b2b3e2c42216d8d4895",
+      "bytes": 69606
+    },
+    {
+      "id": "developer-plan-p2",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p2.webp",
+      "alt": "Nikoo Homes 6 ONE BED, type B1, 731 sq ft saleable, page 2",
+      "caption": "Nikoo Homes 6 ONE BED, type B1, 731 sq ft saleable, page 2",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 2,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "e2d8c0f1d86dd65de668380962c7ad33093b1827aabe7af8d55cd669039e60a0",
+      "bytes": 74154
+    },
+    {
+      "id": "developer-plan-p3",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p3.webp",
+      "alt": "Nikoo Homes 6 TWO BED, type D1, 1198 sq ft saleable, page 3",
+      "caption": "Nikoo Homes 6 TWO BED, type D1, 1198 sq ft saleable, page 3",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 3,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "176e53200770cfd05f95bf286c7f0ac04c68a1c337cdc7af14af2ebf3983aecf",
+      "bytes": 82942
+    },
+    {
+      "id": "developer-plan-p5",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p5.webp",
+      "alt": "Nikoo Homes 6 TWO BED, type D2, 1198 sq ft saleable, page 5",
+      "caption": "Nikoo Homes 6 TWO BED, type D2, 1198 sq ft saleable, page 5",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 5,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "7aec1eb5fe3507d0ac8088aff98f1868b60a120927c75c0eae72a24b9a889699",
+      "bytes": 83094
+    },
+    {
+      "id": "developer-plan-p7",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p7.webp",
+      "alt": "Nikoo Homes 6 TWO BED, type D3, 1140 sq ft saleable, page 7",
+      "caption": "Nikoo Homes 6 TWO BED, type D3, 1140 sq ft saleable, page 7",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 7,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "2cb37109019bb85dda968351613c48a3326824ad0f1b45435e09ab3bd3324ad2",
+      "bytes": 84072
+    },
+    {
+      "id": "developer-plan-p9",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p9.webp",
+      "alt": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 9",
+      "caption": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 9",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 9,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "70739c906c87c9f24edfc4a50802c88d0f3be19d8989abed277b9514056bafd6",
+      "bytes": 87258
+    },
+    {
+      "id": "developer-plan-p11",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p11.webp",
+      "alt": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 11",
+      "caption": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 11",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 11,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "266e640ce75c72ad53b98192a81c278d094eba4b9f8c43aadf945a617d37e262",
+      "bytes": 87124
+    },
+    {
+      "id": "developer-plan-p13",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p13.webp",
+      "alt": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 13",
+      "caption": "Nikoo Homes 6 TWO BED WITH STUDY, type F2, 1294 sq ft saleable, page 13",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 13,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "fb7f2297963fa51f25af7b04165a0b3db22c7198ba05402ed2704af95b76222f",
+      "bytes": 87282
+    },
+    {
+      "id": "developer-plan-p15",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p15.webp",
+      "alt": "Nikoo Homes 6 THREE BED, type G1, 1705 sq ft saleable, page 15",
+      "caption": "Nikoo Homes 6 THREE BED, type G1, 1705 sq ft saleable, page 15",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 15,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "925a6f3ce680a3b5fa03e2e5d4439b85e7d9093731f6e3327177724ae244a6ee",
+      "bytes": 86780
+    },
+    {
+      "id": "developer-plan-p16",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p16.webp",
+      "alt": "Nikoo Homes 6 THREE BED, type G5, 1582 sq ft saleable, page 16",
+      "caption": "Nikoo Homes 6 THREE BED, type G5, 1582 sq ft saleable, page 16",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 16,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "4896a2f5501f4fa39046456c73f18dc5b292fab952f99778026622f90864d5bb",
+      "bytes": 94530
+    },
+    {
+      "id": "developer-plan-p18",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p18.webp",
+      "alt": "Nikoo Homes 6 THREE BED, type G6, 1597 sq ft saleable, page 18",
+      "caption": "Nikoo Homes 6 THREE BED, type G6, 1597 sq ft saleable, page 18",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 18,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "1d453d48058cdb992d5307e903ce600a5df30a8a762df13e50561120b934dc48",
+      "bytes": 94338
+    },
+    {
+      "id": "developer-plan-p19",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p19.webp",
+      "alt": "Nikoo Homes 6 THREE BED WITH STUDY, type H1, 1848 sq ft saleable, page 19",
+      "caption": "Nikoo Homes 6 THREE BED WITH STUDY, type H1, 1848 sq ft saleable, page 19",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 19,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "fd210704bc5175ac6027acda2dd254dba3d0345fba80713829ccb4977b77dabd",
+      "bytes": 90618
+    },
+    {
+      "id": "developer-plan-p20",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p20.webp",
+      "alt": "Nikoo Homes 6 THREE BED WITH STUDY, type H3, 1807 sq ft saleable, page 20",
+      "caption": "Nikoo Homes 6 THREE BED WITH STUDY, type H3, 1807 sq ft saleable, page 20",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 20,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "66d0e7d9b3e93a14f5a08a292eba4ae89c25f8f97fd03d84834199389f9de69f",
+      "bytes": 89908
+    },
+    {
+      "id": "developer-plan-p21",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p21.webp",
+      "alt": "Nikoo Homes 6 FOUR BED WITH STAFF, type J1, 2502 sq ft saleable, page 21",
+      "caption": "Nikoo Homes 6 FOUR BED WITH STAFF, type J1, 2502 sq ft saleable, page 21",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 21,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "ec1b745d168b2e8c8dab06b5f2bab229aa02ba8a9ddafa2e0fb85b86c2ac9caa",
+      "bytes": 107334
+    },
+    {
+      "id": "developer-plan-p22",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p22.webp",
+      "alt": "Nikoo Homes 6 LOFT, type L1, 2182 sq ft saleable, page 22",
+      "caption": "Nikoo Homes 6 LOFT, type L1, 2182 sq ft saleable, page 22",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 22,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "eaeb64ed130a85cb831478ebe3e3f403ecd47a4e1d6ce97af65a8f7bec569f27",
+      "bytes": 97392
+    },
+    {
+      "id": "developer-plan-p24",
+      "src": "/images/projects/nikoo-homes-6/developer-plan-p24.webp",
+      "alt": "Nikoo Homes 6 LOFT, type L2, 2141 sq ft saleable, page 24",
+      "caption": "Nikoo Homes 6 LOFT, type L2, 2141 sq ft saleable, page 24",
+      "kind": "floor-plan",
+      "credit": "Project material published by Bhartiya Urban.",
+      "sourceUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28",
+      "representation": "layout-plan",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "sourcePageNumber": 24,
+      "width": 1692,
+      "height": 1188,
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "sourceDocumentUrl": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "usage": "project-content",
+      "sha256": "28907206478fb31f39927b938b8e9ce6bcc9a238ec86b8876b03375190274324",
+      "bytes": 102530
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.1059034,
+    "longitude": 77.6093979
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%206%2C%20Kogilu%20Main%20Road%2C%20Kogilu%2C%20Yelahanka%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+  "primaryConfigurationId": "developer-a1-b-470",
+  "configurations": [
+    {
+      "id": "developer-a1-b-470",
+      "label": "Studio · A1 · 470 sq ft",
+      "bedrooms": 0,
+      "bathrooms": null,
+      "areaSqFt": 470,
+      "areaBasis": "saleable",
+      "startingPriceInr": 5523000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p1",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 329,
+      "towerName": "B",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-b1-b-731",
+      "label": "One Bed · B1 · 731 sq ft",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 731,
+      "areaBasis": "saleable",
+      "startingPriceInr": 8589000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p2",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 488,
+      "towerName": "B",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-d1-a-1198",
+      "label": "Two Bed · D1 · 1,198 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1198,
+      "areaBasis": "saleable",
+      "startingPriceInr": 14100000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p3",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 759,
+      "towerName": "A",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-d2-b-1198",
+      "label": "Two Bed · D2 · 1,198 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1198,
+      "areaBasis": "saleable",
+      "startingPriceInr": 14100000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p5",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 759,
+      "towerName": "B",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-d3-c-1140",
+      "label": "Two Bed · D3 · 1,140 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1140,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p7",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 743,
+      "towerName": "C",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-f2-a-1294",
+      "label": "Two Bed With Study · F2 · 1,294 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1294,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p9",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 829,
+      "towerName": "A",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-f2-b-1294",
+      "label": "Two Bed With Study · F2 · 1,294 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1294,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p11",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 829,
+      "towerName": "B",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-f2-c-1294",
+      "label": "Two Bed With Study · F2 · 1,294 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1294,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p13",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 829,
+      "towerName": "C",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-g1-a-1705",
+      "label": "Three Bed · G1 · 1,705 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1705,
+      "areaBasis": "saleable",
+      "startingPriceInr": 20000000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p15",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1099,
+      "towerName": "A",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-g5-b-1582",
+      "label": "Three Bed · G5 · 1,582 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1582,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p16",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1007,
+      "towerName": "B",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-g6-b-1597",
+      "label": "Three Bed · G6 · 1,597 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1597,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p18",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1019,
+      "towerName": "B",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-h1-a-1848",
+      "label": "Three Bed With Study · H1 · 1,848 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1848,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p19",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1209,
+      "towerName": "A",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-h3-c-1807",
+      "label": "Three Bed With Study · H3 · 1,807 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1807,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p20",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1178,
+      "towerName": "C",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-j1-c-2502",
+      "label": "Four Bed With Staff · J1 · 2,502 sq ft",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "areaSqFt": 2502,
+      "areaBasis": "saleable",
+      "startingPriceInr": 29400000,
+      "priceNote": "indicative-secondary-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p21",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1664,
+      "towerName": "C",
+      "priceSourceIds": [
+        "SRC-091"
+      ]
+    },
+    {
+      "id": "developer-l1-c-2182",
+      "label": "Loft · L1 · 2,182 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2182,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p22",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1317,
+      "towerName": "C",
+      "priceSourceIds": []
+    },
+    {
+      "id": "developer-l2-a-2141",
+      "label": "Loft · L2 · 2,141 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 2141,
+      "areaBasis": "saleable",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "developer-plan-p24",
+      "sourceIds": [
+        "SRC-088"
+      ],
+      "phaseName": null,
+      "carpetAreaSqFt": 1287,
+      "towerName": "A",
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 8,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 5,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + 14 or 17 upper floors, depending on tower",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 632,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "470–2502",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "Kogilu location",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Study room loft and larger family home formats",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Black Swan Club",
+      "description": ""
+    },
+    {
+      "icon": "Trees",
+      "title": "Gardens and shared indoor and outdoor recreation",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multi Purpose Court",
+      "description": "Multi Purpose Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Indoor Gym",
+      "description": "Indoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Squash Court",
+      "description": "Squash Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Net Cricket",
+      "description": "Net Cricket within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Multi Purpose Lawn",
+      "description": "Multi Purpose Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheater",
+      "description": "Amphitheater within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Barbeque Deck",
+      "description": "Barbeque Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Creche Play Area",
+      "description": "Creche Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Deck",
+      "description": "Yoga Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Badminton Court",
+      "description": "Badminton Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-087",
+        "SRC-088"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Yelahanka Station",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Yelahanka Station is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 2.1,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yelahanka%20Station%2C%20Bengaluru"
+    },
+    {
+      "name": "Garuda Mall",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Garuda Mall is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 4,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Garuda%20Mall%2C%20Bengaluru"
+    },
+    {
+      "name": "Bagalur Main Road",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Bagalur Main Road is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": 4.3,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bagalur%20Main%20Road%2C%20Bengaluru"
+    }
+  ],
+  "documents": [
+    {
+      "id": "brochure-1",
+      "title": "Developer brochure / plan document",
+      "url": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "type": "brochure",
+      "sourceId": "SRC-088"
+    }
+  ],
+  "relatedPropertyIds": [],
+  "content": {
+    "overviewTitle": "What defines Nikoo Homes 6",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Kogilu Main Road, Kogilu, Yelahanka, Bengaluru, Karnataka, 560064. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about Nikoo Homes 6"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is Nikoo Homes 6 located?",
+      "answer": "Kogilu Main Road, Kogilu, Yelahanka, Bengaluru, Karnataka, 560064. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "Studio, One Bed, Two Bed, Two Bed With Study, Three Bed, Three Bed With Study, Four Bed With Staff, Loft. Documented saleable/super built-up plan areas span 470–2502 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹55.23 L–₹2.94 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: Phase 1 January 2029; Phase 2 September 2029, secondary registry references. The date differs by phase and must be matched to the offered home."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Kids Play Area, Multi Purpose Court, Indoor Gym, Kids Pool, Squash Court. No reconciled unique total in the primary material used. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "Kogilu location Study room loft and larger family home formats Black Swan Club. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nikoo Homes 6",
+      "url": "https://nikoo6.nikoohomes.com/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 6",
+      "url": "https://nikoo6.nikoohomes.com/uploads/Homeplans.pdf",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 6",
+      "url": "https://nikoohomes.com/construction-progress-nikoo-homes-6/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 6",
+      "url": "https://www.homznspace.com/nikoo-homes-6-kogilu-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Nikoo Homes 6",
+      "url": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "Nikoo Homes 6",
+    "Nikoo Homes VI",
+    "Nikoo6"
+  ],
+  "projectScale": {
+    "landAreaAcres": 8,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 5,
+    "floorArrangement": "2 basements + ground + 14 or 17 upper floors, depending on tower",
+    "totalHomesOrPlots": 632,
+    "sourceIds": [
+      "SRC-087",
+      "SRC-088",
+      "SRC-089",
+      "SRC-090",
+      "SRC-091"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Status is scoped to the selected phase; completed and ongoing portions may coexist.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹55.23 L–₹2.94 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 5523000,
+    "maxStartingPriceInr": 29400000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 5523000,
+      "highestConfigurationStartInr": 29400000,
+      "displayText": "₹55.23 L–₹2.94 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "Studio",
+        "areaSqFt": 470,
+        "startingPriceInr": 5523000,
+        "upperQuotedPriceInr": 5523000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+        "sourceId": "SRC-091",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "1 BHK",
+        "areaSqFt": 731,
+        "startingPriceInr": 8589000,
+        "upperQuotedPriceInr": 8589000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+        "sourceId": "SRC-091",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "2 BHK",
+        "areaSqFt": 1198,
+        "startingPriceInr": 14100000,
+        "upperQuotedPriceInr": 14100000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+        "sourceId": "SRC-091",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK",
+        "areaSqFt": 1705,
+        "startingPriceInr": 20000000,
+        "upperQuotedPriceInr": 20000000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+        "sourceId": "SRC-091",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "4 BHK + staff",
+        "areaSqFt": 2502,
+        "startingPriceInr": 29400000,
+        "upperQuotedPriceInr": 29400000,
+        "basis": "indicative-secondary-price",
+        "sourceUrl": "https://www.squareyards.com/bangalore-residential-property/bhartiya-city-nikoo-homes-6/240973/project",
+        "sourceId": "SRC-091",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "availability": "unconfirmed",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "Studio",
+    "One Bed",
+    "Two Bed",
+    "Two Bed With Study",
+    "Three Bed",
+    "Three Bed With Study",
+    "Four Bed With Staff",
+    "Loft"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 15,
+    "countType": "sourced-named-facility-count",
+    "label": "No reconciled unique total in the primary material used",
+    "namedAmenitiesCount": 15,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "15 documented facilities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=Nikoo%20Homes%206%2C%20Kogilu%20Main%20Road%2C%20Kogilu%2C%20Yelahanka%2C%20Bengaluru%2C%20Karnataka%2C%20560064",
+    "query": "Nikoo Homes 6, Kogilu Main Road, Kogilu, Yelahanka, Bengaluru, Karnataka, 560064",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-087",
+    "SRC-088",
+    "SRC-089",
+    "SRC-090",
+    "SRC-091",
+    "SRC-092"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Primary Homeplans PDF is used for exact saleable and carpet areas.",
+      "CP marks selected builder inventory sold out; Square Yards prices are secondary indicative references, not a fresh builder offer."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "complete for listed records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [],
+    "archivedPlanReferences": [
+      {
+        "id": "plan-1",
+        "alt": "Nikoo Homes 6 — 2 BHK, 1140 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 2 BHK, 1140 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_2_BHK_1140_sqft_Unit_Plan--1705668465618-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-2",
+        "alt": "Nikoo Homes 6 — 2 BHK, 1198 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 2 BHK, 1198 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_2_BHK_1198_sqft_Unit_Plan--1705668465691-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-3",
+        "alt": "Nikoo Homes 6 — 2 BHK, 1154 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 2 BHK, 1154 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes_6_2_BHK_1154_Sqft_Unit_Plan--1724821979438-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-4",
+        "alt": "Nikoo Homes 6 — 2.5 BHK (with additional flexible room), 1294 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 2.5 BHK (with additional flexible room), 1294 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_2--1705668465770-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-5",
+        "alt": "Nikoo Homes 6 — 3 BHK, 1582 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 1582 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3_BHK_1582_sqft_Unit_Plan--1705668465834-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-6",
+        "alt": "Nikoo Homes 6 — 3 BHK, 1597 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 1597 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3_BHK_1597_sqft_Unit_Plan--1705668465900-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-7",
+        "alt": "Nikoo Homes 6 — 3 BHK, 1705 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 1705 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3_BHK_1705_sqft_Unit_Plan--1705668465958-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-8",
+        "alt": "Nikoo Homes 6 — 3 BHK, 2141 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 2141 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3_BHK_LOFT_2141_sqft_Unit_Plan--1705669053449-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-9",
+        "alt": "Nikoo Homes 6 — 3 BHK, 2182 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 2182 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3_BHK_LOFT_2182_sqft_Unit_Plan--1705669053535-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-10",
+        "alt": "Nikoo Homes 6 — 3 BHK, 1637 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 1637 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes_6_3_BHK_1637_Sqft_Unit_Plan--1724821979481-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-11",
+        "alt": "Nikoo Homes 6 — 3 BHK, 1679 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3 BHK, 1679 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes_6_3_BHK_1679_Sqft_Unit_Plan--1724821979507-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-12",
+        "alt": "Nikoo Homes 6 — 3.5 BHK (with additional flexible room), 1807 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3.5 BHK (with additional flexible room), 1807 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3--1705669053321-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-13",
+        "alt": "Nikoo Homes 6 — 3.5 BHK (with additional flexible room), 1848 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3.5 BHK (with additional flexible room), 1848 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_3--1705669053379-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-14",
+        "alt": "Nikoo Homes 6 — 3.5 BHK (with additional flexible room), 1836 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 3.5 BHK (with additional flexible room), 1836 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes_6_3--1724821979529-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-15",
+        "alt": "Nikoo Homes 6 — 4 BHK, 2502 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 4 BHK, 2502 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes-6_4_BHK_2502_sqft_Unit_Plan--1705669053637-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "plan-16",
+        "alt": "Nikoo Homes 6 — 4 BHK, 2464 sq ft built-up unit plan",
+        "caption": "Nikoo Homes 6 4 BHK, 2464 sq ft built up unit plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/Bhartiya_City_Nikoo_Homes_6_4_BHK_2464_Sqft_Unit_Plan--1724821979594-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-21",
+        "alt": "Nikoo Homes 6 — Studio developer plan",
+        "caption": "Nikoo Homes 6 Studio developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2024/01/N6_A1-Studio.png",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      },
+      {
+        "id": "verified-image-22",
+        "alt": "Nikoo Homes 6 — 1 BHK developer plan",
+        "caption": "Nikoo Homes 6 1 BHK developer plan",
+        "kind": "floor-plan",
+        "credit": "",
+        "sourceUrl": "https://nikoohomes.com/wp-content/uploads/2024/01/N6_B1-One-Bed.png",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/nikoo-homes-6",
+        "representation": "layout-plan",
+        "usage": "project-content"
+      }
+    ]
+  },
+  "configurationIdAliases": {
+    "configuration-1": "developer-d3-c-1140",
+    "configuration-2": "developer-d1-a-1198",
+    "configuration-4": "developer-f2-a-1294",
+    "configuration-5": "developer-g5-b-1582",
+    "configuration-6": "developer-g6-b-1597",
+    "configuration-7": "developer-g1-a-1705",
+    "configuration-8": "developer-l2-a-2141",
+    "configuration-9": "developer-l1-c-2182",
+    "configuration-12": "developer-h3-c-1807",
+    "configuration-13": "developer-h1-a-1848",
+    "configuration-15": "developer-j1-c-2502",
+    "verified-configuration-17": "developer-a1-b-470",
+    "verified-configuration-18": "developer-b1-b-731"
+  },
+  "galleryImageIds": [
+    "cover",
+    "developer-gallery-2",
+    "developer-gallery-3",
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines Nikoo Homes 6",
+    "summary": "Nikoo Homes 6 is a garden-led apartment development at Kogilu, with flexible home formats and shared recreation centred on the Black Swan Club. Developer material includes study-room, loft and larger family-home options, alongside gardens and indoor and outdoor activity spaces. The project combines different household layouts within a common landscape and community setting.",
+    "highlights": [
+      "Kogilu location",
+      "Study room loft and larger family home formats",
+      "Black Swan Club",
+      "Gardens and shared indoor and outdoor recreation"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 8,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 5,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + 14 or 17 upper floors, depending on tower",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 632,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "470–2502",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹55.23 L–₹2.94 Cr* Onward",
+    "possessionDisplay": "Phase 1 January 2029; Phase 2 September 2029, secondary registry references",
+    "sourceIds": [
+      "SRC-087",
+      "SRC-088",
+      "SRC-089",
+      "SRC-090",
+      "SRC-091",
+      "SRC-092"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

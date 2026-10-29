@@ -27,7 +27,7 @@ test('configuration summaries list exact options rather than implying missing BH
 });
 
 test('property prices show a real range and disclose missing prices', () => {
-  const p = clone(catalog.properties[0]);
+  const p = clone(catalog.properties[0]); delete p.pricing;
   p.configurations = [8000000, 16000000, null].map((startingPriceInr, i) => ({...p.primary, id: `price-${i}`, startingPriceInr, availability: 'available'}));
   assert.deepEqual(propertyPriceSummary(p), {label: '₹80 L - ₹1.60 Cr', note: 'Listed prices; other layouts on request', min: 8000000, max: 16000000});
   p.configurations[1].availability = 'sold-out';
@@ -143,7 +143,7 @@ test('sold-out units do not match configuration filters', () => {
 });
 test('unknown prices are visible unfiltered, excluded by budget, sorted last', () => {
   const p = clone(catalog.properties[0]); p.id = 'unknown-price'; p.configurations.forEach(c => c.startingPriceInr = null);
-  const priced = catalog.properties.find(property => property.configurations.some(c => c.startingPriceInr !== null));
+  const priced = clone(catalog.properties[0]); priced.id = 'priced-fixture'; priced.configurations[0].startingPriceInr = 8000000; priced.primary = priced.configurations[0]; priced.price = 0.8;
   assert.equal(filterProperties([p]).length, 1);
   assert.equal(filterProperties([p], { maxPriceInr: 50000000 }).length, 0);
   for (const sort of ['Price: low to high', 'Price: high to low']) assert.equal(filterProperties([p, priced], { sort }).at(-1).id, p.id);
@@ -190,7 +190,7 @@ test('market minimum cannot exceed maximum', () => {
 
 
 test('project unit totals prefer explicit data and never substitute phase counts or area values', () => {
-  const p = clone(catalog.properties.find(p => p.id === 'sumadhura-epitome-i'));
+  const p = clone(catalog.properties.find(p => p.id === 'sumadhura-epitome-i')); delete p.projectScale;
   assert.equal(projectUnitCount(p), 262);
   assert.equal(projectUnitCount({...p,totalUnits:300}),300);
   assert.equal(projectUnitCount({...p,facts:[{label:'Phase II Homes',value:'798'},{label:'Land Area',value:'18'}]}),null);

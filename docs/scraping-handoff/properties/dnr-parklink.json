@@ -1,0 +1,1016 @@
+{
+  "schemaVersion": 2,
+  "id": "dnr-parklink",
+  "published": true,
+  "isDemo": false,
+  "name": "DNR Parklink",
+  "localityId": "hennur-road",
+  "type": "Apartment",
+  "status": "Under construction",
+  "developerName": "DNR Group",
+  "phaseName": "Phases I and II",
+  "address": "Hennur–Bagalur Main Road, Chikkagubbi Village, Bidarahalli Hobli, Bengaluru, Karnataka",
+  "postalCode": "560077",
+  "description": "DNR Parklink is an apartment development in the Hennur-Bagalur corridor, with a layout mix that includes a two-bedroom-plus-study option. DNR describes an 8.35-acre community with landscaped shared areas and a substantial recreation programme. The additional-study format and range of three-bedroom plans give buyers specific space options to compare beyond a standard bedroom count.",
+  "possession": {
+    "label": "December 2027, Phase 2 CP reference",
+    "date": null,
+    "precision": "secondary-month",
+    "sourceUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+    "sourceId": "SRC-108",
+    "checkedAt": "2026-10-28",
+    "isContractualCommitment": false,
+    "year": 2027,
+    "month": 12
+  },
+  "searchKeywords": [
+    "DNR Parklink",
+    "DNR Group",
+    "Hennur Road",
+    "Bangalore",
+    "Bengaluru",
+    "DNR Park Link"
+  ],
+  "coverImageId": "cp-gallery-1",
+  "images": [
+    {
+      "id": "master-plan",
+      "src": "/images/projects/dnr-parklink/master-plan.webp",
+      "alt": "DNR Parklink — master plan",
+      "caption": "DNR Parklink master plan",
+      "kind": "master-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/DNR_Park_Link_Master_Plan--1717073798963-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "6e894487e0479f0878edae208f9fee548cd9d4aae247914d0b9319bdce3006f6",
+      "bytes": 164192
+    },
+    {
+      "id": "plan-1",
+      "src": "/images/projects/dnr-parklink/plan-1.webp",
+      "alt": "DNR Parklink — 2.5 BHK (with additional flexible room), 1357 sq ft built-up unit plan",
+      "caption": "DNR Parklink 2.5 BHK (with additional flexible room), 1357 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_2--1724332279954-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "3c3986524968920c3b51b9176a1e36e1c0fd5b89213fd830e3d9fe35d5b57bdc",
+      "bytes": 70428
+    },
+    {
+      "id": "plan-2",
+      "src": "/images/projects/dnr-parklink/plan-2.webp",
+      "alt": "DNR Parklink — 2.5 BHK (with additional flexible room), 1385 sq ft built-up unit plan",
+      "caption": "DNR Parklink 2.5 BHK (with additional flexible room), 1385 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_2--1717074237231-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "5b1a4a57835d7d79afafb42ca200bcbba8a16ce6535bc48f6dfe2890a09420e3",
+      "bytes": 74550
+    },
+    {
+      "id": "plan-3",
+      "src": "/images/projects/dnr-parklink/plan-3.webp",
+      "alt": "DNR Parklink — 3 BHK, 1567 sq ft built-up unit plan",
+      "caption": "DNR Parklink 3 BHK, 1567 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_3_BHK_1567_Sqft_Unit_Plan--1717074237255-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "d48c62307c407c657305951d4b30cf697be7a2286da0933df916f7b50c734c10",
+      "bytes": 69150
+    },
+    {
+      "id": "plan-4",
+      "src": "/images/projects/dnr-parklink/plan-4.webp",
+      "alt": "DNR Parklink — 3 BHK, 1720 sq ft built-up unit plan",
+      "caption": "DNR Parklink 3 BHK, 1720 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_3_BHK_1720_Sqft_Unit_Plan--1717074237292-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "eb5ff00323947220b71aff8d8c6e765462252dc86a6e47a13e73d4e31a50055f",
+      "bytes": 75212
+    },
+    {
+      "id": "plan-5",
+      "src": "/images/projects/dnr-parklink/plan-5.webp",
+      "alt": "DNR Parklink — 3 BHK, 1727 sq ft built-up unit plan",
+      "caption": "DNR Parklink 3 BHK, 1727 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_3_BHK_1727_Sqft_Unit_Plan--1717074618852-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "a180b8cd376df2c8b8ec0981ccea341948116c2ba7fc9890e2764582122d26e9",
+      "bytes": 75464
+    },
+    {
+      "id": "plan-6",
+      "src": "/images/projects/dnr-parklink/plan-6.webp",
+      "alt": "DNR Parklink — 3 BHK, 1890 sq ft built-up unit plan",
+      "caption": "DNR Parklink 3 BHK, 1890 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_3_BHK_1761_Sqft_Unit_Plan--1717074618874-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "494a36231aa8c57a37ab4226b0cbd8c94f3e1a662842bf23ef2a9b3d5c5b6090",
+      "bytes": 77068
+    },
+    {
+      "id": "plan-7",
+      "src": "/images/projects/dnr-parklink/plan-7.webp",
+      "alt": "DNR Parklink — 3 BHK, 1899 sq ft built-up unit plan",
+      "caption": "DNR Parklink 3 BHK, 1899 sq ft built up unit plan",
+      "kind": "floor-plan",
+      "credit": "",
+      "sourceUrl": "https://resources.housiey.com/admin/uploads/unit_plans/DNR_Park_Link_3_BHK_1890_Sqft_Unit_Plan--1717074618899-img.webp",
+      "width": 1069,
+      "height": 1900,
+      "checkedAt": "2026-10-28",
+      "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+      "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "representation": "layout-plan",
+      "usage": "project-content",
+      "sha256": "7770a0d0a8671b9281591152c8e83b00d5550b6cc307751b22c3f2de75652e67",
+      "bytes": 74450
+    },
+    {
+      "id": "cp-gallery-1",
+      "src": "/images/projects/dnr-parklink/cp-gallery-1.webp",
+      "alt": "DNR Parklink Phase 2 in Hennur Road, Bangalore",
+      "caption": "DNR Parklink · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/06/Elevation-Main-DNR-Parklink.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 1100,
+      "height": 550,
+      "sourcePageUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+      "usage": "project-content",
+      "sha256": "621b50a0f42627b9c7d6243d89eb278c7fdabee753b3fbad7a9f2a103e973161",
+      "bytes": 113700
+    },
+    {
+      "id": "cp-gallery-2",
+      "src": "/images/projects/dnr-parklink/cp-gallery-2.webp",
+      "alt": "Elevation AP2 - DNR Parklink Phase 2",
+      "caption": "DNR Parklink · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2024/06/Elevation-AP2-DNR-Parklink-Phase-2-768x597.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 597,
+      "sourcePageUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+      "usage": "project-content",
+      "sha256": "91c2edbf84775d72e9857f4e7f01a39b024c3a2ed1542119f5a690b2502066aa",
+      "bytes": 89774
+    },
+    {
+      "id": "cp-gallery-3",
+      "src": "/images/projects/dnr-parklink/cp-gallery-3.webp",
+      "alt": "amphitheatre dnr parklink Phase 2",
+      "caption": "DNR Parklink · Project marketing visual",
+      "kind": "exterior",
+      "credit": "Project visual via Homz N Space; underlying image rights remain with the rights holder.",
+      "sourceUrl": "https://www.homznspace.com/wp-content/uploads/2023/06/Amphitheatre-DNR-Parklink-768x384.jpg",
+      "checkedAt": "2026-10-28",
+      "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+      "rightsStatus": "Confirm Aaramv’s publication permission with the rights holder.",
+      "width": 768,
+      "height": 384,
+      "sourcePageUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+      "usage": "project-content",
+      "sha256": "5a61ea5b5906c3c5fba9a00c9ceb85336a895c88763a1f109a293f4e2fc5f61d",
+      "bytes": 40062
+    }
+  ],
+  "coordinates": {
+    "latitude": 13.0798516,
+    "longitude": 77.6541333
+  },
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=DNR%20Parklink%2C%20Hennur%E2%80%93Bagalur%20Main%20Road%2C%20Chikkagubbi%20Village%2C%20Bidarahalli%20Hobli%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+  "primaryConfigurationId": "configuration-1",
+  "configurations": [
+    {
+      "id": "configuration-1",
+      "label": "2.5 BHK (with additional flexible room) — 1357 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1357,
+      "areaBasis": "built-up",
+      "startingPriceInr": 14900000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-1",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": [
+        "SRC-108"
+      ]
+    },
+    {
+      "id": "configuration-2",
+      "label": "2.5 BHK (with additional flexible room) — 1385 sq ft",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "areaSqFt": 1385,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-2",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-3",
+      "label": "3 BHK — 1567 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1567,
+      "areaBasis": "built-up",
+      "startingPriceInr": 17400000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-3",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": [
+        "SRC-108"
+      ]
+    },
+    {
+      "id": "configuration-4",
+      "label": "3 BHK — 1720 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1720,
+      "areaBasis": "built-up",
+      "startingPriceInr": 18700000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-4",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": [
+        "SRC-108"
+      ]
+    },
+    {
+      "id": "configuration-5",
+      "label": "3 BHK — 1727 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1727,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-5",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-6",
+      "label": "3 BHK — 1890 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1890,
+      "areaBasis": "built-up",
+      "startingPriceInr": 20900000,
+      "priceNote": "CP-published-price; applicable charges and current availability require the selected home cost sheet.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-6",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": [
+        "SRC-108"
+      ]
+    },
+    {
+      "id": "configuration-7",
+      "label": "3 BHK — 1899 sq ft",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "areaSqFt": 1899,
+      "areaBasis": "built-up",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": "plan-7",
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": []
+    },
+    {
+      "id": "configuration-8",
+      "label": "1 BHK — 700 sq ft — developer- format",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "areaSqFt": 700,
+      "areaBasis": "unspecified",
+      "startingPriceInr": null,
+      "priceNote": "No safely matched price is published for this exact plan. See the separately scoped project/configuration price references.",
+      "availability": "on-request",
+      "floorPlanImageId": null,
+      "sourceIds": [
+        "SRC-109"
+      ],
+      "priceSourceIds": []
+    }
+  ],
+  "icons": {
+    "configuration": "BedDouble",
+    "area": "Maximize",
+    "status": "Building2",
+    "possession": "KeyRound",
+    "location": "MapPin"
+  },
+  "facts": [
+    {
+      "label": "Land area",
+      "value": 8.35,
+      "unit": "acres",
+      "icon": "LandPlot"
+    },
+    {
+      "label": "Residential towers / blocks",
+      "value": 5,
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Floors",
+      "value": "2 basements + ground + 22 upper floors",
+      "unit": "",
+      "icon": "Building2"
+    },
+    {
+      "label": "Homes",
+      "value": 784,
+      "unit": "",
+      "icon": "House"
+    },
+    {
+      "label": "Documented layout range",
+      "value": "700–1899",
+      "unit": "sq ft",
+      "icon": "Maximize"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "Building2",
+      "title": "8.35 acre development",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Two bedroom plus study option",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "70 plus amenities reported by DNR",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "25000 sq ft of clubhouse and amenities as a combined description",
+      "description": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "Waves",
+      "title": "Swimming Pool",
+      "description": "Swimming Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Club House",
+      "description": "Club House within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Kids Play Area",
+      "description": "Kids Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Senior Citizen Area",
+      "description": "Senior Citizen Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Kids Pool",
+      "description": "Kids Pool within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Outdoor Gym",
+      "description": "Outdoor Gym within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Tennis Court",
+      "description": "Tennis Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Skating Rink",
+      "description": "Skating Rink within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Cricket Pitch",
+      "description": "Cricket Pitch within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Library",
+      "description": "Library within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Basketball Court",
+      "description": "Basketball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Amphitheater",
+      "description": "Amphitheater within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Toddlers Play Area",
+      "description": "Toddlers Play Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Seating Area",
+      "description": "Seating Area within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Welcome Plaza",
+      "description": "Welcome Plaza within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Trees",
+      "title": "Pet Park",
+      "description": "Pet Park within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Waves",
+      "title": "Jacuzzi",
+      "description": "Jacuzzi within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Party Lawn",
+      "description": "Party Lawn within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Yoga Deck",
+      "description": "Yoga Deck within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    },
+    {
+      "icon": "Activity",
+      "title": "Volleyball Court",
+      "description": "Volleyball Court within the published project amenity schedule.",
+      "deliveryStatus": "developer-described; completion and access require confirmation",
+      "sourceIds": [
+        "SRC-106",
+        "SRC-107"
+      ]
+    }
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "Decathlon",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Decathlon is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 1.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Decathlon%2C%20Bengaluru"
+    },
+    {
+      "name": "Bhartiya Mall of Bengaluru",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Bhartiya Mall of Bengaluru is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 1.7,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bhartiya%20Mall%20of%20Bengaluru%2C%20Bengaluru"
+    },
+    {
+      "name": "Reliance Digital",
+      "category": "Shopping",
+      "icon": "ShoppingBag",
+      "description": "Reliance Digital is a shopping or daily-essentials landmark to include in your route check.",
+      "distanceKm": 2.2,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reliance%20Digital%2C%20Bengaluru"
+    }
+  ],
+  "documents": [],
+  "relatedPropertyIds": [
+    "disha-harmony-gardens",
+    "concorde-sienna"
+  ],
+  "content": {
+    "overviewTitle": "What defines DNR Parklink",
+    "layoutsTitle": "Configurations and floor plans",
+    "layoutsNote": "",
+    "amenitiesTitle": "Amenities",
+    "amenitiesNote": "",
+    "locationTitle": "Location and address",
+    "locationDescription": "Hennur–Bagalur Main Road, Chikkagubbi Village, Bidarahalli Hobli, Bengaluru, Karnataka, 560077. Open the project map and compare your actual daily destinations.",
+    "documentsTitle": "Registration and documents",
+    "documentsDescription": "Review the applicable project registration and transaction documents for the exact phase or unit before you commit.",
+    "faqsTitle": "Six things to know about DNR Parklink"
+  },
+  "faqs": [
+    {
+      "question": "Where exactly is DNR Parklink located?",
+      "answer": "Hennur–Bagalur Main Road, Chikkagubbi Village, Bidarahalli Hobli, Bengaluru, Karnataka, 560077. The Google Maps link uses this project and address."
+    },
+    {
+      "question": "What configurations and sizes are documented?",
+      "answer": "2.5 BHK (with additional flexible room), 3 BHK, 1 BHK. Documented saleable/super built-up plan areas span 700–1899 sq ft. The layout table identifies each area basis and applicable phase."
+    },
+    {
+      "question": "What is the published starting price?",
+      "answer": "₹1.49 Cr–₹2.09 Cr* Onward. The pricing record identifies the source and quoted configuration. Unpriced formats are excluded from the reference range; a current cost sheet is needed for the selected unit. Applicable charges are itemised separately by the source."
+    },
+    {
+      "question": "What is the status and possession timeline?",
+      "answer": "Under construction. Published timeline: December 2027, Phase 2 CP reference. This is a published schedule/status reference, not a fresh contractual handover confirmation."
+    },
+    {
+      "question": "What are the main amenities?",
+      "answer": "Swimming Pool, Club House, Kids Play Area, Senior Citizen Area, Kids Pool, Outdoor Gym. 70+ developer-marketed amenities. These are published facilities; confirm which are completed and accessible to your selected phase."
+    },
+    {
+      "question": "What makes this project worth comparing?",
+      "answer": "8.35 acre development Two bedroom plus study option 70 plus amenities reported by DNR. Aaramv can compare these features with your space needs, budget and daily routes, and help coordinate the next steps through move-in."
+    }
+  ],
+  "sources": [
+    {
+      "label": "DNR Parklink",
+      "url": "https://dnrgroup.in/dnr-parklink/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "DNR Parklink",
+      "url": "https://parklink.dnrgroup.in/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "DNR Parklink",
+      "url": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "Existing catalogue layout",
+      "url": "https://www.aaramvreality.com/properties/dnr-parklink",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aliases": [
+    "DNR Parklink"
+  ],
+  "projectScale": {
+    "landAreaAcres": 8.35,
+    "landAreaScope": "Developer/selected source project scope",
+    "towerCount": 5,
+    "floorArrangement": "2 basements + ground + 22 upper floors",
+    "totalHomesOrPlots": 784,
+    "sourceIds": [
+      "SRC-106",
+      "SRC-107",
+      "SRC-108"
+    ],
+    "verification": "Public-source research; not an on-site or current certificate verification"
+  },
+  "statusNote": "Published project status; confirm the selected home and applicable handover documents.",
+  "pricing": {
+    "currency": "INR",
+    "displayText": "₹1.49 Cr–₹2.09 Cr* Onward",
+    "displayMode": "range-of-configuration-starts",
+    "minStartingPriceInr": 14900000,
+    "maxStartingPriceInr": 20900000,
+    "referenceRange": {
+      "lowestConfigurationStartInr": 14900000,
+      "highestConfigurationStartInr": 20900000,
+      "displayText": "₹1.49 Cr–₹2.09 Cr* Onward",
+      "coverage": "Priced reference configurations only; may exclude unpriced formats or include differing phase/area revisions. Do not silently substitute this for the recommended developer headline."
+    },
+    "suffix": "* Onward",
+    "rangeMeaning": "Minimum and maximum of the sourced configuration starting prices, not the highest unit price.",
+    "quotes": [
+      {
+        "label": "2 BHK + Study",
+        "areaSqFt": 1357,
+        "areaMaxSqFt": 1385,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 14900000,
+        "upperQuotedPriceInr": 15200000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+        "sourceId": "SRC-108",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": "Phase 2",
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + 2T",
+        "areaSqFt": 1567,
+        "areaMaxSqFt": null,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 17400000,
+        "upperQuotedPriceInr": 17400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+        "sourceId": "SRC-108",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": "Phase 2",
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + 3T",
+        "areaSqFt": 1720,
+        "areaMaxSqFt": 1727,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 18700000,
+        "upperQuotedPriceInr": 19400000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+        "sourceId": "SRC-108",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": "Phase 2",
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      },
+      {
+        "label": "3 BHK + 3T",
+        "areaSqFt": 1890,
+        "areaMaxSqFt": 1899,
+        "areaBasis": "source-table-area",
+        "startingPriceInr": 20900000,
+        "upperQuotedPriceInr": 21300000,
+        "basis": "CP-published-price",
+        "sourceUrl": "https://www.homznspace.com/dnr-parklink-phase-2-hennur-road-bangalore/",
+        "sourceId": "SRC-108",
+        "checkedAt": "2026-10-28",
+        "priceEffectiveDate": null,
+        "phaseName": "Phase 2",
+        "availability": "source-advertised",
+        "scope": "Public advertised reference; no unit availability independently confirmed"
+      }
+    ],
+    "checkedAt": "2026-10-28",
+    "priceEffectiveDate": null,
+    "displayScope": "Published indicative references for priced configurations; unpriced formats are not included.",
+    "exclusions": "Use the source-specific cost sheet. Taxes, registration, floor-rise, location premiums, parking, deposits and other charges may be additional; no universal all-inclusive total is asserted.",
+    "currentUnitQuoteConfirmed": false,
+    "publicationStatus": "publish-as-source-labelled-reference",
+    "footnote": "Published source reference checked 2026-10-28. Confirm the exact unit, phase, availability, inclusions and applicable charges before treating it as a quotation."
+  },
+  "configurationSummary": [
+    "2.5 BHK (with additional flexible room)",
+    "3 BHK",
+    "1 BHK"
+  ],
+  "amenitiesSummary": {
+    "totalCount": 70,
+    "countType": "advertised-lower-bound",
+    "label": "70+ developer-marketed amenities",
+    "namedAmenitiesCount": 20,
+    "onSiteVerified": false,
+    "isCompleteDeveloperCount": false,
+    "displayText": "70+ advertised amenities"
+  },
+  "locationMap": {
+    "type": "address-search",
+    "url": "https://www.google.com/maps/search/?api=1&query=DNR%20Parklink%2C%20Hennur%E2%80%93Bagalur%20Main%20Road%2C%20Chikkagubbi%20Village%2C%20Bidarahalli%20Hobli%2C%20Bengaluru%2C%20Karnataka%2C%20560077",
+    "query": "DNR Parklink, Hennur–Bagalur Main Road, Chikkagubbi Village, Bidarahalli Hobli, Bengaluru, Karnataka, 560077",
+    "developerEmbeds": [],
+    "coordinateNote": "Embed viewport centres are not treated as entrance coordinates."
+  },
+  "coordinatesSource": "existing-catalogue, not re-geocoded",
+  "sourceIds": [
+    "SRC-106",
+    "SRC-107",
+    "SRC-108",
+    "SRC-109"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "sourcePriority": [
+      "developer project page and brochure",
+      "phase-specific public filing",
+      "identified CP",
+      "major property portal"
+    ],
+    "independentSiteInspection": false,
+    "currentInventoryConfirmed": false,
+    "fullSanctionedLayoutScheduleCertified": false,
+    "notes": [
+      "Developer 25,000 sq ft describes clubhouse plus amenities combined.",
+      "1 BHK appears in a wider developer description, while current CP Phase 2 priced options begin at 2 BHK + study. Keep phase scope explicit."
+    ],
+    "fullAddressStatus": "Public-source address assembled; survey and postal variants are noted where sources conflict. Not a title or boundary certification.",
+    "requiredFieldCoverage": {
+      "heroImage": "sourced",
+      "multipleGalleryImages": "sourced",
+      "price": "source-labelled reference; no live quote confirmation",
+      "name": "developer/established project name",
+      "address": "public-source address; verify exact entrance and postal/survey variants",
+      "configurationOptions": "documented public formats; current availability not independently confirmed",
+      "projectScale": "scoped public-source figures; conflicts retained",
+      "statusAndPossession": "source-labelled schedule; phase/precision explicitly recorded",
+      "layoutPlans": "partial — exact plans missing for some records",
+      "amenities": "at least 10 named sourced facilities; delivered/access status not inspected",
+      "map": "address search plus developer embeds where published; entrance coordinates not independently surveyed",
+      "faqs": "six project-specific answers"
+    },
+    "thirdPartyMediaReferences": [
+      {
+        "id": "cover",
+        "alt": "DNR Parklink — project gallery 1",
+        "caption": "DNR Parklink · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/DNR_Park_Link_Elevation_--1717073602939-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-2",
+        "alt": "DNR Parklink — project gallery 2",
+        "caption": "DNR Parklink · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/DNR_Park_Link_Entrance--1717073644962-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-3",
+        "alt": "DNR Parklink — project gallery 3",
+        "caption": "DNR Parklink · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/DNR_Park_Link_Fountain--1717073645091-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      },
+      {
+        "id": "image-4",
+        "alt": "DNR Parklink — project gallery 4",
+        "caption": "DNR Parklink · Project marketing visual",
+        "kind": "exterior",
+        "credit": "",
+        "sourceUrl": "https://resources.housiey.com/admin/uploads/project_images/DNR_Park_Link_Amenities--1717073707777-img.webp",
+        "checkedAt": "2026-10-28",
+        "rightsStatus": "Permission must be confirmed with the developer or source rights holder.",
+        "sourcePageUrl": "https://www.aaramvreality.com/properties/dnr-parklink",
+        "representation": "Project marketing visual; may be an artist impression rather than a site photograph.",
+        "usage": "reference-only-watermarked"
+      }
+    ],
+    "archivedPlanReferences": []
+  },
+  "configurationIdAliases": {},
+  "galleryImageIds": [
+    "cp-gallery-1",
+    "cp-gallery-2",
+    "cp-gallery-3"
+  ],
+  "overview": {
+    "title": "What defines DNR Parklink",
+    "summary": "DNR Parklink is an apartment development in the Hennur-Bagalur corridor, with a layout mix that includes a two-bedroom-plus-study option. DNR describes an 8.35-acre community with landscaped shared areas and a substantial recreation programme. The additional-study format and range of three-bedroom plans give buyers specific space options to compare beyond a standard bedroom count.",
+    "highlights": [
+      "8.35 acre development",
+      "Two bedroom plus study option",
+      "70 plus amenities reported by DNR",
+      "25000 sq ft of clubhouse and amenities as a combined description"
+    ],
+    "projectFacts": [
+      {
+        "label": "Land area",
+        "value": 8.35,
+        "unit": "acres",
+        "icon": "LandPlot"
+      },
+      {
+        "label": "Residential towers / blocks",
+        "value": 5,
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Floors",
+        "value": "2 basements + ground + 22 upper floors",
+        "unit": "",
+        "icon": "Building2"
+      },
+      {
+        "label": "Homes",
+        "value": 784,
+        "unit": "",
+        "icon": "House"
+      },
+      {
+        "label": "Documented layout range",
+        "value": "700–1899",
+        "unit": "sq ft",
+        "icon": "Maximize"
+      }
+    ],
+    "priceDisplay": "₹1.49 Cr–₹2.09 Cr* Onward",
+    "possessionDisplay": "December 2027, Phase 2 CP reference",
+    "sourceIds": [
+      "SRC-106",
+      "SRC-107",
+      "SRC-108",
+      "SRC-109"
+    ],
+    "note": "Use summary and highlights in the Overview tab. Render phase, price and plan qualifications next to their corresponding values."
+  }
+}

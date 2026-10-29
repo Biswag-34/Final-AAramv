@@ -1,0 +1,2483 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aaramv property record v2",
+  "description": "Generated from the current live Zod schema. Cross-record references and custom refinements must also pass npm run validate:data.",
+  "type": "object",
+  "properties": {
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "amenitiesSummary": {
+      "type": "object",
+      "properties": {
+        "countType": {
+          "type": "string"
+        },
+        "displayText": {
+          "type": "string"
+        },
+        "isCompleteDeveloperCount": {
+          "type": "boolean"
+        },
+        "label": {
+          "type": "string"
+        },
+        "namedAmenitiesCount": {
+          "type": "number"
+        },
+        "onSiteVerified": {
+          "type": "boolean"
+        },
+        "totalCount": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "countType",
+        "displayText",
+        "isCompleteDeveloperCount",
+        "label",
+        "namedAmenitiesCount",
+        "onSiteVerified",
+        "totalCount"
+      ],
+      "additionalProperties": false
+    },
+    "configurationIdAliases": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "configurationSummary": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "coordinatesSource": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "galleryImageIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "locationMap": {
+      "type": "object",
+      "properties": {
+        "coordinateNote": {
+          "type": "string"
+        },
+        "developerEmbeds": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sourceUrl": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "sourceUrl",
+              "url"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "query": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "coordinateNote",
+        "developerEmbeds",
+        "query",
+        "type",
+        "url"
+      ],
+      "additionalProperties": false
+    },
+    "otherProductFamilies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "configuration": {
+            "type": "string"
+          },
+          "reraCarpetAreaSqFt": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              }
+            ]
+          },
+          "superBuiltUpAreaSqFt": {
+            "type": "number"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "configuration",
+          "reraCarpetAreaSqFt",
+          "superBuiltUpAreaSqFt",
+          "type"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "overview": {
+      "type": "object",
+      "properties": {
+        "highlights": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "note": {
+          "type": "string"
+        },
+        "possessionDisplay": {
+          "type": "string"
+        },
+        "priceDisplay": {
+          "type": "string"
+        },
+        "projectFacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "icon": {
+                "type": "string"
+              },
+              "label": {
+                "type": "string"
+              },
+              "unit": {
+                "type": "string"
+              },
+              "value": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "icon",
+              "label",
+              "unit",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "sourceIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "highlights",
+        "note",
+        "possessionDisplay",
+        "priceDisplay",
+        "projectFacts",
+        "sourceIds",
+        "summary",
+        "title"
+      ],
+      "additionalProperties": false
+    },
+    "plotSizeSchedule": {
+      "type": "object",
+      "properties": {
+        "availability": {
+          "type": "string",
+          "description": "Configuration-specific stock state; use on-request if not independently current."
+        },
+        "developerPublishedOptions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "areaRangeSqFt": {
+                "type": "object",
+                "properties": {
+                  "max": {
+                    "type": "number"
+                  },
+                  "min": {
+                    "type": "number"
+                  }
+                },
+                "required": [
+                  "max",
+                  "min"
+                ],
+                "additionalProperties": false
+              },
+              "areaSqFt": {
+                "type": "number",
+                "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+              },
+              "label": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "label"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "legacyCpOption": {
+          "type": "object",
+          "properties": {
+            "areaSqFt": {
+              "type": "number",
+              "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+            },
+            "label": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "areaSqFt",
+            "label"
+          ],
+          "additionalProperties": false
+        },
+        "note": {
+          "type": "string"
+        },
+        "publishedRangeSqFt": {
+          "type": "object",
+          "properties": {
+            "max": {
+              "type": "number"
+            },
+            "min": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "max",
+            "min"
+          ],
+          "additionalProperties": false
+        },
+        "sourceId": {
+          "type": "string"
+        },
+        "sourceIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    },
+    "pricing": {
+      "type": "object",
+      "properties": {
+        "checkedAt": {
+          "type": "string",
+          "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+        },
+        "currency": {
+          "type": "string"
+        },
+        "currentUnitQuoteConfirmed": {
+          "type": "boolean"
+        },
+        "displayMode": {
+          "type": "string"
+        },
+        "displayScope": {
+          "type": "string"
+        },
+        "displayText": {
+          "type": "string"
+        },
+        "exclusions": {
+          "type": "string"
+        },
+        "footnote": {
+          "type": "string"
+        },
+        "maxStartingPriceInr": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "minStartingPriceInr": {
+          "type": "number"
+        },
+        "priceEffectiveDate": {
+          "type": "null"
+        },
+        "publicationStatus": {
+          "type": "string"
+        },
+        "quotes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "applicability": {
+                "type": "string"
+              },
+              "areaBasis": {
+                "type": "string"
+              },
+              "areaMaxSqFt": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "areaSqFt": {
+                "anyOf": [
+                  {
+                    "anyOf": [
+                      {
+                        "type": "number"
+                      },
+                      {
+                        "type": "number"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+              },
+              "availability": {
+                "type": "string",
+                "description": "Configuration-specific stock state; use on-request if not independently current."
+              },
+              "basis": {
+                "type": "string"
+              },
+              "canAttachToConfiguration": {
+                "type": "boolean"
+              },
+              "checkedAt": {
+                "type": "string",
+                "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+              },
+              "exactTowerConfirmed": {
+                "type": "boolean"
+              },
+              "label": {
+                "type": "string"
+              },
+              "phaseName": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "priceEffectiveDate": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "scope": {
+                "type": "string"
+              },
+              "sourceId": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string"
+              },
+              "startingPriceInr": {
+                "type": "number",
+                "description": "Positive integer INR for this specific configuration or offered unit; null if not confirmed."
+              },
+              "upperQuotedPriceInr": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "areaSqFt",
+              "basis",
+              "checkedAt",
+              "label",
+              "priceEffectiveDate",
+              "scope",
+              "sourceId",
+              "sourceUrl",
+              "startingPriceInr"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "rangeMeaning": {
+          "type": "string"
+        },
+        "referenceRange": {
+          "type": "object",
+          "properties": {
+            "coverage": {
+              "type": "string"
+            },
+            "displayText": {
+              "type": "string"
+            },
+            "highestConfigurationStartInr": {
+              "type": "number"
+            },
+            "lowestConfigurationStartInr": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "coverage",
+            "displayText",
+            "highestConfigurationStartInr",
+            "lowestConfigurationStartInr"
+          ],
+          "additionalProperties": false
+        },
+        "suffix": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "checkedAt",
+        "currency",
+        "currentUnitQuoteConfirmed",
+        "displayMode",
+        "displayScope",
+        "displayText",
+        "exclusions",
+        "footnote",
+        "maxStartingPriceInr",
+        "minStartingPriceInr",
+        "priceEffectiveDate",
+        "publicationStatus",
+        "quotes",
+        "rangeMeaning",
+        "referenceRange",
+        "suffix"
+      ],
+      "additionalProperties": false
+    },
+    "projectScale": {
+      "type": "object",
+      "properties": {
+        "floorArrangement": {
+          "type": "string"
+        },
+        "landAreaAcres": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "number"
+            }
+          ]
+        },
+        "landAreaScope": {
+          "type": "string"
+        },
+        "sourceIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "totalHomesOrPlots": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "towerCount": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "verification": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "floorArrangement",
+        "landAreaAcres",
+        "landAreaScope",
+        "sourceIds",
+        "totalHomesOrPlots",
+        "towerCount",
+        "verification"
+      ],
+      "additionalProperties": false
+    },
+    "research": {
+      "type": "object",
+      "properties": {
+        "archivedPlanReferences": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "alt": {
+                "type": "string"
+              },
+              "caption": {
+                "type": "string"
+              },
+              "checkedAt": {
+                "type": "string",
+                "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+              },
+              "credit": {
+                "type": "string"
+              },
+              "id": {
+                "type": "string",
+                "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+              },
+              "kind": {
+                "type": "string"
+              },
+              "representation": {
+                "type": "string"
+              },
+              "rightsStatus": {
+                "type": "string"
+              },
+              "sourcePageUrl": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string"
+              },
+              "usage": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "alt",
+              "caption",
+              "checkedAt",
+              "credit",
+              "id",
+              "kind",
+              "representation",
+              "rightsStatus",
+              "sourcePageUrl",
+              "sourceUrl",
+              "usage"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "checkedAt": {
+          "type": "string",
+          "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+        },
+        "currentInventoryConfirmed": {
+          "type": "boolean"
+        },
+        "fullAddressStatus": {
+          "type": "string"
+        },
+        "fullSanctionedLayoutScheduleCertified": {
+          "type": "boolean"
+        },
+        "historicalPriceReferences": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "areaSqFt": {
+                "type": "number",
+                "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+              },
+              "availability": {
+                "type": "string",
+                "description": "Configuration-specific stock state; use on-request if not independently current."
+              },
+              "basis": {
+                "type": "string"
+              },
+              "canPublishAsCurrent": {
+                "type": "boolean"
+              },
+              "checkedAt": {
+                "type": "string",
+                "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+              },
+              "historical": {
+                "type": "boolean"
+              },
+              "label": {
+                "type": "string"
+              },
+              "priceEffectiveDate": {
+                "type": "null"
+              },
+              "scope": {
+                "type": "string"
+              },
+              "sourceId": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string"
+              },
+              "startingPriceInr": {
+                "type": "number",
+                "description": "Positive integer INR for this specific configuration or offered unit; null if not confirmed."
+              },
+              "upperQuotedPriceInr": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "areaSqFt",
+              "availability",
+              "basis",
+              "canPublishAsCurrent",
+              "checkedAt",
+              "historical",
+              "label",
+              "priceEffectiveDate",
+              "scope",
+              "sourceId",
+              "sourceUrl",
+              "startingPriceInr",
+              "upperQuotedPriceInr"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "independentSiteInspection": {
+          "type": "boolean"
+        },
+        "legacyConfigurations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "areaBasis": {
+                "type": "string"
+              },
+              "areaSqFt": {
+                "type": "number",
+                "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+              },
+              "availability": {
+                "type": "string",
+                "description": "Configuration-specific stock state; use on-request if not independently current."
+              },
+              "bathrooms": {
+                "type": "null"
+              },
+              "bedrooms": {
+                "type": "number"
+              },
+              "floorPlanImageId": {
+                "type": "string",
+                "description": "Must match a floor-plan image in this record, or null."
+              },
+              "id": {
+                "type": "string",
+                "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+              },
+              "label": {
+                "type": "string"
+              },
+              "priceNote": {
+                "type": "string"
+              },
+              "priceSourceIds": {
+                "type": "array",
+                "items": {}
+              },
+              "sourceIds": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "startingPriceInr": {
+                "type": "null",
+                "description": "Positive integer INR for this specific configuration or offered unit; null if not confirmed."
+              }
+            },
+            "required": [
+              "areaBasis",
+              "areaSqFt",
+              "availability",
+              "bathrooms",
+              "bedrooms",
+              "floorPlanImageId",
+              "id",
+              "label",
+              "priceNote",
+              "priceSourceIds",
+              "sourceIds",
+              "startingPriceInr"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "requiredFieldCoverage": {
+          "type": "object",
+          "properties": {
+            "address": {
+              "type": "string"
+            },
+            "amenities": {
+              "type": "string"
+            },
+            "configurationOptions": {
+              "type": "string"
+            },
+            "faqs": {
+              "type": "string"
+            },
+            "heroImage": {
+              "type": "string"
+            },
+            "layoutPlans": {
+              "type": "string"
+            },
+            "map": {
+              "type": "string"
+            },
+            "multipleGalleryImages": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "price": {
+              "type": "string"
+            },
+            "projectScale": {
+              "type": "string"
+            },
+            "statusAndPossession": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "address",
+            "amenities",
+            "configurationOptions",
+            "faqs",
+            "heroImage",
+            "layoutPlans",
+            "map",
+            "multipleGalleryImages",
+            "name",
+            "price",
+            "projectScale",
+            "statusAndPossession"
+          ],
+          "additionalProperties": false
+        },
+        "sourcePriority": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "thirdPartyMediaReferences": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "alt": {
+                "type": "string"
+              },
+              "caption": {
+                "type": "string"
+              },
+              "checkedAt": {
+                "type": "string",
+                "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+              },
+              "credit": {
+                "type": "string"
+              },
+              "id": {
+                "type": "string",
+                "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+              },
+              "kind": {
+                "type": "string"
+              },
+              "representation": {
+                "type": "string"
+              },
+              "rightsStatus": {
+                "type": "string"
+              },
+              "sourcePageUrl": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string"
+              },
+              "usage": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "alt",
+              "caption",
+              "checkedAt",
+              "credit",
+              "id",
+              "kind",
+              "representation",
+              "rightsStatus",
+              "sourcePageUrl",
+              "sourceUrl",
+              "usage"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "archivedPlanReferences",
+        "checkedAt",
+        "currentInventoryConfirmed",
+        "fullAddressStatus",
+        "fullSanctionedLayoutScheduleCertified",
+        "independentSiteInspection",
+        "notes",
+        "requiredFieldCoverage",
+        "sourcePriority",
+        "thirdPartyMediaReferences"
+      ],
+      "additionalProperties": false
+    },
+    "researchFormatNote": {
+      "type": "string"
+    },
+    "sourceIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "statusNote": {
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 2,
+      "type": "number",
+      "description": "Exactly 2. Do not change existing record IDs."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+    },
+    "published": {
+      "type": "boolean"
+    },
+    "isDemo": {
+      "type": "boolean"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "searchKeywords": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      }
+    },
+    "coverImageId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Must match a member of images in this record."
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "bytes": {
+            "type": "number"
+          },
+          "capturedAt": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "checkedAt": {
+            "type": "string",
+            "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+          },
+          "height": {
+            "type": "number"
+          },
+          "license": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "licenseUrl": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "representation": {
+            "type": "string"
+          },
+          "rightsStatus": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string"
+          },
+          "sourceDocumentUrl": {
+            "type": "string"
+          },
+          "sourcePageNumber": {
+            "type": "number"
+          },
+          "sourcePageUrl": {
+            "type": "string"
+          },
+          "sourceUrl": {
+            "type": "string"
+          },
+          "usage": {
+            "type": "string"
+          },
+          "width": {
+            "type": "number"
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+            "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+          },
+          "src": {
+            "type": "string",
+            "anyOf": [
+              {
+                "pattern": "^/(?!/)[^\\s\\\\]*$"
+              },
+              {
+                "format": "uri",
+                "pattern": "^https://[^\\s\\\\]+$"
+              }
+            ],
+            "description": "Public-relative asset path or HTTPS URL. Run the repository validator to enforce hostname and no-credentials checks."
+          },
+          "alt": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "caption": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "exterior",
+              "interior",
+              "amenity",
+              "floor-plan",
+              "map",
+              "locality",
+              "master-plan",
+              "construction",
+              "landmark-photograph",
+              "location-map"
+            ]
+          },
+          "credit": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "src",
+          "alt",
+          "caption",
+          "kind",
+          "credit"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "coordinates": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "latitude": {
+              "type": "number",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
+            }
+          },
+          "required": [
+            "latitude",
+            "longitude"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "mapUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "anyOf": [
+            {
+              "pattern": "^/(?!/)[^\\s\\\\]*$"
+            },
+            {
+              "format": "uri",
+              "pattern": "^https://[^\\s\\\\]+$"
+            }
+          ],
+          "description": "Public-relative asset path or HTTPS URL. Run the repository validator to enforce hostname and no-credentials checks."
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "faqs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "answer": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        },
+        "required": [
+          "question",
+          "answer"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string",
+                "anyOf": [
+                  {
+                    "pattern": "^/(?!/)[^\\s\\\\]*$"
+                  },
+                  {
+                    "format": "uri",
+                    "pattern": "^https://[^\\s\\\\]+$"
+                  }
+                ],
+                "description": "Public-relative asset path or HTTPS URL. Run the repository validator to enforce hostname and no-credentials checks."
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "checkedAt": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+          }
+        },
+        "required": [
+          "label",
+          "url",
+          "checkedAt"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "updatedAt": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+          "format": "date"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Editorial record update date, YYYY-MM-DD."
+    },
+    "localityId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Must match an existing locality id."
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "Apartment",
+        "Villa",
+        "Plot",
+        "Row House",
+        "Apartment and Villa"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Ready to move",
+        "Under construction",
+        "New launch"
+      ]
+    },
+    "developerName": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "phaseName": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "address": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "postalCode": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^\\d{6}$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "totalUnits": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "exclusiveMinimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Total project or phase homes represented by this record. This is not currently available inventory."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "possession": {
+      "type": "object",
+      "properties": {
+        "checkedAt": {
+          "type": "string",
+          "description": "Source review date, YYYY-MM-DD; not automatically a quotation or possession date."
+        },
+        "isContractualCommitment": {
+          "type": "boolean"
+        },
+        "month": {
+          "type": "number"
+        },
+        "precision": {
+          "type": "string"
+        },
+        "sourceId": {
+          "type": "string"
+        },
+        "sourceUrl": {
+          "type": "string"
+        },
+        "year": {
+          "type": "number"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "label",
+        "date"
+      ],
+      "additionalProperties": false
+    },
+    "primaryConfigurationId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Must match a member of configurations in this record."
+    },
+    "configurations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "areaBasisLabel": {
+            "type": "string"
+          },
+          "areaIsRangeMinimum": {
+            "type": "boolean"
+          },
+          "areaMaxSqFt": {
+            "type": "number"
+          },
+          "balconyAreaSqFt": {
+            "type": "number"
+          },
+          "carpetAreaSqFt": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              }
+            ]
+          },
+          "combinedReraAndBalconyAreaSqFt": {
+            "type": "number"
+          },
+          "floorPlanImageIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "floorPlanMatch": {
+            "type": "string"
+          },
+          "phaseName": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "planActionLabel": {
+            "type": "string"
+          },
+          "planScope": {
+            "type": "string"
+          },
+          "priceSourceIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sourceIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sourcePageNumber": {
+            "type": "number"
+          },
+          "towerName": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+            "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "bedrooms": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 30
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "bathrooms": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 30
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "areaSqFt": {
+            "anyOf": [
+              {
+                "type": "number",
+                "exclusiveMinimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Numeric square feet for this specific configuration; declare the measurement in areaBasis."
+          },
+          "areaBasis": {
+            "type": "string",
+            "enum": [
+              "carpet",
+              "built-up",
+              "super-built-up",
+              "saleable",
+              "plot",
+              "unspecified"
+            ]
+          },
+          "startingPriceInr": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "exclusiveMinimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Positive integer INR for this specific configuration or offered unit; null if not confirmed."
+          },
+          "priceNote": {
+            "type": "string"
+          },
+          "availability": {
+            "type": "string",
+            "enum": [
+              "available",
+              "limited",
+              "sold-out",
+              "on-request"
+            ],
+            "description": "Configuration-specific stock state; use on-request if not independently current."
+          },
+          "floorPlanImageId": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Must match a floor-plan image in this record, or null."
+          }
+        },
+        "required": [
+          "id",
+          "label",
+          "bedrooms",
+          "bathrooms",
+          "areaSqFt",
+          "areaBasis",
+          "startingPriceInr",
+          "priceNote",
+          "availability",
+          "floorPlanImageId"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "icons": {
+      "type": "object",
+      "properties": {
+        "configuration": {
+          "type": "string",
+          "enum": [
+            "Building2",
+            "House",
+            "LandPlot",
+            "BedDouble",
+            "Maximize",
+            "ShieldCheck",
+            "Handshake",
+            "KeyRound",
+            "Compass",
+            "MapPin",
+            "TreePine",
+            "Dumbbell",
+            "Waves",
+            "Car",
+            "Users",
+            "TrainFront",
+            "BriefcaseBusiness",
+            "School",
+            "Clock",
+            "CheckCircle2",
+            "FileText",
+            "Hospital",
+            "ShoppingBag",
+            "Bath",
+            "Ruler",
+            "Activity",
+            "CalendarDays",
+            "GraduationCap",
+            "IndianRupee",
+            "Trees",
+            "Baby",
+            "Bike",
+            "BookOpen",
+            "Clapperboard",
+            "Drama",
+            "Flower2",
+            "Footprints",
+            "Goal",
+            "HeartPulse",
+            "PawPrint",
+            "PersonStanding",
+            "Sparkles",
+            "Store",
+            "TentTree",
+            "Trophy",
+            "Volleyball",
+            "Armchair",
+            "ParkingCircle"
+          ]
+        },
+        "area": {
+          "type": "string",
+          "enum": [
+            "Building2",
+            "House",
+            "LandPlot",
+            "BedDouble",
+            "Maximize",
+            "ShieldCheck",
+            "Handshake",
+            "KeyRound",
+            "Compass",
+            "MapPin",
+            "TreePine",
+            "Dumbbell",
+            "Waves",
+            "Car",
+            "Users",
+            "TrainFront",
+            "BriefcaseBusiness",
+            "School",
+            "Clock",
+            "CheckCircle2",
+            "FileText",
+            "Hospital",
+            "ShoppingBag",
+            "Bath",
+            "Ruler",
+            "Activity",
+            "CalendarDays",
+            "GraduationCap",
+            "IndianRupee",
+            "Trees",
+            "Baby",
+            "Bike",
+            "BookOpen",
+            "Clapperboard",
+            "Drama",
+            "Flower2",
+            "Footprints",
+            "Goal",
+            "HeartPulse",
+            "PawPrint",
+            "PersonStanding",
+            "Sparkles",
+            "Store",
+            "TentTree",
+            "Trophy",
+            "Volleyball",
+            "Armchair",
+            "ParkingCircle"
+          ]
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "Building2",
+            "House",
+            "LandPlot",
+            "BedDouble",
+            "Maximize",
+            "ShieldCheck",
+            "Handshake",
+            "KeyRound",
+            "Compass",
+            "MapPin",
+            "TreePine",
+            "Dumbbell",
+            "Waves",
+            "Car",
+            "Users",
+            "TrainFront",
+            "BriefcaseBusiness",
+            "School",
+            "Clock",
+            "CheckCircle2",
+            "FileText",
+            "Hospital",
+            "ShoppingBag",
+            "Bath",
+            "Ruler",
+            "Activity",
+            "CalendarDays",
+            "GraduationCap",
+            "IndianRupee",
+            "Trees",
+            "Baby",
+            "Bike",
+            "BookOpen",
+            "Clapperboard",
+            "Drama",
+            "Flower2",
+            "Footprints",
+            "Goal",
+            "HeartPulse",
+            "PawPrint",
+            "PersonStanding",
+            "Sparkles",
+            "Store",
+            "TentTree",
+            "Trophy",
+            "Volleyball",
+            "Armchair",
+            "ParkingCircle"
+          ]
+        },
+        "possession": {
+          "type": "string",
+          "enum": [
+            "Building2",
+            "House",
+            "LandPlot",
+            "BedDouble",
+            "Maximize",
+            "ShieldCheck",
+            "Handshake",
+            "KeyRound",
+            "Compass",
+            "MapPin",
+            "TreePine",
+            "Dumbbell",
+            "Waves",
+            "Car",
+            "Users",
+            "TrainFront",
+            "BriefcaseBusiness",
+            "School",
+            "Clock",
+            "CheckCircle2",
+            "FileText",
+            "Hospital",
+            "ShoppingBag",
+            "Bath",
+            "Ruler",
+            "Activity",
+            "CalendarDays",
+            "GraduationCap",
+            "IndianRupee",
+            "Trees",
+            "Baby",
+            "Bike",
+            "BookOpen",
+            "Clapperboard",
+            "Drama",
+            "Flower2",
+            "Footprints",
+            "Goal",
+            "HeartPulse",
+            "PawPrint",
+            "PersonStanding",
+            "Sparkles",
+            "Store",
+            "TentTree",
+            "Trophy",
+            "Volleyball",
+            "Armchair",
+            "ParkingCircle"
+          ]
+        },
+        "location": {
+          "type": "string",
+          "enum": [
+            "Building2",
+            "House",
+            "LandPlot",
+            "BedDouble",
+            "Maximize",
+            "ShieldCheck",
+            "Handshake",
+            "KeyRound",
+            "Compass",
+            "MapPin",
+            "TreePine",
+            "Dumbbell",
+            "Waves",
+            "Car",
+            "Users",
+            "TrainFront",
+            "BriefcaseBusiness",
+            "School",
+            "Clock",
+            "CheckCircle2",
+            "FileText",
+            "Hospital",
+            "ShoppingBag",
+            "Bath",
+            "Ruler",
+            "Activity",
+            "CalendarDays",
+            "GraduationCap",
+            "IndianRupee",
+            "Trees",
+            "Baby",
+            "Bike",
+            "BookOpen",
+            "Clapperboard",
+            "Drama",
+            "Flower2",
+            "Footprints",
+            "Goal",
+            "HeartPulse",
+            "PawPrint",
+            "PersonStanding",
+            "Sparkles",
+            "Store",
+            "TentTree",
+            "Trophy",
+            "Volleyball",
+            "Armchair",
+            "ParkingCircle"
+          ]
+        }
+      },
+      "required": [
+        "configuration",
+        "area",
+        "status",
+        "possession",
+        "location"
+      ],
+      "additionalProperties": false
+    },
+    "facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "value": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "number"
+              }
+            ]
+          },
+          "unit": {
+            "type": "string"
+          },
+          "icon": {
+            "type": "string",
+            "enum": [
+              "Building2",
+              "House",
+              "LandPlot",
+              "BedDouble",
+              "Maximize",
+              "ShieldCheck",
+              "Handshake",
+              "KeyRound",
+              "Compass",
+              "MapPin",
+              "TreePine",
+              "Dumbbell",
+              "Waves",
+              "Car",
+              "Users",
+              "TrainFront",
+              "BriefcaseBusiness",
+              "School",
+              "Clock",
+              "CheckCircle2",
+              "FileText",
+              "Hospital",
+              "ShoppingBag",
+              "Bath",
+              "Ruler",
+              "Activity",
+              "CalendarDays",
+              "GraduationCap",
+              "IndianRupee",
+              "Trees",
+              "Baby",
+              "Bike",
+              "BookOpen",
+              "Clapperboard",
+              "Drama",
+              "Flower2",
+              "Footprints",
+              "Goal",
+              "HeartPulse",
+              "PawPrint",
+              "PersonStanding",
+              "Sparkles",
+              "Store",
+              "TentTree",
+              "Trophy",
+              "Volleyball",
+              "Armchair",
+              "ParkingCircle"
+            ]
+          }
+        },
+        "required": [
+          "label",
+          "value",
+          "unit",
+          "icon"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "highlights": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "icon": {
+            "type": "string",
+            "enum": [
+              "Building2",
+              "House",
+              "LandPlot",
+              "BedDouble",
+              "Maximize",
+              "ShieldCheck",
+              "Handshake",
+              "KeyRound",
+              "Compass",
+              "MapPin",
+              "TreePine",
+              "Dumbbell",
+              "Waves",
+              "Car",
+              "Users",
+              "TrainFront",
+              "BriefcaseBusiness",
+              "School",
+              "Clock",
+              "CheckCircle2",
+              "FileText",
+              "Hospital",
+              "ShoppingBag",
+              "Bath",
+              "Ruler",
+              "Activity",
+              "CalendarDays",
+              "GraduationCap",
+              "IndianRupee",
+              "Trees",
+              "Baby",
+              "Bike",
+              "BookOpen",
+              "Clapperboard",
+              "Drama",
+              "Flower2",
+              "Footprints",
+              "Goal",
+              "HeartPulse",
+              "PawPrint",
+              "PersonStanding",
+              "Sparkles",
+              "Store",
+              "TentTree",
+              "Trophy",
+              "Volleyball",
+              "Armchair",
+              "ParkingCircle"
+            ]
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "icon",
+          "title",
+          "description"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "amenities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "icon": {
+            "type": "string",
+            "enum": [
+              "Building2",
+              "House",
+              "LandPlot",
+              "BedDouble",
+              "Maximize",
+              "ShieldCheck",
+              "Handshake",
+              "KeyRound",
+              "Compass",
+              "MapPin",
+              "TreePine",
+              "Dumbbell",
+              "Waves",
+              "Car",
+              "Users",
+              "TrainFront",
+              "BriefcaseBusiness",
+              "School",
+              "Clock",
+              "CheckCircle2",
+              "FileText",
+              "Hospital",
+              "ShoppingBag",
+              "Bath",
+              "Ruler",
+              "Activity",
+              "CalendarDays",
+              "GraduationCap",
+              "IndianRupee",
+              "Trees",
+              "Baby",
+              "Bike",
+              "BookOpen",
+              "Clapperboard",
+              "Drama",
+              "Flower2",
+              "Footprints",
+              "Goal",
+              "HeartPulse",
+              "PawPrint",
+              "PersonStanding",
+              "Sparkles",
+              "Store",
+              "TentTree",
+              "Trophy",
+              "Volleyball",
+              "Armchair",
+              "ParkingCircle"
+            ]
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "description": {
+            "type": "string"
+          },
+          "deliveryStatus": {
+            "type": "string"
+          },
+          "sourceIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "icon",
+          "title",
+          "description"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "nearbyPlaces": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "icon": {
+            "type": "string",
+            "enum": [
+              "Building2",
+              "House",
+              "LandPlot",
+              "BedDouble",
+              "Maximize",
+              "ShieldCheck",
+              "Handshake",
+              "KeyRound",
+              "Compass",
+              "MapPin",
+              "TreePine",
+              "Dumbbell",
+              "Waves",
+              "Car",
+              "Users",
+              "TrainFront",
+              "BriefcaseBusiness",
+              "School",
+              "Clock",
+              "CheckCircle2",
+              "FileText",
+              "Hospital",
+              "ShoppingBag",
+              "Bath",
+              "Ruler",
+              "Activity",
+              "CalendarDays",
+              "GraduationCap",
+              "IndianRupee",
+              "Trees",
+              "Baby",
+              "Bike",
+              "BookOpen",
+              "Clapperboard",
+              "Drama",
+              "Flower2",
+              "Footprints",
+              "Goal",
+              "HeartPulse",
+              "PawPrint",
+              "PersonStanding",
+              "Sparkles",
+              "Store",
+              "TentTree",
+              "Trophy",
+              "Volleyball",
+              "Armchair",
+              "ParkingCircle"
+            ]
+          },
+          "description": {
+            "type": "string"
+          },
+          "distanceKm": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "travelMinutes": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "travelMode": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "walk",
+                  "walking",
+                  "drive",
+                  "transit"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "mapUrl": {
+            "anyOf": [
+              {
+                "type": "string",
+                "anyOf": [
+                  {
+                    "pattern": "^/(?!/)[^\\s\\\\]*$"
+                  },
+                  {
+                    "format": "uri",
+                    "pattern": "^https://[^\\s\\\\]+$"
+                  }
+                ],
+                "description": "Public-relative asset path or HTTPS URL. Run the repository validator to enforce hostname and no-credentials checks."
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "category",
+          "icon",
+          "description",
+          "distanceKm",
+          "travelMinutes",
+          "travelMode",
+          "mapUrl"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "anyOf": [
+          {
+            "type": "object",
+            "properties": {
+              "label": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              "value": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              "icon": {
+                "type": "string",
+                "enum": [
+                  "Building2",
+                  "House",
+                  "LandPlot",
+                  "BedDouble",
+                  "Maximize",
+                  "ShieldCheck",
+                  "Handshake",
+                  "KeyRound",
+                  "Compass",
+                  "MapPin",
+                  "TreePine",
+                  "Dumbbell",
+                  "Waves",
+                  "Car",
+                  "Users",
+                  "TrainFront",
+                  "BriefcaseBusiness",
+                  "School",
+                  "Clock",
+                  "CheckCircle2",
+                  "FileText",
+                  "Hospital",
+                  "ShoppingBag",
+                  "Bath",
+                  "Ruler",
+                  "Activity",
+                  "CalendarDays",
+                  "GraduationCap",
+                  "IndianRupee",
+                  "Trees",
+                  "Baby",
+                  "Bike",
+                  "BookOpen",
+                  "Clapperboard",
+                  "Drama",
+                  "Flower2",
+                  "Footprints",
+                  "Goal",
+                  "HeartPulse",
+                  "PawPrint",
+                  "PersonStanding",
+                  "Sparkles",
+                  "Store",
+                  "TentTree",
+                  "Trophy",
+                  "Volleyball",
+                  "Armchair",
+                  "ParkingCircle"
+                ]
+              },
+              "url": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "anyOf": [
+                      {
+                        "pattern": "^/(?!/)[^\\s\\\\]*$"
+                      },
+                      {
+                        "format": "uri",
+                        "pattern": "^https://[^\\s\\\\]+$"
+                      }
+                    ],
+                    "description": "Public-relative asset path or HTTPS URL. Run the repository validator to enforce hostname and no-credentials checks."
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "label",
+              "value",
+              "icon",
+              "url"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "Stable lowercase hyphenated slug; determines the existing page URL."
+              },
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "sourceId": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "url",
+              "type",
+              "sourceId"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      }
+    },
+    "relatedPropertyIds": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "description": "References to other existing property IDs. No self-reference."
+    },
+    "content": {
+      "type": "object",
+      "properties": {
+        "overviewTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "layoutsTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "layoutsNote": {
+          "type": "string"
+        },
+        "amenitiesTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "amenitiesNote": {
+          "type": "string"
+        },
+        "locationTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "locationDescription": {
+          "type": "string"
+        },
+        "documentsTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "documentsDescription": {
+          "type": "string"
+        },
+        "faqsTitle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        }
+      },
+      "required": [
+        "overviewTitle",
+        "layoutsTitle",
+        "layoutsNote",
+        "amenitiesTitle",
+        "amenitiesNote",
+        "locationTitle",
+        "locationDescription",
+        "documentsTitle",
+        "documentsDescription",
+        "faqsTitle"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "published",
+    "isDemo",
+    "name",
+    "searchKeywords",
+    "coverImageId",
+    "images",
+    "coordinates",
+    "mapUrl",
+    "faqs",
+    "sources",
+    "updatedAt",
+    "localityId",
+    "type",
+    "status",
+    "developerName",
+    "phaseName",
+    "address",
+    "postalCode",
+    "description",
+    "possession",
+    "primaryConfigurationId",
+    "configurations",
+    "icons",
+    "facts",
+    "highlights",
+    "amenities",
+    "nearbyPlaces",
+    "documents",
+    "relatedPropertyIds",
+    "content"
+  ],
+  "additionalProperties": false
+}

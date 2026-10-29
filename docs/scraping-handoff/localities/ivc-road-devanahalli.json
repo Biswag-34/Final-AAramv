@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "ivc-road-devanahalli",
+  "published": true,
+  "isDemo": false,
+  "name": "IVC Road, Devanahalli",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "zone": "North Bengaluru · Airport corridor",
+  "tagline": "Space to build, along a changing northern corridor.",
+  "description": "IVC Road is a plotted-development corridor in the wider Devanahalli–Yelahanka setting. The surrounding area includes village settlements, larger land parcels and institutions such as Stonehill International School at Tarahunise. A plot here needs to be understood through its phase, dimensions and development services, not just its distance from the airport.",
+  "tags": [
+    "North Bengaluru · Airport corridor",
+    "Plot"
+  ],
+  "searchKeywords": [
+    "IVC Road, Devanahalli",
+    "ivc-road-devanahalli",
+    "Bengaluru",
+    "Earthsong by Manyata"
+  ],
+  "coverImageId": "cover",
+  "images": [
+    {
+      "id": "cover",
+      "src": "/images/localities/ivc-road-devanahalli/cover.webp",
+      "alt": "Stonehill International School, Tarahunise · wider IVC Road education landmark",
+      "caption": "Stonehill International School, Tarahunise · wider IVC Road education landmark",
+      "kind": "landmark-photograph",
+      "credit": "Stonehill International School · campus building",
+      "sourceUrl": "https://resources.finalsite.net/images/f_auto%2Cq_auto/v1783587316/stonehillinternationalschoolorg/djfu4ly7x2gxuv224mhm/17.png",
+      "sourcePageUrl": "https://www.stonehill.in/about/about-stonehill",
+      "license": null,
+      "licenseUrl": null,
+      "rightsStatus": "Source photograph; obtain publication permission from the rights holder.",
+      "capturedAt": null,
+      "width": 1440,
+      "height": 495,
+      "checkedAt": "2026-10-28",
+      "sha256": "b53f05957abfe19b15dc48fb4844cb5ce6b128e92fa14951800ced09dc3bfd66",
+      "bytes": 68248
+    }
+  ],
+  "coordinates": null,
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=IVC%20Road%2C%20Devanahalli%2C%20Bengaluru%2C%20Karnataka",
+  "considerations": [
+    "Assess access roads, utilities, surroundings, everyday essentials and any ongoing construction during your visit."
+  ],
+  "highlights": [
+    {
+      "icon": "MapPin",
+      "title": "Plotted-community search corridor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Stonehill at Tarahunise is a regional education anchor",
+      "description": ""
+    },
+    {
+      "icon": "Compass",
+      "title": "Connections to the wider airport-road network",
+      "description": ""
+    },
+    {
+      "icon": "Building2",
+      "title": "Aaramv catalogue entries",
+      "description": "1"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Aaramv catalogue entries",
+      "value": 1,
+      "unit": "",
+      "icon": "Building2",
+      "asOf": "2026-10-28",
+      "note": "Catalogue coverage only; not total market inventory."
+    },
+    {
+      "label": "Home types",
+      "value": "Plot",
+      "unit": "",
+      "icon": "House",
+      "asOf": "2026-10-28",
+      "note": ""
+    }
+  ],
+  "connectivity": [
+    {
+      "name": "Stonehill International School",
+      "category": "School",
+      "icon": "GraduationCap",
+      "description": "Stonehill International School is a school or education landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Stonehill%20International%20School%2C%20Bengaluru"
+    },
+    {
+      "name": "Padukone–Dravid Centre for Sports Excellence",
+      "category": "Sports facility",
+      "icon": "Trophy",
+      "description": "Padukone–Dravid Centre for Sports Excellence is a sport and recreation landmark to include in your route check.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Padukone%E2%80%93Dravid%20Centre%20for%20Sports%20Excellence%2C%20Bengaluru"
+    },
+    {
+      "name": "Jogahalli Cross Bus Stop",
+      "category": "Transport",
+      "icon": "TrainFront",
+      "description": "Jogahalli Cross Bus Stop is a transport or road landmark to compare with the route you expect to use.",
+      "distanceKm": null,
+      "travelMinutes": null,
+      "travelMode": null,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jogahalli%20Cross%20Bus%20Stop%2C%20Bengaluru"
+    }
+  ],
+  "nearbyPlaces": [],
+  "infrastructure": [],
+  "market": null,
+  "faqs": [
+    {
+      "question": "What gives IVC Road, Devanahalli its identity?",
+      "answer": "Plotted-community search corridor; Stonehill at Tarahunise is a regional education anchor; Connections to the wider airport-road network."
+    },
+    {
+      "question": "Which Aaramv projects are linked to this area?",
+      "answer": "Earthsong by Manyata. Counts reflect the current Aaramv catalogue."
+    },
+    {
+      "question": "How would Aaramv compare homes here?",
+      "answer": "We see IVC Road as a search for the home you intend to build. Start with your construction plans, budget and daily routes. Then compare the plot’s dimensions, road access, services and applicable phase documents. A larger plot is useful only when its location and development conditions work for the life you plan around it."
+    }
+  ],
+  "sources": [
+    {
+      "label": "IVC Road, Devanahalli",
+      "url": "https://www.stonehill.in/",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "label": "IVC Road, Devanahalli image source",
+      "url": "https://www.stonehill.in/about/about-stonehill",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "updatedAt": "2026-10-28",
+  "aaramvPerspective": "We see IVC Road as a search for the home you intend to build. Start with your construction plans, budget and daily routes. Then compare the plot’s dimensions, road access, services and applicable phase documents. A larger plot is useful only when its location and development conditions work for the life you plan around it.",
+  "zoneType": "Geographic search zone, not a municipal jurisdiction declaration",
+  "linkedPropertyIds": [
+    "earthsong-by-manyata"
+  ],
+  "usp": [
+    "Plotted-community search corridor",
+    "Stonehill at Tarahunise is a regional education anchor",
+    "Connections to the wider airport-road network"
+  ],
+  "sourceIds": [
+    "SRC-136",
+    "SRC-137"
+  ],
+  "research": {
+    "checkedAt": "2026-10-28",
+    "perspectiveType": "Aaramv editorial guidance based on the documented area context",
+    "boundaryCertified": false,
+    "imageScope": "Named landmark or corridor photograph; not a claim about the view from a property",
+    "currentTransitOperatingStatusClaimed": false
+  }
+}
