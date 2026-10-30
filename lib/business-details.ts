@@ -1,9 +1,11 @@
 // Add only business-confirmed information. The report's sample fields are not facts.
 export const businessDetails = {
   tradingName: 'Aaramv Realty',
-  legalName: null as string | null,
-  phone: null as string | null,
-  email: null as string | null,
+  legalName: "Aaramv Realty" as string | null,
+  phone: "9071100611" as string | null,
+  whatsapp: null as string | null,
+  responseTime: "Within 30 minutes" as string | null,
+  email: "aaramvrealty@gmail.com" as string | null,
   address: null as string | null,
   hours: null as string | null,
   officeMapUrl: null as string | null,

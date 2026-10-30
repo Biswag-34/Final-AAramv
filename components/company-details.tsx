@@ -11,7 +11,7 @@ export function CompanyDetails() {
     {business.address && <div><dt>Office address</dt><dd>{business.address}</dd></div>}
     {business.agentRegistration && <div><dt><FileText size={18}/>Agent registration</dt><dd>{business.agentRegistration}</dd></div>}
     <div><dt><Handshake size={18}/>Fees & commission</dt><dd>{business.feePolicy || 'Request a written, transaction-specific fee and commission disclosure before committing.'}</dd></div>
-  </dl><p className="company-details-note">Company identity, named advisors, direct contacts and current agent credentials should be confirmed before proceeding. Project registration and agent registration are separate records.</p></section>;
+  </dl></section>;
 }
 
 export function FooterBusinessDetails() {

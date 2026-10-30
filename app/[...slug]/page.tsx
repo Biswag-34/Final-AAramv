@@ -5,7 +5,7 @@ import {properties,localities} from '../data';
 export const dynamic='force-dynamic';
 type Props={params:Promise<{slug:string[]}>};
 function knownRoute(slug:string[]){
-  if(slug.length===1)return ['properties','localities','about','contact','privacy','terms','coming-soon'].includes(slug[0]);
+  if(slug.length===1)return ['properties','localities','about','contact','privacy','terms','coming-soon','compare','shortlist','tools','guides'].includes(slug[0]);
   if(slug.length!==2)return false;
   return slug[0]==='properties'?properties.some(p=>p.id===slug[1]):slug[0]==='localities'&&localities.some(l=>l.id===slug[1]);
 }
@@ -15,6 +15,10 @@ export async function generateMetadata({params}:Props):Promise<Metadata>{
  if(!knownRoute(slug))return {title:'Page not found | Aaramv Realty',description:'Explore our current homes or return to the homepage.',robots:{index:false,follow:false},alternates:{canonical:null}};
  const route='/'+slug.join('/');
  const pages:Record<string,[string,string]>={
+ '/compare':['Compare Your Shortlisted Homes | Aaramv Realty','Compare up to four Bengaluru projects by home type, starting price, size, possession and location.'],
+ '/shortlist':['Your Saved Homes and Notes | Aaramv Realty','Keep favourite Bengaluru homes, private notes and comparison selections together.'],
+ '/tools':['Home Buying Calculators | Aaramv Realty','Plan your monthly EMI, purchase cost and rental yield using your own assumptions.'],
+ '/guides':['Buyer Guides for Your Next Home | Aaramv Realty','Prepare a useful shortlist, understand a cost sheet and make your site visit count.'],
  '/properties':['Compare Bengaluru Properties | Aaramv Realty',"Explore Aaramv's Bengaluru catalogue by locality, home type and budget. Review layouts and project details, then ask about current availability and complete costs."],
  '/localities':['Explore Bengaluru Neighbourhoods | Aaramv Realty',"Compare the places in Aaramv's catalogue by listed projects and home types, with location context and everyday routes to check."],
  '/about':['Buyer First Property Guidance | About Aaramv Realty','Learn how Aaramv understands your needs, researches suitable homes and helps coordinate your search through move-in in Bengaluru.'],

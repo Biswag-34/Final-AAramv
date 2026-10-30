@@ -10,7 +10,7 @@ function LayoutArea({c}: {c: Property['primary']}) {
 
 export function PropertyLayouts({p, onImage}: {p: Property; onImage: (id: string) => void}) {
   const groups = [...new Set(p.configurations.toSorted((a, b) => (a.bedrooms ?? Infinity) - (b.bedrooms ?? Infinity)).map(c => configurationLabel(c, p.type)))];
-  const [active, setActive] = useState(String(groups[0]));
+  const [active, setActive] = useState(configurationLabel(p.primary, p.type));
   const [expanded, setExpanded] = useState(false);
   return <Tabs className="property-layout-tabs" value={active} onValueChange={value => {setActive(value); setExpanded(false);}}>
     <TabsList className="configuration-tabs" aria-label="Home configurations">{groups.map(n => <TabsTrigger key={n} value={n}>{n}</TabsTrigger>)}</TabsList>

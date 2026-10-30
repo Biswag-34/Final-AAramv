@@ -14,7 +14,9 @@
     "test:catalog": "node --experimental-strip-types scripts/catalog.test.mjs",
     "test:enquiry": "node --experimental-strip-types scripts/enquiry.test.mjs",
     "verify:source": "node scripts/verify-source.mjs",
-    "test:content": "node --experimental-strip-types scripts/research-pack.test.mjs"
+    "test:content": "node --experimental-strip-types scripts/research-pack.test.mjs",
+    "test:buyer": "node --experimental-strip-types scripts/buyer-tools.test.mjs",
+    "test:enquiry:http": "node scripts/enquiry-http.test.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",

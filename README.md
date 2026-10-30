@@ -57,7 +57,7 @@ Run these commands from the project directory. `npm start` uses the completed pr
 | Designed 404 screen | `/404` |
 | Coming soon | `/coming-soon` |
 
-All nine sample properties and six locality detail pages are included. Direct links and browser refreshes work through the catch-all Next.js route. Unknown URLs display the same designed recovery screen as the current website. Because the original prototype resolves these inside its client page, unknown catch-all routes retain its HTTP 200 behavior (the reserved `/404` URL uses the custom Next.js not-found wrapper); a production SEO pass can add server-side `notFound()` later.
+All 27 project detail pages and 17 locality detail pages are included. Direct links and browser refreshes work through the catch-all Next.js route. Unknown URLs display the same designed recovery screen as the current website. Because the original prototype resolves these inside its client page, unknown catch-all routes retain its HTTP 200 behavior (the reserved `/404` URL uses the custom Next.js not-found wrapper); a production SEO pass can add server-side `notFound()` later.
 
 ## Where to make changes
 
@@ -91,9 +91,11 @@ Use the [property and locality templates](docs/DATA-STRUCTURE.md). Add objects t
 
 Change copy and the brand mark in `app/site.tsx`, the metadata in `app/layout.tsx`, and design tokens at the beginning of `app/globals.css`. Read the complete stylesheet before editing: later rules refine base styles and responsive behavior.
 
-### Connect real enquiries later
+### Enquiry recording
 
-Find `LeadForm` in `app/site.tsx`. It currently validates input and displays a clearly labelled demo confirmation. To launch real lead collection, replace that demo submission path with a server endpoint, send the form to your CRM/email service, and add success/error handling. Keep credentials on the server. The coming-soon form is also a demo. Current shortlist hearts use the browser's local storage.
+The enquiry forms now validate and submit to `POST /api/enquiries`. Requests are recorded as individual JSON files in the ignored `.local/enquiries/` directory with a reference number. This is local persistence, without CRM/email/WhatsApp notification. Configure durable production storage and an operational delivery workflow before using this for public lead collection.
+
+Saved homes, comparison selections, recent views and private notes use browser storage. `/shortlist`, `/compare`, `/tools` and `/guides` contain the report upgrades. Full implementation and missing-data handoff: [Report upgrade](docs/report-upgrade/IMPLEMENTATION-REPORT.md).
 
 ## What matches the current website
 
@@ -103,9 +105,13 @@ The build setup is adapted: standard Next.js commands replace hosting-specific c
 
 `node_modules` and `.next` are intentionally excluded from the ZIP because they are machine-specific generated folders. `npm ci` and `npm run build` recreate them. No application source or design resource is excluded.
 
-## Current content and behavior
+## Report upgrade — 30 October 2026
 
-This faithfully preserves the visualization: listings and company figures are samples, contact/social details await verified brand information, and forms do not send or store enquiries. The legal pages are marked design drafts. Search-engine indexing remains disabled in `app/layout.tsx`, as in the current preview. These are existing prototype behaviors, not missing export files.
+The current catalogue contains 27 projects and 17 localities. The eight-page upgrade report has been implemented with the existing visual identity. Source research records are retained, while public preview/review identifiers have been removed. Missing business facts and data-dependent content are documented in [Missing data](docs/report-upgrade/MISSING-DATA.md), with a complete [next-iteration input](docs/report-upgrade/NEXT-ITERATION-INPUT.json).
+
+Search indexing remains disabled pending the business data and production integration pass. Local enquiry records must not be committed or copied into public assets.
+
+Additional checks: `npm run test:buyer` and, while the local server is running, `npm run test:enquiry:http`.
 
 ## Troubleshooting
 

@@ -10,6 +10,15 @@ export const areaBasisLabel = (basis: string) => basis === 'unspecified' ? 'Area
 export const configurationTransaction = (configuration: PropertyRecord['configurations'][number]) => /\bresale\b/i.test(configuration.label) ? 'Resale' : 'Transaction type to confirm';
 export const recordDate = (value: string | null) => value ? new Date(`${value}T00:00:00`).toLocaleDateString('en-IN', {day:'numeric', month:'short', year:'numeric'}) : 'Date not recorded';
 export const possessionDate = (p: Pick<PropertyRecord, 'possession'>) => p.possession.date ? recordDate(p.possession.date) : 'Date not confirmed';
+export function possessionDisplay(p: Pick<PropertyRecord, 'possession' | 'status'>) {
+  if (p.status === 'Ready to move') return 'Ready to move';
+  const year = p.possession.year ?? (p.possession.date ? Number(p.possession.date.slice(0,4)) : null);
+  if (year && year >= new Date().getFullYear()) {
+    if (p.possession.date) return recordDate(p.possession.date);
+    return `${p.possession.month ? new Date(2000,p.possession.month-1).toLocaleString('en-IN',{month:'short'})+' ' : ''}${year}${/phase|block/i.test(p.possession.label) ? ' · by phase' : ''}`;
+  }
+  return 'By project phase';
+}
 export const propertyHref = (p: Property) => `/properties/${p.id}?layout=${encodeURIComponent(p.primary.id)}`;
 export function selectPropertyLayout(p: Property, id: string | null) {
   const resolved = id ? p.configurationIdAliases?.[id] || id : null;
@@ -41,7 +50,7 @@ export function propertyFaqs(p: Property) {
     if (/^Where exactly/.test(faq.question)) answer = [p.address,p.postalCode].filter(Boolean).join(', ')+'.';
     else if (/^What configurations/.test(faq.question)) answer = `${p.configurationSummary?.join(', ')||configurationSummary(p)}. ${p.facts.filter(f=>/layout range/i.test(f.label)).map(f=>`${f.value} ${f.unit}`).join('. ')}`;
     else if (/^What is the published starting price/.test(faq.question)) answer = p.pricing?.displayText||propertyPriceSummary(p).label;
-    else if (/^What is the status and possession/.test(faq.question)) answer = p.possession.label;
+    else if (/^What is the status and possession/.test(faq.question)) answer = `${p.status} · ${possessionDisplay(p)}`;
     else if (/^What are the main amenities/.test(faq.question)) answer = p.amenities.map(a=>a.title).join(', ')+'.';
     else if (/^What makes this project/.test(faq.question)&&p.overview) answer = p.overview.highlights.join('. ')+'.';
     return {...faq,answer};
@@ -77,6 +86,12 @@ export function projectUnitCount(p: Pick<Property, 'facts' | 'totalUnits'> & Par
   const fact = p.facts.find(f => /^(?:total units|total homes|units|homes(?: by)?|apartments|row houses(?: by)?|plots(?: by)?)$/i.test(f.label.trim()));
   const value = String(fact?.value ?? '').replaceAll(',', '').trim();
   return /^\d+$/.test(value) && Number(value) > 0 ? Number(value) : null;
+}
+
+export function projectLandArea(p: Pick<Property, 'facts' | 'projectScale'>): string {
+  if (p.projectScale?.landAreaAcres) return `${p.projectScale.landAreaAcres.toLocaleString('en-IN')} acres`;
+  const fact=p.facts.find(f=>/^(?:marketed master development|developer land area|development land area|total land area|land area|township land area)$/i.test(f.label.trim()));
+  return fact ? `${typeof fact.value==='number'?fact.value.toLocaleString('en-IN'):fact.value}${fact.unit?` ${fact.unit}`:''}` : 'On request';
 }
 
 export function cardConfigurationSummary(p: Pick<Property, 'type' | 'configurations'>) {
