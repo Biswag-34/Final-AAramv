@@ -22,3 +22,15 @@ Brand assets remain in the existing brand component and public images. Interface
 `public/images/hero/bengaluru-{desktop,tablet,mobile}.webp` and `north-bengaluru-{desktop,tablet,mobile}.webp` were supplied in the user’s `AARAMV-HERO-IMAGE-PACK.zip`. The PNG masters remain in the local pack; the site uses WebP derivatives at the original pixel dimensions, encoded at quality 88. Browser picture sources select desktop at 1024px, tablet at 768px and portrait below 768px.
 
 The Bengaluru scene is an architectural illustration. The North Bengaluru images are AI-assisted editorial collages based on the supplied pack’s listed marketing references: Prestige Finsbury Park, Brigade El Dorado and Purva Atmosphere. They represent separate projects, rather than a literal shared location or construction record. The North Bengaluru slide is captioned “Illustrative project collage.” The existing buyer/advisor hero remains the first slide.
+
+
+## About and Localities page imagery
+
+The user supplied four PNGs for these pages. Production WebP derivatives retain the original pixel dimensions and are encoded at quality 90. Source PNGs remain outside the repository in Downloads.
+
+| Page | Desktop image (1024px and above) | Tablet/mobile image (below 1024px) |
+| --- | --- | --- |
+| About | `public/images/company/about-office-desktop.webp` — “Aaramv Reality Office Planning Session-1.png”, 1774 × 887 | `public/images/company/about-office-compact.webp` — “Aaramv Reality team reviewing floor plans-2.png”, 1448 × 1086 |
+| Localities | `public/images/localities-hero/lakeside-desktop.webp` — “Leafy Bengaluru lakeside neighborhood-4.png”, 1774 × 887 | `public/images/localities-hero/lakeside-compact.webp` — “Bengaluru Lakefront Morning-3.png”, 1619 × 971 |
+
+The images are user-supplied illustrative scenes. They do not establish an office address, staff identity, or a particular listed development’s location. Native aspect ratios keep faces, signage and neighbourhood features visible.

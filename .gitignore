@@ -17,16 +17,16 @@ out/
 /.chrome-profile*/
 /.edge-profile*/
 /.codex-*.png
+/.cache/
 
 # Local visual-review scripts and task notes
-/scripts/detail-polish.browser.mjs
-/scripts/enquiry-refresh.browser.mjs
-/scripts/section-revision.browser.mjs
+/scripts/*.browser.mjs
 /docs/SECTION-REVISION.md
 
 # Generated test reports and coverage
 /test-results/
 /playwright-report/
+/blob-report/
 /coverage/
 /.nyc_output/
 
@@ -35,3 +35,10 @@ out/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Python tooling caches and local editor/merge backups
+__pycache__/
+*.py[cod]
+*.bak
+*.orig
+*~

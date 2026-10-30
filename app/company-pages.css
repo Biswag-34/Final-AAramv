@@ -1,0 +1,40 @@
+/* The About and locality-page introductions share the site's editorial heading treatment. */
+body #main-content :is(.about-page,.contact-page) { padding-top:calc(var(--header-clearance,96px) + 36px)!important; }
+body #main-content .about-page :is(h1,h2,h3) { white-space:normal!important; max-width:100%!important; text-wrap:balance; }
+body #main-content .about-page .about-hero { display:grid; grid-template-columns:minmax(0,1.25fr) minmax(0,.85fr); align-items:end; gap:64px; width:100%; max-width:none; margin:0; padding:0 0 40px; text-align:left; }
+body #main-content .about-page .about-hero h1 { width:auto; max-width:760px!important; margin:0; font-size:clamp(38px,4.2vw,60px)!important; font-weight:650; line-height:1.14; letter-spacing:-.035em; }
+body #main-content .about-page .about-hero h1 em { display:block!important; margin-top:8px; color:#294fd0; }
+body #main-content .about-page .about-hero-intro { min-width:0; padding-bottom:5px; }
+body #main-content .about-page .about-hero p { width:auto; max-width:none; margin:0; font-size:16px; line-height:1.8; color:#536875; }
+body #main-content .about-page .about-hero .about-lead { margin-bottom:16px; font-size:19px; line-height:1.6; font-weight:500; color:#18313f; }
+.company-hero-picture { display:block; width:100%; aspect-ratio:2/1; overflow:hidden; background:#edf2ec; }
+body .company-hero-picture img { display:block; width:100%; height:100%; object-fit:contain!important; object-position:center; }
+body #main-content .about-page .about-image { height:auto; aspect-ratio:auto; border-radius:20px; overflow:hidden; margin:0; }
+@media(max-width:1199px) {
+ body #main-content .about-page .about-hero { gap:36px; grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr); }
+ body #main-content .about-page .about-hero h1 { font-size:48px!important; }
+}
+@media(max-width:1023px) {
+ body #main-content .about-page .about-hero { grid-template-columns:1fr; gap:28px; padding-bottom:32px; }
+ body #main-content .about-page .about-hero-intro { max-width:720px; padding:0; }
+ .company-hero-picture-about { aspect-ratio:4/3; }
+ .company-hero-picture-localities { aspect-ratio:1619/971; }
+}
+@media(max-width:599px) {
+ body #main-content :is(.about-page,.contact-page) { padding-top:calc(var(--header-clearance,72px) + 24px)!important; }
+ body #main-content .about-page .about-hero { gap:24px; padding:0 0 26px; }
+ body #main-content .about-page .about-hero h1 { font-size:36px!important; line-height:1.16; letter-spacing:-.025em; }
+ body #main-content .about-page .about-hero p { font-size:15px; line-height:1.75; }
+ body #main-content .about-page .about-hero .about-lead { font-size:18px; margin-bottom:12px; }
+ body #main-content .about-page .about-image { border-radius:14px; }
+}
+
+body #main-content .locality-discovery-page { padding-top:calc(var(--header-clearance,96px) + 24px)!important; }
+body #main-content .locality-discovery-page .discovery-city-image { height:auto; min-width:0; aspect-ratio:auto; align-self:center; }
+@media(min-width:768px) {
+ body #main-content .locality-discovery-page .company-hero-picture-localities { aspect-ratio:4/3; }
+ body #main-content .locality-discovery-page .company-hero-picture-localities img { object-fit:cover!important; object-position:45% center; }
+}
+@media(min-width:1200px) {
+ body #main-content .locality-discovery-page .discovery-hero { grid-template-columns:minmax(0,1fr) minmax(0,1.18fr); gap:36px; }
+}
