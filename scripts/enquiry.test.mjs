@@ -23,3 +23,11 @@ test('email is optional but must be valid when supplied', () => {
     assert.ok(validateEnquiry({...valid, email}).email);
   }
 });
+test('names allow real punctuation and Unicode while rejecting numbers and markup',()=>{
+  for(const name of ['Asha Rao',"D’Souza",'Anne-Marie', 'आशा']) assert.equal(validateEnquiry({...valid,name}).name,undefined);
+  for(const name of ['12345','<script>','A','x'.repeat(101)]) assert.ok(validateEnquiry({...valid,name}).name);
+});
+test('optional budget accepts only the listed choices',()=>{
+  for(const budget of ['', 'Under ₹1 Cr','₹1–2 Cr','₹2–3 Cr','Above ₹3 Cr','Still exploring']) assert.equal(validateEnquiry({...valid,budget}).budget,undefined);
+  assert.ok(validateEnquiry({...valid,budget:'invalid'}).budget);
+});

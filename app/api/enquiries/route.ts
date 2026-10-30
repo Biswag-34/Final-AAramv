@@ -21,7 +21,7 @@ export async function POST(request: Request) {
     if (!input || typeof input !== 'object' || Array.isArray(input)) return Response.json({error: 'Check your request details.'}, {status: 400, headers: responseHeaders});
     const text = (key: string, max: number) => typeof input[key] === 'string' ? input[key].trim().slice(0, max) : '';
     const name = text('name', 100), phone = text('phone', 30), email = text('email', 254);
-    const errors = validateEnquiry({name, phone, email, consent: input.consent === true});
+    const errors = validateEnquiry({name, phone, email, budget:text('budget',100), consent: input.consent === true});
     const requestId = text('requestId', 36);
     if (!/^[a-f0-9]{8}-[a-f0-9]{4}-4[a-f0-9]{3}-[89ab][a-f0-9]{3}-[a-f0-9]{12}$/i.test(requestId)) errors.requestId = 'Please refresh the form and try again.';
     if (text('website', 100)) return Response.json({error: 'Unable to record this request.'}, {status: 400, headers: responseHeaders});

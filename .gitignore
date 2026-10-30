@@ -1,14 +1,37 @@
+# Dependencies and generated build output
 node_modules/
 .next/
+.next-*/
 out/
+.vercel/
+*.tsbuildinfo
+
+# Local environment configuration
 .env*
 !.env.example
-*.tsbuildinfo
-.DS_Store
-*.log
-.codex/
-.local/
 
-# Local content-refresh browser captures
-tmp/content-refresh/
-tmp/updated-json-pack/
+# Local working files, enquiries, backups and browser captures
+/.codex/
+/.local/
+/tmp/
+/.chrome-profile*/
+/.edge-profile*/
+/.codex-*.png
+
+# Local visual-review scripts and task notes
+/scripts/detail-polish.browser.mjs
+/scripts/enquiry-refresh.browser.mjs
+/scripts/section-revision.browser.mjs
+/docs/SECTION-REVISION.md
+
+# Generated test reports and coverage
+/test-results/
+/playwright-report/
+/coverage/
+/.nyc_output/
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
