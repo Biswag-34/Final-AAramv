@@ -15,3 +15,10 @@ All images are included in `public/images/`. The website loads these local files
 The source manifest identifies the [Unsplash License](https://unsplash.com/license) for these images and records their illustrative or location-specific usage. Property photographs are illustrative; they do not establish that a depicted building is an actual Aaramv listing.
 
 Brand assets remain in the existing brand component and public images. Interface icons: `lucide-react`. Interface type uses the self-hosted [Inter variable font](https://rsms.me/inter/) at `public/fonts/InterVariable.woff2`, with its SIL Open Font License in `public/fonts/Inter-LICENSE.txt`. Arial/Helvetica provide fallbacks; Georgia supplies the marketing emphasis. Third-party package notices are supplied with their installed npm packages.
+
+
+## Responsive hero backgrounds
+
+`public/images/hero/bengaluru-{desktop,tablet,mobile}.webp` and `north-bengaluru-{desktop,tablet,mobile}.webp` were supplied in the user’s `AARAMV-HERO-IMAGE-PACK.zip`. The PNG masters remain in the local pack; the site uses WebP derivatives at the original pixel dimensions, encoded at quality 88. Browser picture sources select desktop at 1024px, tablet at 768px and portrait below 768px.
+
+The Bengaluru scene is an architectural illustration. The North Bengaluru images are AI-assisted editorial collages based on the supplied pack’s listed marketing references: Prestige Finsbury Park, Brigade El Dorado and Purva Atmosphere. They represent separate projects, rather than a literal shared location or construction record. The North Bengaluru slide is captioned “Illustrative project collage.” The existing buyer/advisor hero remains the first slide.

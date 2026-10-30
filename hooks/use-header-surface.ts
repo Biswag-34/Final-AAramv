@@ -11,7 +11,7 @@ export function useHeaderSurface(path:string) {
       const header=[...document.querySelectorAll<HTMLElement>('.ribbon,.r-header')].find(el=>el.getBoundingClientRect().height>0);
       const clearance=header?Math.ceil(header.getBoundingClientRect().bottom)+8:84;
       document.documentElement.style.setProperty('--header-clearance',`${clearance}px`);
-      if(header)document.documentElement.style.setProperty('--header-height',`${Math.ceil(header.getBoundingClientRect().height)}px`);
+      if(header){document.documentElement.style.setProperty('--header-height',`${Math.ceil(header.getBoundingClientRect().height)}px`);header.dataset.scrolled=window.scrollY>8?'true':'false';}
       const sectionNav=document.querySelector<HTMLElement>('.property-section-nav');
       document.documentElement.style.setProperty('--section-offset',`${clearance+(sectionNav?.getBoundingClientRect().height||64)+16}px`);
       const hero=[...document.querySelectorAll<HTMLElement>('.home-page .hero,.r-home .r-hero')].find(el=>el.getBoundingClientRect().width>0);

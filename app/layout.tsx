@@ -13,6 +13,8 @@ import './buyer-upgrades.css';
 import './iteration-two.css';
 import './section-revision.css';
 import './enquiry-refresh.css';
+import './hero-carousel.css';
+import './scroll-comparison.css';
 import localFont from 'next/font/local';
 const inter=localFont({src:'../public/fonts/InterVariable.woff2',weight:'100 900',style:'normal',display:'swap',variable:'--font-inter',preload:true});
 export const metadata:Metadata={metadataBase:new URL('https://www.aaramvreality.com'),title:'Bengaluru Homes and Buyer First Guidance | Aaramv Realty',description:'Compare Bengaluru homes around your budget, everyday routes and priorities. Get a researched shortlist and Aaramv support from first search through move-in.',alternates:{canonical:'/'},robots:{index:false,follow:false},icons:{icon:{url:'/images/aaramv-realty-logo.png',type:'image/png'},apple:'/images/aaramv-realty-logo.png'}};

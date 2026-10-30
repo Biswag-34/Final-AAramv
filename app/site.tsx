@@ -32,7 +32,7 @@ import {PropertyPrice,PropertyMap} from '@/components/property-summary';
 import {CataloguePropertyCard} from '@/components/property-card';
 import {EnquiryForm,type EnquiryFormProps} from '@/components/enquiry-form';
 import {DeveloperCarousel} from '@/components/developer-carousel';
-import {HeroSearch} from '@/components/hero-search';
+import {HomeHero} from '@/components/home-hero';
 import {LocalityDiscovery} from '@/components/locality-discovery';
 import {FooterBusinessDetails} from '@/components/company-details';
 import {businessDetails} from '@/lib/business-details';
@@ -73,12 +73,7 @@ function DesktopPropertyCard({p,home=false}:{p:Property;home?:boolean}) {
   return <CataloguePropertyCard p={p} home={home} saved={saved.includes(p.id)} onSave={()=>toggle(p.id)} onEnquire={enquire}/>;
 }
 
-function Hero() {
-  const {enquire}=useSite();
-  const slide=0;
-  const slides=[{image:'/images/aaramv-buyer-first-hero.png',line:<>Your next home should<span className="heading-break"> </span><em>fit your life.</em></>,tag:'Buyer-first guidance through move-in.'},{image:'living-room',line:<>Find a home that<span className="heading-break"> </span>feels like <em>you.</em></>,tag:'Thoughtful spaces. Everyday possibilities.'},{image:'apartment-green',line:<>Your city.<span className="heading-break"> </span>Your next <em>chapter.</em></>,tag:'Discover your place in Bengaluru.'}];
-  return <><section className="hero" aria-label="Featured home inspiration"><div>{slides.map((item,i)=><div className={`hero-image ${slide===i?'active':''}`} key={item.image} aria-hidden={slide!==i}><img src={img(item.image)} alt="Illustrative scene of a homebuyer and advisor comparing apartment layouts at a table." fetchPriority={i===0?'high':'auto'}/></div>)}</div><div className="wrap hero-content"><div className="eyebrow">Bengaluru real estate channel partner</div><EditorialHeading as="h1" key={slide} className="reveal">{slides[slide].line}</EditorialHeading><p>Share your budget, everyday routes and must-haves. We research suitable options, explain the trade-offs and support you through move-in.</p><HeroSearch/><div className="hero-actions"><Link href="/properties" className="btn lime">Browse homes<ArrowUpRight size={16}/></Link><button className="btn advisor-call" onClick={()=>enquire('Build my shortlist')}><Phone size={17}/>Build my shortlist</button></div><div className="popular"><span>POPULAR SEARCHES</span>{['Bagalur','Thanisandra','Devanahalli'].map(name=><Link key={name} href={`/properties?q=${encodeURIComponent(name)}`}>{name}</Link>)}<Link href="/properties?status=Ready%20to%20move">Ready to move</Link></div></div><div className="wrap hero-bottom"><div className="slide-info">{slides[slide].tag}<br/></div></div></section><div className="wrap quick-ribbon"><span><MapPin size={17}/> Bengaluru property discovery</span><span><Compass size={17}/> Compare your shortlist</span><span><Handshake size={17}/> Site-visit coordination</span><span><House size={17}/> Apartments · Villas · Plots</span></div></>;
-}
+function Hero(){const {enquire}=useSite();return <HomeHero onEnquire={enquire}/>;}
 
 function Intro(){const {enquire}=useSite();return <BuyerComparison onEnquire={()=>enquire('Tell us what you need')}/>}
 function HomeProperties(){

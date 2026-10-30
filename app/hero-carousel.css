@@ -1,0 +1,44 @@
+/* Shared three-slide hero; preserve the existing heading and control styles. */
+body .home-hero-carousel { background:#152b3b; isolation:isolate; }
+body .home-hero-carousel::after { content:none; }
+.hero-carousel-visual { position:absolute; inset:0; z-index:-1; pointer-events:none; overflow:hidden; border-radius:inherit; }
+.hero-carousel-frame { position:absolute; inset:0; opacity:0; transition:opacity 1800ms cubic-bezier(.45,0,.55,1); will-change:opacity; background:#152b3b; }
+.hero-carousel-frame.is-active { opacity:1; }
+.hero-carousel-frame picture { display:block; width:100%; height:100%; }
+body .home-hero-carousel .hero-carousel-frame img { display:block; width:100%; height:100%; object-fit:contain!important; object-position:50% 50%; }
+body .home-hero-carousel .hero-carousel-frame[data-concept=buyer-first] img { object-fit:cover!important; }
+.hero-carousel-frame::after { content:''; position:absolute; inset:0; background:linear-gradient(90deg,#152b3ba8 0%,#152b3b8f 36%,#152b3b47 58%,#152b3b0a 80%); }
+.hero-carousel-frame[data-concept=buyer-first]::after { background:linear-gradient(90deg,#0c2033e0,#0c203382 58%,#0c203326),linear-gradient(0deg,#0c203348,transparent 50%); }
+body .home-hero-carousel .hero-carousel-title { display:grid; }
+.hero-heading-slide, .hero-description-slide { grid-area:1/1; opacity:0; pointer-events:none; transform:translate3d(0,12px,0); transition:opacity 1600ms cubic-bezier(.45,0,.55,1),transform 1800ms cubic-bezier(.45,0,.55,1); will-change:opacity,transform; }
+.hero-heading-slide.is-active, .hero-description-slide.is-active { opacity:1; transform:translateY(0); }
+body .home-hero-carousel .hero-heading-slide > span, body .home-hero-carousel .hero-heading-slide > em { display:block!important; }
+body .home-hero-carousel .hero-carousel-title em { color:#deef93; }
+.hero-carousel-description { display:grid; }
+.hero-carousel-caption { position:absolute; bottom:32px; left:32px; z-index:3; font-size:10px; line-height:1.5; color:#e0e8ec; }
+.hero-carousel-message, .hero-carousel-search { display:contents; }
+@media(max-width:1199px) {
+ .hero-carousel-caption { left:24px; bottom:34px; }
+ body .r-home .home-hero-carousel .r-hero-copy { padding-bottom:26px; }
+}
+@media(max-width:1023px) {
+ body .r-home .home-hero-carousel { --hero-masthead-height:75vw; overflow:hidden; }
+ body .r-home .home-hero-carousel .hero-carousel-visual { height:var(--hero-masthead-height); bottom:auto; border-radius:0; }
+ body .r-home .home-hero-carousel .r-hero-copy { width:100%; max-width:none; padding:0; }
+ body .r-home .home-hero-carousel .hero-carousel-message { display:flex; flex-direction:column; justify-content:flex-start; min-height:var(--hero-masthead-height); width:calc(100% - var(--r-gutter)*2); margin-inline:auto; padding-top:126px; padding-bottom:24px; }
+ body .r-home .home-hero-carousel .hero-carousel-title { margin:0; }
+ body .r-home .home-hero-carousel .hero-carousel-description { max-width:55%; }
+ body .r-home .home-hero-carousel .hero-carousel-search { display:flow-root; position:relative; padding:24px var(--r-gutter) 20px; background:#152b3b; }
+ body .r-home .home-hero-carousel .visual-hero-search.search-bar { margin-top:0; }
+ body .r-home .home-hero-carousel .hero-carousel-caption { left:var(--r-gutter); bottom:calc(100% - var(--hero-masthead-height) + 16px); }
+}
+@media(max-width:767px) {
+ body .r-home .home-hero-carousel { --hero-masthead-height:max(640px,133.333vw); }
+ body .r-home .home-hero-carousel .hero-carousel-message { padding-top:88px; }
+ .hero-carousel-frame::after { background:linear-gradient(180deg,#152b3b6b 0%,#152b3b52 32%,#152b3b00 52%); }
+ .hero-carousel-frame[data-concept=buyer-first]::after { background:linear-gradient(180deg,#0c2033bf,#0c20335c 70%,#152b3b); }
+ body .home-hero-carousel .hero-carousel-frame img { object-position:center bottom; }
+ body .r-home .home-hero-carousel .hero-carousel-description { max-width:100%; font-size:15px; line-height:1.6; }
+}
+
+@media(prefers-reduced-motion:reduce) { .hero-carousel-frame, .hero-heading-slide, .hero-description-slide { transition:none; transform:none; } }

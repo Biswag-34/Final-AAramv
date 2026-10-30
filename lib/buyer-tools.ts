@@ -7,6 +7,20 @@ export function validSelection(raw: string | null, validIds: readonly string[], 
   } catch { return []; }
 }
 
+/** Average unique, exactly priced layouts within each stated area basis. */
+export function comparisonUnitRates(p:Pick<Property,'configurations'>) {
+  const groups=new Map<string,number[]>(),seen=new Set<string>();
+  for(const c of p.configurations){
+    if(c.availability==='sold-out'||!c.startingPriceInr||!c.areaSqFt||c.areaBasis==='unspecified'||(c.areaMaxSqFt!=null&&c.areaMaxSqFt!==c.areaSqFt))continue;
+    if(!Number.isFinite(c.startingPriceInr)||!Number.isFinite(c.areaSqFt)||c.startingPriceInr<=0||c.areaSqFt<=0)continue;
+    const key=[c.areaBasis,c.areaSqFt,c.startingPriceInr,c.phaseName||''].join('|');
+    if(seen.has(key))continue;seen.add(key);
+    const rates=groups.get(c.areaBasis)||[];
+    rates.push(c.startingPriceInr/c.areaSqFt);groups.set(c.areaBasis,rates);
+  }
+  return [...groups].map(([basis,rates])=>({basis,amount:Math.round(rates.reduce((sum,value)=>sum+value,0)/rates.length),count:rates.length}));
+}
+
 export function areaRange(p: Pick<Property, 'configurations'>) {
   const options = p.configurations.filter(c => c.availability !== 'sold-out' && c.areaSqFt !== null);
   const bases = [...new Set(options.map(c => c.areaBasis))];

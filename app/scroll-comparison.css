@@ -1,0 +1,50 @@
+/* Frost the scrolling content while keeping header labels and controls sharp. */
+body :is(.ribbon,.r-header):is(.surface-solid,.is-scrolled) {
+  background:#ffffffd9!important;
+  -webkit-backdrop-filter:blur(12px) saturate(1.05)!important;
+  backdrop-filter:blur(12px) saturate(1.05)!important;
+  border-color:#dce5eabf!important;
+  box-shadow:0 6px 24px #17384b12!important;
+}
+body :is(.ribbon,.r-header).is-over-hero[data-scrolled=true] {
+  background:#152b3b66!important;
+  -webkit-backdrop-filter:blur(12px) saturate(1.05)!important;
+  backdrop-filter:blur(12px) saturate(1.05)!important;
+  border-color:#ffffff38!important;
+  box-shadow:0 6px 24px #10233112!important;
+}
+body .listing-page .catalogue-results-toolbar,
+body .r-results-body > .catalogue-results-toolbar,
+body .report-catalog-toolbar {
+  background:#e7eefcce!important;
+  -webkit-backdrop-filter:blur(12px) saturate(1.05);
+  backdrop-filter:blur(12px) saturate(1.05);
+  box-shadow:0 6px 20px #17384b0d;
+}
+/* More useful comparison fields, including exactly counted amenities. */
+.project-comparison-table .comparison-address { display:grid; gap:8px; }
+.project-comparison-table .comparison-address small,
+.project-comparison-table .comparison-unit-rate small { color:#526875; font-size:12px; line-height:1.6; }
+.project-comparison-table .comparison-unit-rates { display:grid; gap:14px; }
+.project-comparison-table .comparison-unit-rate { display:grid; gap:4px; }
+.project-comparison-table .comparison-unit-rate strong { font-size:17px; font-weight:600; color:#18313f; }
+.project-comparison-table .comparison-building-data { display:grid; gap:12px; }
+.comparison-building-data > div { display:grid; gap:3px; }
+.comparison-building-data dt { font-size:11px; font-weight:500; color:#5b727b; }
+.comparison-building-data dd { margin:0; font-size:14px; line-height:1.65; overflow-wrap:break-word; }
+.project-comparison-table .comparison-amenities { display:grid; gap:8px; margin:0; padding:0; list-style:none; }
+.comparison-amenities li { display:flex; align-items:flex-start; gap:7px; }
+.comparison-amenities svg { flex-shrink:0; margin-top:4px; color:#087e70; }
+.project-comparison-table .comparison-more-amenities { display:inline-block; margin-top:14px; color:#087e70; font-size:13px; font-weight:600; text-decoration:underline; text-underline-offset:3px; }
+.project-comparison-table .comparison-amenities-total { display:block; margin-top:6px; color:#5b727b; font-size:12px; }
+.project-comparison-table tbody th { color:#294652; font-weight:600; }
+.project-comparison-table td { overflow-wrap:break-word; }
+@media(min-width:900px) {
+ .project-comparison-table[data-project-count="2"] { table-layout:fixed; }
+ .project-comparison-table[data-project-count="2"] :is(th,td) { min-width:0; }
+ .project-comparison-table[data-project-count="2"] th:first-child { width:190px; }
+}
+@media(max-width:599px) {
+ .comparison-building-data dd { font-size:13px; }
+ .project-comparison-table .comparison-unit-rate strong { font-size:16px; }
+}
