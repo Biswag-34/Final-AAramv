@@ -24,7 +24,31 @@ export function FloatingWhatsapp() {
         }
         if(!observed.has(bar)){observed.add(bar);resize.observe(bar);}
       }
+      // Keep the first-fold hero actions usable on short phones. Use the
+      // image's free space when available; otherwise reveal the icon on scroll.
+      let hide=false;
+      if(window.matchMedia('(width < 1024px)').matches){
+        const hero=document.querySelector<HTMLElement>('.r-home .home-hero-carousel');
+        const panel=hero?.querySelector<HTMLElement>('.hero-carousel-search');
+        const description=hero?.querySelector<HTMLElement>('.hero-carousel-description');
+        if(panel&&description){
+          for(const element of [panel,description])if(!observed.has(element)){observed.add(element);resize.observe(element);}
+          const edge=innerWidth<768?18:24;
+          const baselineTop=innerHeight-edge-buttonBox.height;
+          const overlaps=[...panel.querySelectorAll<HTMLElement>('form,.r-hero-actions')].some(element=>{
+            const box=element.getBoundingClientRect();
+            return box.top<innerHeight-edge&&box.bottom>baselineTop&&box.right>buttonBox.left&&box.left<buttonBox.right;
+          });
+          if(overlaps){
+            const panelTop=panel.getBoundingClientRect().top;
+            if(panelTop-buttonBox.height-4>=description.getBoundingClientRect().bottom+6){
+              obstruction=Math.max(obstruction,innerHeight-panelTop+4);
+            }else hide=true;
+          }
+        }
+      }
       for(const bar of observed){if(!bar.isConnected){resize.unobserve(bar);observed.delete(bar);}}
+      button.style.visibility=hide?'hidden':'';
       button.style.setProperty('--whatsapp-obstruction',`${Math.ceil(obstruction)}px`);
     };
     const schedule=()=>{cancelAnimationFrame(frame);frame=requestAnimationFrame(measure);};
@@ -32,8 +56,9 @@ export function FloatingWhatsapp() {
     const mutations=new MutationObserver(schedule);
     mutations.observe(document.body,{childList:true,subtree:true});
     window.addEventListener('resize',schedule);
+    window.addEventListener('scroll',schedule,{passive:true});
     measure();
-    return()=>{cancelAnimationFrame(frame);resize.disconnect();mutations.disconnect();window.removeEventListener('resize',schedule);};
+    return()=>{cancelAnimationFrame(frame);resize.disconnect();mutations.disconnect();window.removeEventListener('resize',schedule);window.removeEventListener('scroll',schedule);};
   },[]);
 
   if(!number||(!businessDetails.phone&&!businessDetails.whatsapp))return null;
