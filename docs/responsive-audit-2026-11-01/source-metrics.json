@@ -1,0 +1,1433 @@
+{
+  "css": [
+    {
+      "file": "app/about-handoff.css",
+      "bytes": 16281,
+      "rules": 204,
+      "declarations": 564,
+      "important": 3,
+      "maxWidthMedia": 5,
+      "minWidthMedia": 2,
+      "fixedHeightDeclarations": 27
+    },
+    {
+      "file": "app/buyer-upgrades.css",
+      "bytes": 22652,
+      "rules": 323,
+      "declarations": 798,
+      "important": 17,
+      "maxWidthMedia": 7,
+      "minWidthMedia": 1,
+      "fixedHeightDeclarations": 26
+    },
+    {
+      "file": "app/catalog.css",
+      "bytes": 2806,
+      "rules": 36,
+      "declarations": 87,
+      "important": 0,
+      "maxWidthMedia": 1,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 0
+    },
+    {
+      "file": "app/company-pages.css",
+      "bytes": 3449,
+      "rules": 28,
+      "declarations": 82,
+      "important": 12,
+      "maxWidthMedia": 3,
+      "minWidthMedia": 2,
+      "fixedHeightDeclarations": 0
+    },
+    {
+      "file": "app/desktop.css",
+      "bytes": 20804,
+      "rules": 299,
+      "declarations": 558,
+      "important": 81,
+      "maxWidthMedia": 6,
+      "minWidthMedia": 8,
+      "fixedHeightDeclarations": 12
+    },
+    {
+      "file": "app/enquiry-refresh.css",
+      "bytes": 9899,
+      "rules": 95,
+      "declarations": 291,
+      "important": 36,
+      "maxWidthMedia": 1,
+      "minWidthMedia": 1,
+      "fixedHeightDeclarations": 7
+    },
+    {
+      "file": "app/experience.css",
+      "bytes": 43505,
+      "rules": 498,
+      "declarations": 1265,
+      "important": 15,
+      "maxWidthMedia": 13,
+      "minWidthMedia": 9,
+      "fixedHeightDeclarations": 41
+    },
+    {
+      "file": "app/globals.css",
+      "bytes": 67242,
+      "rules": 1011,
+      "declarations": 2609,
+      "important": 68,
+      "maxWidthMedia": 16,
+      "minWidthMedia": 4,
+      "fixedHeightDeclarations": 64
+    },
+    {
+      "file": "app/hero-carousel.css",
+      "bytes": 4152,
+      "rules": 36,
+      "declarations": 88,
+      "important": 3,
+      "maxWidthMedia": 3,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 0
+    },
+    {
+      "file": "app/iteration-two.css",
+      "bytes": 21309,
+      "rules": 216,
+      "declarations": 653,
+      "important": 22,
+      "maxWidthMedia": 4,
+      "minWidthMedia": 1,
+      "fixedHeightDeclarations": 17
+    },
+    {
+      "file": "app/mobile.css",
+      "bytes": 4233,
+      "rules": 69,
+      "declarations": 96,
+      "important": 8,
+      "maxWidthMedia": 2,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 2
+    },
+    {
+      "file": "app/refinements.css",
+      "bytes": 12155,
+      "rules": 141,
+      "declarations": 282,
+      "important": 7,
+      "maxWidthMedia": 6,
+      "minWidthMedia": 5,
+      "fixedHeightDeclarations": 6
+    },
+    {
+      "file": "app/research-details.css",
+      "bytes": 2386,
+      "rules": 28,
+      "declarations": 92,
+      "important": 0,
+      "maxWidthMedia": 1,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 0
+    },
+    {
+      "file": "app/responsive-shared.css",
+      "bytes": 27624,
+      "rules": 311,
+      "declarations": 952,
+      "important": 66,
+      "maxWidthMedia": 1,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 10
+    },
+    {
+      "file": "app/scroll-comparison.css",
+      "bytes": 2995,
+      "rules": 24,
+      "declarations": 67,
+      "important": 11,
+      "maxWidthMedia": 1,
+      "minWidthMedia": 1,
+      "fixedHeightDeclarations": 0
+    },
+    {
+      "file": "app/section-revision.css",
+      "bytes": 39054,
+      "rules": 358,
+      "declarations": 1125,
+      "important": 88,
+      "maxWidthMedia": 2,
+      "minWidthMedia": 0,
+      "fixedHeightDeclarations": 13
+    },
+    {
+      "file": "app/tablet.css",
+      "bytes": 4039,
+      "rules": 60,
+      "declarations": 82,
+      "important": 3,
+      "maxWidthMedia": 3,
+      "minWidthMedia": 2,
+      "fixedHeightDeclarations": 1
+    },
+    {
+      "file": "app/visual-refinements.css",
+      "bytes": 75412,
+      "rules": 875,
+      "declarations": 2473,
+      "important": 194,
+      "maxWidthMedia": 21,
+      "minWidthMedia": 10,
+      "fixedHeightDeclarations": 53
+    }
+  ],
+  "totals": {
+    "bytes": 379997,
+    "rules": 4612,
+    "declarations": 12164,
+    "important": 634,
+    "maxWidthMedia": 96,
+    "minWidthMedia": 46
+  },
+  "media": [
+    [
+      "(max-width:599px)",
+      15
+    ],
+    [
+      "(prefers-reduced-motion:reduce)",
+      12
+    ],
+    [
+      "(max-width:600px)",
+      10
+    ],
+    [
+      "(max-width:1199px)",
+      7
+    ],
+    [
+      "(min-width:600px) and (max-width:1199px)",
+      6
+    ],
+    [
+      "(min-width: 600px) and (max-width: 1199px)",
+      5
+    ],
+    [
+      "(max-width: 599px)",
+      5
+    ],
+    [
+      "(max-width:767px)",
+      5
+    ],
+    [
+      "(min-width: 1200px)",
+      4
+    ],
+    [
+      "(max-width: 359px)",
+      4
+    ],
+    [
+      "(prefers-reduced-motion: reduce)",
+      4
+    ],
+    [
+      "(max-width: 600px)",
+      3
+    ],
+    [
+      "(max-width: 1199px)",
+      3
+    ],
+    [
+      "(max-width:850px)",
+      3
+    ],
+    [
+      "(max-width:359px)",
+      3
+    ],
+    [
+      "(min-width:1441px)",
+      2
+    ],
+    [
+      "(max-width:1200px)",
+      2
+    ],
+    [
+      "(max-width:899px)",
+      2
+    ],
+    [
+      "(max-width:1023px)",
+      2
+    ],
+    [
+      "(max-width: 767px)",
+      2
+    ],
+    [
+      "(max-width:1100px)",
+      2
+    ],
+    [
+      "(min-width:600px)",
+      2
+    ],
+    [
+      "(min-width:900px) and (max-width:1199px)",
+      2
+    ],
+    [
+      "(max-width:900px)",
+      1
+    ],
+    [
+      "(max-width:640px)",
+      1
+    ],
+    [
+      "(max-width:360px)",
+      1
+    ],
+    [
+      "(min-width:1700px)",
+      1
+    ],
+    [
+      "(min-width:768px)",
+      1
+    ],
+    [
+      "(min-width:1200px)",
+      1
+    ],
+    [
+      "(min-width: 601px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (max-width: 1100px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (max-width: 850px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (max-height: 740px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (max-width: 700px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (max-height: 650px)",
+      1
+    ],
+    [
+      "(min-width: 601px) and (prefers-reduced-motion: reduce)",
+      1
+    ],
+    [
+      "(max-width: 380px)",
+      1
+    ],
+    [
+      "(max-height:600px)",
+      1
+    ],
+    [
+      "(max-height:420px) and (min-width:540px)",
+      1
+    ],
+    [
+      "(min-width: 600px) and (max-width: 899px)",
+      1
+    ],
+    [
+      "(min-width: 600px) and (max-width: 699px)",
+      1
+    ],
+    [
+      "(min-width: 900px) and (max-width: 1199px)",
+      1
+    ],
+    [
+      "(min-width: 600px)",
+      1
+    ],
+    [
+      "(min-width:1600px)",
+      1
+    ],
+    [
+      "(max-height:760px) and (min-width:851px)",
+      1
+    ],
+    [
+      "(max-height:690px) and (min-width:851px)",
+      1
+    ],
+    [
+      "(min-width:601px) and (max-width:1100px)",
+      1
+    ],
+    [
+      "(max-width:430px)",
+      1
+    ],
+    [
+      "(min-width: 1200px) and (max-height: 740px)",
+      1
+    ],
+    [
+      "(min-width: 600px) and (max-width: 767px)",
+      1
+    ],
+    [
+      "(min-width: 768px) and (max-width: 1199px)",
+      1
+    ],
+    [
+      "(min-width:900px)",
+      1
+    ],
+    [
+      "(min-width: 1000px)",
+      1
+    ],
+    [
+      "(max-width: 647px)",
+      1
+    ],
+    [
+      "(min-width:1200px) and (max-height:680px)",
+      1
+    ]
+  ],
+  "source": [
+    {
+      "file": "app/site.tsx",
+      "bytes": 37019,
+      "lines": 163,
+      "client": true,
+      "rawImages": 4,
+      "deviceViews": 5,
+      "cssImports": 0
+    },
+    {
+      "file": "app/responsive.tsx",
+      "bytes": 23177,
+      "lines": 176,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/sidebar.tsx",
+      "bytes": 21526,
+      "lines": 724,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/buyer-tools.tsx",
+      "bytes": 20504,
+      "lines": 144,
+      "client": true,
+      "rawImages": 5,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/decision-support.tsx",
+      "bytes": 20117,
+      "lines": 59,
+      "client": true,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/about-page.tsx",
+      "bytes": 13206,
+      "lines": 339,
+      "client": false,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/locality-detail-view.tsx",
+      "bytes": 11535,
+      "lines": 51,
+      "client": true,
+      "rawImages": 3,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/catalog-content.tsx",
+      "bytes": 11023,
+      "lines": 84,
+      "client": true,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/chart.tsx",
+      "bytes": 10614,
+      "lines": 378,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/report-listings.tsx",
+      "bytes": 9174,
+      "lines": 46,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/combobox.tsx",
+      "bytes": 9158,
+      "lines": 311,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/dropdown-menu.tsx",
+      "bytes": 8418,
+      "lines": 258,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/menubar.tsx",
+      "bytes": 8389,
+      "lines": 277,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/context-menu.tsx",
+      "bytes": 8268,
+      "lines": 253,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/calendar.tsx",
+      "bytes": 7832,
+      "lines": 221,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/locality-discovery.tsx",
+      "bytes": 7789,
+      "lines": 39,
+      "client": true,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/buyer-guides.tsx",
+      "bytes": 7108,
+      "lines": 29,
+      "client": true,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/home-calculators.tsx",
+      "bytes": 6947,
+      "lines": 41,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/experience-sections.tsx",
+      "bytes": 6789,
+      "lines": 36,
+      "client": true,
+      "rawImages": 2,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/navigation-menu.tsx",
+      "bytes": 6658,
+      "lines": 169,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/select.tsx",
+      "bytes": 6353,
+      "lines": 191,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/aaramv-difference.tsx",
+      "bytes": 6301,
+      "lines": 60,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/enquiry-form.tsx",
+      "bytes": 6265,
+      "lines": 75,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/field.tsx",
+      "bytes": 6159,
+      "lines": 249,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/attachment.tsx",
+      "bytes": 6002,
+      "lines": 205,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/home-hero.tsx",
+      "bytes": 5603,
+      "lines": 45,
+      "client": true,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/carousel.tsx",
+      "bytes": 5556,
+      "lines": 242,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/alert-dialog.tsx",
+      "bytes": 5439,
+      "lines": 197,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/input-group.tsx",
+      "bytes": 5065,
+      "lines": 171,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/command.tsx",
+      "bytes": 4818,
+      "lines": 185,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/bubble.tsx",
+      "bytes": 4699,
+      "lines": 126,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/api/enquiries/route.ts",
+      "bytes": 4573,
+      "lines": 43,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/item.tsx",
+      "bytes": 4486,
+      "lines": 194,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/dialog.tsx",
+      "bytes": 4303,
+      "lines": 159,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/drawer.tsx",
+      "bytes": 4255,
+      "lines": 136,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/sheet.tsx",
+      "bytes": 4188,
+      "lines": 144,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/property-layouts.tsx",
+      "bytes": 4089,
+      "lines": 30,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/[...slug]/page.tsx",
+      "bytes": 4029,
+      "lines": 45,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/project-sections.tsx",
+      "bytes": 4002,
+      "lines": 32,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/message-scroller.tsx",
+      "bytes": 3992,
+      "lines": 131,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/property-card.tsx",
+      "bytes": 3957,
+      "lines": 37,
+      "client": true,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/tabs.tsx",
+      "bytes": 3782,
+      "lines": 92,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/form.tsx",
+      "bytes": 3757,
+      "lines": 168,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/enquiry-thank-you.tsx",
+      "bytes": 3125,
+      "lines": 33,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/project-research-details.tsx",
+      "bytes": 2925,
+      "lines": 16,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/avatar.tsx",
+      "bytes": 2916,
+      "lines": 110,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/pagination.tsx",
+      "bytes": 2717,
+      "lines": 128,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/chatgpt-auth.ts",
+      "bytes": 2550,
+      "lines": 91,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/editorial-heading.tsx",
+      "bytes": 2493,
+      "lines": 45,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/table.tsx",
+      "bytes": 2478,
+      "lines": 117,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/empty.tsx",
+      "bytes": 2396,
+      "lines": 105,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/button.tsx",
+      "bytes": 2392,
+      "lines": 65,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/popover.tsx",
+      "bytes": 2357,
+      "lines": 90,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/breadcrumb.tsx",
+      "bytes": 2350,
+      "lines": 110,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/responsive-gallery.tsx",
+      "bytes": 2337,
+      "lines": 18,
+      "client": true,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/toggle-group.tsx",
+      "bytes": 2308,
+      "lines": 84,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/input-otp.tsx",
+      "bytes": 2254,
+      "lines": 78,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/message.tsx",
+      "bytes": 2232,
+      "lines": 93,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/button-group.tsx",
+      "bytes": 2202,
+      "lines": 84,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/hero-search.tsx",
+      "bytes": 2182,
+      "lines": 27,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/data.ts",
+      "bytes": 2087,
+      "lines": 21,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-single-line-headings.ts",
+      "bytes": 2086,
+      "lines": 41,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/accordion.tsx",
+      "bytes": 2048,
+      "lines": 67,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/property-section-nav.tsx",
+      "bytes": 2018,
+      "lines": 35,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/native-select.tsx",
+      "bytes": 1995,
+      "lines": 63,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/slider.tsx",
+      "bytes": 1991,
+      "lines": 64,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/card.tsx",
+      "bytes": 1987,
+      "lines": 93,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/project-research-desk.tsx",
+      "bytes": 1866,
+      "lines": 22,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/marker.tsx",
+      "bytes": 1864,
+      "lines": 70,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/company-details.tsx",
+      "bytes": 1844,
+      "lines": 29,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/tooltip.tsx",
+      "bytes": 1830,
+      "lines": 58,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/resizable.tsx",
+      "bytes": 1815,
+      "lines": 54,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/badge.tsx",
+      "bytes": 1776,
+      "lines": 49,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-header-surface.ts",
+      "bytes": 1774,
+      "lines": 30,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/scroll-area.tsx",
+      "bytes": 1639,
+      "lines": 59,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/api/brochures/[propertyId]/[documentIndex]/route.ts",
+      "bytes": 1615,
+      "lines": 21,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/alert.tsx",
+      "bytes": 1614,
+      "lines": 67,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/toggle.tsx",
+      "bytes": 1565,
+      "lines": 48,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-saved-homes.ts",
+      "bytes": 1561,
+      "lines": 35,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/hover-card.tsx",
+      "bytes": 1526,
+      "lines": 45,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/webmcp.tsx",
+      "bytes": 1468,
+      "lines": 7,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/radio-group.tsx",
+      "bytes": 1460,
+      "lines": 46,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/layout.tsx",
+      "bytes": 1427,
+      "lines": 24,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 18
+    },
+    {
+      "file": "components/ui/switch.tsx",
+      "bytes": 1408,
+      "lines": 36,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/developer-carousel.tsx",
+      "bytes": 1294,
+      "lines": 22,
+      "client": true,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/checkbox.tsx",
+      "bytes": 1214,
+      "lines": 33,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-responsive-layout.ts",
+      "bytes": 1111,
+      "lines": 24,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/sonner.tsx",
+      "bytes": 1034,
+      "lines": 41,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/input.tsx",
+      "bytes": 962,
+      "lines": 22,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/responsive-hero-image.tsx",
+      "bytes": 953,
+      "lines": 13,
+      "client": false,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/kbd.tsx",
+      "bytes": 862,
+      "lines": 29,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/collapsible.tsx",
+      "bytes": 795,
+      "lines": 34,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-sticky-sidebar.ts",
+      "bytes": 795,
+      "lines": 27,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/textarea.tsx",
+      "bytes": 759,
+      "lines": 19,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/progress.tsx",
+      "bytes": 755,
+      "lines": 33,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/separator.tsx",
+      "bytes": 694,
+      "lines": 29,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/enquiry-context.tsx",
+      "bytes": 650,
+      "lines": 13,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/label.tsx",
+      "bytes": 606,
+      "lines": 25,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/property-summary.tsx",
+      "bytes": 579,
+      "lines": 12,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "hooks/use-mobile.ts",
+      "bytes": 565,
+      "lines": 20,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/direction.tsx",
+      "bytes": 506,
+      "lines": 23,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/spinner.tsx",
+      "bytes": 331,
+      "lines": 17,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/brand.tsx",
+      "bytes": 302,
+      "lines": 8,
+      "client": false,
+      "rawImages": 1,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/skeleton.tsx",
+      "bytes": 276,
+      "lines": 14,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "components/ui/aspect-ratio.tsx",
+      "bytes": 274,
+      "lines": 12,
+      "client": true,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/not-found.tsx",
+      "bytes": 241,
+      "lines": 9,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    },
+    {
+      "file": "app/page.tsx",
+      "bytes": 115,
+      "lines": 4,
+      "client": false,
+      "rawImages": 0,
+      "deviceViews": 0,
+      "cssImports": 0
+    }
+  ],
+  "catalog": {
+    "properties": 27,
+    "localities": 17
+  },
+  "largeAssets": [
+    {
+      "file": "public/images/aaramv-support-through-move-in.png",
+      "bytes": 2249883
+    },
+    {
+      "file": "public/images/cubbon-park.jpg",
+      "bytes": 2145561
+    },
+    {
+      "file": "public/images/aaramv-buyer-first-hero.png",
+      "bytes": 2004345
+    },
+    {
+      "file": "public/about-assets/consultation-cutout.png",
+      "bytes": 1899786
+    },
+    {
+      "file": "public/images/indiranagar.jpg",
+      "bytes": 1039729
+    },
+    {
+      "file": "public/images/apartment-green.jpg",
+      "bytes": 655862
+    },
+    {
+      "file": "public/images/localities-hero/lakeside-compact.webp",
+      "bytes": 639390
+    },
+    {
+      "file": "public/images/localities-hero/lakeside-desktop.webp",
+      "bytes": 627880
+    },
+    {
+      "file": "public/about-assets/aaramv-logo.png",
+      "bytes": 549973
+    },
+    {
+      "file": "public/images/aaramv-realty-logo.png",
+      "bytes": 549973
+    },
+    {
+      "file": "public/images/projects/earthsong-by-manyata/developer-master-plan.webp",
+      "bytes": 549192
+    },
+    {
+      "file": "public/images/bengaluru-skyline.jpg",
+      "bytes": 511763
+    }
+  ]
+}

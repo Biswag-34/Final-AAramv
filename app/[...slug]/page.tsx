@@ -22,7 +22,7 @@ export async function generateMetadata({params}:Props):Promise<Metadata>{
  '/guides':['Buyer Guides for Your Next Home | Aaramv Realty','Prepare a useful shortlist, understand a cost sheet and make your site visit count.'],
  '/properties':['Compare Bengaluru Properties | Aaramv Realty',"Explore Aaramv's Bengaluru catalogue by locality, home type and budget. Review layouts and project details, then ask about current availability and complete costs."],
  '/localities':['Explore Bengaluru Neighbourhoods | Aaramv Realty',"Compare the places in Aaramv's catalogue by listed projects and home types, with location context and everyday routes to check."],
- '/about':['Buyer First Property Guidance | About Aaramv Realty','Learn how Aaramv understands your needs, researches suitable homes and helps coordinate your search through move-in in Bengaluru.'],
+ '/about':['About Aaramv — Your side of the table','Meet Aaramv Realty, a Bengaluru property consulting team. Requirement-led research, developer coordination, zero customer commission and support through possession.'],
  '/contact':['Share Your Home Buying Brief | Aaramv Realty','Share your preferred areas, budget and priorities with Aaramv Realty. Ask about a project or request a separately confirmed site visit.'],
  '/privacy':['Privacy Policy | Aaramv Realty','How this website handles enquiry details and saved homes.'],
  '/terms':['Terms and Conditions | Aaramv Realty','The role of this website and the information to confirm before a property transaction.'],
