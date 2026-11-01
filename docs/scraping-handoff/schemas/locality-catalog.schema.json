@@ -1,8 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Aaramv locality catalogue v2",
-  "type": "array",
-  "items": {
-    "$ref": "./locality.schema.json"
-  }
-}

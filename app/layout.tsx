@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import {FloatingWhatsapp} from '@/components/floating-whatsapp';
 import './globals.css';
 import './desktop.css';
 import './catalog.css';
@@ -17,7 +18,9 @@ import './hero-carousel.css';
 import './scroll-comparison.css';
 import './company-pages.css';
 import './about-handoff.css';
+import './compact-screen-fixes.css';
+import './property-enquiry-fit.css';
 import localFont from 'next/font/local';
 const inter=localFont({src:'../public/fonts/InterVariable.woff2',weight:'100 900',style:'normal',display:'swap',variable:'--font-inter',preload:true});
 export const metadata:Metadata={metadataBase:new URL('https://www.aaramvreality.com'),title:'Bengaluru Homes and Buyer First Guidance | Aaramv Realty',description:'Compare Bengaluru homes around your budget, everyday routes and priorities. Get a researched shortlist and Aaramv support from first search through move-in.',alternates:{canonical:'/'},robots:{index:false,follow:false},icons:{icon:{url:'/images/aaramv-realty-logo.png',type:'image/png'},apple:'/images/aaramv-realty-logo.png'}};
-export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" className={inter.variable}><body>{children}</body></html>}
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" data-scroll-behavior="smooth" className={inter.variable}><body>{children}<FloatingWhatsapp/></body></html>}

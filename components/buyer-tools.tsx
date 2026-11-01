@@ -74,7 +74,7 @@ export function ShortlistButton({className}: {className?: string}) {const tools=
 export function BackToResults() {
   const [href, setHref] = useState('/properties');
   useEffect(() => {try {const previous = sessionStorage.getItem('aaramv-last-results');if (previous && /^\/properties(?:\?|$)/.test(previous)) setHref(previous);} catch {}}, []);
-  return <Link href={href} className="text-link back-to-results">← Back to results</Link>;
+  return <Link href={href} scroll={false} data-return-results className="text-link back-to-results">← Back to results</Link>;
 }
 export function CompareControl({p}: {p: Property}) {const tools = useBuyerTools();return <label className="project-compare-control"><input type="checkbox" checked={tools.compare.includes(p.id)} onChange={() => tools.toggleCompare(p.id)} aria-label={`Compare ${p.name}`}/><Scale size={14}/>Compare</label>;}
 

@@ -103,7 +103,13 @@ The project began from the deployed source and has since received responsive and
 
 The build setup is adapted: standard Next.js commands replace hosting-specific commands; unused hosting/build dependencies are omitted; TypeScript uses ordinary Node types; exact direct dependencies and an npm lockfile are supplied. A small `app/not-found.tsx` wrapper makes Next.js use the original designed recovery screen for its reserved `/404` URL. The complete shared UI library is retained so you can build further on it. `app/chatgpt-auth.ts` is an unused original helper; the website does not call it or require authentication.
 
-`node_modules` and `.next` are intentionally excluded from the ZIP because they are machine-specific generated folders. `npm ci` and `npm run build` recreate them. No application source or design resource is excluded.
+`node_modules` and `.next` are generated locally. `npm ci` and `npm run build` recreate them. Application source and website assets remain in version control.
+
+### Keep commits and uploads small
+
+`.gitignore` excludes dependencies, builds, local enquiry records, browser profiles, caches, logs, packaged uploads, and generated visual-review evidence. Reference screenshots, audit measurements and the duplicate `docs/scraping-handoff/` export stay available locally but are excluded from future commits. Keep `package-lock.json`, application source, `data/`, `public/`, documentation templates and regression tests in Git so a clean checkout remains buildable and testable.
+
+Upload through Git rather than zipping the entire working directory: a normal folder ZIP does not honour `.gitignore`. Files already present in older commits remain in Git history; these exclusions reduce future commit snapshots and uploads without rewriting history.
 
 ## Report upgrade — 30 October 2026
 

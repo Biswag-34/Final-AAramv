@@ -5,6 +5,9 @@ node_modules/
 out/
 .vercel/
 *.tsbuildinfo
+/.turbo/
+/.npm/
+/.pnpm-store/
 
 # Local environment configuration
 .env*
@@ -18,10 +21,30 @@ out/
 /.edge-profile*/
 /.codex-*.png
 /.cache/
+/.idea/
+/*.code-workspace
 
 # Local visual-review scripts and task notes
 /scripts/*.browser.mjs
 /docs/SECTION-REVISION.md
+
+# Local design references, generated audit evidence and duplicate handoff exports.
+# Keep documentation text, source manifests and test fixtures in version control.
+/docs/content-refresh/*-reference.png
+/docs/content-refresh/verification-results.json
+/docs/report-upgrade/*.png
+/docs/responsive-audit-*/*.png
+/docs/responsive-audit-*/*.jpg
+/docs/responsive-audit-*/*.json
+/docs/scraping-handoff/
+/docs/*.zip
+
+# Locally packaged uploads (not application assets or the npm lockfile)
+/*.zip
+/*.7z
+/*.tar
+/*.tar.gz
+/*.tgz
 
 # Generated test reports and coverage
 /test-results/

@@ -22,12 +22,6 @@ export function ReportListings({saved, toggle, enquire, closing}: {saved: string
   const min = get('min'), max = get('budget');
   const results = applyDecisionFilters(filterProperties(filterUnitChoices(properties, decision), {query: get('q'), type: propertyType(get('type')) || undefined, localityId: get('locality') || undefined, status: get('status') || undefined, bedrooms: get('bhk') ? Number(get('bhk')) : undefined, minPriceInr: min && Number.isFinite(Number(min)) ? Number(min) * 10000000 : undefined, maxPriceInr: max && Number.isFinite(Number(max)) ? Number(max) * 10000000 : undefined, savedIds: onlySaved ? saved : undefined, sort: get('sort') || 'Recommended'}), decision);
   useEffect(() => {setQuery(params.get('q') || '');}, [params]);
-  useEffect(() => {
-    try {
-      const key = `aaramv-results:${window.location.search}`, raw = sessionStorage.getItem(key);
-      if (raw !== null) {const frame = requestAnimationFrame(() => window.scrollTo({top: Number(raw) || 0, behavior: 'instant'}));sessionStorage.removeItem(key);return () => cancelAnimationFrame(frame);}
-    } catch {}
-  }, []);
   function update(changes: Record<string, string>) {
     const next = new URLSearchParams(params.toString());
     Object.entries(changes).forEach(([key, value]) => value ? next.set(key, value) : next.delete(key));

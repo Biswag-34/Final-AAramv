@@ -3,7 +3,7 @@
 .r-server-responsive, .r-responsive-region { display: none; }
 .r-locality-visual-note { display: none; }
 /* Responsive foundations never apply to the existing desktop experience. */
-@media (max-width: 1199px) {
+@media (width < 1200px) {
   .r-server-desktop { display: none; }
   .r-server-responsive, .r-responsive-region { display: contents; }
   :root { --r-ink: #152b3b; --r-blue: #294fd0; --r-muted: #526674; --r-border: #dce3e7; --r-light-link: #deef93; --r-gutter: 20px; }

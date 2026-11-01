@@ -16,6 +16,7 @@
     "verify:source": "node scripts/verify-source.mjs",
     "test:content": "node --experimental-strip-types scripts/research-pack.test.mjs",
     "test:buyer": "node --experimental-strip-types scripts/buyer-tools.test.mjs",
+    "test:navigation": "node --experimental-strip-types scripts/navigation-layout.test.mjs",
     "test:enquiry:http": "node scripts/enquiry-http.test.mjs"
   },
   "dependencies": {

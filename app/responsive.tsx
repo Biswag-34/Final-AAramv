@@ -21,7 +21,7 @@ import {EnquiryForm,type EnquiryFormProps} from '@/components/enquiry-form';
 import {DeveloperCarousel} from '@/components/developer-carousel';
 import {CataloguePropertyCard} from '@/components/property-card';
 import {HomeHero} from '@/components/home-hero';
-import {FooterBusinessDetails} from '@/components/company-details';
+import {CompactFooter} from '@/components/compact-footer';
 import {projectUnitCount, projectLandArea} from '@/lib/catalog';
 import {useBuyerTools, ShortlistButton} from '@/components/buyer-tools';
 
@@ -37,9 +37,7 @@ export function ResponsiveHeader({saved, enquire}: ResponsiveActions) {
   const routes = [['/properties', 'Properties'], ['/localities', 'Neighbourhoods'], ['/properties?saved=true', `Saved homes (${saved.length})`], ['/compare', 'Compare homes'], ['/guides', 'Buyer guides'], ['/tools', 'Home calculators'], ['/about', 'Our story'], ['/contact', 'Contact']];
   return <><header className={`r-header${path === '/' ? ' is-home' : ''}${onHero?' is-over-hero':' is-scrolled surface-solid'}`}><ResponsiveBrand/><nav className="r-header-nav" aria-label="Main navigation">{[['/properties', 'Properties'], ['/localities', 'Localities'], ['/about', 'About']].map(([href, label]) => <Link key={href} href={href} aria-current={path === href ? 'page' : undefined}>{label}</Link>)}</nav><div className="r-header-actions"><ShortlistButton className="r-icon r-header-saved"/><button className="r-button r-primary r-enquire" onClick={() => enquire('Build my shortlist')}>Build my shortlist <ArrowUpRight size={15}/></button><button className="r-icon r-mobile-menu" aria-label="Open menu" onClick={() => setOpen(true)}><Menu size={23}/></button></div></header><Sheet open={open} onOpenChange={setOpen}><SheetContent className="r-menu"><SheetTitle><EditorialText>Your next chapter.</EditorialText></SheetTitle><SheetDescription>Find your place in Bengaluru.</SheetDescription><nav aria-label="Main navigation"><Link href="/" aria-current={path === '/' ? 'page' : undefined} onClick={() => setOpen(false)}>Home <ArrowUpRight size={18}/></Link>{routes.map(([href, label]) => <Link href={href} key={href} aria-current={path === href ? 'page' : undefined} onClick={() => setOpen(false)}>{label}<ArrowUpRight size={18}/></Link>)}</nav><div className="r-menu-note"><MapPin size={17}/><span>Bengaluru homes.<br/>Personal guidance, all the way.</span></div></SheetContent></Sheet></>;
 }
-export function ResponsiveFooter() {
-  return <footer className="r-footer"><div className="r-wrap"><ResponsiveBrand/><p>Buyer-first property guidance in Bengaluru.<br/>A researched shortlist and support through move-in.</p><FooterBusinessDetails/><div className="r-footer-nav"><div><EditorialHeading as="h2">Find your place</EditorialHeading><Link href="/properties">All properties</Link><Link href="/properties?status=Ready%20to%20move">Ready to move</Link><Link href="/localities">Neighbourhoods</Link></div><div><EditorialHeading as="h2">Meet Aaramv</EditorialHeading><Link href="/about">Our story</Link><Link href="/contact">Speak to an advisor</Link><Link href="/shortlist">Saved homes</Link><Link href="/compare">Compare homes</Link><Link href="/guides">Buyer guides</Link><Link href="/tools">Home calculators</Link></div></div><div className="r-footer-bottom"><span>© 2026 Aaramv Realty · Bengaluru</span><div><Link href="/privacy">Privacy policy</Link><Link href="/terms">Terms & conditions</Link></div></div></div></footer>;
-}
+export function ResponsiveFooter() { return <CompactFooter/>; }
 
 function SearchForm({initial = '', onSearch, hero = false}: {initial?: string; onSearch?: (query: string) => void; hero?: boolean}) {
   const router = useRouter();
@@ -128,17 +126,6 @@ export function ResponsiveListings(actions: ResponsiveActions) {
   const pending = filterProperties(properties, toFilters(draft, query, onlySaved ? actions.saved : undefined));
   const count = Object.values(applied).filter(v => v !== '').length;
   useEffect(() => setSort(params.get('sort') || 'Recommended'), [params]);
-  useEffect(() => {
-    if (!window.matchMedia('(max-width: 1199px)').matches) return;
-    const key = `aaramv-results:${window.location.search}`;
-    try {
-      const position = sessionStorage.getItem(key);
-      if (position === null) return;
-      const frame = requestAnimationFrame(() => window.scrollTo({top: Number(position) || 0, behavior: 'instant'}));
-      sessionStorage.removeItem(key);
-      return () => cancelAnimationFrame(frame);
-    } catch {}
-  }, []);
   function update(filters: Filters, search = query, options: {sort?: string; limit?: number} = {}) {
     const next = new URLSearchParams();
     if (search) next.set('q', search);

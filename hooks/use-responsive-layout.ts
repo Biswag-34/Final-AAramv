@@ -1,7 +1,7 @@
 'use client';
 import {createElement, Fragment, type ReactNode, useSyncExternalStore} from 'react';
 
-const query = '(max-width: 1199px)';
+const query = '(width < 1200px)';
 function subscribe(callback: () => void) {
   const media = window.matchMedia(query);
   media.addEventListener('change', callback);
