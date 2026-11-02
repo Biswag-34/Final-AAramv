@@ -13,7 +13,7 @@ npm run dev
 
 Open **http://127.0.0.1:3000**. Stop the server with **Ctrl+C**.
 
-The first installation needs internet access to download dependencies. Images and icons are included locally or supplied by installed packages. No API keys, environment variables, database, paid fonts or platform account are needed to run the website.
+The first installation needs internet access to download dependencies. Images and icons are included locally or supplied by installed packages. Pages run without an API key; enquiry submission requires the server-side `LEADRAT_API_KEY`. See [LeadRat setup](docs/LEADRAT-INTEGRATION.md).
 
 Both development and production use fixed port **3000** on `127.0.0.1`. If occupied, identify and stop the old instance of this project before restarting; do not change ports or stop an unrelated service.
 
@@ -37,6 +37,8 @@ Run these commands from the project directory. `npm start` uses the completed pr
 | `npm run typecheck` | Check TypeScript without changing the application |
 | `npm run validate:data` | Validate catalog records, relationships and local assets |
 | `npm run test:catalog` | Run schema/search/filter regression tests |
+| `npm run test:leadrat` | Check CRM payloads, delivery errors and retry handling with a mocked provider |
+| `npm run test:enquiry:http` | Start an isolated test server and check the form API without sending live leads |
 | `npm run verify:source` | Check that original source and resources match the supplied website snapshot |
 
 `verify:source` is a handoff check. Once you customize a tracked source file, it will report that change; this does not prevent building or running your edited website.
@@ -93,7 +95,7 @@ Change copy and the brand mark in `app/site.tsx`, the metadata in `app/layout.ts
 
 ### Enquiry recording
 
-The enquiry forms now validate and submit to `POST /api/enquiries`. Requests are recorded as individual JSON files in the ignored `.local/enquiries/` directory with a reference number. This is local persistence, without CRM/email/WhatsApp notification. Configure durable production storage and an operational delivery workflow before using this for public lead collection.
+All enquiry forms submit to `POST /api/enquiries`, which validates the request and pushes it to LeadRat from the server. The thank-you page is shown only after the CRM accepts the lead. Set `LEADRAT_API_KEY` in Vercel's environment settings and deploy; optional `LEADRAT_SUBSOURCE` defaults to `Aaramv Realty Website`. Never use a `NEXT_PUBLIC_` prefix for the key. Local development also saves private receipts under ignored `.local/enquiries/`; Vercel delivers directly without filesystem writes. Field mapping, deployment and failure handling are described in [LeadRat setup](docs/LEADRAT-INTEGRATION.md).
 
 Saved homes, comparison selections, recent views and private notes use browser storage. `/shortlist`, `/compare`, `/tools` and `/guides` contain the report upgrades. Full implementation and missing-data handoff: [Report upgrade](docs/report-upgrade/IMPLEMENTATION-REPORT.md).
 
@@ -117,7 +119,7 @@ The current catalogue contains 27 projects and 17 localities. The eight-page upg
 
 Search indexing remains disabled pending the business data and production integration pass. Local enquiry records must not be committed or copied into public assets.
 
-Additional checks: `npm run test:buyer` and, while the local server is running, `npm run test:enquiry:http`.
+Additional checks: `npm run test:buyer`, `npm run test:leadrat` and `npm run test:enquiry:http`. Stop any local server on port 3000 before the isolated HTTP test; it starts its own server with a mocked CRM and a test-only key.
 
 ## Troubleshooting
 

@@ -1,8 +1,11 @@
-import {mkdir, readFile, writeFile} from 'node:fs/promises';
-import path from 'node:path';
 import {validateEnquiry} from '@/lib/enquiry';
+import {deliverEnquiry, EnquiryConflict} from '@/lib/enquiry-delivery';
+import {LeadratError} from '@/lib/leadrat';
+import properties from '@/data/properties.json';
+import localities from '@/data/localities.json';
 
 export const runtime = 'nodejs';
+export const maxDuration = 30;
 const responseHeaders = {'Cache-Control': 'no-store'};
 export async function POST(request: Request) {
   const origin = request.headers.get('origin');
@@ -30,13 +33,23 @@ export async function POST(request: Request) {
     const today = ['year', 'month', 'day'].map(type => todayParts.find(part => part.type === type)?.value).join('-');
     if (preferredDate && (!/^\d{4}-\d{2}-\d{2}$/.test(preferredDate) || !Number.isFinite(Date.parse(preferredDate)) || new Date(preferredDate).toISOString().slice(0,10) !== preferredDate || preferredDate < today)) errors.preferredDate = 'Choose today or a future date.';
     if (Object.keys(errors).length) return Response.json({error: 'Please check your details.', errors}, {status: 400, headers: responseHeaders});
+    if (!process.env.LEADRAT_API_KEY?.trim()) return Response.json({error: 'Enquiries are temporarily unavailable. Please try again later.'}, {status: 503, headers: responseHeaders});
     const reference = `AR-${requestId.toUpperCase()}`;
-    const record = {reference, receivedAt: new Date().toISOString(), name, phone, email, consent: true, context: text('context', 500), interest: text('interest', 200), budget: text('budget', 100), message: text('message', 2000), preferredDate, intent: input.intent === 'visit' ? 'visit' : 'callback', status: 'recorded'};
-    const directory = path.join(process.cwd(), '.local', 'enquiries');
-    await mkdir(directory, {recursive: true});
-    const file = path.join(directory, `${requestId.toLowerCase()}.json`);
-    try {await writeFile(file, JSON.stringify(record, null, 2), {encoding: 'utf8', flag: 'wx', mode: 0o600});}
-    catch (error) {if ((error as NodeJS.ErrnoException).code !== 'EEXIST') throw error;const previous = JSON.parse(await readFile(file, 'utf8'));if (previous.phone !== phone || previous.name !== name) return Response.json({error: 'Start a new enquiry to submit different details.'}, {status: 409, headers: responseHeaders});}
-    return Response.json({reference, status: 'recorded'}, {status: 201, headers: responseHeaders});
+    const projectName = text('project', 200);
+    const project = properties.find(item => item.published && !item.isDemo && item.name === projectName);
+    const locality = project && localities.find(item => item.id === project.localityId);
+    const record = {reference, receivedAt: new Date().toISOString(), name, phone, email, consent: true, context: text('context', 500), interest: text('interest', 200), project: project?.name || '', budget: text('budget', 100), message: text('message', 2000), preferredDate, intent: input.intent === 'visit' ? 'visit' : 'callback'};
+    try {
+      await deliverEnquiry(record, project ? {name: project.name, type: project.type, location: locality?.name, city: locality?.city, state: locality?.state} : undefined);
+    } catch (error) {
+      if (error instanceof EnquiryConflict) return Response.json({error: 'Start a new enquiry to submit different details.'}, {status: 409, headers: responseHeaders});
+      if (error instanceof LeadratError) {
+        console.error('LeadRat enquiry delivery:', reference, error.outcome, error.httpStatus || 'network');
+        const uncertain = error.outcome === 'uncertain';
+        return Response.json({reference, retryable: !uncertain, error: uncertain ? `We could not confirm delivery. Please contact our team and quote ${reference} before submitting again.` : 'We could not send your enquiry. Please try again shortly.'}, {status: 503, headers: responseHeaders});
+      }
+      throw error;
+    }
+    return Response.json({reference, status: 'delivered'}, {status: 201, headers: responseHeaders});
   } catch {return Response.json({error: 'We could not record your request. Please try again.'}, {status: 503, headers: responseHeaders});}
 }
