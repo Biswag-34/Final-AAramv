@@ -73,12 +73,15 @@ export async function pushLeadratLead(enquiry: LeadEnquiry, project?: ProjectDet
     let result: unknown;
     try {result = body ? JSON.parse(body) : undefined;} catch {throw new LeadratError('uncertain', response.status);}
     const failed = (value: unknown): boolean => {
+      if(value===false)return true;
       if (Array.isArray(value)) return value.some(failed);
       if (!value || typeof value !== 'object') return false;
       const record = value as Record<string, unknown>;
-      return record.success === false || record.isSuccess === false || record.succeeded === false ||
+      const isFalse=(flag:unknown)=>flag===false||(typeof flag==='string'&&flag.toLowerCase()==='false');
+      const hasErrors=(errors:unknown)=>Array.isArray(errors)?errors.length>0:!!errors&&(typeof errors!=='object'||Object.keys(errors).length>0);
+      return isFalse(record.success) || isFalse(record.isSuccess) || isFalse(record.succeeded) || record.status === false ||
         (typeof record.status === 'string' && ['error', 'failed', 'failure'].includes(record.status.toLowerCase())) ||
-        (!!record.errors && (!Array.isArray(record.errors) || record.errors.length > 0)) ||
+        (typeof record.statusCode === 'number' && record.statusCode >= 400) || hasErrors(record.error) || hasErrors(record.errors) ||
         (record.data !== undefined && failed(record.data));
     };
     if (failed(result)) throw new LeadratError('rejected', response.status);

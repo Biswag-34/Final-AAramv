@@ -41,9 +41,10 @@ try {
   const project={...input,requestId:randomUUID(),project:'Prestige Finsbury Park',interest:'Prestige Finsbury Park'};
   assert.equal((await post(project)).status,201);
   const projectLead=(await requests()).at(-1).leads[0];assert.equal(projectLead.project,project.project);assert.equal(projectLead.city,'Bengaluru');assert.equal(projectLead.location,'Bagalur');
-  const rejected=await post({...input,requestId:randomUUID(),name:'Rejected Test'});assert.equal(rejected.status,503);assert.equal((await rejected.json()).retryable,true);
+  const rejected=await post({...input,requestId:randomUUID(),name:'Rejected Test'});assert.equal(rejected.status,503);const failure=await rejected.json();assert.equal(failure.retryable,true);assert.equal(failure.status,'failed');
+  const failedEnvelope=await post({...input,requestId:randomUUID(),name:'Failed Envelope Test'});assert.equal(failedEnvelope.status,503);assert.equal((await failedEnvelope.json()).status,'failed','HTTP 200 from provider with an error must not show success');
   const uncertain={...input,requestId:randomUUID(),name:'Uncertain Test'};
-  const unknown=await post(uncertain);assert.equal(unknown.status,503);assert.equal((await unknown.json()).retryable,false);
+  const unknown=await post(uncertain);assert.equal(unknown.status,503);const unconfirmed=await unknown.json();assert.equal(unconfirmed.retryable,false);assert.equal(unconfirmed.status,'uncertain');
   const before=(await requests()).length;assert.equal((await post(uncertain)).status,503);assert.equal((await requests()).length,before);
   assert.equal((await fetch(`${base}/api/enquiries`)).status,405);
   assert.ok(!JSON.stringify(result).includes('http-test-only-key'));

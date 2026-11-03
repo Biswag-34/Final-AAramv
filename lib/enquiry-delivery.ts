@@ -52,7 +52,9 @@ async function deliver(enquiry: LeadEnquiry, directory: string | undefined, proj
   try {await pushLeadratLead(saved, project, send);}
   catch (error) {
     saved.status = error instanceof LeadratError ? error.outcome : 'uncertain';
-    if (file) await persist(file, saved);
+    if (file) {
+      try {await persist(file, saved);} catch {console.error('Could not update failed enquiry receipt:', enquiry.reference);}
+    }
     throw error;
   }
   saved.status = 'delivered';

@@ -1,5 +1,7 @@
 'use client';
 import {EditorialHeading} from '@/components/editorial-heading';
+import {CatalogBreadcrumbs} from '@/components/catalog-breadcrumbs';
+import {CatalogEvidence} from '@/components/catalog-evidence';
 
 
 import {useState, type ReactNode} from 'react';
@@ -35,6 +37,7 @@ export function LocalityDetailView({l,onEnquire,closing}:{l:Locality;onEnquire:(
   const highlights=l.highlights.filter(item=>!/^aaramv catalogue/i.test(item.title));
   return <main className="inner area-page"><div className="wrap">
     
+    <CatalogBreadcrumbs section="localities" name={l.name}/>
     <section className="area-hero"><div className="area-hero-copy"><span className="page-kicker"><MapPin size={16}/>{l.zone}</span><EditorialHeading preserve as="h1">{l.name}</EditorialHeading><p>{l.tagline}</p><div className="area-hero-actions"><a href="#area-homes" className="btn primary">Explore homes here <ArrowRight size={17}/></a>{map&&<a href={map} target="_blank" rel="noreferrer" className="area-map-link">View {l.name} map <ArrowUpRight size={16}/></a>}</div><span className="area-hero-context">{l.city}, {l.state} · Neighbourhood guide</span></div><figure><img src={l.cover.src} alt={l.cover.alt} width={900} height={720} fetchPriority="high"/><figcaption>{l.cover.caption||l.cover.alt}</figcaption></figure></section>
     <div className="area-fact-ribbon"><div><Building2 size={22}/><span><strong>{homes.length} {homes.length===1?'project':'projects'}</strong><small>In the Aaramv catalogue</small></span></div><div><Compass size={22}/><span><strong>{formats.join(' · ')||'Explore the area'}</strong><small>Home types listed here</small></span></div><div><span className="area-rupee" aria-hidden="true">₹</span><span><strong>{amounts.length?`From ${formatInr(Math.min(...amounts))}`:'Price on request'}</strong><small>Across linked projects, not an area valuation</small></span></div></div>
     <nav className="area-section-nav" aria-label="Neighbourhood sections"><a href="#area-overview">The neighbourhood</a>{places.length>0&&<a href="#area-essentials">Daily essentials</a>}<a href="#area-homes">Homes here</a>{l.infrastructure.length>0&&<a href="#area-infrastructure">What’s developing</a>}{l.faqs.length>0&&<a href="#area-questions">Questions</a>}</nav>
@@ -46,5 +49,6 @@ export function LocalityDetailView({l,onEnquire,closing}:{l:Locality;onEnquire:(
     {l.images.length>1&&<section className="area-section area-photo-section"><div className="area-section-heading"><EditorialHeading preserve as="h2">Around {l.name}.</EditorialHeading><span>{l.images.length} reference images</span></div><div className="area-photo-grid">{l.images.map(photo=><button key={photo.id} onClick={()=>setSelected(photo.id)} aria-label={`View ${photo.alt}`}><img src={photo.src} alt={photo.alt} loading="lazy" width={720} height={480}/><span>{photo.caption||photo.alt}<Images size={17}/></span></button>)}</div></section>}
     {l.faqs.length>0&&<section className="area-section area-faq" id="area-questions"><div><span className="page-kicker">Before you decide</span><EditorialHeading as="h2">Your questions,<br/>a little clearer.</EditorialHeading><p>Keep these points alongside your project research and site-visit notes.</p></div><div>{l.faqs.map(item=><details key={item.question}><summary>{item.question}<span aria-hidden="true">+</span></summary><p>{item.answer}</p></details>)}</div></section>}
     {alternatives.length>0&&<section className="area-section area-alternatives"><div className="area-section-heading"><div><span className="page-kicker">Keep exploring</span><EditorialHeading preserve as="h2">More of {l.zone}.</EditorialHeading></div><Link href="/localities" className="text-link">All neighbourhoods <ArrowUpRight size={17}/></Link></div><div>{alternatives.map(other=><Link href={`/localities/${other.id}`} key={other.id}><img src={other.cover.src} alt={other.cover.alt} loading="lazy" width={640} height={420}/><span><small>{other.zone}</small><EditorialHeading preserve as="h3">{other.name}</EditorialHeading><span>{properties.filter(p=>p.localityId===other.id).length} listed projects <ArrowUpRight size={17}/></span></span></Link>)}</div></section>}
+    <CatalogEvidence record={l}/>
   </div>{closing}<Gallery key={selected} name={l.name} images={l.images} selectedId={selected} onClose={()=>setSelected(null)}/></main>;
 }

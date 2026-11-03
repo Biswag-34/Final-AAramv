@@ -7,7 +7,7 @@ import {EditorialHeading} from '@/components/editorial-heading';
 import {HeroSearch} from '@/components/hero-search';
 
 const slides=[
-  {id:'buyer-first',heading:'Your next home should',accent:'fit your life.',description:'Share your budget, everyday routes and must-haves. We research suitable options, explain the trade-offs and support you through move-in.',image:'/images/aaramv-buyer-first-hero.png'},
+  {id:'buyer-first',heading:'Bengaluru homes that',accent:'fit your life.',description:'Share your budget, everyday routes and must-haves. We research suitable options, explain the trade-offs and support you through move-in.',image:'/images/aaramv-buyer-first-hero.png'},
   {id:'bengaluru',heading:'Bengaluru homes.',accent:'Find your beginning.',description:'Explore homes, compare neighbourhoods and find a place that fits your everyday.',image:'/images/hero/bengaluru-desktop.webp'},
 ] as const;
 
@@ -32,7 +32,8 @@ export function HomeHero({responsive=false,onEnquire}:{responsive?:boolean;onEnq
     const timer=window.setInterval(()=>setActive(current=>(current+1)%slides.length),5000);
     return()=>window.clearInterval(timer);
   },[ready,focused,visible,reducedMotion,active]);
-  const title=<EditorialHeading as="h1" className="hero-carousel-title" aria-live="off">{slides.map((slide,index)=><span key={slide.id} className={`hero-heading-slide${index===active?' is-active':''}`} aria-hidden={index!==active}><span>{slide.heading}</span>{' '}<em>{slide.accent}</em></span>)}</EditorialHeading>;
+  // Keep one descriptive heading while imagery and supporting copy rotate.
+  const title=<EditorialHeading as="h1" className="hero-carousel-title"><span className="hero-heading-slide is-active"><span>{slides[0].heading}</span>{' '}<em>{slides[0].accent}</em></span></EditorialHeading>;
   const description=<p className="hero-carousel-description">{slides.map((slide,index)=><span key={slide.id} className={`hero-description-slide${index===active?' is-active':''}`} aria-hidden={index!==active}>{slide.description}</span>)}</p>;
   const search=<><HeroSearch/><div className={`hero-actions${responsive?' r-hero-actions':''}`}><Link href="/properties" className="btn lime">Browse homes<ArrowUpRight size={16}/></Link><button type="button" className={`${responsive?'r-button':'btn'} advisor-call`} onClick={()=>onEnquire('Build my shortlist')}><Phone size={17}/>Build my shortlist</button></div>{responsive?<div className="r-popular"><Link href="/properties?status=Ready%20to%20move">Ready to move<ArrowUpRight size={13}/></Link><Link href="/properties?q=Thanisandra">Thanisandra</Link><Link href="/properties?q=Bagalur">Bagalur</Link></div>:<div className="popular"><span>POPULAR SEARCHES</span>{['Bagalur','Thanisandra','Devanahalli'].map(name=><Link key={name} href={`/properties?q=${encodeURIComponent(name)}`}>{name}</Link>)}<Link href="/properties?status=Ready%20to%20move">Ready to move</Link></div>}</>;
   return <><section ref={section} className={`${responsive?'r-hero':'hero'} home-hero-carousel`} data-hero-slide={active} aria-label="Bengaluru homes and buyer guidance" aria-roledescription="carousel" onFocusCapture={event=>setFocused(!!(event.target as HTMLElement).closest('form'))} onBlurCapture={event=>{if(!event.currentTarget.contains(event.relatedTarget as Node|null))setFocused(false);}}>

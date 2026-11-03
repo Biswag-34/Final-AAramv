@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { pageMetadata, SITE_URL, SITE_NAME } from '@/lib/seo';
 import {FloatingWhatsapp} from '@/components/floating-whatsapp';
 import './globals.css';
 import './desktop.css';
@@ -22,5 +23,15 @@ import './compact-screen-fixes.css';
 import './property-enquiry-fit.css';
 import localFont from 'next/font/local';
 const inter=localFont({src:'../public/fonts/InterVariable.woff2',weight:'100 900',style:'normal',display:'swap',variable:'--font-inter',preload:true});
-export const metadata:Metadata={metadataBase:new URL('https://www.aaramvreality.com'),title:'Bengaluru Homes and Buyer First Guidance | Aaramv Realty',description:'Compare Bengaluru homes around your budget, everyday routes and priorities. Get a researched shortlist and Aaramv support from first search through move-in.',alternates:{canonical:'/'},robots:{index:false,follow:false},icons:{icon:{url:'/images/aaramv-realty-logo.png',type:'image/png'},apple:'/images/aaramv-realty-logo.png'}};
+export const metadata: Metadata = {
+  ...pageMetadata('/'), metadataBase: new URL(SITE_URL), applicationName: SITE_NAME,
+  icons: {
+    icon: [
+      { url: '/favicon.ico', type: 'image/x-icon', sizes: '16x16 32x32 48x48 64x64' },
+      { url: '/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
+      { url: '/favicon-96x96.png', type: 'image/png', sizes: '96x96' },
+    ],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+  },
+};
 export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" data-scroll-behavior="smooth" className={inter.variable}><body>{children}<FloatingWhatsapp/></body></html>}

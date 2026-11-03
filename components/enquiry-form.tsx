@@ -7,7 +7,8 @@ import {ArrowUpRight,LoaderCircle} from 'lucide-react';
 import {trackEngagement} from '@/lib/engagement';
 import {validateEnquiry,ENQUIRY_BUDGETS} from '@/lib/enquiry';
 import type {EnquiryDownload} from '@/components/enquiry-context';
-import {saveEnquiryReceipt} from '@/lib/enquiry-receipt';
+import {saveEnquiryReceipt,clearEnquiryReceipt} from '@/lib/enquiry-receipt';
+import {submitEnquiry} from '@/lib/enquiry-submission';
 
 export type EnquiryFormProps={context?:string;compact?:boolean;extended?:boolean;variant?:'header'|'bottom'|'project';project?:string;download?:EnquiryDownload;onSuccess?:()=>void};
 
@@ -17,6 +18,7 @@ export function EnquiryForm({context='Home consultation',compact=false,variant='
   const [errors,setErrors]=useState<Record<string,string>>({});
   const [sending,setSending]=useState(false);
   const [submitError,setSubmitError]=useState('');
+  const feedback=useRef<HTMLDivElement>(null);
   const [deliveryUncertain,setDeliveryUncertain]=useState(false);
   const requestId=useRef('');
   const pending=useRef(false);
@@ -37,26 +39,28 @@ export function EnquiryForm({context='Home consultation',compact=false,variant='
   async function submit(event:FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if(pending.current||deliveryUncertain)return;
+    clearEnquiryReceipt();
     const form=event.currentTarget;
     const issues=validate(form);
     setErrors(issues);
     ['name','phone','email','budget','consent'].forEach(field=>touched.current.add(field));
-    if(Object.keys(issues).length){form.querySelector<HTMLElement>(`[name="${Object.keys(issues)[0]}"]`)?.focus();return;}
+    if(Object.keys(issues).length){setSubmitError('Please check the highlighted fields before submitting.');form.querySelector<HTMLElement>(`[name="${Object.keys(issues)[0]}"]`)?.focus();return;}
     pending.current=true;setSending(true);setSubmitError('');
     const data=new FormData(form);
     if(!requestId.current)requestId.current=crypto.randomUUID();
     const intent=/site.?visit|schedule.*visit|plan.*visit/i.test(context)?'visit':'callback';
-    let responseReceived=false;
     try {
-      const response=await fetch('/api/enquiries',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({...Object.fromEntries(data),consent:!!data.get('consent'),intent,requestId:requestId.current})});
-      const result=await response.json();
-      responseReceived=true;
-      if(!response.ok){setErrors(result.errors||{});if(result.retryable===false)setDeliveryUncertain(true);throw new Error(result.error||'We could not record your request. Please try again.');}
-      saveEnquiryReceipt({reference:result.reference,intent,project,download});
+      const result=await submitEnquiry({...Object.fromEntries(data),consent:!!data.get('consent'),intent,requestId:requestId.current});
+      if(result.status!=='delivered'){
+        setErrors(result.errors);setDeliveryUncertain(result.status==='uncertain');setSubmitError(result.message);
+        requestAnimationFrame(()=>feedback.current?.focus());
+        return;
+      }
+      saveEnquiryReceipt({reference:result.reference,status:'delivered',confirmedAt:Date.now(),intent,project,download});
       trackEngagement('enquiry_recorded');
       onSuccess?.();
       router.push('/thank-you');
-    }catch(error){if(!responseReceived){setDeliveryUncertain(true);setSubmitError(`We could not confirm delivery. Please contact our team and quote AR-${requestId.current.toUpperCase()} before submitting again.`);}else{setSubmitError(error instanceof Error?error.message:'We could not record your request. Please try again.');}pending.current=false;setSending(false);}
+    }finally{pending.current=false;setSending(false);}
   }
   const error=(name:string)=>errors[name]?<span className="enquiry-error" id={`${id}-${name}-error`} role="alert">{errors[name]}</span>:null;
   const accessibility=(name:string)=>({'aria-invalid':!!errors[name],'aria-describedby':errors[name]?`${id}-${name}-error`:undefined});
@@ -72,7 +76,8 @@ export function EnquiryForm({context='Home consultation',compact=false,variant='
       <label className="enquiry-wide" htmlFor={`${id}-interest`}>Looking for{project?<input id={`${id}-interest`} name="interest" value={project} readOnly title={project}/>:<select id={`${id}-interest`} name="interest" defaultValue=""><option value="">Help me decide</option><option>Apartment</option><option>Villa</option><option>Plot</option></select>}</label>
     </div>
     <div className="enquiry-consent-group"><label className="enquiry-consent" htmlFor={`${id}-consent`}><input id={`${id}-consent`} name="consent" type="checkbox" required {...accessibility('consent')}/><span>I agree to be contacted about my enquiry. <Link href="/privacy">Privacy Policy</Link></span></label>{error('consent')}</div>
-    {submitError&&<p role="alert" className="enquiry-submit-error">{submitError}</p>}
-    <button disabled={sending||deliveryUncertain} className="enquiry-submit" type="submit">{sending?<><LoaderCircle className="enquiry-spinner" size={18}/>Sending…</>:<><span>Let’s <em>Aaramv</em></span><ArrowUpRight size={18}/></>}</button>
+    {submitError&&<div ref={feedback} tabIndex={-1} role="alert" className="enquiry-submit-error"><strong>{deliveryUncertain?'Submission not confirmed':'Enquiry not submitted'}</strong><p>{submitError}</p>{deliveryUncertain&&<Link href="/contact">Contact our team <ArrowUpRight size={14}/></Link>}</div>}
+    {sending&&<p className="enquiry-progress" role="status">Submitting your enquiry. Please wait for confirmation.</p>}
+    <button disabled={sending||deliveryUncertain} className="enquiry-submit" type="submit">{sending?<><LoaderCircle className="enquiry-spinner" size={18}/>Submitting…</>:deliveryUncertain?'Contact us to confirm':submitError?<><span>Try again</span><ArrowUpRight size={18}/></>:<><span>Let’s <em>Aaramv</em></span><ArrowUpRight size={18}/></>}</button>
   </form>;
 }

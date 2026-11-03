@@ -33,7 +33,7 @@ export async function POST(request: Request) {
     const today = ['year', 'month', 'day'].map(type => todayParts.find(part => part.type === type)?.value).join('-');
     if (preferredDate && (!/^\d{4}-\d{2}-\d{2}$/.test(preferredDate) || !Number.isFinite(Date.parse(preferredDate)) || new Date(preferredDate).toISOString().slice(0,10) !== preferredDate || preferredDate < today)) errors.preferredDate = 'Choose today or a future date.';
     if (Object.keys(errors).length) return Response.json({error: 'Please check your details.', errors}, {status: 400, headers: responseHeaders});
-    if (!process.env.LEADRAT_API_KEY?.trim()) return Response.json({error: 'Enquiries are temporarily unavailable. Please try again later.'}, {status: 503, headers: responseHeaders});
+    if (!process.env.LEADRAT_API_KEY?.trim()) return Response.json({status:'failed',retryable:true,error: 'Your enquiry was not submitted. Our enquiry service is temporarily unavailable. Please try again later or contact our team.'}, {status: 503, headers: responseHeaders});
     const reference = `AR-${requestId.toUpperCase()}`;
     const projectName = text('project', 200);
     const project = properties.find(item => item.published && !item.isDemo && item.name === projectName);
@@ -46,10 +46,10 @@ export async function POST(request: Request) {
       if (error instanceof LeadratError) {
         console.error('LeadRat enquiry delivery:', reference, error.outcome, error.httpStatus || 'network');
         const uncertain = error.outcome === 'uncertain';
-        return Response.json({reference, retryable: !uncertain, error: uncertain ? `We could not confirm delivery. Please contact our team and quote ${reference} before submitting again.` : 'We could not send your enquiry. Please try again shortly.'}, {status: 503, headers: responseHeaders});
+        return Response.json({reference, status:uncertain?'uncertain':'failed', retryable: !uncertain, error: uncertain ? `We could not confirm whether your enquiry was submitted. Please contact our team and quote ${reference} before trying again.` : 'Your enquiry was not submitted. Please try again shortly or contact our team.'}, {status: 503, headers: responseHeaders});
       }
       throw error;
     }
     return Response.json({reference, status: 'delivered'}, {status: 201, headers: responseHeaders});
-  } catch {return Response.json({error: 'We could not record your request. Please try again.'}, {status: 503, headers: responseHeaders});}
+  } catch {return Response.json({status:'failed',retryable:true,error: 'Your enquiry could not be submitted. Please try again or contact our team.'}, {status: 503, headers: responseHeaders});}
 }

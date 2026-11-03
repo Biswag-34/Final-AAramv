@@ -13,6 +13,7 @@
     "validate:data": "node --experimental-strip-types scripts/validate-data.mjs",
     "test:catalog": "node --experimental-strip-types scripts/catalog.test.mjs",
     "test:enquiry": "node --experimental-strip-types scripts/enquiry.test.mjs",
+    "test:submission": "node --experimental-strip-types scripts/enquiry-submission.test.mjs",
     "test:leadrat": "node --experimental-strip-types scripts/leadrat.test.mjs",
     "verify:source": "node scripts/verify-source.mjs",
     "test:content": "node --experimental-strip-types scripts/research-pack.test.mjs",

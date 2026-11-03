@@ -44,13 +44,17 @@ The request waits for LeadRat, with a 10-second upstream timeout and a 30-second
 
 Explicit rejection produces a visible error and allows a retry. Network errors, timeouts, upstream server errors and ambiguous responses produce a reference and ask the visitor to contact the team before submitting again. There is no automatic resend or hidden background retry. If the browser loses the server response, it also blocks another submission from that form until the visitor follows up.
 
+The browser requires `status: "delivered"` and a reference matching the current request before showing success. An arbitrary HTTP 200, malformed response or outdated `recorded` response cannot trigger the thank-you flow. Validation and rejected submissions remain on the form with an “Enquiry not submitted” message; ambiguous delivery shows “Submission not confirmed” and a contact link. Form values are retained.
+
+The thank-you page first checks for a confirmed receipt. Opening it directly without one shows “No submission confirmation.” Starting another submission clears the previous receipt, and confirmations expire after one hour. A brochure download failure is displayed separately from an already accepted enquiry.
+
 Retries with the same reference share a promise on the same warm instance for up to 30 minutes, bounded to 1,000 entries. **Vercel instances do not share memory, so this is not a durable deduplication guarantee.** The provider has not documented an idempotency key. For a timeout, find the website reference in LeadRat before manually resubmitting. A durable queue/database and provider-supported deduplication would be needed for automatic replay across instances. Failed requests are not queued on Vercel.
 
 Outside Vercel, local development additionally stores receipts under ignored `.local/enquiries/`. For a self-hosted production Node server, opt into receipts using a writable persistent `ENQUIRY_STORAGE_DIR`; production otherwise sends directly. Delivered local receipts prevent replay after restarts. Pending/uncertain receipts require a CRM check before an operator changes their state. These local files contain contact information and must remain private.
 
 ## Verification
 
-Run `npm run test:enquiry`, `npm run test:leadrat`, `npm run test:enquiry:http`, and `npm run build`.
+Run `npm run test:enquiry`, `npm run test:submission`, `npm run test:leadrat`, `npm run test:enquiry:http`, and `npm run build`.
 
 The HTTP test starts its own local server on fixed port 3000 with outbound CRM fetches intercepted and a test-only key. It refuses to run against an existing server, preventing accidental live CRM submissions. No automated test creates real leads or verifies the supplied tenant key.
 

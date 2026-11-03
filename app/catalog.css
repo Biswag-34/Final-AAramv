@@ -36,3 +36,17 @@
   .catalog-metrics, .catalog-market { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .catalog-metrics strong, .catalog-market dd { font-size: 21px; }
 }
+/* Crawlable context links shared by project and neighbourhood pages. */
+.catalog-breadcrumbs { margin:0 0 24px; color:#53636c; font-size:13px; line-height:1.6; }
+.catalog-breadcrumbs ol { display:flex; flex-wrap:wrap; gap:6px 10px; margin:0; padding:0; list-style:none; }
+.catalog-breadcrumbs li + li::before { content:'/'; margin-right:10px; color:#89969b; }
+.catalog-breadcrumbs a { text-decoration:underline; text-underline-offset:3px; }
+.catalog-breadcrumbs a:hover { color:#152b3b; }
+.catalog-breadcrumbs a:focus-visible { outline:2px solid #526b35; outline-offset:4px; border-radius:2px; }
+.catalog-evidence { padding:28px 0; margin:28px 0; border-top:1px solid #dce3e2; color:#53636c; font-size:14px; line-height:1.7; overflow-wrap:anywhere; }
+.catalog-evidence h2 { margin:0 0 12px; color:#152b3b; font-size:22px; }
+.catalog-evidence p { margin:8px 0; }
+.catalog-evidence a { text-decoration:underline; text-underline-offset:3px; }
+.catalog-evidence summary { cursor:pointer; padding:10px 0; font-weight:600; }
+.catalog-evidence ul { padding-left:20px; }
+.catalog-evidence li { margin:8px 0; }

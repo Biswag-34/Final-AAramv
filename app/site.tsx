@@ -36,6 +36,8 @@ import {CataloguePropertyCard} from '@/components/property-card';
 import {EnquiryForm,type EnquiryFormProps} from '@/components/enquiry-form';
 import {DeveloperCarousel} from '@/components/developer-carousel';
 import {HomeHero} from '@/components/home-hero';
+import {CatalogBreadcrumbs} from '@/components/catalog-breadcrumbs';
+import {CatalogEvidence} from '@/components/catalog-evidence';
 import {LocalityDiscovery} from '@/components/locality-discovery';
 import {FooterBusinessDetails} from '@/components/company-details';
 import {businessDetails} from '@/lib/business-details';
@@ -126,6 +128,7 @@ function PropertyDetail({p}:{p:Property}) {
     {icon:p.icons.possession,label:'Possession',value:possessionDisplay(p)},
   ];
   return <main className="inner property-detail-page"><div className="wrap">
+    <CatalogBreadcrumbs section="properties" name={p.name}/>
     <Breadcrumb items={[['Properties','/properties'],[p.name,'']]}/><BackToResults/>
     <div className="detail-banner"><img src={p.cover.src} alt={p.cover.alt}/><span className="tag">{p.status}</span><button className="btn white gallery-btn" onClick={()=>setSelectedImage(p.coverImageId)}><Images size={17}/> View gallery · {gallery.length}</button></div>
     <div className="report-gallery-thumbs">{gallery.slice(0,6).map(image=><button key={image.id} onClick={()=>setSelectedImage(image.id)} aria-label={`Open gallery: ${image.alt}`}><img src={image.src} alt={image.alt} loading="lazy"/></button>)}</div>
@@ -146,6 +149,7 @@ function PropertyDetail({p}:{p:Property}) {
       <section className="detail-section project-location-section" id="location"><div className="section-head"><div><span className="overview-kicker">CONNECTED TO YOUR EVERYDAY</span><EditorialHeading as="h2">{p.content.locationTitle}</EditorialHeading></div><MapLink record={p}/></div><NearbyLocationBars items={p.nearbyPlaces}/><Link href={`/localities/${p.localityId}`} className="text-link">Explore {p.locality} <ArrowUpRight size={15}/></Link></section>
       <ProjectDocuments p={p}/><ProjectDecisionSupport p={p} onEnquire={enquire}/><ProjectAdvisor p={p} onEnquire={enquire}/>
       <ProjectFaq p={p}/>
+      <CatalogEvidence record={p}/>
     </div><aside className="detail-form" ref={formRef}><EditorialHeading as="h3"><span className="mobile-only">Ask about<br/>this project</span><span className="desktop-only">Ask about this project</span></EditorialHeading><p><span className="mobile-only">Tell us the layout you are considering<br/>or the question you want answered.</span><span className="desktop-only">Tell us the layout or question you want to discuss.</span></p><LeadForm compact variant="project" project={p.name} context={p.name}/></aside></div>
     {!!related.length&&<section style={{paddingBottom:80}}><div className="section-head"><EditorialHeading as="h2" style={{fontSize:39}}>Other homes to compare</EditorialHeading><Link href="/properties" className="text-link">Explore the collection <ArrowUpRight size={16}/></Link></div><div className="property-grid">{related.map(other=><PropertyCard p={other} key={other.id}/>)}</div></section>}
     <RecentlyViewed exclude={p.id}/></div><Gallery key={selectedImage} name={p.name} images={galleryImages} selectedId={selectedImage} onClose={()=>setSelectedImage(null)}/>{responsive&&<ResponsiveVisitAction p={p} enquire={enquire}/>}</main>;

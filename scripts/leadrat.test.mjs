@@ -46,7 +46,8 @@ test('missing credentials never make an outbound request', async () => {
 
 test('handles provider rejections, failed envelopes and ambiguous network/server results', async () => {
   for (const status of [400,401,403,422,429]) await assert.rejects(pushLeadratLead(sample(),undefined,async()=>Response.json({error:'private details'},{status})), error=>error.outcome==='rejected' && !error.message.includes('private details'));
-  for (const body of [{success:false},{isSuccess:false},{succeeded:false},{status:'Failed'},{errors:['Invalid lead']},[{success:false}],{data:{isSuccess:false}}]) await assert.rejects(pushLeadratLead(sample(),undefined,async()=>Response.json(body)), error=>error.outcome==='rejected');
+  for (const body of [false,{success:false},{isSuccess:false},{success:'false'},{succeeded:false},{status:false},{status:'Failed'},{error:'Invalid lead'},{statusCode:400},{errors:['Invalid lead']},[{success:false}],{data:{isSuccess:false}}]) await assert.rejects(pushLeadratLead(sample(),undefined,async()=>Response.json(body)), error=>error.outcome==='rejected');
+  await pushLeadratLead(sample(),undefined,async()=>Response.json({success:true,errors:{}}));
   for (const send of [async()=>{throw new TypeError('network');},async()=>new Response('',{status:500}),async()=>new Response('<html>proxy error</html>')]) await assert.rejects(pushLeadratLead(sample(),undefined,send), error=>error.outcome==='uncertain');
   await pushLeadratLead(sample(),undefined,async()=>new Response(null,{status:200}));
 });
